@@ -1,0 +1,35 @@
+name: Fetch live jobs
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub does not guarantee this runs exactly on time —
+    # scheduled workflows can be delayed, especially at busy times. Treat this
+    # as "roughly every 30 minutes," not a precise timer.
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {} # lets you click "Run workflow" manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch jobs
+        run: node scripts/fetch-jobs.js
+
+      - name: Commit updated jobs.json (if changed)
+        run: |
+          git config user.name "aria-job-bot"
+          git config user.email "aria-job-bot@users.noreply.github.com"
+          git add docs/jobs.json
+          git diff --quiet --cached || git commit -m "Update live jobs $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
