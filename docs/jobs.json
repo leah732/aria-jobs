@@ -1,37 +1,25 @@
 {
-  "generatedAt": "2026-09-20T12:09:18.507Z",
+  "generatedAt": "2026-09-20T12:41:09.150Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 14,
     "jobicy": 41,
-    "arbeitnow": 2
+    "arbeitnow": 1
   },
-  "count": 116,
+  "count": 115,
   "jobs": [
     {
-      "id": "arbeitnow-remote-project-manager-software-implementation-berlin-402634",
-      "title": "Project Manager - Software Implementation (m/f/x)",
-      "company": "Makersite GmbH",
+      "id": "arbeitnow-remote-principal-infrastructure-engineer-320329",
+      "title": "Principal Infrastructure Engineer",
+      "company": "Sezzle",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-402634",
+      "url": "https://www.arbeitnow.com/jobs/companies/sezzle/remote-principal-infrastructure-engineer-320329",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1789893023000
-    },
-    {
-      "id": "arbeitnow-remote-senior-enterprise-architect-insurance-industry-aachen-22513",
-      "title": "Senior Enterprise Architect (Insurance Industry)",
-      "company": "TechBiz Global GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-enterprise-architect-insurance-industry-aachen-22513",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1789893020000
+      "postedAt": 1789905307000
     },
     {
       "id": "jobicy-151146",
