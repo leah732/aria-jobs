@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-20T09:06:39.743Z",
+  "generatedAt": "2026-09-20T09:36:22.240Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 41,
-    "arbeitnow": 0
+    "arbeitnow": 2
   },
-  "count": 112,
+  "count": 114,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-project-manager-software-implementation-berlin-402634",
+      "title": "Project Manager - Software Implementation (m/f/x)",
+      "company": "Makersite GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-402634",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1789893023000
+    },
+    {
+      "id": "arbeitnow-remote-senior-enterprise-architect-insurance-industry-aachen-22513",
+      "title": "Senior Enterprise Architect (Insurance Industry)",
+      "company": "TechBiz Global GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-enterprise-architect-insurance-industry-aachen-22513",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1789893020000
+    },
     {
       "id": "jobicy-151146",
       "title": "AWS Data Engineer (Senior)",
