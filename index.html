@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aria — Live Job Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#EFF0F3; --panel:#FFFFFF; --panel-2:#F6F7F9; --border:#DBDDE3;
+    --text:#15171E; --text-muted:#666A78;
+    --amber:#B8710B; --amber-bg:#FBEEDA;
+    --teal:#0E7F71; --teal-bg:#DCF3EE;
+    --red:#B93B33; --red-bg:#FBE4E1;
+    --sidebar-bg:#15171E; --sidebar-text:#C7C9D3; --sidebar-text-dim:#787C8C;
+    --font-display:'Space Grotesk', sans-serif; --font-body:'Inter', sans-serif; --font-mono:'IBM Plex Mono', monospace;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#0F111A; --panel:#171A24; --panel-2:#1D202C; --border:#2A2E3C;
+      --text:#ECEDF2; --text-muted:#8B90A3;
+      --amber:#FFB020; --amber-bg:#3A2C10;
+      --teal:#2DD4BF; --teal-bg:#123330;
+      --red:#FF6B6B; --red-bg:#3A1414;
+      --sidebar-bg:#0B0C12; --sidebar-text:#C7C9D3; --sidebar-text-dim:#5B5F6E;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#0F111A; --panel:#171A24; --panel-2:#1D202C; --border:#2A2E3C;
+    --text:#ECEDF2; --text-muted:#8B90A3;
+    --amber:#FFB020; --amber-bg:#3A2C10;
+    --teal:#2DD4BF; --teal-bg:#123330;
+    --red:#FF6B6B; --red-bg:#3A1414;
+    --sidebar-bg:#0B0C12; --sidebar-text:#C7C9D3; --sidebar-text-dim:#5B5F6E;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{ background:var(--bg); color:var(--text); font-family:var(--font-body); -webkit-font-smoothing:antialiased; min-height:100vh; }
+  ::selection{ background:var(--amber); color:#141414; }
+  .app{ display:flex; min-height:100vh; }
+  .sidebar{ width:222px; flex-shrink:0; background:var(--sidebar-bg); color:var(--sidebar-text); display:flex; flex-direction:column; padding:20px 14px; position:sticky; top:0; height:100vh; }
+  .brand{ display:flex; align-items:center; gap:9px; padding:4px 8px 22px 8px; }
+  .brand-mark{ width:11px;height:11px;border-radius:50%; background:var(--amber); box-shadow:0 0 0 3px var(--amber-bg); flex-shrink:0; animation:pulse-dot 2.4s ease-in-out infinite; }
+  .brand-name{ font-family:var(--font-display); font-weight:700; font-size:19px; color:#fff; }
+  .brand-sub{ font-size:10.5px; color:var(--sidebar-text-dim); margin-top:1px; }
+  .nav{ display:flex; flex-direction:column; gap:2px; margin-top:6px; }
+  .nav-item{ display:flex; align-items:center; gap:10px; padding:9px 10px; border-radius:7px; font-size:13.5px; font-weight:500; color:var(--sidebar-text); cursor:pointer; user-select:none; border:1px solid transparent; }
+  .nav-item:hover{ background:rgba(255,255,255,0.05); }
+  .nav-item.active{ background:rgba(255,176,32,0.1); color:#fff; border-color:rgba(255,176,32,0.25); }
+  .nav-item .dot{ width:6px; height:6px; border-radius:50%; background:currentColor; opacity:0.55; flex-shrink:0; }
+  .sidebar-foot{ margin-top:auto; padding-top:14px; border-top:1px solid rgba(255,255,255,0.07); }
+  .theme-toggle{ display:flex; align-items:center; justify-content:space-between; padding:8px 10px; border-radius:7px; cursor:pointer; font-size:12px; color:var(--sidebar-text-dim); border:1px solid rgba(255,255,255,0.08); }
+  .theme-toggle:hover{ color:var(--sidebar-text); }
+  .foot-note{ font-size:10.5px; color:var(--sidebar-text-dim); padding:10px 10px 2px; line-height:1.5; }
+  .main{ flex:1; min-width:0; padding:26px 30px 60px; }
+  .topbar{ display:flex; align-items:baseline; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:20px; }
+  .page-title{ font-family:var(--font-display); font-weight:700; font-size:22px; margin:0; }
+  .page-sub{ color:var(--text-muted); font-size:13px; margin-top:3px; }
+  .live-pill{ display:flex; align-items:center; gap:8px; background:var(--panel); border:1px solid var(--border); padding:6px 12px; border-radius:20px; font-size:12px; color:var(--text-muted); font-family:var(--font-mono); }
+  .live-pill .blip{ width:7px;height:7px;border-radius:50%; background:var(--teal); box-shadow:0 0 0 3px var(--teal-bg); animation:pulse-dot 1.8s ease-in-out infinite; }
+  .live-pill b{ color:var(--text); font-weight:600; }
+  @keyframes pulse-dot{ 0%,100%{ transform:scale(1); opacity:1; } 50%{ transform:scale(1.35); opacity:0.65; } }
+  .stat-row{ display:grid; grid-template-columns:repeat(4,1fr); gap:1px; background:var(--border); border:1px solid var(--border); border-radius:10px; overflow:hidden; margin-bottom:14px; }
+  .stat{ background:var(--panel); padding:16px 18px; }
+  .stat-label{ font-size:11.5px; color:var(--text-muted); margin-bottom:8px; }
+  .stat-value{ font-family:var(--font-mono); font-size:24px; font-weight:600; }
+  .stat-value.amber{ color:var(--amber); } .stat-value.teal{ color:var(--teal); }
+  .panel{ background:var(--panel); border:1px solid var(--border); border-radius:10px; }
+  .panel + .panel{ margin-top:16px; }
+  .panel-head{ padding:14px 18px; border-bottom:1px solid var(--border); }
+  .panel-head h2{ font-family:var(--font-display); font-size:15px; margin:0 0 3px; }
+  .panel-head p{ margin:0; font-size:12.5px; color:var(--text-muted); }
+  .niche-row{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; padding:12px 18px; border-bottom:1px solid var(--border); background:var(--panel-2); font-size:12.5px; color:var(--text-muted); }
+  .niche-tags{ display:flex; gap:6px; flex-wrap:wrap; }
+  .tag{ background:var(--teal-bg); color:var(--teal); border-radius:20px; padding:3px 10px; font-size:11.5px; font-weight:600; }
+  .niche-input-row{ display:flex; gap:8px; padding:12px 18px; border-bottom:1px solid var(--border); background:var(--panel-2); }
+  .niche-input-row input, .niche-input-row textarea{ flex:1; }
+  input[type="text"], input[type="number"], select, textarea{ background:var(--panel-2); border:1px solid var(--border); color:var(--text); border-radius:7px; padding:8px 11px; font-size:13px; font-family:var(--font-body); outline:none; }
+  input:focus, select:focus, textarea:focus{ border-color:var(--amber); }
+  label.check{ display:flex; align-items:center; gap:6px; font-size:12.5px; color:var(--text-muted); cursor:pointer; }
+  label.check input{ accent-color:var(--amber); }
+  .btn{ border:1px solid var(--border); background:var(--panel-2); color:var(--text); border-radius:7px; padding:8px 14px; font-size:13px; font-weight:600; cursor:pointer; font-family:var(--font-body); text-decoration:none; display:inline-block; }
+  .btn:hover{ border-color:var(--text-muted); }
+  .btn-primary{ background:var(--amber); border-color:var(--amber); color:#181206; }
+  .btn-primary:hover{ filter:brightness(1.06); }
+  .btn:disabled{ opacity:0.5; cursor:not-allowed; }
+  .btn-sm{ padding:5px 10px; font-size:12px; }
+  .count-field{ display:flex; flex-direction:column; gap:5px; width:80px; }
+  .count-field label{ font-size:11px; color:var(--text-muted); }
+  .jobs-toolbar{ display:flex; gap:10px; padding:12px 18px; flex-wrap:wrap; align-items:center; }
+  .jobs-toolbar input[type="text"]{ flex:1; min-width:180px; }
+  .table-wrap{ overflow-x:auto; }
+  table{ width:100%; border-collapse:collapse; font-size:13px; min-width:760px; }
+  thead th{ text-align:left; font-size:11px; color:var(--text-muted); font-weight:600; padding:9px 14px; border-bottom:1px solid var(--border); white-space:nowrap; }
+  tbody td{ padding:11px 14px; border-bottom:1px solid var(--border); vertical-align:middle; }
+  tbody tr:last-child td{ border-bottom:none; }
+  .cell-title{ font-weight:600; } .cell-sub{ color:var(--text-muted); font-size:12px; }
+  .mono{ font-family:var(--font-mono); font-size:12px; color:var(--text-muted); }
+  .dash{ color:var(--text-muted); }
+  .badge{ display:inline-block; font-size:11px; font-weight:600; padding:3px 9px; border-radius:20px; }
+  .badge.new{ background:var(--teal-bg); color:var(--teal); } .badge.saved{ background:var(--amber-bg); color:var(--amber); }
+  .badge.applied{ background:var(--teal-bg); color:var(--teal); } .badge.dismissed{ background:var(--panel-2); color:var(--text-muted); }
+  .badge.high{ background:var(--teal-bg); color:var(--teal); } .badge.medium{ background:var(--amber-bg); color:var(--amber); } .badge.low{ background:var(--panel-2); color:var(--text-muted); }
+  select.status-select{ font-size:12px; padding:5px 8px; }
+  .empty-state{ padding:50px 18px; text-align:center; color:var(--text-muted); font-size:13px; }
+  .empty-state .big{ font-family:var(--font-display); font-size:16px; color:var(--text); margin-bottom:6px; }
+  .modal-overlay{ position:fixed; inset:0; background:rgba(0,0,0,0.45); display:none; z-index:70; }
+  .modal-overlay.open{ display:block; }
+  .modal{ position:fixed; top:50%; left:50%; transform:translate(-50%,-46%); width:440px; max-width:90vw; max-height:82vh; overflow-y:auto; background:var(--panel); border:1px solid var(--border); border-radius:12px; z-index:71; display:none; box-shadow:0 24px 60px rgba(0,0,0,0.35); }
+  .modal.open{ display:block; }
+  .modal-head{ padding:16px 18px; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:flex-start; gap:10px; }
+  .modal-head h3{ margin:0; font-family:var(--font-display); font-size:16px; }
+  .drawer-close{ background:none; border:none; color:var(--text-muted); font-size:18px; cursor:pointer; }
+  .modal-body{ padding:16px 18px; }
+  .modal-reasons{ margin-top:10px; font-size:13px; line-height:1.65; }
+  .modal-decision{ margin-top:18px; display:flex; gap:10px; }
+  .modal-apply{ display:none; margin-top:16px; padding-top:16px; border-top:1px solid var(--border); }
+  .modal-apply .lead-in{ font-size:12px; color:var(--text-muted); margin-bottom:8px; }
+  .apply-status{ margin-top:10px; font-size:11.5px; color:var(--text-muted); min-height:14px; }
+  .toast-stack{ position:fixed; top:18px; right:18px; display:flex; flex-direction:column; gap:8px; z-index:50; max-width:320px; }
+  .toast{ background:var(--panel); border:1px solid var(--teal); border-left:4px solid var(--teal); border-radius:8px; padding:11px 14px; font-size:12.5px; box-shadow:0 8px 24px rgba(0,0,0,0.18); }
+  .toast b{ display:block; font-size:12px; color:var(--teal); margin-bottom:2px; font-family:var(--font-mono); }
+  .tab-content{ display:none; } .tab-content.active{ display:block; }
+  .notice{ font-size:11.5px; color:var(--text-muted); padding:0 0 14px 2px; line-height:1.6; }
+  @media (max-width:820px){
+    .app{ flex-direction:column; }
+    .sidebar{ width:100%; height:auto; position:relative; flex-direction:row; align-items:center; padding:12px 14px; }
+    .brand{ padding:0; } .nav{ flex-direction:row; margin-top:0; margin-left:auto; } .sidebar-foot{ display:none; }
+    .main{ padding:18px 14px 40px; } .stat-row{ grid-template-columns:repeat(2,1fr); }
+  }
+</style>
+</head>
+<body>
+
+<div id="userGreetingBadge" style="position:fixed; top:16px; right:20px; z-index:40; display:none; align-items:center; gap:8px; background:var(--panel); border:1px solid var(--border); border-radius:20px; padding:6px 14px; font-size:12.5px; box-shadow:0 4px 14px rgba(0,0,0,0.15);">
+  <span style="width:6px;height:6px;border-radius:50%;background:var(--teal); display:inline-block;"></span>
+  <span>Hi, <b id="userGreetingName" style="color:var(--text);"></b></span>
+  <span id="editNameLink" style="color:var(--text-muted); cursor:pointer; font-size:11px; margin-left:2px;" title="Change name">✎</span>
+</div>
+
+<div class="modal-overlay" id="nameOverlay"></div>
+<div class="modal open" id="nameModal" style="max-width:380px; display:none;">
+  <div class="modal-body" style="padding-top:26px;">
+    <div class="mono" style="color:var(--teal); font-size:11.5px; margin-bottom:8px;">&gt; aria.init() // awaiting input_</div>
+    <h3 style="font-family:var(--font-display); font-size:18px; margin:0 0 14px;">How should I address you?</h3>
+    <div style="display:flex; gap:8px;">
+      <input type="text" id="nameInput" placeholder="Type your name..." style="flex:1;">
+      <button class="btn btn-primary" id="nameSubmitBtn">Set</button>
+    </div>
+  </div>
+</div>
+
+<div class="app">
+  <div class="sidebar">
+    <div class="brand">
+      <div class="brand-mark"></div>
+      <div><div class="brand-name">Aria</div><div class="brand-sub">Live job radar</div></div>
+    </div>
+    <div class="nav">
+      <div class="nav-item active" data-tab="overview"><span class="dot"></span>Overview</div>
+      <div class="nav-item" data-tab="jobs"><span class="dot"></span>Jobs</div>
+      <div class="nav-item" data-tab="leads"><span class="dot"></span>Leads</div>
+    </div>
+    <div class="sidebar-foot">
+      <div class="theme-toggle" id="themeToggle"><span id="themeLabel">Dark mode</span><span id="themeIcon">●</span></div>
+      <div class="foot-note">Jobs tab: real live data from RemoteOK + Remotive. Leads tab: still sample data.</div>
+    </div>
+  </div>
+
+  <div class="main">
+    <div class="tab-content active" id="tab-overview">
+      <div class="topbar">
+        <div><h1 class="page-title">Overview</h1><div class="page-sub">Your day at a glance</div></div>
+        <div class="live-pill"><span class="blip"></span> data refreshed <b id="ov-updated">—</b></div>
+      </div>
+      <div class="stat-row">
+        <div class="stat"><div class="stat-label">Jobs showing</div><div class="stat-value" id="stat-jobs">—</div></div>
+        <div class="stat"><div class="stat-label">High matches</div><div class="stat-value amber" id="stat-matches">0</div></div>
+        <div class="stat"><div class="stat-label">Leads found (last search)</div><div class="stat-value teal" id="stat-leads">0</div></div>
+        <div class="stat"><div class="stat-label">Data refresh</div><div class="stat-value" style="font-size:16px;">~every 30 min</div></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><h2>What's real here, and what isn't</h2></div>
+        <div style="padding:16px 18px; font-size:13px; line-height:1.7; color:var(--text-muted);">
+          <b style="color:var(--text)">Jobs</b> pulls real, currently-open <b>IT/tech roles specifically</b> from four public remote-job boards — RemoteOK, Remotive, Jobicy, and Arbeitnow — refreshed roughly every 30 minutes by a scheduled script. These are fully remote, global roles; verify PH eligibility on each listing itself.<br><br>
+          <b style="color:var(--text)">Leads</b> is still the original sample data from the prototype — client-finding wasn't part of the "make it live" request yet.<br><br>
+          <b style="color:var(--text)">Matching</b> now runs entirely offline (keyword-based), no external AI call — this keeps the whole thing free to run. See the README in this project if you want to add AI-powered matching back later (it requires your own paid API key).
+        </div>
+      </div>
+    </div>
+
+    <div class="tab-content" id="tab-jobs">
+      <div class="topbar">
+        <div><h1 class="page-title">Jobs <span style="color:var(--teal); font-size:13px; font-weight:600;">● Live</span></h1><div class="page-sub" id="jobs-sub">Loading real jobs…</div></div>
+        <div style="display:flex; gap:8px; align-items:center;">
+          <div class="live-pill"><span class="blip"></span> last updated <b id="jobs-updated">—</b></div>
+          <button class="btn btn-sm" id="refreshBtn">Refresh now</button>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="niche-row" id="resumeStatusRow">
+          <span>🎯</span><span id="resumeStatusText">No resume uploaded yet — matching is off until you add one.</span>
+          <div class="niche-tags" id="nicheTags" style="margin-left:auto;"></div>
+        </div>
+        <div class="niche-row" style="border-top:none; background:transparent; padding-top:0;">
+          📍 Scoped to IT/tech roles specifically, sourced from RemoteOK, Remotive, Jobicy &amp; Arbeitnow — fully remote, global roles. Onsite/hybrid Metro Manila and Facebook-group listings aren't automated yet (see README).
+        </div>
+        <div class="niche-input-row" style="flex-direction:column; align-items:stretch;">
+          <textarea id="resumeText" rows="4" placeholder="Paste your resume text here — this is the only thing Aria uses to score and match jobs. Matching runs offline (keyword-based) in this version."></textarea>
+          <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+            <label class="btn btn-sm" style="cursor:pointer; margin:0;">Upload resume (.txt/.pdf/.docx)<input type="file" accept=".txt,.pdf,.docx" id="resumeFile" style="display:none;"></label>
+            <button class="btn btn-primary btn-sm" id="analyzeResumeBtn">Analyze resume</button>
+            <span class="mono" id="resumeStatus" style="font-size:11px;"></span>
+          </div>
+        </div>
+        <div class="jobs-toolbar">
+          <input type="text" id="jobSearch" placeholder="Search jobs...">
+          <select id="jobStatusFilter">
+            <option value="all">All statuses</option><option value="new">New</option><option value="saved">Saved</option><option value="applied">Applied</option><option value="dismissed">Dismissed</option>
+          </select>
+          <select id="jobMatchFilter">
+            <option value="all">Any match</option><option value="medium">Medium match &amp; up</option><option value="high">High match only</option>
+          </select>
+          <select id="jobSourceFilter">
+            <option value="all">Any source</option><option value="RemoteOK">RemoteOK</option><option value="Remotive">Remotive</option><option value="Jobicy">Jobicy</option><option value="Arbeitnow">Arbeitnow</option>
+          </select>
+          <div class="count-field" style="width:130px;">
+            <input type="number" id="jobSalaryMin" value="0" min="0" step="1000" placeholder="Min salary $">
+          </div>
+          <label class="check"><input type="checkbox" id="jobHideUndisclosed"> Hide undisclosed salary</label>
+          <button class="btn btn-sm" id="resetFiltersBtn">Reset filters</button>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Title</th><th>Company</th><th>Posted</th><th>Source</th><th>Location</th><th>Salary</th><th>Match</th><th>Status</th><th>Decide</th></tr></thead>
+            <tbody id="jobsBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="tab-content" id="tab-leads">
+      <div class="topbar">
+        <div><h1 class="page-title">Leads</h1><div class="page-sub">Sample data — client-finding automation isn't part of the live build yet</div></div>
+      </div>
+      <div class="panel"><div class="empty-state"><div class="big">Not live yet</div>This tab still runs on the original prototype's sample data. Ask to have this wired to a real source next if you want it.</div></div>
+    </div>
+  </div>
+</div>
+
+<div class="toast-stack" id="toastStack"></div>
+
+<div class="modal-overlay" id="reviewOverlay"></div>
+<div class="modal" id="reviewModal">
+  <div class="modal-head"><h3 id="reviewTitle">Job title</h3><button class="drawer-close" id="reviewClose">✕</button></div>
+  <div class="modal-body">
+    <div class="mono" id="reviewMeta" style="font-size:11.5px;"></div>
+    <div class="modal-reasons" id="reviewSummary"></div>
+    <div class="modal-decision" id="reviewDecision">
+      <button class="btn btn-primary" id="reviewYesBtn">Yes — I'm interested</button>
+      <button class="btn" id="reviewNoBtn">No — not for me</button>
+    </div>
+    <div class="modal-apply" id="reviewApplyOptions">
+      <div class="lead-in">This is a real listing — here's the actual posting:</div>
+      <a class="btn btn-primary" id="openLinkBtn" href="#" target="_blank" rel="noopener noreferrer">Open real job posting ↗</a>
+      <div class="apply-status mono" id="applyStatus"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  function lget(key, fallback){ try{ const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; }catch(e){ return fallback; } }
+  function lset(key, val){ try{ localStorage.setItem(key, JSON.stringify(val)); }catch(e){} }
+  function escapeHtml(s){ return String(s).replace(/[&<>"']/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+
+  const root = document.documentElement;
+  function applyTheme(t){
+    root.setAttribute('data-theme', t);
+    document.getElementById('themeLabel').textContent = t === 'dark' ? 'Dark mode' : 'Light mode';
+    document.getElementById('themeIcon').textContent = t === 'dark' ? '●' : '○';
+  }
+
+  // ---------- name / greeting ----------
+  let userName = lget('aria_user_name', null);
+
+  function playWakeChime(){
+    try{
+      const AudioCtx = window.AudioContext || window.webkitAudioContext;
+      if(!AudioCtx) return;
+      const ctx = new AudioCtx();
+      const now = ctx.currentTime;
+
+      // --- Layer 1: filtered sawtooth sweep — a "digital scan" core, up then down ---
+      const osc = ctx.createOscillator();
+      const filter = ctx.createBiquadFilter();
+      const gain = ctx.createGain();
+      osc.type = 'sawtooth';
+      filter.type = 'bandpass';
+      filter.Q.value = 12;
+      filter.frequency.setValueAtTime(300, now);
+      filter.frequency.exponentialRampToValueAtTime(2400, now + 0.5);
+      filter.frequency.exponentialRampToValueAtTime(500, now + 1.4);
+      osc.frequency.setValueAtTime(220, now);
+      osc.frequency.exponentialRampToValueAtTime(440, now + 0.5);
+      osc.frequency.exponentialRampToValueAtTime(180, now + 1.4);
+      gain.gain.setValueAtTime(0.0001, now);
+      gain.gain.exponentialRampToValueAtTime(0.18, now + 0.05);
+      gain.gain.exponentialRampToValueAtTime(0.0001, now + 1.5);
+      osc.connect(filter); filter.connect(gain); gain.connect(ctx.destination);
+      osc.start(now); osc.stop(now + 1.55);
+
+      // --- Layer 2: quick digital "data" blips stuttering on top ---
+      const blipFreqs = [1200, 1600, 2000, 1600];
+      blipFreqs.forEach(function(freq, i){
+        const t = now + 0.15 + i * 0.11;
+        const bOsc = ctx.createOscillator();
+        const bGain = ctx.createGain();
+        bOsc.type = 'square';
+        bOsc.frequency.setValueAtTime(freq, t);
+        bGain.gain.setValueAtTime(0.0001, t);
+        bGain.gain.exponentialRampToValueAtTime(0.06, t + 0.005);
+        bGain.gain.exponentialRampToValueAtTime(0.0001, t + 0.06);
+        bOsc.connect(bGain); bGain.connect(ctx.destination);
+        bOsc.start(t); bOsc.stop(t + 0.08);
+      });
+
+      // --- Layer 3: brief filtered noise burst — a touch of "static" at the very start ---
+      const bufferSize = Math.floor(ctx.sampleRate * 0.08);
+      const buffer = ctx.createBuffer(1, bufferSize, ctx.sampleRate);
+      const data = buffer.getChannelData(0);
+      for (let i = 0; i < bufferSize; i++) data[i] = (Math.random() * 2 - 1);
+      const noise = ctx.createBufferSource();
+      noise.buffer = buffer;
+      const noiseFilter = ctx.createBiquadFilter();
+      noiseFilter.type = 'highpass';
+      noiseFilter.frequency.value = 3000;
+      const noiseGain = ctx.createGain();
+      noiseGain.gain.setValueAtTime(0.05, now);
+      noiseGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.08);
+      noise.connect(noiseFilter); noiseFilter.connect(noiseGain); noiseGain.connect(ctx.destination);
+      noise.start(now);
+
+      setTimeout(function(){ try{ ctx.close(); }catch(e){} }, 1900);
+    }catch(e){ /* Web Audio unavailable — fail silently */ }
+  }
+
+  function speakGreeting(name){
+    try{
+      if('speechSynthesis' in window){
+        window.speechSynthesis.cancel();
+        const utter = new SpeechSynthesisUtterance('Hello, ' + name);
+        let chimed = false;
+        function chimeOnce(){ if(!chimed){ chimed = true; playWakeChime(); } }
+        utter.onend = chimeOnce;
+        utter.onerror = chimeOnce;
+        window.speechSynthesis.speak(utter);
+        setTimeout(chimeOnce, 4000); // safety net in case the "finished speaking" event never fires
+      } else {
+        playWakeChime();
+      }
+    }catch(e){ playWakeChime(); /* speech synthesis unavailable — chime still plays */ }
+  }
+  function showGreetingBadge(name){
+    document.getElementById('userGreetingName').textContent = name;
+    document.getElementById('userGreetingBadge').style.display = 'flex';
+  }
+  function openNameModal(){
+    document.getElementById('nameOverlay').classList.add('open');
+    document.getElementById('nameModal').style.display = 'block';
+    const input = document.getElementById('nameInput');
+    input.value = userName || '';
+    input.focus();
+  }
+  function closeNameModal(){
+    document.getElementById('nameOverlay').classList.remove('open');
+    document.getElementById('nameModal').style.display = 'none';
+  }
+  function submitName(){
+    const val = document.getElementById('nameInput').value.trim();
+    if(!val) return;
+    userName = val;
+    lset('aria_user_name', userName);
+    showGreetingBadge(userName);
+    closeNameModal();
+    speakGreeting(userName); // a direct result of this click — browsers reliably allow speech here
+  }
+  document.getElementById('nameSubmitBtn').addEventListener('click', submitName);
+  document.getElementById('nameInput').addEventListener('keydown', function(e){
+    if(e.key === 'Enter') submitName();
+  });
+  document.getElementById('editNameLink').addEventListener('click', openNameModal);
+
+  if(!userName){
+    openNameModal();
+  } else {
+    showGreetingBadge(userName);
+    // Returning visit: some browsers won't allow speech until the person has
+    // interacted with the page at least once, so this fires on the first
+    // click or keypress anywhere, rather than immediately on load.
+    function greetOnFirstInteraction(){
+      speakGreeting(userName);
+    }
+    document.addEventListener('click', greetOnFirstInteraction, { once: true });
+    document.addEventListener('keydown', greetOnFirstInteraction, { once: true });
+  }
+  let theme = lget('aria_theme', 'dark');
+  applyTheme(theme);
+  document.getElementById('themeToggle').addEventListener('click', function(){
+    theme = theme === 'dark' ? 'light' : 'dark';
+    lset('aria_theme', theme);
+    applyTheme(theme);
+  });
+
+  document.querySelectorAll('.nav-item').forEach(function(item){
+    item.addEventListener('click', function(){
+      document.querySelectorAll('.nav-item').forEach(function(n){ n.classList.remove('active'); });
+      item.classList.add('active');
+      document.querySelectorAll('.tab-content').forEach(function(tc){ tc.classList.remove('active'); });
+      document.getElementById('tab-' + item.dataset.tab).classList.add('active');
+    });
+  });
+
+  // ================= RESUME / MATCHING (offline only — no external API) =================
+  const SKILL_DICTIONARY = [
+    "video editing","adobe premiere","after effects","final cut pro","davinci resolve",
+    "content creation","copywriting","email marketing","klaviyo","social media management",
+    "virtual assistant","customer service","appointment setting","cold calling","lead generation",
+    "sales","account management","project management","operations","bookkeeping","data entry",
+    "graphic design","canva","photoshop","seo","wordpress","shopify","gohighlevel","crm",
+    "community management","podcast editing","scriptwriting","transcription","research",
+    "recruiting","hr","payroll","executive assistant","scheduling","calendar management",
+    "javascript","python","java","sql","html","css","react","node.js","php","typescript",
+    "software development","web development","full stack","front end","back end","devops",
+    "aws","azure","google cloud","cloud engineer","network administration","system administration",
+    "it support","help desk","technical support","qa testing","software testing",
+    "git","docker","kubernetes","api development","database administration","linux",
+    "cybersecurity","cyber security","information security","infosec","network security",
+    "cloud security","application security","penetration testing","pentest","ethical hacking",
+    "red team","blue team","devsecops","soc analyst","security operations","threat intelligence",
+    "vulnerability management","incident response","digital forensics","siem","firewall",
+    "identity and access management","iam","malware analysis","security compliance","risk analysis",
+    "grc","ciso"
+  ];
+  let nicheKeywords = lget('aria_niche', []);
+  function localExtract(text){
+    const lower = text.toLowerCase();
+    const found = SKILL_DICTIONARY.filter(function(s){ return lower.indexOf(s) !== -1; }).slice(0, 8);
+    const yearsMatch = lower.match(/(\d+)\+?\s*(years|yrs)/);
+    let level = 'mid';
+    if(yearsMatch){
+      const n = parseInt(yearsMatch[1], 10);
+      level = n < 2 ? 'entry' : (n <= 5 ? 'mid' : 'senior');
+    }
+    return { skills: found, experienceLevel: level };
+  }
+  function renderNicheTags(){
+    const el = document.getElementById('nicheTags');
+    const statusText = document.getElementById('resumeStatusText');
+    if(nicheKeywords.length === 0){
+      el.innerHTML = '';
+      statusText.textContent = 'No resume uploaded yet — matching is off until you add one.';
+    } else {
+      el.innerHTML = nicheKeywords.map(function(k){ return '<span class="tag">' + escapeHtml(k) + '</span>'; }).join('');
+      statusText.textContent = 'Matching on skills from your resume:';
+    }
+  }
+  renderNicheTags();
+
+  // ---------- on-demand library loader (only fetched if you actually upload a pdf/docx) ----------
+  const CDN = {
+    pdfjs: 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js',
+    pdfjsWorker: 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js',
+    mammoth: 'https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.4.2/mammoth.browser.min.js'
+  };
+  const scriptPromises = {};
+  function loadScript(src){
+    if(scriptPromises[src]) return scriptPromises[src];
+    scriptPromises[src] = new Promise(function(resolve, reject){
+      const s = document.createElement('script');
+      s.src = src;
+      s.onload = function(){ resolve(); };
+      s.onerror = function(){ delete scriptPromises[src]; reject(new Error('Could not load a required library')); };
+      document.head.appendChild(s);
+    });
+    return scriptPromises[src];
+  }
+  async function extractPdfText(arrayBuffer){
+    await loadScript(CDN.pdfjs);
+    window.pdfjsLib.GlobalWorkerOptions.workerSrc = CDN.pdfjsWorker;
+    const pdf = await window.pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+    let text = '';
+    for(let i = 1; i <= pdf.numPages; i++){
+      const page = await pdf.getPage(i);
+      const content = await page.getTextContent();
+      text += content.items.map(function(it){ return it.str; }).join(' ') + '\n';
+    }
+    return text.trim();
+  }
+  async function extractDocxText(arrayBuffer){
+    await loadScript(CDN.mammoth);
+    const result = await window.mammoth.extractRawText({ arrayBuffer: arrayBuffer });
+    return (result.value || '').trim();
+  }
+
+  document.getElementById('resumeFile').addEventListener('change', async function(e){
+    const file = e.target.files[0];
+    if(!file) return;
+    const status = document.getElementById('resumeStatus');
+    const textarea = document.getElementById('resumeText');
+    const ext = file.name.split('.').pop().toLowerCase();
+    status.textContent = 'Reading ' + file.name + '...';
+    try{
+      if(ext === 'txt'){
+        textarea.value = await file.text();
+        status.textContent = 'Loaded ' + file.name + '. Click "Analyze resume."';
+      } else if(ext === 'pdf'){
+        const text = await extractPdfText(await file.arrayBuffer());
+        textarea.value = text;
+        status.textContent = text
+          ? ('Extracted text from ' + file.name + '. Click "Analyze resume."')
+          : "Couldn't find selectable text in that PDF — it may be a scanned image. Try pasting instead.";
+      } else if(ext === 'docx'){
+        const text = await extractDocxText(await file.arrayBuffer());
+        textarea.value = text;
+        status.textContent = 'Extracted text from ' + file.name + '. Click "Analyze resume."';
+      } else if(ext === 'doc'){
+        status.textContent = "Old .doc format isn't supported — save it as .docx or PDF, or paste the text directly.";
+      } else {
+        status.textContent = 'Unsupported file type — use .txt, .pdf, or .docx, or paste your resume text.';
+      }
+    }catch(err){
+      status.textContent = "Couldn't read that file — try pasting your resume text instead.";
+    }
+  });
+  document.getElementById('analyzeResumeBtn').addEventListener('click', function(){
+    const btn = this;
+    const text = document.getElementById('resumeText').value.trim();
+    const status = document.getElementById('resumeStatus');
+    if(!text){ status.textContent = 'Paste or upload your resume text first.'; return; }
+    const result = localExtract(text);
+    nicheKeywords = result.skills;
+    lset('aria_niche', nicheKeywords);
+    renderNicheTags();
+    status.textContent = nicheKeywords.length === 0
+      ? "Couldn't pick out clear skills — try adding specific tools, titles, or tasks."
+      : nicheKeywords.length + ' skills detected · ' + result.experienceLevel + ' level';
+    btn.disabled = false;
+    renderJobs();
+  });
+
+  function matchInfo(job){
+    if(nicheKeywords.length === 0) return { label: 'Upload resume', cls: 'low' };
+    const lower = job.title.toLowerCase();
+    let hits = 0;
+    nicheKeywords.forEach(function(k){ if(k && lower.indexOf(k.toLowerCase()) !== -1) hits++; });
+    if(hits >= 2) return { label: 'High match', cls: 'high' };
+    if(hits === 1) return { label: 'Medium match', cls: 'medium' };
+    return { label: 'Low match', cls: 'low' };
+  }
+  function localMatchSummary(job){
+    const lower = job.title.toLowerCase();
+    const hits = nicheKeywords.filter(function(k){ return k && lower.indexOf(k.toLowerCase()) !== -1; });
+    let parts = [];
+    if(hits.length){
+      parts.push('This lines up with ' + hits.length + ' of your target skills (' + hits.join(', ') + ').');
+    } else {
+      parts.push("This doesn't closely match your listed skills — weigh it against your other options.");
+    }
+    parts.push('Posted via ' + job.source + ', ' + job.location + '.');
+    return parts.join(' ');
+  }
+
+  // ================= JOBS (real data) =================
+  const MATCH_RANK = { high: 2, medium: 1, low: 0 };
+  let jobs = [];
+  let jobStatuses = lget('aria_job_status', {});
+  let lastGeneratedAt = null;
+
+  function relTime(ts){
+    const s = Math.floor((Date.now() - ts) / 1000);
+    if(s < 5) return 'just now';
+    if(s < 60) return s + 's ago';
+    const m = Math.floor(s / 60);
+    if(m < 60) return m + 'm ago';
+    const h = Math.floor(m / 60);
+    if(h < 24) return h + 'h ago';
+    return Math.floor(h / 24) + 'd ago';
+  }
+  function salaryCell(job){
+    if(typeof job.salaryMin === 'number' && typeof job.salaryMax === 'number'){
+      return '<span class="mono">$' + job.salaryMin.toLocaleString() + '–$' + job.salaryMax.toLocaleString() + ' (USD)</span>';
+    }
+    if(job.salaryText) return '<span class="mono">' + escapeHtml(job.salaryText) + '</span>';
+    return '<span class="dash">Not disclosed</span>';
+  }
+
+  async function loadJobs(showToast){
+    try{
+      const res = await fetch('./jobs.json?t=' + Date.now()); // cache-bust so you always see the latest
+      if(!res.ok) throw new Error('jobs.json responded ' + res.status);
+      const data = await res.json();
+      jobs = Array.isArray(data.jobs) ? data.jobs : [];
+      lastGeneratedAt = data.generatedAt ? new Date(data.generatedAt) : new Date();
+      const updatedLabel = relTime(lastGeneratedAt.getTime());
+      document.getElementById('jobs-updated').textContent = updatedLabel;
+      document.getElementById('ov-updated').textContent = updatedLabel;
+      renderJobs();
+      if(showToast) showInfoToast('Refreshed — ' + jobs.length + ' jobs loaded.');
+    }catch(err){
+      document.getElementById('jobsBody').innerHTML =
+        '<tr><td colspan="9"><div class="empty-state"><div class="big">Could not load jobs.json</div>' +
+        'Make sure the GitHub Action has run at least once and docs/jobs.json exists in this repo. (' + escapeHtml(err.message) + ')</div></td></tr>';
+    }
+  }
+
+  function showInfoToast(msg){
+    const stack = document.getElementById('toastStack');
+    const el = document.createElement('div');
+    el.className = 'toast';
+    el.innerHTML = '<b>Aria</b>' + escapeHtml(msg);
+    stack.appendChild(el);
+    setTimeout(function(){ el.remove(); }, 4000);
+  }
+
+  function renderJobs(){
+    const search = document.getElementById('jobSearch').value.toLowerCase();
+    const statusFilter = document.getElementById('jobStatusFilter').value;
+    const matchFilter = document.getElementById('jobMatchFilter').value;
+    const sourceFilter = document.getElementById('jobSourceFilter').value;
+    const minSalary = parseInt(document.getElementById('jobSalaryMin').value, 10) || 0;
+    const hideUndisclosed = document.getElementById('jobHideUndisclosed').checked;
+    const body = document.getElementById('jobsBody');
+
+    let rows = jobs.filter(function(j){
+      const st = jobStatuses[j.id] || 'new';
+      if(statusFilter !== 'all' && st !== statusFilter) return false;
+      if(search && (j.title + ' ' + j.company).toLowerCase().indexOf(search) === -1) return false;
+      if(sourceFilter !== 'all' && j.source !== sourceFilter) return false;
+      const hasSalary = typeof j.salaryMin === 'number' && typeof j.salaryMax === 'number';
+      if(hideUndisclosed && !hasSalary) return false;
+      if(minSalary > 0){
+        if(!hasSalary) return false; // can't compare an undisclosed salary against a minimum
+        if(j.salaryMax < minSalary) return false;
+      }
+      const rank = MATCH_RANK[matchInfo(j).cls];
+      if(matchFilter === 'medium' && rank < 1) return false;
+      if(matchFilter === 'high' && rank < 2) return false;
+      return true;
+    });
+    rows.sort(function(a, b){
+      const ra = MATCH_RANK[matchInfo(a).cls], rb = MATCH_RANK[matchInfo(b).cls];
+      if(rb !== ra) return rb - ra;
+      return b.postedAt - a.postedAt;
+    });
+
+    document.getElementById('jobs-sub').textContent = rows.length + ' of ' + jobs.length + ' jobs showing';
+    document.getElementById('stat-jobs').textContent = rows.length;
+    document.getElementById('stat-matches').textContent = jobs.filter(function(j){ return matchInfo(j).cls === 'high'; }).length;
+
+    if(rows.length === 0){
+      body.innerHTML = '<tr><td colspan="9"><div class="empty-state">No jobs match this filter.</div></td></tr>';
+      return;
+    }
+    body.innerHTML = rows.map(function(j){
+      const st = jobStatuses[j.id] || 'new';
+      const mi = matchInfo(j);
+      return '<tr>' +
+        '<td class="cell-title">' + escapeHtml(j.title) + '</td>' +
+        '<td class="cell-sub">' + escapeHtml(j.company) + '</td>' +
+        '<td class="mono">' + relTime(j.postedAt) + '</td>' +
+        '<td class="cell-sub">' + escapeHtml(j.source) + '</td>' +
+        '<td class="cell-sub">' + escapeHtml(j.location) + '</td>' +
+        '<td>' + salaryCell(j) + '</td>' +
+        '<td><span class="badge ' + mi.cls + '">' + mi.label + '</span></td>' +
+        '<td><select class="status-select job-status-select" data-id="' + j.id + '">' +
+          ['new','saved','applied','dismissed'].map(function(s){
+            return '<option value="' + s + '"' + (s===st?' selected':'') + '>' + s.charAt(0).toUpperCase()+s.slice(1) + '</option>';
+          }).join('') +
+        '</select></td>' +
+        '<td><button class="btn btn-sm review-btn" data-id="' + j.id + '">Review</button></td>' +
+      '</tr>';
+    }).join('');
+    body.querySelectorAll('.job-status-select').forEach(function(sel){
+      sel.addEventListener('change', function(){
+        jobStatuses[sel.dataset.id] = sel.value;
+        lset('aria_job_status', jobStatuses);
+        renderJobs();
+      });
+    });
+    body.querySelectorAll('.review-btn').forEach(function(btn){
+      btn.addEventListener('click', function(){ openReview(btn.dataset.id); });
+    });
+  }
+  document.getElementById('jobSearch').addEventListener('input', renderJobs);
+  document.getElementById('jobStatusFilter').addEventListener('change', renderJobs);
+  document.getElementById('jobMatchFilter').addEventListener('change', renderJobs);
+  document.getElementById('jobSourceFilter').addEventListener('change', renderJobs);
+  document.getElementById('jobSalaryMin').addEventListener('input', renderJobs);
+  document.getElementById('jobHideUndisclosed').addEventListener('change', renderJobs);
+  document.getElementById('resetFiltersBtn').addEventListener('click', function(){
+    document.getElementById('jobSearch').value = '';
+    document.getElementById('jobStatusFilter').value = 'all';
+    document.getElementById('jobMatchFilter').value = 'all';
+    document.getElementById('jobSourceFilter').value = 'all';
+    document.getElementById('jobSalaryMin').value = 0;
+    document.getElementById('jobHideUndisclosed').checked = false;
+    renderJobs();
+  });
+  document.getElementById('refreshBtn').addEventListener('click', function(){ loadJobs(true); });
+  setInterval(function(){ loadJobs(false); }, 5 * 60 * 1000); // pick up new data every 5 min while the tab is open
+
+  // ================= REVIEW MODAL (Yes/No + real link) =================
+  let currentReviewJob = null;
+  function openReview(jobId){
+    const job = jobs.find(function(j){ return j.id === jobId; });
+    if(!job) return;
+    currentReviewJob = job;
+    document.getElementById('reviewTitle').textContent = job.title + ' — ' + job.company;
+    document.getElementById('reviewMeta').textContent = job.source + ' · ' + job.location + ' · posted ' + relTime(job.postedAt);
+    document.getElementById('openLinkBtn').href = job.url || '#';
+    document.getElementById('applyStatus').textContent = '';
+    document.getElementById('reviewApplyOptions').style.display = 'none';
+    document.getElementById('reviewOverlay').classList.add('open');
+    document.getElementById('reviewModal').classList.add('open');
+    if(nicheKeywords.length === 0){
+      document.getElementById('reviewSummary').textContent = 'Add your resume above first — Aria needs it to explain why this could be a fit.';
+      document.getElementById('reviewDecision').style.display = 'none';
+      return;
+    }
+    document.getElementById('reviewSummary').textContent = localMatchSummary(job);
+    document.getElementById('reviewDecision').style.display = 'flex';
+  }
+  function closeReview(){
+    document.getElementById('reviewOverlay').classList.remove('open');
+    document.getElementById('reviewModal').classList.remove('open');
+    currentReviewJob = null;
+  }
+  document.getElementById('reviewClose').addEventListener('click', closeReview);
+  document.getElementById('reviewOverlay').addEventListener('click', closeReview);
+  document.getElementById('reviewYesBtn').addEventListener('click', function(){
+    if(!currentReviewJob) return;
+    jobStatuses[currentReviewJob.id] = 'saved';
+    lset('aria_job_status', jobStatuses);
+    document.getElementById('reviewDecision').style.display = 'none';
+    document.getElementById('reviewApplyOptions').style.display = 'block';
+    renderJobs();
+  });
+  document.getElementById('reviewNoBtn').addEventListener('click', function(){
+    if(!currentReviewJob) return;
+    jobStatuses[currentReviewJob.id] = 'dismissed';
+    lset('aria_job_status', jobStatuses);
+    renderJobs();
+    closeReview();
+  });
+  document.getElementById('openLinkBtn').addEventListener('click', function(){
+    document.getElementById('applyStatus').textContent = 'Opening the real listing in a new tab.';
+  });
+
+  loadJobs(false);
+})();
+</script>
+</body>
+</html>
