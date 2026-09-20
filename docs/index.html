@@ -87,6 +87,8 @@
   .btn-primary:hover{ filter:brightness(1.06); }
   .btn:disabled{ opacity:0.5; cursor:not-allowed; }
   .btn-sm{ padding:5px 10px; font-size:12px; }
+  .count-field{ display:flex; flex-direction:column; gap:5px; width:80px; }
+  .count-field label{ font-size:11px; color:var(--text-muted); }
   .jobs-toolbar{ display:flex; gap:10px; padding:12px 18px; flex-wrap:wrap; align-items:center; }
   .jobs-toolbar input[type="text"]{ flex:1; min-width:180px; }
   .table-wrap{ overflow-x:auto; }
@@ -131,6 +133,25 @@
 </style>
 </head>
 <body>
+
+<div id="userGreetingBadge" style="position:fixed; top:16px; right:20px; z-index:40; display:none; align-items:center; gap:8px; background:var(--panel); border:1px solid var(--border); border-radius:20px; padding:6px 14px; font-size:12.5px; box-shadow:0 4px 14px rgba(0,0,0,0.15);">
+  <span style="width:6px;height:6px;border-radius:50%;background:var(--teal); display:inline-block;"></span>
+  <span>Hi, <b id="userGreetingName" style="color:var(--text);"></b></span>
+  <span id="editNameLink" style="color:var(--text-muted); cursor:pointer; font-size:11px; margin-left:2px;" title="Change name">✎</span>
+</div>
+
+<div class="modal-overlay" id="nameOverlay"></div>
+<div class="modal open" id="nameModal" style="max-width:380px; display:none;">
+  <div class="modal-body" style="padding-top:26px;">
+    <div class="mono" style="color:var(--teal); font-size:11.5px; margin-bottom:8px;">&gt; aria.init() // awaiting input_</div>
+    <h3 style="font-family:var(--font-display); font-size:18px; margin:0 0 14px;">How should I address you?</h3>
+    <div style="display:flex; gap:8px;">
+      <input type="text" id="nameInput" placeholder="Type your name..." style="flex:1;">
+      <button class="btn btn-primary" id="nameSubmitBtn">Set</button>
+    </div>
+  </div>
+</div>
+
 <div class="app">
   <div class="sidebar">
     <div class="brand">
@@ -189,7 +210,7 @@
         <div class="niche-input-row" style="flex-direction:column; align-items:stretch;">
           <textarea id="resumeText" rows="4" placeholder="Paste your resume text here — this is the only thing Aria uses to score and match jobs. Matching runs offline (keyword-based) in this version."></textarea>
           <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
-            <label class="btn btn-sm" style="cursor:pointer; margin:0;">Upload .txt<input type="file" accept=".txt" id="resumeFile" style="display:none;"></label>
+            <label class="btn btn-sm" style="cursor:pointer; margin:0;">Upload resume (.txt/.pdf/.docx)<input type="file" accept=".txt,.pdf,.docx" id="resumeFile" style="display:none;"></label>
             <button class="btn btn-primary btn-sm" id="analyzeResumeBtn">Analyze resume</button>
             <span class="mono" id="resumeStatus" style="font-size:11px;"></span>
           </div>
@@ -205,6 +226,10 @@
           <select id="jobSourceFilter">
             <option value="all">Any source</option><option value="RemoteOK">RemoteOK</option><option value="Remotive">Remotive</option><option value="Jobicy">Jobicy</option><option value="Arbeitnow">Arbeitnow</option>
           </select>
+          <div class="count-field" style="width:130px;">
+            <input type="number" id="jobSalaryMin" value="0" min="0" step="1000" placeholder="Min salary $">
+          </div>
+          <label class="check"><input type="checkbox" id="jobHideUndisclosed"> Hide undisclosed salary</label>
           <button class="btn btn-sm" id="resetFiltersBtn">Reset filters</button>
         </div>
         <div class="table-wrap">
@@ -257,6 +282,130 @@
     root.setAttribute('data-theme', t);
     document.getElementById('themeLabel').textContent = t === 'dark' ? 'Dark mode' : 'Light mode';
     document.getElementById('themeIcon').textContent = t === 'dark' ? '●' : '○';
+  }
+
+  // ---------- name / greeting ----------
+  let userName = lget('aria_user_name', null);
+
+  function playWakeChime(){
+    try{
+      const AudioCtx = window.AudioContext || window.webkitAudioContext;
+      if(!AudioCtx) return;
+      const ctx = new AudioCtx();
+      const now = ctx.currentTime;
+
+      // --- Layer 1: filtered sawtooth sweep — a "digital scan" core, up then down ---
+      const osc = ctx.createOscillator();
+      const filter = ctx.createBiquadFilter();
+      const gain = ctx.createGain();
+      osc.type = 'sawtooth';
+      filter.type = 'bandpass';
+      filter.Q.value = 12;
+      filter.frequency.setValueAtTime(300, now);
+      filter.frequency.exponentialRampToValueAtTime(2400, now + 0.5);
+      filter.frequency.exponentialRampToValueAtTime(500, now + 1.4);
+      osc.frequency.setValueAtTime(220, now);
+      osc.frequency.exponentialRampToValueAtTime(440, now + 0.5);
+      osc.frequency.exponentialRampToValueAtTime(180, now + 1.4);
+      gain.gain.setValueAtTime(0.0001, now);
+      gain.gain.exponentialRampToValueAtTime(0.18, now + 0.05);
+      gain.gain.exponentialRampToValueAtTime(0.0001, now + 1.5);
+      osc.connect(filter); filter.connect(gain); gain.connect(ctx.destination);
+      osc.start(now); osc.stop(now + 1.55);
+
+      // --- Layer 2: quick digital "data" blips stuttering on top ---
+      const blipFreqs = [1200, 1600, 2000, 1600];
+      blipFreqs.forEach(function(freq, i){
+        const t = now + 0.15 + i * 0.11;
+        const bOsc = ctx.createOscillator();
+        const bGain = ctx.createGain();
+        bOsc.type = 'square';
+        bOsc.frequency.setValueAtTime(freq, t);
+        bGain.gain.setValueAtTime(0.0001, t);
+        bGain.gain.exponentialRampToValueAtTime(0.06, t + 0.005);
+        bGain.gain.exponentialRampToValueAtTime(0.0001, t + 0.06);
+        bOsc.connect(bGain); bGain.connect(ctx.destination);
+        bOsc.start(t); bOsc.stop(t + 0.08);
+      });
+
+      // --- Layer 3: brief filtered noise burst — a touch of "static" at the very start ---
+      const bufferSize = Math.floor(ctx.sampleRate * 0.08);
+      const buffer = ctx.createBuffer(1, bufferSize, ctx.sampleRate);
+      const data = buffer.getChannelData(0);
+      for (let i = 0; i < bufferSize; i++) data[i] = (Math.random() * 2 - 1);
+      const noise = ctx.createBufferSource();
+      noise.buffer = buffer;
+      const noiseFilter = ctx.createBiquadFilter();
+      noiseFilter.type = 'highpass';
+      noiseFilter.frequency.value = 3000;
+      const noiseGain = ctx.createGain();
+      noiseGain.gain.setValueAtTime(0.05, now);
+      noiseGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.08);
+      noise.connect(noiseFilter); noiseFilter.connect(noiseGain); noiseGain.connect(ctx.destination);
+      noise.start(now);
+
+      setTimeout(function(){ try{ ctx.close(); }catch(e){} }, 1900);
+    }catch(e){ /* Web Audio unavailable — fail silently */ }
+  }
+
+  function speakGreeting(name){
+    try{
+      if('speechSynthesis' in window){
+        window.speechSynthesis.cancel();
+        const utter = new SpeechSynthesisUtterance('Hello, ' + name);
+        let chimed = false;
+        function chimeOnce(){ if(!chimed){ chimed = true; playWakeChime(); } }
+        utter.onend = chimeOnce;
+        utter.onerror = chimeOnce;
+        window.speechSynthesis.speak(utter);
+        setTimeout(chimeOnce, 4000); // safety net in case the "finished speaking" event never fires
+      } else {
+        playWakeChime();
+      }
+    }catch(e){ playWakeChime(); /* speech synthesis unavailable — chime still plays */ }
+  }
+  function showGreetingBadge(name){
+    document.getElementById('userGreetingName').textContent = name;
+    document.getElementById('userGreetingBadge').style.display = 'flex';
+  }
+  function openNameModal(){
+    document.getElementById('nameOverlay').classList.add('open');
+    document.getElementById('nameModal').style.display = 'block';
+    const input = document.getElementById('nameInput');
+    input.value = userName || '';
+    input.focus();
+  }
+  function closeNameModal(){
+    document.getElementById('nameOverlay').classList.remove('open');
+    document.getElementById('nameModal').style.display = 'none';
+  }
+  function submitName(){
+    const val = document.getElementById('nameInput').value.trim();
+    if(!val) return;
+    userName = val;
+    lset('aria_user_name', userName);
+    showGreetingBadge(userName);
+    closeNameModal();
+    speakGreeting(userName); // a direct result of this click — browsers reliably allow speech here
+  }
+  document.getElementById('nameSubmitBtn').addEventListener('click', submitName);
+  document.getElementById('nameInput').addEventListener('keydown', function(e){
+    if(e.key === 'Enter') submitName();
+  });
+  document.getElementById('editNameLink').addEventListener('click', openNameModal);
+
+  if(!userName){
+    openNameModal();
+  } else {
+    showGreetingBadge(userName);
+    // Returning visit: some browsers won't allow speech until the person has
+    // interacted with the page at least once, so this fires on the first
+    // click or keypress anywhere, rather than immediately on load.
+    function greetOnFirstInteraction(){
+      speakGreeting(userName);
+    }
+    document.addEventListener('click', greetOnFirstInteraction, { once: true });
+    document.addEventListener('keydown', greetOnFirstInteraction, { once: true });
   }
   let theme = lget('aria_theme', 'dark');
   applyTheme(theme);
@@ -321,10 +470,71 @@
   }
   renderNicheTags();
 
+  // ---------- on-demand library loader (only fetched if you actually upload a pdf/docx) ----------
+  const CDN = {
+    pdfjs: 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js',
+    pdfjsWorker: 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js',
+    mammoth: 'https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.4.2/mammoth.browser.min.js'
+  };
+  const scriptPromises = {};
+  function loadScript(src){
+    if(scriptPromises[src]) return scriptPromises[src];
+    scriptPromises[src] = new Promise(function(resolve, reject){
+      const s = document.createElement('script');
+      s.src = src;
+      s.onload = function(){ resolve(); };
+      s.onerror = function(){ delete scriptPromises[src]; reject(new Error('Could not load a required library')); };
+      document.head.appendChild(s);
+    });
+    return scriptPromises[src];
+  }
+  async function extractPdfText(arrayBuffer){
+    await loadScript(CDN.pdfjs);
+    window.pdfjsLib.GlobalWorkerOptions.workerSrc = CDN.pdfjsWorker;
+    const pdf = await window.pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+    let text = '';
+    for(let i = 1; i <= pdf.numPages; i++){
+      const page = await pdf.getPage(i);
+      const content = await page.getTextContent();
+      text += content.items.map(function(it){ return it.str; }).join(' ') + '\n';
+    }
+    return text.trim();
+  }
+  async function extractDocxText(arrayBuffer){
+    await loadScript(CDN.mammoth);
+    const result = await window.mammoth.extractRawText({ arrayBuffer: arrayBuffer });
+    return (result.value || '').trim();
+  }
+
   document.getElementById('resumeFile').addEventListener('change', async function(e){
     const file = e.target.files[0];
     if(!file) return;
-    document.getElementById('resumeText').value = await file.text();
+    const status = document.getElementById('resumeStatus');
+    const textarea = document.getElementById('resumeText');
+    const ext = file.name.split('.').pop().toLowerCase();
+    status.textContent = 'Reading ' + file.name + '...';
+    try{
+      if(ext === 'txt'){
+        textarea.value = await file.text();
+        status.textContent = 'Loaded ' + file.name + '. Click "Analyze resume."';
+      } else if(ext === 'pdf'){
+        const text = await extractPdfText(await file.arrayBuffer());
+        textarea.value = text;
+        status.textContent = text
+          ? ('Extracted text from ' + file.name + '. Click "Analyze resume."')
+          : "Couldn't find selectable text in that PDF — it may be a scanned image. Try pasting instead.";
+      } else if(ext === 'docx'){
+        const text = await extractDocxText(await file.arrayBuffer());
+        textarea.value = text;
+        status.textContent = 'Extracted text from ' + file.name + '. Click "Analyze resume."';
+      } else if(ext === 'doc'){
+        status.textContent = "Old .doc format isn't supported — save it as .docx or PDF, or paste the text directly.";
+      } else {
+        status.textContent = 'Unsupported file type — use .txt, .pdf, or .docx, or paste your resume text.';
+      }
+    }catch(err){
+      status.textContent = "Couldn't read that file — try pasting your resume text instead.";
+    }
   });
   document.getElementById('analyzeResumeBtn').addEventListener('click', function(){
     const btn = this;
@@ -421,6 +631,8 @@
     const statusFilter = document.getElementById('jobStatusFilter').value;
     const matchFilter = document.getElementById('jobMatchFilter').value;
     const sourceFilter = document.getElementById('jobSourceFilter').value;
+    const minSalary = parseInt(document.getElementById('jobSalaryMin').value, 10) || 0;
+    const hideUndisclosed = document.getElementById('jobHideUndisclosed').checked;
     const body = document.getElementById('jobsBody');
 
     let rows = jobs.filter(function(j){
@@ -428,6 +640,12 @@
       if(statusFilter !== 'all' && st !== statusFilter) return false;
       if(search && (j.title + ' ' + j.company).toLowerCase().indexOf(search) === -1) return false;
       if(sourceFilter !== 'all' && j.source !== sourceFilter) return false;
+      const hasSalary = typeof j.salaryMin === 'number' && typeof j.salaryMax === 'number';
+      if(hideUndisclosed && !hasSalary) return false;
+      if(minSalary > 0){
+        if(!hasSalary) return false; // can't compare an undisclosed salary against a minimum
+        if(j.salaryMax < minSalary) return false;
+      }
       const rank = MATCH_RANK[matchInfo(j).cls];
       if(matchFilter === 'medium' && rank < 1) return false;
       if(matchFilter === 'high' && rank < 2) return false;
@@ -481,11 +699,15 @@
   document.getElementById('jobStatusFilter').addEventListener('change', renderJobs);
   document.getElementById('jobMatchFilter').addEventListener('change', renderJobs);
   document.getElementById('jobSourceFilter').addEventListener('change', renderJobs);
+  document.getElementById('jobSalaryMin').addEventListener('input', renderJobs);
+  document.getElementById('jobHideUndisclosed').addEventListener('change', renderJobs);
   document.getElementById('resetFiltersBtn').addEventListener('click', function(){
     document.getElementById('jobSearch').value = '';
     document.getElementById('jobStatusFilter').value = 'all';
     document.getElementById('jobMatchFilter').value = 'all';
     document.getElementById('jobSourceFilter').value = 'all';
+    document.getElementById('jobSalaryMin').value = 0;
+    document.getElementById('jobHideUndisclosed').checked = false;
     renderJobs();
   });
   document.getElementById('refreshBtn').addEventListener('click', function(){ loadJobs(true); });
