@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-20T11:06:09.764Z",
+  "generatedAt": "2026-09-20T11:36:01.708Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
-    "remotive": 12,
+    "remotive": 14,
     "jobicy": 41,
     "arbeitnow": 2
   },
-  "count": 114,
+  "count": 116,
   "jobs": [
     {
       "id": "arbeitnow-remote-project-manager-software-implementation-berlin-402634",
@@ -606,6 +606,34 @@
       "postedAt": 1789776006000
     },
     {
+      "id": "remotive-2091141",
+      "title": "Frontend Web Application Developer",
+      "company": "KoboToolbox",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+      "setup": "wfh",
+      "location": "USA, Canada, Argentina, Mexico, Peru",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryText": "$90k - $105k",
+      "category": "Design",
+      "postedAt": 1789749802000
+    },
+    {
+      "id": "remotive-2091140",
+      "title": "Senior Shopify Developer",
+      "company": "Sanctuary Computer Inc",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+      "setup": "wfh",
+      "location": "Worldwide",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryText": "$80k - $150k",
+      "category": "Software Development",
+      "postedAt": 1789744228000
+    },
+    {
       "id": "remoteok-1137405",
       "title": "Senior Shopify Developer",
       "company": "Sanctuary Computer",
@@ -617,6 +645,20 @@
       "salaryMax": 250000,
       "salaryCurrency": "USD",
       "postedAt": 1789738193000
+    },
+    {
+      "id": "remotive-2091131",
+      "title": "Senior AI Engineer",
+      "company": "Lemon.io",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+      "setup": "wfh",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryText": null,
+      "category": "Artificial Intelligence",
+      "postedAt": 1789734236000
     },
     {
       "id": "remotive-2091130",
@@ -1044,20 +1086,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1787184015000
-    },
-    {
-      "id": "remotive-2091097",
-      "title": "Senior Data Engineer",
-      "company": "Lemon.io",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-      "setup": "wfh",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryText": null,
-      "category": "Software Development",
-      "postedAt": 1787141531000
     },
     {
       "id": "remoteok-1136861",
