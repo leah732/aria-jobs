@@ -1,0 +1,9 @@
+{
+  "name": "aria-live-jobs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetches real job postings from RemoteOK and Remotive on a schedule, for the Aria job dashboard.",
+  "scripts": {
+    "fetch": "node scripts/fetch-jobs.js"
+  }
+}

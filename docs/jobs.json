@@ -1,0 +1,8 @@
+{
+  "generatedAt": null,
+  "scope": "IT/tech roles only, filtered by title+tags keyword match (including expanded cybersecurity coverage)",
+  "sources": { "remoteok": 0, "remotive": 0, "jobicy": 0, "arbeitnow": 0 },
+  "count": 0,
+  "jobs": [],
+  "note": "This is a placeholder. It gets overwritten automatically once the 'Fetch live jobs' GitHub Action runs for the first time — either on its schedule, or immediately if you trigger it manually from the Actions tab."
+}
