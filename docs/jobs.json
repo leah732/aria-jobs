@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-20T04:06:49.085Z",
+  "generatedAt": "2026-09-20T04:38:16.096Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 45,
-    "arbeitnow": 6
+    "arbeitnow": 4
   },
-  "count": 122,
+  "count": 120,
   "jobs": [
     {
       "id": "arbeitnow-remote-ai-developer-nurnberg-177325",
@@ -34,18 +34,6 @@
       "postedAt": 1789846226000
     },
     {
-      "id": "arbeitnow-infrastructure-market-expert-london-476987",
-      "title": "Infrastructure Market Expert",
-      "company": "Authority.inc",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/infrastructure-market-expert-london-476987",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1789846225000
-    },
-    {
       "id": "arbeitnow-experte-fur-den-rechenzentrumsmarkt-berlin-190138",
       "title": "Experte für den Rechenzentrumsmarkt (m/w/d)",
       "company": "Authority.inc",
@@ -56,18 +44,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1789844446000
-    },
-    {
-      "id": "arbeitnow-data-centre-market-expert-london-400565",
-      "title": "Data Centre Market Expert",
-      "company": "Authority.inc",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/data-centre-market-expert-london-400565",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1789844445000
     },
     {
       "id": "arbeitnow-remote-quality-engineering-lead-schoppingen-262215",
