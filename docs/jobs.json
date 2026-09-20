@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-20T14:36:36.862Z",
+  "generatedAt": "2026-09-20T15:06:45.288Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 14,
-    "jobicy": 47,
+    "jobicy": 46,
     "arbeitnow": 1
   },
-  "count": 121,
+  "count": 120,
   "jobs": [
     {
       "id": "arbeitnow-remote-principal-infrastructure-engineer-320329",
@@ -20,19 +20,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1789905307000
-    },
-    {
-      "id": "jobicy-153729",
-      "title": "Senior Manager, Sales Engineering",
-      "company": "Zscaler",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153729-senior-manager-sales-engineering-2",
-      "setup": "wfh",
-      "location": "South Korea",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789902766000
     },
     {
       "id": "jobicy-153727",
