@@ -1,62 +1,14 @@
 {
-  "generatedAt": "2026-09-20T07:06:07.621Z",
+  "generatedAt": "2026-09-20T07:36:27.629Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 45,
-    "arbeitnow": 4
+    "arbeitnow": 0
   },
-  "count": 120,
+  "count": 116,
   "jobs": [
-    {
-      "id": "arbeitnow-remote-ai-developer-nurnberg-177325",
-      "title": "AI Developer (m/f/d)",
-      "company": "Partspace",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-177325",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1789848555000
-    },
-    {
-      "id": "arbeitnow-experte-fur-den-infrastrukturmarkt-berlin-57301",
-      "title": "Experte für den Infrastrukturmarkt (m/w/d)",
-      "company": "Authority.inc",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/authorityinc/experte-fur-den-infrastrukturmarkt-berlin-57301",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1789846226000
-    },
-    {
-      "id": "arbeitnow-experte-fur-den-rechenzentrumsmarkt-berlin-190138",
-      "title": "Experte für den Rechenzentrumsmarkt (m/w/d)",
-      "company": "Authority.inc",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/authorityinc/experte-fur-den-rechenzentrumsmarkt-berlin-190138",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1789844446000
-    },
-    {
-      "id": "arbeitnow-remote-quality-engineering-lead-schoppingen-262215",
-      "title": "Quality Engineering Lead (m/w/d)",
-      "company": "shopware AG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-quality-engineering-lead-schoppingen-262215",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1789839039000
-    },
     {
       "id": "jobicy-153679",
       "title": "Product Engineering - Future Opportunities",
