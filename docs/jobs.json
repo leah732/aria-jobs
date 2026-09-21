@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T23:34:33.331Z",
+  "generatedAt": "2026-09-21T00:09:10.456Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
@@ -606,6 +606,32 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1789879825000
+    },
+    {
+      "id": "remoteok-1137411",
+      "title": "Senior .NET Software Engineer",
+      "company": "OkWhen",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1789862431000
+    },
+    {
+      "id": "remoteok-1137410",
+      "title": "Frontend Engineer",
+      "company": "Bjak ",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1789862425000
     },
     {
       "id": "remoteok-1137409",
@@ -1543,32 +1569,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785372050000
-    },
-    {
-      "id": "remoteok-1135634",
-      "title": "Software Engineer GO",
-      "company": "Wakacje.pl",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785355201000
-    },
-    {
-      "id": "remoteok-1135674",
-      "title": "Care Navigator Level 1",
-      "company": "Ready",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-care-navigator-level-1-ready-1135674",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785344698000
     }
   ]
 }
