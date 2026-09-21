@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-21T22:06:38.007Z",
+  "generatedAt": "2026-09-21T22:37:36.313Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 41,
-    "arbeitnow": 6
+    "arbeitnow": 4
   },
-  "count": 119,
+  "count": 117,
   "jobs": [
+    {
+      "id": "arbeitnow-technical-outsource-manager-munich-98250",
+      "title": "Technical Outsource Manager (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/technical-outsource-manager-munich-98250",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790028036000
+    },
     {
       "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-374552",
       "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
@@ -226,42 +238,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790004723000
-    },
-    {
-      "id": "arbeitnow-remote-cloud-devops-developer-london-292159",
-      "title": "Cloud DevOps Developer",
-      "company": "Framestore",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-cloud-devops-developer-london-292159",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790004630000
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-developer-london-48594",
-      "title": "Senior Software Developer",
-      "company": "Framestore",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-software-developer-london-48594",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790004630000
-    },
-    {
-      "id": "arbeitnow-remote-senior-fullstack-developer-london-80426",
-      "title": "Senior Fullstack Developer",
-      "company": "Framestore",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-fullstack-developer-london-80426",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790004630000
     },
     {
       "id": "jobicy-153823",
