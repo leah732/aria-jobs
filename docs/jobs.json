@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T15:06:30.010Z",
+  "generatedAt": "2026-09-21T15:36:48.118Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 41,
-    "arbeitnow": 3
+    "arbeitnow": 2
   },
-  "count": 116,
+  "count": 115,
   "jobs": [
     {
       "id": "arbeitnow-frontend-softwareentwickler-braunschweig-275925",
@@ -32,6 +32,58 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1789992082000
+    },
+    {
+      "id": "jobicy-153800",
+      "title": "Director, Marketing Planning and Operations",
+      "company": "Life360",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153800-director-marketing-planning-and-operations",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789991284000
+    },
+    {
+      "id": "jobicy-153795",
+      "title": "Director, IT",
+      "company": "Life360",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153795-director-it",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789991284000
+    },
+    {
+      "id": "jobicy-153799",
+      "title": "Software Engineer",
+      "company": "UpGuard",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153799-software-engineer-10",
+      "setup": "wfh",
+      "location": "Australia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789991282000
+    },
+    {
+      "id": "jobicy-153804",
+      "title": "Senior Software Engineer",
+      "company": "UpGuard",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153804-senior-software-engineer-5",
+      "setup": "wfh",
+      "location": "Australia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789991281000
     },
     {
       "id": "jobicy-153793",
@@ -71,18 +123,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1789985690000
-    },
-    {
-      "id": "arbeitnow-werkstudent-ux-ui-designer-bei-zenesis-leipzig-47888",
-      "title": "Werkstudent UX/UI Designer (m/w/d) bei Zenesis",
-      "company": "Zenesis GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/zenesis-gmbh/werkstudent-ux-ui-designer-bei-zenesis-leipzig-47888",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1789984856000
     },
     {
       "id": "jobicy-151333",
@@ -525,58 +565,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1789903669000
-    },
-    {
-      "id": "jobicy-153753",
-      "title": "Associate Director/Sr. Manager, Health Economics & Outcomes Research-Oncology",
-      "company": "Natera",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153753-associate-director-sr-manager-health-economics-outcomes-research-oncology",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789903668000
-    },
-    {
-      "id": "jobicy-153750",
-      "title": "Senior Security Technical Account Manager",
-      "company": "Fastly",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153750-senior-security-technical-account-manager",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789903667000
-    },
-    {
-      "id": "jobicy-153751",
-      "title": "Associate Director of Bioinformatics (Women's Health and Organ Health)",
-      "company": "Natera",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153751-associate-director-of-bioinformatics-womens-health-and-organ-health",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789903665000
-    },
-    {
-      "id": "jobicy-153740",
-      "title": "AI Senior Engineer (Vision)",
-      "company": "Able",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153740-ai-senior-engineer-vision",
-      "setup": "wfh",
-      "location": "LATAM",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789903415000
     },
     {
       "id": "remoteok-1137411",
