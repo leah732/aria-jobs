@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-09-21T18:08:13.997Z",
+  "generatedAt": "2026-09-21T18:41:21.957Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 38,
-    "arbeitnow": 5
+    "arbeitnow": 6
   },
-  "count": 115,
+  "count": 116,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-374552",
+      "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
+      "company": "Contabo",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-374552",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790010599000
+    },
+    {
+      "id": "arbeitnow-remote-director-marketing-all-genders-gportal-ociris-gmbh-440597",
+      "title": "Director Marketing (all genders) - GPORTAL (Ociris GmbH)",
+      "company": "Contabo",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-director-marketing-all-genders-gportal-ociris-gmbh-440597",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790010599000
+    },
+    {
+      "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-130597",
+      "title": "(Senior) AI Product Engineer (m/w/d)",
+      "company": "Legalhero",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-130597",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790010582000
+    },
     {
       "id": "arbeitnow-remote-cloud-devops-developer-london-292159",
       "title": "Cloud DevOps Developer",
@@ -57,30 +93,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1789999193000
-    },
-    {
-      "id": "arbeitnow-frontend-softwareentwickler-braunschweig-275925",
-      "title": "Frontend Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-275925",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1789992082000
-    },
-    {
-      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-59326",
-      "title": "Fullstack Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-59326",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1789992082000
     },
     {
       "id": "jobicy-153800",
