@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T16:38:57.633Z",
+  "generatedAt": "2026-09-21T17:05:48.551Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
-    "jobicy": 41,
+    "jobicy": 38,
     "arbeitnow": 5
   },
-  "count": 118,
+  "count": 115,
   "jobs": [
     {
       "id": "arbeitnow-remote-cloud-devops-developer-london-292159",
@@ -44,6 +44,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790004630000
+    },
+    {
+      "id": "jobicy-153807",
+      "title": "Kansas- Remote Mental Health Licensed Therapist, 1099 Contractor",
+      "company": "Headspace",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153807-kansas-remote-mental-health-licensed-therapist-1099-contractor-2",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789999193000
     },
     {
       "id": "arbeitnow-frontend-softwareentwickler-braunschweig-275925",
@@ -549,58 +562,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1789903833000
-    },
-    {
-      "id": "jobicy-153759",
-      "title": "Enterprise Sales Engineer - Singapore",
-      "company": "Chainguard",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153759-enterprise-sales-engineer-singapore",
-      "setup": "wfh",
-      "location": "Singapore",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789903832000
-    },
-    {
-      "id": "jobicy-153758",
-      "title": "Electrical Engineer",
-      "company": "Serve Robotics",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153758-electrical-engineer-3",
-      "setup": "wfh",
-      "location": "Malaysia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "MYR",
-      "postedAt": 1789903831000
-    },
-    {
-      "id": "jobicy-153756",
-      "title": "Senior SRE - Networks",
-      "company": "Fastly",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153756-senior-sre-networks",
-      "setup": "wfh",
-      "location": "UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789903669000
-    },
-    {
-      "id": "jobicy-153752",
-      "title": "Senior Software Engineer, Edge Security",
-      "company": "Fastly",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153752-senior-software-engineer-edge-security",
-      "setup": "wfh",
-      "location": "Canada,  Mexico,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789903669000
     },
     {
       "id": "remoteok-1137411",
