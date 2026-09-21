@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T12:40:08.056Z",
+  "generatedAt": "2026-09-21T13:06:08.669Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
-    "jobicy": 46,
+    "jobicy": 47,
     "arbeitnow": 4
   },
-  "count": 122,
+  "count": 123,
   "jobs": [
     {
       "id": "arbeitnow-frontend-softwareentwickler-braunschweig-275925",
@@ -44,71 +44,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1789984856000
-    },
-    {
-      "id": "jobicy-153783",
-      "title": "Senior Full Stack Engineer",
-      "company": "Oddball",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153783-senior-full-stack-engineer-3",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789983322000
-    },
-    {
-      "id": "jobicy-153774",
-      "title": "ATO Specialist",
-      "company": "Oddball",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153774-ato-specialist",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789983322000
-    },
-    {
-      "id": "jobicy-153782",
-      "title": "1128 - Cloud / DevOps (SRE) Engineer",
-      "company": "GoFasti",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153782-1128-cloud-devops-sre-engineer",
-      "setup": "wfh",
-      "location": "LATAM",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789983321000
-    },
-    {
-      "id": "jobicy-153779",
-      "title": "DevOps Engineer",
-      "company": "Oddball",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153779-devops-engineer-6",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789983321000
-    },
-    {
-      "id": "jobicy-153776",
-      "title": "Senior AI Product Designer: AI Experiences (Contractor)",
-      "company": "Picsart",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153776-senior-ai-product-designer-ai-experiences-contractor",
-      "setup": "wfh",
-      "location": "Germany",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789983321000
     },
     {
       "id": "arbeitnow-heartbeat-ai-partnerships-manager-berlin-80998",
@@ -654,6 +589,84 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1789880412000
+    },
+    {
+      "id": "jobicy-151259",
+      "title": "Partner Marketing Director",
+      "company": "Acquia, Inc.",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151259-partner-marketing-director",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789880411000
+    },
+    {
+      "id": "jobicy-151258",
+      "title": "Generative Media Engineer, AI Social - CANADA",
+      "company": "Luxury Presence",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151258-generative-media-engineer-ai-social-canada",
+      "setup": "wfh",
+      "location": "Canada",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789880409000
+    },
+    {
+      "id": "jobicy-151266",
+      "title": "Senior Analytics Engineer - US",
+      "company": "Luxury Presence",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151266-senior-analytics-engineer-us",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789880131000
+    },
+    {
+      "id": "jobicy-151221",
+      "title": "Senior Technical Program Manager - Security",
+      "company": "OpenAI",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151221-senior-technical-program-manager-security",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789880130000
+    },
+    {
+      "id": "jobicy-151265",
+      "title": "Senior Database Reliability Engineer",
+      "company": "ClickUp",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151265-senior-database-reliability-engineer",
+      "setup": "wfh",
+      "location": "Bulgaria,  Czechia,  Hungary,  Poland,  Ukraine",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789880128000
+    },
+    {
+      "id": "jobicy-151263",
+      "title": "Senior Analytics Engineer - CANADA",
+      "company": "Luxury Presence",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151263-senior-analytics-engineer-canada",
+      "setup": "wfh",
+      "location": "Canada",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1789880127000
     },
     {
       "id": "remoteok-1137411",
