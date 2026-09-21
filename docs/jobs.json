@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T18:41:21.957Z",
+  "generatedAt": "2026-09-21T19:05:55.088Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
-    "jobicy": 38,
+    "jobicy": 36,
     "arbeitnow": 6
   },
-  "count": 116,
+  "count": 114,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-374552",
@@ -80,6 +80,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790004630000
+    },
+    {
+      "id": "jobicy-153823",
+      "title": "AI Software Engineer",
+      "company": "Zone &#038; Co",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153823-ai-software-engineer",
+      "setup": "wfh",
+      "location": "Czechia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790002995000
     },
     {
       "id": "jobicy-153807",
@@ -535,45 +548,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1789960214000
-    },
-    {
-      "id": "jobicy-151197",
-      "title": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
-      "company": "Canonical",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151197-c-rust-graphics-and-windowing-system-software-engineer-mir",
-      "setup": "wfh",
-      "location": "APAC,  EMEA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789960211000
-    },
-    {
-      "id": "jobicy-151196",
-      "title": "Embedded Devices Software Solution Sales Manager (APAC)",
-      "company": "Canonical",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151196-embedded-devices-software-solution-sales-manager-apac",
-      "setup": "wfh",
-      "location": "APAC",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789960207000
-    },
-    {
-      "id": "jobicy-153764",
-      "title": "Sales Director",
-      "company": "Fivetran",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153764-sales-director-2",
-      "setup": "wfh",
-      "location": "Japan",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789903833000
     },
     {
       "id": "remoteok-1137411",
