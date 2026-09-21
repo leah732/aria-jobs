@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T19:05:55.088Z",
+  "generatedAt": "2026-09-21T19:37:28.701Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
-    "jobicy": 36,
+    "jobicy": 38,
     "arbeitnow": 6
   },
-  "count": 114,
+  "count": 116,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-374552",
@@ -44,6 +44,84 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790010582000
+    },
+    {
+      "id": "jobicy-153832",
+      "title": "Director, Sales (Asia)",
+      "company": "Ping Identity",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153832-director-sales-asia",
+      "setup": "wfh",
+      "location": "APAC",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790004733000
+    },
+    {
+      "id": "jobicy-153834",
+      "title": "Director, Sales (Middle East)",
+      "company": "Ping Identity",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153834-director-sales-middle-east",
+      "setup": "wfh",
+      "location": "France",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790004728000
+    },
+    {
+      "id": "jobicy-153833",
+      "title": "Solutions Engineer",
+      "company": "infisical",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153833-solutions-engineer",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790004728000
+    },
+    {
+      "id": "jobicy-153830",
+      "title": "Director, Partner Programs, Enablement, and Operations",
+      "company": "Ping Identity",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153830-director-partner-programs-enablement-and-operations",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790004728000
+    },
+    {
+      "id": "jobicy-153829",
+      "title": "Design Engineer, Site",
+      "company": "infisical",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153829-design-engineer-site",
+      "setup": "wfh",
+      "location": "Canada,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790004727000
+    },
+    {
+      "id": "jobicy-153825",
+      "title": "AI agent engineer",
+      "company": "Sticker Mule",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153825-ai-agent-engineer",
+      "setup": "wfh",
+      "location": "Anywhere",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790004723000
     },
     {
       "id": "arbeitnow-remote-cloud-devops-developer-london-292159",
@@ -496,58 +574,6 @@
       "salaryMax": null,
       "salaryCurrency": "GBP",
       "postedAt": 1789960228000
-    },
-    {
-      "id": "jobicy-151283",
-      "title": "Director, Paid Marketing (Subscriptions)",
-      "company": "DuckDuckGo",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151283-director-paid-marketing-subscriptions",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789960222000
-    },
-    {
-      "id": "jobicy-151281",
-      "title": "Senior Web Security Engineer, Browser Platform",
-      "company": "DuckDuckGo",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151281-senior-web-security-engineer-browser-platform",
-      "setup": "wfh",
-      "location": "Anywhere",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789960219000
-    },
-    {
-      "id": "jobicy-147134",
-      "title": "Customer Engineer",
-      "company": "Nebius",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/147134-customer-engineer",
-      "setup": "wfh",
-      "location": "Canada,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789960216000
-    },
-    {
-      "id": "jobicy-144040",
-      "title": "Staff Software Engineer, App Platform",
-      "company": "Fieldguide",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789960214000
     },
     {
       "id": "remoteok-1137411",
