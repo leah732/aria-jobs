@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-21T09:07:33.847Z",
+  "generatedAt": "2026-09-21T09:38:44.749Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 14,
     "jobicy": 47,
-    "arbeitnow": 0
+    "arbeitnow": 2
   },
-  "count": 120,
+  "count": 122,
   "jobs": [
+    {
+      "id": "arbeitnow-heartbeat-ai-partnerships-manager-berlin-80998",
+      "title": "Heartbeat AI Partnerships Manager (m/f/d)",
+      "company": "1KOMMA5˚",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/heartbeat-ai-partnerships-manager-berlin-80998",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1789981108000
+    },
+    {
+      "id": "arbeitnow-senior-java-developer-for-e-commerce-accounting-saas-company-remote-in-eu-hamburg-324024",
+      "title": "Senior Java Developer for E-Commerce + Accounting SaaS company - remote in EU",
+      "company": "pathway solutions gmbh",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pathway-solutions-gmbh/senior-java-developer-for-e-commerce-accounting-saas-company-remote-in-eu-hamburg-324024",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1789980807000
+    },
     {
       "id": "jobicy-151195",
       "title": "Customer Support Engineer (Tier 1)",
