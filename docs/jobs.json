@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T11:06:40.739Z",
+  "generatedAt": "2026-09-21T11:39:20.046Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
-    "remotive": 14,
+    "remotive": 13,
     "jobicy": 47,
     "arbeitnow": 3
   },
-  "count": 123,
+  "count": 122,
   "jobs": [
     {
       "id": "arbeitnow-werkstudent-ux-ui-designer-bei-zenesis-leipzig-47888",
@@ -1188,20 +1188,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1787356805000
-    },
-    {
-      "id": "remotive-2091098",
-      "title": "Senior Golang Developer",
-      "company": "Lemon.io",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
-      "setup": "wfh",
-      "location": "Europe, USA, UK, Canada, Australia, Singapore",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryText": null,
-      "category": "Software Development",
-      "postedAt": 1787232647000
     },
     {
       "id": "remoteok-1136987",
