@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-21T23:06:45.656Z",
+  "generatedAt": "2026-09-21T23:36:43.884Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 41,
-    "arbeitnow": 4
+    "arbeitnow": 6
   },
-  "count": 117,
+  "count": 119,
   "jobs": [
+    {
+      "id": "arbeitnow-fullstack-entwickler-munich-284639",
+      "title": "Fullstack Entwickler (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/fullstack-entwickler-munich-284639",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790031635000
+    },
+    {
+      "id": "arbeitnow-embedded-softwareentwickler-munich-230480",
+      "title": "Embedded Softwareentwickler (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/embedded-softwareentwickler-munich-230480",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790029836000
+    },
     {
       "id": "arbeitnow-technical-outsource-manager-munich-98250",
       "title": "Technical Outsource Manager (m/w/d)",
