@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-09-21T16:07:20.668Z",
+  "generatedAt": "2026-09-21T16:38:57.633Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 41,
-    "arbeitnow": 2
+    "arbeitnow": 5
   },
-  "count": 115,
+  "count": 118,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-cloud-devops-developer-london-292159",
+      "title": "Cloud DevOps Developer",
+      "company": "Framestore",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-cloud-devops-developer-london-292159",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790004630000
+    },
+    {
+      "id": "arbeitnow-remote-senior-software-developer-london-48594",
+      "title": "Senior Software Developer",
+      "company": "Framestore",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-software-developer-london-48594",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790004630000
+    },
+    {
+      "id": "arbeitnow-remote-senior-fullstack-developer-london-80426",
+      "title": "Senior Fullstack Developer",
+      "company": "Framestore",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-fullstack-developer-london-80426",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790004630000
+    },
     {
       "id": "arbeitnow-frontend-softwareentwickler-braunschweig-275925",
       "title": "Frontend Softwareentwickler (m/w/d)",
