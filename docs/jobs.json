@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:06:44.034Z",
+  "generatedAt": "2026-09-22T11:38:22.963Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
@@ -56,6 +56,58 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790065834000
+    },
+    {
+      "id": "jobicy-153858",
+      "title": "Technical Consultant, Workday Financials",
+      "company": "Ramp",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153858-technical-consultant-workday-financials",
+      "setup": "wfh",
+      "location": "Canada,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790065139000
+    },
+    {
+      "id": "jobicy-153855",
+      "title": "Technical Consultant, Commercial",
+      "company": "Ramp",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153855-technical-consultant-commercial",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790065139000
+    },
+    {
+      "id": "jobicy-153852",
+      "title": "Lead Site Reliability Engineer",
+      "company": "Mattermost",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153852-lead-site-reliability-engineer",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790065137000
+    },
+    {
+      "id": "jobicy-153849",
+      "title": "Director of Product Design",
+      "company": "Help Scout",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153849-director-of-product-design",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790065133000
     },
     {
       "id": "arbeitnow-software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
@@ -574,58 +626,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1789985690000
-    },
-    {
-      "id": "jobicy-151333",
-      "title": "Scout Junior Quality Coordinator - Portuguese (Brazil)",
-      "company": "Welo Global",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil",
-      "setup": "wfh",
-      "location": "Brazil",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789984513000
-    },
-    {
-      "id": "jobicy-151329",
-      "title": "Engineering Manager, Product Engineering",
-      "company": "Boulevard",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151329-engineering-manager-product-engineering",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789984509000
-    },
-    {
-      "id": "jobicy-151141",
-      "title": "AWS Data Engineer (Associate)",
-      "company": "Mactores",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151141-aws-data-engineer-associate",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789984507000
-    },
-    {
-      "id": "jobicy-151331",
-      "title": "Machine Learning Engineer",
-      "company": "Liftoff",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151331-machine-learning-engineer-5",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1789984506000
     },
     {
       "id": "remoteok-1137411",
