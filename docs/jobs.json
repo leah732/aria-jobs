@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T00:09:24.398Z",
+  "generatedAt": "2026-09-22T00:41:40.686Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 41,
-    "arbeitnow": 6
+    "arbeitnow": 3
   },
-  "count": 119,
+  "count": 116,
   "jobs": [
     {
       "id": "arbeitnow-fullstack-entwickler-munich-284639",
@@ -44,42 +44,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790028036000
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-374552",
-      "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
-      "company": "Contabo",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-374552",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790010599000
-    },
-    {
-      "id": "arbeitnow-remote-director-marketing-all-genders-gportal-ociris-gmbh-440597",
-      "title": "Director Marketing (all genders) - GPORTAL (Ociris GmbH)",
-      "company": "Contabo",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-director-marketing-all-genders-gportal-ociris-gmbh-440597",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790010599000
-    },
-    {
-      "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-130597",
-      "title": "(Senior) AI Product Engineer (m/w/d)",
-      "company": "Legalhero",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-130597",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790010582000
     },
     {
       "id": "jobicy-153845",
@@ -1135,19 +1099,6 @@
       "postedAt": 1787356812000
     },
     {
-      "id": "remoteok-1137061",
-      "title": "Senior Governance Risk and Compliance Analyst",
-      "company": "RainFocus",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1787356805000
-    },
-    {
       "id": "remoteok-1136987",
       "title": "Consultant Implementation Engineer",
       "company": "Harbor",
@@ -1562,6 +1513,19 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785372050000
+    },
+    {
+      "id": "remoteok-1135634",
+      "title": "Software Engineer GO",
+      "company": "Wakacje.pl",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785355201000
     }
   ]
 }
