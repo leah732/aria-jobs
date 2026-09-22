@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-22T07:07:13.904Z",
+  "generatedAt": "2026-09-22T07:38:27.081Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 0
+    "arbeitnow": 1
   },
-  "count": 114,
+  "count": 115,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-software-engineer-data-ml-tholey-135276",
+      "title": "Senior Software Engineer Data & ML (m/w/d)",
+      "company": "amentis solutions GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/amentis-solutions-gmbh/senior-software-engineer-data-ml-tholey-135276",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790058632000
+    },
     {
       "id": "jobicy-153647",
       "title": "Staff Software Backend Engineer, Tech Lead - Foundations",
