@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-09-22T13:07:27.317Z",
+  "generatedAt": "2026-09-22T13:39:11.205Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 3
+    "arbeitnow": 6
   },
-  "count": 117,
+  "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-forward-deployed-ai-engineer-energy-lennestadt-457624",
+      "title": "Forward Deployed AI Engineer Energy (m/w/d)",
+      "company": "KnowWay GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/knowway-gmbh/forward-deployed-ai-engineer-energy-lennestadt-457624",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790078440000
+    },
+    {
+      "id": "arbeitnow-consultant-professional-services-nuremberg-499446",
+      "title": "Consultant Professional Services (w/m/d)",
+      "company": "ic-solution GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ic-solution-gmbh/consultant-professional-services-nuremberg-499446",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790078439000
+    },
+    {
+      "id": "arbeitnow-business-analyst-ki-prozessautomatisierung-lennestadt-207836",
+      "title": "Business Analyst KI-Prozessautomatisierung (m/w/d)",
+      "company": "KnowWay GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/knowway-gmbh/business-analyst-ki-prozessautomatisierung-lennestadt-207836",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790078439000
+    },
     {
       "id": "arbeitnow-ot-security-consultant-penetration-tester-dortmund-181653",
       "title": "OT-Security Consultant / Penetration Tester (m/w/d)",
