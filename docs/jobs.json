@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-22T08:07:18.434Z",
+  "generatedAt": "2026-09-22T08:39:29.600Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 1
+    "arbeitnow": 2
   },
-  "count": 115,
+  "count": 116,
   "jobs": [
+    {
+      "id": "arbeitnow-software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
+      "title": "Software Test (QA) Automation Engineer - Mandatory Internship (Unpaid)",
+      "company": "IndieKidz GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790064032000
+    },
     {
       "id": "arbeitnow-senior-software-engineer-data-ml-tholey-135276",
       "title": "Senior Software Engineer Data & ML (m/w/d)",
