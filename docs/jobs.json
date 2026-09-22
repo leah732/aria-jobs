@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T22:06:25.551Z",
+  "generatedAt": "2026-09-22T22:36:49.009Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 44,
-    "arbeitnow": 7
+    "arbeitnow": 5
   },
-  "count": 122,
+  "count": 120,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-software-engineer-kubernetes-394862",
@@ -63,30 +63,6 @@
       "company": "Camunda",
       "source": "Arbeitnow",
       "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-reliability-102158",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790109604000
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-infrastructure-258196",
-      "title": "Software Engineer - Infrastructure",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-infrastructure-258196",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790109604000
-    },
-    {
-      "id": "arbeitnow-remote-engineering-manager-infrastructure-472002",
-      "title": "Engineering Manager - Infrastructure",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-engineering-manager-infrastructure-472002",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
