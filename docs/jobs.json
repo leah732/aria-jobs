@@ -1,14 +1,98 @@
 {
-  "generatedAt": "2026-09-22T21:06:26.767Z",
+  "generatedAt": "2026-09-22T21:37:02.688Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 44,
-    "arbeitnow": 1
+    "arbeitnow": 7
   },
-  "count": 116,
+  "count": 122,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-software-engineer-kubernetes-394862",
+      "title": "Senior Software Engineer, Kubernetes",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-394862",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790109604000
+    },
+    {
+      "id": "arbeitnow-remote-senior-site-reliability-engineer-465994",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-site-reliability-engineer-465994",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790109604000
+    },
+    {
+      "id": "arbeitnow-remote-senior-software-engineer-engineering-operations-205598",
+      "title": "Senior Software Engineer, Engineering Operations",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-205598",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790109604000
+    },
+    {
+      "id": "arbeitnow-remote-director-solutions-and-product-marketing-10195",
+      "title": "Director, Solutions and Product Marketing",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-director-solutions-and-product-marketing-10195",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790109604000
+    },
+    {
+      "id": "arbeitnow-remote-senior-software-engineer-backend-reliability-102158",
+      "title": "Senior Software Engineer, Backend - Reliability",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-reliability-102158",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790109604000
+    },
+    {
+      "id": "arbeitnow-remote-software-engineer-infrastructure-258196",
+      "title": "Software Engineer - Infrastructure",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-infrastructure-258196",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790109604000
+    },
+    {
+      "id": "arbeitnow-remote-engineering-manager-infrastructure-472002",
+      "title": "Engineering Manager - Infrastructure",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-engineering-manager-infrastructure-472002",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790109604000
+    },
     {
       "id": "jobicy-153920",
       "title": "Lead Solutions Engineer - Central / East",
@@ -47,18 +131,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790095557000
-    },
-    {
-      "id": "arbeitnow-country-manager-software-unternehmen-private-equity-munich-227988",
-      "title": "Country Manager - Software Unternehmen - Private Equity (m/f/d)",
-      "company": "Options Group",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/options-group/country-manager-software-unternehmen-private-equity-munich-227988",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790091024000
     },
     {
       "id": "jobicy-153907",
