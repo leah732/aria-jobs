@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-09-22T09:06:57.943Z",
+  "generatedAt": "2026-09-22T09:37:38.187Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 2
+    "arbeitnow": 5
   },
-  "count": 116,
+  "count": 119,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-290825",
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-290825",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790065834000
+    },
+    {
+      "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-301936",
+      "title": "Senior Java Backend Developer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-301936",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790065834000
+    },
+    {
+      "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-74789",
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-74789",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790065834000
+    },
     {
       "id": "arbeitnow-software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
       "title": "Software Test (QA) Automation Engineer - Mandatory Internship (Unpaid)",
