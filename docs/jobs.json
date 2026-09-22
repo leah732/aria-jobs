@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-22T10:07:54.821Z",
+  "generatedAt": "2026-09-22T10:38:44.513Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 5
+    "arbeitnow": 6
   },
-  "count": 119,
+  "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-frontend-developer-angular-13-leipzig-475527",
+      "title": "Senior Frontend Developer (f/m/d) - Angular 13",
+      "company": "Rhebo GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/rhebo-gmbh/senior-frontend-developer-angular-13-leipzig-475527",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790069426000
+    },
     {
       "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-290825",
       "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
