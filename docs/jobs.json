@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-23T03:06:43.940Z",
+  "generatedAt": "2026-09-23T03:39:13.292Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 44,
-    "arbeitnow": 0
+    "arbeitnow": 2
   },
-  "count": 115,
+  "count": 117,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-full-stack-engineer-agentic-workflows-412321",
+      "title": "Senior Full Stack Engineer, Agentic Workflows (m/f/d)",
+      "company": "RobCo",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/remote-senior-full-stack-engineer-agentic-workflows-412321",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790131208000
+    },
+    {
+      "id": "arbeitnow-remote-engineering-manager-germany-166958",
+      "title": "Engineering Manager",
+      "company": "Workmotion",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-engineering-manager-germany-166958",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790130007000
+    },
     {
       "id": "jobicy-153920",
       "title": "Lead Solutions Engineer - Central / East",
