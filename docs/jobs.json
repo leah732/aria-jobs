@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:35:38.542Z",
+  "generatedAt": "2026-09-23T00:09:02.345Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
@@ -591,6 +591,32 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790047808000
+    },
+    {
+      "id": "remoteok-1137415",
+      "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
+      "company": "Mindrift - Data annotation",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1790035213000
+    },
+    {
+      "id": "remoteok-1137414",
+      "title": "Senior Growth Product Manager AI Native",
+      "company": "Magic Eden",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1790035207000
     },
     {
       "id": "jobicy-153845",
@@ -1514,32 +1540,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785462896000
-    },
-    {
-      "id": "remoteok-1136001",
-      "title": "Machine Operator &amp; Labourers",
-      "company": "Total Environmental Concepts Pty ltd",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-machine-operator-amp-labourers-total-environmental-concepts-pty-ltd-1136001",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785380340000
-    },
-    {
-      "id": "remoteok-1135675",
-      "title": "Human Resources Specialist",
-      "company": "Harvey Nash",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785372050000
     }
   ]
 }
