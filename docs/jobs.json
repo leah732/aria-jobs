@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-23T07:07:43.630Z",
+  "generatedAt": "2026-09-23T07:39:06.585Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 44,
-    "arbeitnow": 3
+    "arbeitnow": 4
   },
-  "count": 118,
+  "count": 119,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-qa-engineer-ai-driven-testing-berlin-43054",
+      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
+      "company": "1KOMMA5˚",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-qa-engineer-ai-driven-testing-berlin-43054",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790145043000
+    },
     {
       "id": "arbeitnow-remote-senior-data-scientist-berlin-279277",
       "title": "Senior Data Scientist (m/f/x)",
@@ -32,6 +44,58 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790141404000
+    },
+    {
+      "id": "jobicy-149553",
+      "title": "Site Reliability / Gitops Engineer",
+      "company": "Canonical",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149553-site-reliability-gitops-engineer",
+      "setup": "wfh",
+      "location": "Anywhere",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790135116000
+    },
+    {
+      "id": "jobicy-149551",
+      "title": "Performance Engineer - Open Source",
+      "company": "Canonical",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
+      "setup": "wfh",
+      "location": "Anywhere",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790135115000
+    },
+    {
+      "id": "jobicy-149547",
+      "title": "Site Reliability Engineer",
+      "company": "Canonical",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
+      "setup": "wfh",
+      "location": "Anywhere",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790135110000
+    },
+    {
+      "id": "jobicy-149552",
+      "title": "Software Engineer - App Stores",
+      "company": "Canonical",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
+      "setup": "wfh",
+      "location": "Anywhere",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790135107000
     },
     {
       "id": "arbeitnow-remote-senior-full-stack-engineer-agentic-workflows-412321",
@@ -566,45 +630,6 @@
       "postedAt": 1790047820000
     },
     {
-      "id": "jobicy-151318",
-      "title": "Data Analytics Engineer",
-      "company": "Ruby Labs",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151318-data-analytics-engineer",
-      "setup": "wfh",
-      "location": "Europe",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790047814000
-    },
-    {
-      "id": "jobicy-149450",
-      "title": "Customer Solution Engineer - AI Native/Consumption Quote to Cash",
-      "company": "Zuora",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149450-customer-solution-engineer-ai-native-consumption-quote-to-cash",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790047811000
-    },
-    {
-      "id": "jobicy-144139",
-      "title": "Senior AI Engineer",
-      "company": "eMerchantPay",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
-      "setup": "wfh",
-      "location": "Bulgaria",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790047808000
-    },
-    {
       "id": "remoteok-1137415",
       "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
       "company": "Mindrift - Data annotation",
@@ -629,19 +654,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1790035207000
-    },
-    {
-      "id": "jobicy-153845",
-      "title": "Principal Software Engineer, Infrastructure Security",
-      "company": "OpenAI",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153845-principal-software-engineer-infrastructure-security",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790008307000
     },
     {
       "id": "remoteok-1137411",
