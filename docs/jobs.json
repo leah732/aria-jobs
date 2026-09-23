@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-23T11:06:45.183Z",
+  "generatedAt": "2026-09-23T11:38:30.799Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 66,
-    "arbeitnow": 6
+    "arbeitnow": 7
   },
-  "count": 144,
+  "count": 145,
   "jobs": [
+    {
+      "id": "arbeitnow-ceo-business-co-founder-role-at-startup-family-flow-homburg-23012",
+      "title": "CEO / Business Co-Founder (f/m/d) role at startup FAMILY FLOW",
+      "company": "SouthwestX",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/southwestx/ceo-business-co-founder-role-at-startup-family-flow-homburg-23012",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790157635000
+    },
     {
       "id": "arbeitnow-remote-director-site-reliability-engineering-39645",
       "title": "Director, Site Reliability Engineering",
