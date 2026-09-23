@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T13:08:36.831Z",
+  "generatedAt": "2026-09-23T13:38:52.459Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
@@ -9,6 +9,30 @@
   },
   "count": 143,
   "jobs": [
+    {
+      "id": "arbeitnow-product-builder-ui-ux-designer-mobile-app-developer-hamburg-353211",
+      "title": "Product Builder (UI/UX Designer & Mobile App Developer) - (m/w/d)",
+      "company": "Luma Life",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/luma-life/product-builder-ui-ux-designer-mobile-app-developer-hamburg-353211",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790168435000
+    },
+    {
+      "id": "arbeitnow-remote-software-development-engineer-in-test-kent-383633",
+      "title": "Software Development Engineer in Test",
+      "company": "Payter B.V.",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/payter-bv/remote-software-development-engineer-in-test-kent-383633",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790166602000
+    },
     {
       "id": "arbeitnow-integration-solutions-engineer-remote-eu-koln-379113",
       "title": "Integration Solutions Engineer (m/w/d) – Remote (EU)",
@@ -44,30 +68,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790152807000
-    },
-    {
-      "id": "arbeitnow-lead-engineer-automotive-qualitatssicherung-luxemburg-remote-1719-mannheim-379148",
-      "title": "Lead Engineer (m/w/d) Automotive Qualitätssicherung Luxemburg / Remote (1719)",
-      "company": "BRÜGGEN ENGINEERING GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/lead-engineer-automotive-qualitatssicherung-luxemburg-remote-1719-mannheim-379148",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790152246000
-    },
-    {
-      "id": "arbeitnow-python-backend-developer-schwerpunkt-ki-plattform-wurzburg-307525",
-      "title": "Python Backend Developer (m/w/d) - Schwerpunkt KI-Plattform",
-      "company": "IT Studio Rech GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/python-backend-developer-schwerpunkt-ki-plattform-wurzburg-307525",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790152246000
     },
     {
       "id": "jobicy-151168",
