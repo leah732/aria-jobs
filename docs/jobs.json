@@ -1,38 +1,14 @@
 {
-  "generatedAt": "2026-09-23T00:09:02.345Z",
+  "generatedAt": "2026-09-23T00:41:19.408Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 44,
-    "arbeitnow": 2
+    "arbeitnow": 0
   },
-  "count": 117,
+  "count": 115,
   "jobs": [
-    {
-      "id": "arbeitnow-remote-senior-software-engineer-kubernetes-394862",
-      "title": "Senior Software Engineer, Kubernetes",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-394862",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790109604000
-    },
-    {
-      "id": "arbeitnow-remote-senior-site-reliability-engineer-465994",
-      "title": "Senior Site Reliability Engineer",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-site-reliability-engineer-465994",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790109604000
-    },
     {
       "id": "jobicy-153920",
       "title": "Lead Solutions Engineer - Central / East",
