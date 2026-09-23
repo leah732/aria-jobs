@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-23T16:07:33.107Z",
+  "generatedAt": "2026-09-23T16:39:58.032Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 66,
-    "arbeitnow": 5
+    "arbeitnow": 4
   },
-  "count": 143,
+  "count": 142,
   "jobs": [
     {
       "id": "arbeitnow-senior-python-developer-remote-frankfurt-am-main-250296",
@@ -108,18 +108,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790163011000
-    },
-    {
-      "id": "arbeitnow-ceo-business-co-founder-role-at-startup-family-flow-homburg-23012",
-      "title": "CEO / Business Co-Founder (f/m/d) role at startup FAMILY FLOW",
-      "company": "SouthwestX",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/southwestx/ceo-business-co-founder-role-at-startup-family-flow-homburg-23012",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790157635000
     },
     {
       "id": "jobicy-151168",
