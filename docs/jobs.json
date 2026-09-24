@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-24T09:07:23.750Z",
+  "generatedAt": "2026-09-24T09:39:08.841Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 53,
-    "arbeitnow": 7
+    "arbeitnow": 6
   },
-  "count": 133,
+  "count": 132,
   "jobs": [
+    {
+      "id": "arbeitnow-lead-system-engineer-automotive-entwicklung-luxemburg-remote-1720-mannheim-432795",
+      "title": "Lead System Engineer (m/w/d) Automotive Entwicklung Luxemburg / Remote (1720)",
+      "company": "BRÜGGEN ENGINEERING GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/lead-system-engineer-automotive-entwicklung-luxemburg-remote-1720-mannheim-432795",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790238635000
+    },
+    {
+      "id": "arbeitnow-remote-ai-developer-nurnberg-115466",
+      "title": "AI Developer (m/f/d)",
+      "company": "Partspace",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-115466",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790237385000
+    },
     {
       "id": "arbeitnow-backend-engineer-bielefeld-41188",
       "title": "Backend Engineer",
@@ -330,42 +354,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790224508000
-    },
-    {
-      "id": "arbeitnow-remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-187707",
-      "title": "Initiativbewerbung Werkstudent:in Softwareentwicklung (m/w/d) - Karlsruhe",
-      "company": "Knuddels GmbH & Co. KG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-187707",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790217010000
-    },
-    {
-      "id": "arbeitnow-senior-data-scientist-mit-fuhrungsverantwortung-remote-oder-karlsruhe-120481",
-      "title": "Senior Data Scientist (m/w/d) mit Führungsverantwortung - remote oder Karlsruhe",
-      "company": "Knuddels GmbH & Co. KG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/senior-data-scientist-mit-fuhrungsverantwortung-remote-oder-karlsruhe-120481",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790217010000
-    },
-    {
-      "id": "arbeitnow-senior-data-scientist-mit-fuhrungsverantwortung-in-teilzeit-remote-oder-karlsruhe-236374",
-      "title": "Senior Data Scientist (m/w/d) mit Führungsverantwortung in Teilzeit - remote oder Karlsruhe",
-      "company": "Knuddels GmbH & Co. KG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/senior-data-scientist-mit-fuhrungsverantwortung-in-teilzeit-remote-oder-karlsruhe-236374",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790217010000
     },
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-108798",
