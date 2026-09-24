@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-09-24T12:08:37.624Z",
+  "generatedAt": "2026-09-24T12:43:10.480Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 53,
-    "arbeitnow": 6
+    "arbeitnow": 5
   },
-  "count": 132,
+  "count": 131,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-sap-is-u-fi-co-abap-application-developer-berlin-496821",
+      "title": "Senior SAP IS-U & FI/CO ABAP Application Developer (m/w/d)",
+      "company": "Natuvion GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-is-u-fi-co-abap-application-developer-berlin-496821",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790249404000
+    },
+    {
+      "id": "arbeitnow-remote-senior-account-executive-public-sector-berlin-73324",
+      "title": "Senior Account Executive Public Sector (m/w/d)",
+      "company": "Natuvion GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-account-executive-public-sector-berlin-73324",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790249404000
+    },
+    {
+      "id": "arbeitnow-senior-fullstack-developerin-java-spring-boot-angular-grunwald-476130",
+      "title": "Senior Fullstack Developer:in (Java + Spring Boot / Angular)",
+      "company": "Wintama IT Solutions GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/wintama-it-solutions-gmbh/senior-fullstack-developerin-java-spring-boot-angular-grunwald-476130",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790247645000
+    },
     {
       "id": "arbeitnow-erfahrener-software-engineer-ml-engineer-im-bildungsumfeld-remote-heidelberg-77114",
       "title": "Erfahrener Software Engineer / ML Engineer (m/w/x) im Bildungsumfeld / Remote",
@@ -20,54 +56,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790242240000
-    },
-    {
-      "id": "arbeitnow-testmanager-munster-486660",
-      "title": "Testmanager (m/w/d)",
-      "company": "CPU Consulting & Software GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/testmanager-munster-486660",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790240452000
-    },
-    {
-      "id": "arbeitnow-lead-system-engineer-automotive-entwicklung-luxemburg-remote-1720-mannheim-432795",
-      "title": "Lead System Engineer (m/w/d) Automotive Entwicklung Luxemburg / Remote (1720)",
-      "company": "BRÜGGEN ENGINEERING GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/lead-system-engineer-automotive-entwicklung-luxemburg-remote-1720-mannheim-432795",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790238635000
-    },
-    {
-      "id": "arbeitnow-remote-ai-developer-nurnberg-115466",
-      "title": "AI Developer (m/f/d)",
-      "company": "Partspace",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-115466",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790237385000
-    },
-    {
-      "id": "arbeitnow-backend-engineer-bielefeld-41188",
-      "title": "Backend Engineer",
-      "company": "paddy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/paddy/backend-engineer-bielefeld-41188",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790236840000
     },
     {
       "id": "jobicy-149521",
