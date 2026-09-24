@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T07:07:43.249Z",
+  "generatedAt": "2026-09-24T07:38:40.066Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,30 @@
   },
   "count": 140,
   "jobs": [
+    {
+      "id": "arbeitnow-apotune-anwendungsberater-in-apothekenwissen-trifft-software-innovation-dorsten-466736",
+      "title": "ApoTune Anwendungsberater/in - Apothekenwissen trifft Software & Innovation",
+      "company": "ApoTune GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/apotune-gmbh/apotune-anwendungsberater-in-apothekenwissen-trifft-software-innovation-dorsten-466736",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790233234000
+    },
+    {
+      "id": "arbeitnow-sales-manager-technische-textilien-all-genders-berlin-314090",
+      "title": "Sales Manager technische Textilien (all genders)",
+      "company": "Connectima GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/connectima-gmbh/sales-manager-technische-textilien-all-genders-berlin-314090",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790231449000
+    },
     {
       "id": "arbeitnow-remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-187707",
       "title": "Initiativbewerbung Werkstudent:in Softwareentwicklung (m/w/d) - Karlsruhe",
@@ -44,30 +68,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790217010000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-engineer-enterprise-405884",
-      "title": "Senior Sales Engineer, Enterprise",
-      "company": "Fivetran",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-405884",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790207764000
-    },
-    {
-      "id": "arbeitnow-remote-principal-software-engineer-data-lakes-205806",
-      "title": "Principal Software Engineer - Data Lakes",
-      "company": "Fivetran",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-principal-software-engineer-data-lakes-205806",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790207764000
     },
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-108798",
