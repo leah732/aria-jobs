@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T21:36:45.152Z",
+  "generatedAt": "2026-09-24T22:07:11.356Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 60,
+    "remoteok": 61,
     "remotive": 13,
     "jobicy": 47,
     "arbeitnow": 2
   },
-  "count": 122,
+  "count": 123,
   "jobs": [
     {
       "id": "arbeitnow-remote-global-marketing-director-onkologie-hamburg-450391",
@@ -578,6 +578,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790202631000
+    },
+    {
+      "id": "remoteok-1137428",
+      "title": "Video Data Annotator",
+      "company": "iMerit Technology",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 70000,
+      "salaryMax": 80000,
+      "salaryCurrency": "USD",
+      "postedAt": 1790199619000
     },
     {
       "id": "jobicy-153979",
