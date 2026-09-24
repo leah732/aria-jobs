@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:06:52.220Z",
+  "generatedAt": "2026-09-24T10:39:01.204Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,30 @@
   },
   "count": 132,
   "jobs": [
+    {
+      "id": "arbeitnow-erfahrener-software-engineer-ml-engineer-im-bildungsumfeld-remote-heidelberg-77114",
+      "title": "Erfahrener Software Engineer / ML Engineer (m/w/x) im Bildungsumfeld / Remote",
+      "company": "GFN GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/erfahrener-software-engineer-ml-engineer-im-bildungsumfeld-remote-heidelberg-77114",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790242240000
+    },
+    {
+      "id": "arbeitnow-testmanager-munster-486660",
+      "title": "Testmanager (m/w/d)",
+      "company": "CPU Consulting & Software GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/testmanager-munster-486660",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790240452000
+    },
     {
       "id": "arbeitnow-lead-system-engineer-automotive-entwicklung-luxemburg-remote-1720-mannheim-432795",
       "title": "Lead System Engineer (m/w/d) Automotive Entwicklung Luxemburg / Remote (1720)",
@@ -44,30 +68,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790236840000
-    },
-    {
-      "id": "arbeitnow-apotune-anwendungsberater-in-apothekenwissen-trifft-software-innovation-dorsten-466736",
-      "title": "ApoTune Anwendungsberater/in - Apothekenwissen trifft Software & Innovation",
-      "company": "ApoTune GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/apotune-gmbh/apotune-anwendungsberater-in-apothekenwissen-trifft-software-innovation-dorsten-466736",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790233234000
-    },
-    {
-      "id": "arbeitnow-sales-manager-technische-textilien-all-genders-berlin-314090",
-      "title": "Sales Manager technische Textilien (all genders)",
-      "company": "Connectima GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/connectima-gmbh/sales-manager-technische-textilien-all-genders-berlin-314090",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790231449000
     },
     {
       "id": "jobicy-149521",
