@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-09-24T03:06:41.550Z",
+  "generatedAt": "2026-09-24T03:39:16.980Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 61,
-    "arbeitnow": 4
+    "arbeitnow": 7
   },
-  "count": 138,
+  "count": 141,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-187707",
+      "title": "Initiativbewerbung Werkstudent:in Softwareentwicklung (m/w/d) - Karlsruhe",
+      "company": "Knuddels GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-187707",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790217010000
+    },
+    {
+      "id": "arbeitnow-senior-data-scientist-mit-fuhrungsverantwortung-remote-oder-karlsruhe-120481",
+      "title": "Senior Data Scientist (m/w/d) mit Führungsverantwortung - remote oder Karlsruhe",
+      "company": "Knuddels GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/senior-data-scientist-mit-fuhrungsverantwortung-remote-oder-karlsruhe-120481",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790217010000
+    },
+    {
+      "id": "arbeitnow-senior-data-scientist-mit-fuhrungsverantwortung-in-teilzeit-remote-oder-karlsruhe-236374",
+      "title": "Senior Data Scientist (m/w/d) mit Führungsverantwortung in Teilzeit - remote oder Karlsruhe",
+      "company": "Knuddels GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/senior-data-scientist-mit-fuhrungsverantwortung-in-teilzeit-remote-oder-karlsruhe-236374",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790217010000
+    },
     {
       "id": "arbeitnow-remote-senior-sales-engineer-enterprise-405884",
       "title": "Senior Sales Engineer, Enterprise",
