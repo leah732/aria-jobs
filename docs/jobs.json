@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:06:48.477Z",
+  "generatedAt": "2026-09-24T21:36:45.152Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -10,16 +10,16 @@
   "count": 122,
   "jobs": [
     {
-      "id": "arbeitnow-remote-project-manager-software-implementation-berlin-260014",
-      "title": "Project Manager - Software Implementation (m/f/x)",
-      "company": "Makersite GmbH",
+      "id": "arbeitnow-remote-global-marketing-director-onkologie-hamburg-450391",
+      "title": "Global Marketing Director (m/w/d) Onkologie",
+      "company": "qinX",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-260014",
+      "url": "https://www.arbeitnow.com/jobs/companies/qinx/remote-global-marketing-director-onkologie-hamburg-450391",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1790271009000
+      "postedAt": 1790281803000
     },
     {
       "id": "jobicy-154035",
