@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T13:40:15.555Z",
+  "generatedAt": "2026-09-24T14:07:31.787Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -484,6 +484,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790174734000
+    },
+    {
+      "id": "remoteok-1137427",
+      "title": "Software Engineer",
+      "company": "Prenosis",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1790172002000
     },
     {
       "id": "jobicy-153939",
@@ -1706,19 +1719,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785541115000
-    },
-    {
-      "id": "remoteok-1135997",
-      "title": "BMS Service Technician",
-      "company": "Johnson Controls",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785488555000
     }
   ]
 }
