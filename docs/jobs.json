@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-23T23:34:55.034Z",
+  "generatedAt": "2026-09-24T00:08:38.494Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 59,
+    "remoteok": 60,
     "remotive": 13,
     "jobicy": 61,
     "arbeitnow": 2
   },
-  "count": 135,
+  "count": 136,
   "jobs": [
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-108798",
@@ -825,6 +825,32 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790135414000
+    },
+    {
+      "id": "remoteok-1137421",
+      "title": "Technical Product Manager AI Stockbroking App",
+      "company": "Bjak ",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1790121610000
+    },
+    {
+      "id": "remoteok-1137420",
+      "title": "Frontend Engineer",
+      "company": "Bjak ",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1790121604000
     },
     {
       "id": "remoteok-1137417",
@@ -1761,19 +1787,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785488555000
-    },
-    {
-      "id": "remoteok-1135745",
-      "title": "Regional General Manager Airports",
-      "company": "WestJet",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785462896000
     }
   ]
 }
