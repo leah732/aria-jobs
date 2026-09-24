@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T22:07:11.356Z",
+  "generatedAt": "2026-09-24T22:36:45.385Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 13,
-    "jobicy": 47,
+    "jobicy": 41,
     "arbeitnow": 2
   },
-  "count": 123,
+  "count": 117,
   "jobs": [
     {
       "id": "arbeitnow-remote-global-marketing-director-onkologie-hamburg-450391",
@@ -20,6 +20,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790281803000
+    },
+    {
+      "id": "jobicy-154059",
+      "title": "Enterprise Solutions Architect",
+      "company": "TripActions",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154059-enterprise-solutions-architect",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790275606000
+    },
+    {
+      "id": "jobicy-154051",
+      "title": "Staff Software Engineer - Curated Data",
+      "company": "Dune",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154051-staff-software-engineer-curated-data",
+      "setup": "wfh",
+      "location": "Europe,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790275606000
+    },
+    {
+      "id": "jobicy-154042",
+      "title": "Director, Product Communications (Hers)",
+      "company": "hims &#038; hers",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154042-director-product-communications-hers",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790275302000
     },
     {
       "id": "jobicy-154035",
@@ -516,58 +555,6 @@
       "postedAt": 1790224522000
     },
     {
-      "id": "jobicy-151470",
-      "title": "Blockchain Security Engineer - (Solidity / Rust / Golang)",
-      "company": "CertiK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151470-blockchain-security-engineer-solidity-rust-golang",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790224513000
-    },
-    {
-      "id": "jobicy-151477",
-      "title": "Sales Engineer",
-      "company": "Brain Co.",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151477-sales-engineer-3",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790224512000
-    },
-    {
-      "id": "jobicy-151474",
-      "title": "Builder/Architect/Engineer Expert Consultant (Part-Time Contractor)",
-      "company": "Brain Co.",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151474-builder-architect-engineer-expert-consultant-part-time-contractor",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790224511000
-    },
-    {
-      "id": "jobicy-151467",
-      "title": "Account Director, Defence and Intel (Canada)",
-      "company": "TRM Labs",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151467-account-director-defence-and-intel-canada",
-      "setup": "wfh",
-      "location": "Canada",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790224508000
-    },
-    {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-108798",
       "title": "Sales Account Executive - Cybersecurity",
       "company": "Crowdsec",
@@ -591,71 +578,6 @@
       "salaryMax": 80000,
       "salaryCurrency": "USD",
       "postedAt": 1790199619000
-    },
-    {
-      "id": "jobicy-153979",
-      "title": "Ads Quality Rater - Farsi (Turkey)",
-      "company": "Welo Global",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153979-ads-quality-rater-farsi-turkey",
-      "setup": "wfh",
-      "location": "Türkiye",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790176770000
-    },
-    {
-      "id": "jobicy-153974",
-      "title": "Backend Engineer, Observability",
-      "company": "LaunchDarkly",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153974-backend-engineer-observability",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790176770000
-    },
-    {
-      "id": "jobicy-153978",
-      "title": "Data Analyst - SQL / Databricks",
-      "company": "Tenable",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153978-data-analyst-sql-databricks",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790176769000
-    },
-    {
-      "id": "jobicy-153976",
-      "title": "Ads Quality Rater - Cantonese (Hong Kong)",
-      "company": "Welo Global",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153976-ads-quality-rater-cantonese-hong-kong",
-      "setup": "wfh",
-      "location": "Hong Kong",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790176767000
-    },
-    {
-      "id": "jobicy-153965",
-      "title": "Atlassian Platform Architect",
-      "company": "Datavant",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153965-atlassian-platform-architect",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790176692000
     },
     {
       "id": "remoteok-1137427",
