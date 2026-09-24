@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-09-24T00:08:38.494Z",
+  "generatedAt": "2026-09-24T00:42:32.242Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 61,
-    "arbeitnow": 2
+    "arbeitnow": 4
   },
-  "count": 136,
+  "count": 138,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-sales-engineer-enterprise-405884",
+      "title": "Senior Sales Engineer, Enterprise",
+      "company": "Fivetran",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-405884",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790207764000
+    },
+    {
+      "id": "arbeitnow-remote-principal-software-engineer-data-lakes-205806",
+      "title": "Principal Software Engineer - Data Lakes",
+      "company": "Fivetran",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-principal-software-engineer-data-lakes-205806",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790207764000
+    },
+    {
+      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-446366",
+      "title": "Backend Engineer - Agentic AI (m/w/d)",
+      "company": "Getpress Gmbh",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-446366",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790204977000
+    },
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-108798",
       "title": "Sales Account Executive - Cybersecurity",
@@ -20,18 +56,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790202631000
-    },
-    {
-      "id": "arbeitnow-ai-product-engineer-bielefeld-415380",
-      "title": "AI Product Engineer",
-      "company": "paddy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-415380",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790196738000
     },
     {
       "id": "jobicy-153979",
