@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:39:34.109Z",
+  "generatedAt": "2026-09-25T12:08:53.614Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
@@ -424,19 +424,6 @@
       "postedAt": 1790309419000
     },
     {
-      "id": "jobicy-151540",
-      "title": "Product Data Scientist",
-      "company": "Tripadvisor",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151540-product-data-scientist",
-      "setup": "wfh",
-      "location": "Poland",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790309417000
-    },
-    {
       "id": "jobicy-151538",
       "title": "Sales Engineer (French) SMB",
       "company": "1Password",
@@ -656,6 +643,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790252822000
+    },
+    {
+      "id": "jobicy-154024",
+      "title": "Research Engineer",
+      "company": "Elevenlabs",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154024-research-engineer",
+      "setup": "wfh",
+      "location": "Bulgaria,  Germany,  Poland,  UK,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790252821000
     },
     {
       "id": "remoteok-1137428",
