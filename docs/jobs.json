@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-25T15:07:42.116Z",
+  "generatedAt": "2026-09-25T15:38:09.536Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 13,
     "jobicy": 48,
-    "arbeitnow": 0
+    "arbeitnow": 1
   },
-  "count": 122,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-product-engineer-remote-oder-karlsruhe-31994",
+      "title": "Product Engineer (m/w/d) - remote oder Karlsruhe",
+      "company": "Knuddels GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/product-engineer-remote-oder-karlsruhe-31994",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790346611000
+    },
     {
       "id": "jobicy-151643",
       "title": "Telecom Engineer",
