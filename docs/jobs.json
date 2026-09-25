@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T20:38:46.866Z",
+  "generatedAt": "2026-09-25T21:06:53.622Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
-    "jobicy": 48,
+    "jobicy": 49,
     "arbeitnow": 3
   },
-  "count": 124,
+  "count": 125,
   "jobs": [
     {
       "id": "arbeitnow-remote-software-engineer-computer-use-integrations-berlin-342698",
@@ -667,6 +667,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryCurrency": "USD",
+      "postedAt": 1790252821000
+    },
+    {
+      "id": "jobicy-154021",
+      "title": "Design Engineer - EU",
+      "company": "Ashby",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154021-design-engineer-eu",
+      "setup": "wfh",
+      "location": "Croatia,  Estonia,  Germany,  Ireland,  Italy,  Portugal,  Romania,  Spain,  Sweden,  Switzerland",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "EUR",
       "postedAt": 1790252821000
     },
     {
