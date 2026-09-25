@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T05:06:12.212Z",
+  "generatedAt": "2026-09-25T05:38:59.698Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 13,
     "jobicy": 41,
-    "arbeitnow": 1
+    "arbeitnow": 0
   },
-  "count": 116,
+  "count": 115,
   "jobs": [
     {
       "id": "jobicy-154059",
@@ -541,18 +541,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790224522000
-    },
-    {
-      "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-108798",
-      "title": "Sales Account Executive - Cybersecurity",
-      "company": "Crowdsec",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-108798",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790202631000
     },
     {
       "id": "remoteok-1137428",
