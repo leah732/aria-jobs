@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-25T22:06:32.045Z",
+  "generatedAt": "2026-09-25T22:37:48.466Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 46,
-    "arbeitnow": 3
+    "arbeitnow": 4
   },
-  "count": 122,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-werkstudent-softwareentwicklung-go-iot-energy-cologne-56281",
+      "title": "Werkstudent (m/w/d) Softwareentwicklung Go / IoT & Energy",
+      "company": "initEnergy GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/initenergy-gmbh/werkstudent-softwareentwicklung-go-iot-energy-cologne-56281",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790370022000
+    },
     {
       "id": "jobicy-154065",
       "title": "Principal Software Engineer, AI",
