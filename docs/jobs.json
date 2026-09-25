@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T08:07:16.218Z",
+  "generatedAt": "2026-09-25T08:40:15.411Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 13,
-    "jobicy": 48,
+    "jobicy": 49,
     "arbeitnow": 2
   },
-  "count": 124,
+  "count": 125,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-frontend-engineer-all-genders-berlin-421093",
@@ -656,6 +656,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790252822000
+    },
+    {
+      "id": "jobicy-154024",
+      "title": "Research Engineer",
+      "company": "Elevenlabs",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154024-research-engineer",
+      "setup": "wfh",
+      "location": "Bulgaria,  Germany,  Poland,  UK,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790252821000
     },
     {
       "id": "remoteok-1137428",
