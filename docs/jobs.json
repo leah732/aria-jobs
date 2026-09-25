@@ -1,25 +1,49 @@
 {
-  "generatedAt": "2026-09-25T18:07:38.533Z",
+  "generatedAt": "2026-09-25T18:39:59.999Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 48,
-    "arbeitnow": 1
+    "arbeitnow": 3
   },
-  "count": 122,
+  "count": 124,
   "jobs": [
     {
-      "id": "arbeitnow-product-engineer-remote-oder-karlsruhe-31994",
-      "title": "Product Engineer (m/w/d) - remote oder Karlsruhe",
-      "company": "Knuddels GmbH & Co. KG",
+      "id": "arbeitnow-remote-software-engineer-computer-use-integrations-berlin-342698",
+      "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
+      "company": "Recare Deutschland GmbH",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/product-engineer-remote-oder-karlsruhe-31994",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-342698",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1790346611000
+      "postedAt": 1790357439000
+    },
+    {
+      "id": "arbeitnow-remote-lead-security-engineer-berlin-30087",
+      "title": "Lead Security Engineer (m/w/d)",
+      "company": "Recare Deutschland GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-lead-security-engineer-berlin-30087",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790357439000
+    },
+    {
+      "id": "arbeitnow-java-entwickler-full-remote-top-company-2026-germany-485173",
+      "title": "Java Entwickler (m/w/d) | Full Remote | Top Company 2026",
+      "company": "Kooku",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/kooku/java-entwickler-full-remote-top-company-2026-germany-485173",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790356811000
     },
     {
       "id": "jobicy-151643",
