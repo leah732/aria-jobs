@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:39:59.999Z",
+  "generatedAt": "2026-09-25T19:06:19.190Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -252,19 +252,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790310024000
-    },
-    {
-      "id": "jobicy-151575",
-      "title": "Senior Software Engineer - Next-Gen",
-      "company": "NetDocuments",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151575-senior-software-engineer-next-gen",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790310021000
     },
     {
       "id": "jobicy-151574",
@@ -664,6 +651,19 @@
       "url": "https://jobicy.com/jobs/154024-research-engineer",
       "setup": "wfh",
       "location": "Bulgaria,  Germany,  Poland,  UK,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790252821000
+    },
+    {
+      "id": "jobicy-154022",
+      "title": "Full-Stack Engineer",
+      "company": "Elevenlabs",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154022-full-stack-engineer-2",
+      "setup": "wfh",
+      "location": "Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Spain,  UK,  USA",
       "salaryMin": null,
       "salaryMax": null,
       "salaryCurrency": "USD",
