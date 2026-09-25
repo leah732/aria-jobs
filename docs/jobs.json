@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-25T06:08:36.787Z",
+  "generatedAt": "2026-09-25T06:43:24.795Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 13,
     "jobicy": 41,
-    "arbeitnow": 0
+    "arbeitnow": 2
   },
-  "count": 115,
+  "count": 117,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-frontend-engineer-all-genders-berlin-421093",
+      "title": "Senior Frontend Engineer (all genders)",
+      "company": "Distribusion Technologies",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-frontend-engineer-all-genders-berlin-421093",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790314229000
+    },
+    {
+      "id": "arbeitnow-remote-ai-integration-automation-engineer-ger-32348",
+      "title": "AI Integration & Automation Engineer (m/w/d) GER",
+      "company": "Customs Support Group",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-32348",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790314211000
+    },
     {
       "id": "jobicy-154059",
       "title": "Enterprise Solutions Architect",
