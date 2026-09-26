@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-09-26T03:06:35.123Z",
+  "generatedAt": "2026-09-26T03:38:40.288Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 46,
-    "arbeitnow": 4
+    "arbeitnow": 5
   },
-  "count": 123,
+  "count": 124,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-160244",
+      "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
+      "company": "Contabo",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-160244",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790388598000
+    },
+    {
+      "id": "arbeitnow-remote-senior-network-engineer-all-genders-464933",
+      "title": "Senior Network Engineer (all genders)",
+      "company": "Contabo",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-464933",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790388598000
+    },
+    {
+      "id": "arbeitnow-remote-director-marketing-all-genders-gportal-ociris-gmbh-475034",
+      "title": "Director Marketing (all genders) - GPORTAL (Ociris GmbH)",
+      "company": "Contabo",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-director-marketing-all-genders-gportal-ociris-gmbh-475034",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790388598000
+    },
+    {
+      "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-286735",
+      "title": "(Senior) AI Product Engineer (m/w/d)",
+      "company": "Legalhero",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-286735",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790388583000
+    },
     {
       "id": "arbeitnow-werkstudent-softwareentwicklung-go-iot-energy-cologne-56281",
       "title": "Werkstudent (m/w/d) Softwareentwicklung Go / IoT & Energy",
@@ -189,42 +237,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790359525000
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-computer-use-integrations-berlin-342698",
-      "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
-      "company": "Recare Deutschland GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-342698",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790357439000
-    },
-    {
-      "id": "arbeitnow-remote-lead-security-engineer-berlin-30087",
-      "title": "Lead Security Engineer (m/w/d)",
-      "company": "Recare Deutschland GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-lead-security-engineer-berlin-30087",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790357439000
-    },
-    {
-      "id": "arbeitnow-java-entwickler-full-remote-top-company-2026-germany-485173",
-      "title": "Java Entwickler (m/w/d) | Full Remote | Top Company 2026",
-      "company": "Kooku",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/kooku/java-entwickler-full-remote-top-company-2026-germany-485173",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790356811000
     },
     {
       "id": "jobicy-151643",
