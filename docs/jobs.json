@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T12:41:17.452Z",
+  "generatedAt": "2026-09-26T13:05:57.590Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -44,6 +44,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790422806000
+    },
+    {
+      "id": "jobicy-149690",
+      "title": "Senior Software Engineer (Storage) - remote in the US",
+      "company": "Mirantis",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149690-senior-software-engineer-storage-remote-in-the-us",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790416714000
     },
     {
       "id": "arbeitnow-remote-forward-deployed-engineer-64304",
@@ -617,19 +630,6 @@
       "postedAt": 1790275606000
     },
     {
-      "id": "jobicy-154042",
-      "title": "Director, Product Communications (Hers)",
-      "company": "hims &#038; hers",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154042-director-product-communications-hers",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790275302000
-    },
-    {
       "id": "remoteok-1137428",
       "title": "Video Data Annotator",
       "company": "iMerit Technology",
@@ -1162,19 +1162,6 @@
       "postedAt": 1787749858000
     },
     {
-      "id": "remoteok-1137139",
-      "title": "Course Director UX UI and AI",
-      "company": "Interaction Design Foundation",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 10000,
-      "salaryMax": 750000,
-      "salaryCurrency": "USD",
-      "postedAt": 1787748281000
-    },
-    {
       "id": "remoteok-1137194",
       "title": "Renewables Project Scheduler",
       "company": "Transportation Partners &amp; Logistics",
@@ -1576,6 +1563,19 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785566299000
+    },
+    {
+      "id": "remoteok-1135901",
+      "title": "Freelance Creative Director",
+      "company": "BMWL",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785541115000
     }
   ]
 }
