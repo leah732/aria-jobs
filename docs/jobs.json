@@ -1,52 +1,37 @@
 {
-  "generatedAt": "2026-09-27T15:06:43.364Z",
+  "generatedAt": "2026-09-27T15:37:43.357Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
-    "jobicy": 35,
-    "arbeitnow": 2
+    "jobicy": 36,
+    "arbeitnow": 3
   },
-  "count": 108,
+  "count": 110,
   "jobs": [
     {
-      "id": "jobicy-154102",
-      "title": "Manager, Forward Deployed Engineering - CMEG",
-      "company": "Databricks",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154102-manager-forward-deployed-engineering-cmeg",
+      "id": "arbeitnow-remote-product-engineer-85511",
+      "title": "Product Engineer",
+      "company": "0G",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/0g/remote-product-engineer-85511",
       "setup": "wfh",
-      "location": "USA",
+      "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790510279000
+      "postedAt": 1790520002000
     },
     {
-      "id": "jobicy-154099",
-      "title": "Manager, Field Engineering - Strategic Digital Native Business",
-      "company": "Databricks",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154099-manager-field-engineering-strategic-digital-native-business",
+      "id": "arbeitnow-remote-director-pharmacometrics-switzerland-107613",
+      "title": "Director, Pharmacometrics",
+      "company": "Allucent",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/allucent/remote-director-pharmacometrics-switzerland-107613",
       "setup": "wfh",
-      "location": "USA",
+      "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790510279000
-    },
-    {
-      "id": "jobicy-154095",
-      "title": "Account Director, Vertical Sales",
-      "company": "StackAdapt",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154095-account-director-vertical-sales",
-      "setup": "wfh",
-      "location": "Australia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "AUD",
-      "postedAt": 1790510279000
+      "postedAt": 1790518803000
     },
     {
       "id": "arbeitnow-remote-freelancer-group-fitness-instructor-bachenbulach-389715",
@@ -59,18 +44,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790508623000
-    },
-    {
-      "id": "arbeitnow-remote-senior-data-engineer-zurich-267061",
-      "title": "Senior Data Engineer",
-      "company": "Futurae",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/futurae/remote-senior-data-engineer-zurich-267061",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790508011000
     },
     {
       "id": "jobicy-151756",
@@ -487,6 +460,58 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790421320000
+    },
+    {
+      "id": "jobicy-147706",
+      "title": "Account Technical Lead (ATL), Enterprise Accounts",
+      "company": "Autodesk",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/147706-account-technical-lead-atl-enterprise-accounts",
+      "setup": "wfh",
+      "location": "Australia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790421314000
+    },
+    {
+      "id": "jobicy-151780",
+      "title": "Director, AI Enablement & Security",
+      "company": "Bloomreach",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151780-director-ai-enablement-security",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790421011000
+    },
+    {
+      "id": "jobicy-151778",
+      "title": "Security Engineer, Infrastructure Security",
+      "company": "OpenAI",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151778-security-engineer-infrastructure-security",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790421010000
+    },
+    {
+      "id": "jobicy-151779",
+      "title": "Staff Backend Engineer",
+      "company": "TeamSnap",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151779-staff-backend-engineer-2",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790421007000
     },
     {
       "id": "remoteok-1137428",
