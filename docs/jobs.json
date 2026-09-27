@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-27T06:08:45.745Z",
+  "generatedAt": "2026-09-27T06:42:16.334Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
     "jobicy": 49,
-    "arbeitnow": 24
+    "arbeitnow": 22
   },
-  "count": 145,
+  "count": 143,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-solutions-architect-lead-66093",
+      "title": "Solutions Architect, Lead",
+      "company": "Notabene",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/notabene/remote-solutions-architect-lead-66093",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790487603000
+    },
     {
       "id": "arbeitnow-remote-software-engineer-infrastructure-self-managed-experience-smx-295441",
       "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
@@ -226,18 +238,6 @@
       "postedAt": 1790476811000
     },
     {
-      "id": "arbeitnow-remote-senior-sales-engineer-mena-177403",
-      "title": "Senior Sales Engineer - MENA",
-      "company": "Sardine",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sardine/remote-senior-sales-engineer-mena-177403",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790476810000
-    },
-    {
       "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-169377",
       "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
       "company": "virtual7 GmbH",
@@ -272,30 +272,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790454626000
-    },
-    {
-      "id": "arbeitnow-remote-softwareentwicklung-gesundheitswesen-modernes-tech-stack-freelancing-cologne-269257",
-      "title": "Remote Softwareentwicklung Gesundheitswesen | Modernes Tech-Stack | Freelancing",
-      "company": "Medconomy GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/medconomy-gmbh/remote-softwareentwicklung-gesundheitswesen-modernes-tech-stack-freelancing-cologne-269257",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790438426000
-    },
-    {
-      "id": "arbeitnow-remote-senior-solutions-architect-managed-service-providers-143722",
-      "title": "Senior Solutions Architect, Managed Service Providers",
-      "company": "purestorage",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-senior-solutions-architect-managed-service-providers-143722",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790434516000
     },
     {
       "id": "jobicy-151608",
