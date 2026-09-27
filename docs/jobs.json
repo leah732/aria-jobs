@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-27T00:09:30.697Z",
+  "generatedAt": "2026-09-27T00:43:53.181Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
     "jobicy": 49,
-    "arbeitnow": 14
+    "arbeitnow": 6
   },
-  "count": 135,
+  "count": 127,
   "jobs": [
     {
       "id": "arbeitnow-remote-director-of-national-accounts-197752",
@@ -58,90 +58,6 @@
       "postedAt": 1790454626000
     },
     {
-      "id": "arbeitnow-senior-security-engineer-remote-36825",
-      "title": "Senior Security Engineer - Remote",
-      "company": "Parity",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/parity/senior-security-engineer-remote-36825",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790445332000
-    },
-    {
-      "id": "arbeitnow-remote-staff-data-scientist-413722",
-      "title": "Staff Data Scientist",
-      "company": "Duck Duck Go",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-staff-data-scientist-413722",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790444028000
-    },
-    {
-      "id": "arbeitnow-remote-knit-research-director-160701",
-      "title": "Knit - Research Director",
-      "company": "Eleve Talent",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eleve-talent/remote-knit-research-director-160701",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790444023000
-    },
-    {
-      "id": "arbeitnow-remote-forward-deployed-engineer-48525",
-      "title": "Forward Deployed Engineer",
-      "company": "Hexa",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/hexa/remote-forward-deployed-engineer-48525",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790443848000
-    },
-    {
-      "id": "arbeitnow-remote-software-development-engineers-in-test-python-101930",
-      "title": "Software Development Engineers in Test (Python)",
-      "company": "Xm",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-software-development-engineers-in-test-python-101930",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790443682000
-    },
-    {
-      "id": "arbeitnow-remote-site-reliability-engineers-sre-95334",
-      "title": "Site Reliability Engineers (SRE)",
-      "company": "Xm",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-site-reliability-engineers-sre-95334",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790443682000
-    },
-    {
-      "id": "arbeitnow-remote-qa-software-test-automation-engineers-java-466766",
-      "title": "QA Software Test Automation Engineers (Java)",
-      "company": "Xm",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-466766",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790443682000
-    },
-    {
       "id": "arbeitnow-remote-softwareentwicklung-gesundheitswesen-modernes-tech-stack-freelancing-cologne-269257",
       "title": "Remote Softwareentwicklung Gesundheitswesen | Modernes Tech-Stack | Freelancing",
       "company": "Medconomy GmbH",
@@ -164,18 +80,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790434516000
-    },
-    {
-      "id": "arbeitnow-remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-191205",
-      "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
-      "company": "teccle group GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-191205",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790433014000
     },
     {
       "id": "jobicy-151608",
@@ -1267,19 +1171,6 @@
       "postedAt": 1788123601000
     },
     {
-      "id": "remoteok-1137169",
-      "title": "Programmatic Campaign Operations Specialist Trader",
-      "company": "VirtuHire",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1787846404000
-    },
-    {
       "id": "remotive-2091101",
       "title": "Senior React Full-stack Developer",
       "company": "Lemon.io",
@@ -1761,6 +1652,19 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785541115000
+    },
+    {
+      "id": "remoteok-1135997",
+      "title": "BMS Service Technician",
+      "company": "Johnson Controls",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785488555000
     }
   ]
 }
