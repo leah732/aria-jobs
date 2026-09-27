@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-27T12:08:14.335Z",
+  "generatedAt": "2026-09-27T12:41:44.860Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 36,
-    "arbeitnow": 3
+    "arbeitnow": 2
   },
-  "count": 110,
+  "count": 109,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-freelancer-group-fitness-instructor-bachenbulach-389715",
+      "title": "Freelancer - Group Fitness Instructor (m/w/d)",
+      "company": "PureGym AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-bachenbulach-389715",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790508623000
+    },
+    {
+      "id": "arbeitnow-remote-senior-data-engineer-zurich-267061",
+      "title": "Senior Data Engineer",
+      "company": "Futurae",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/futurae/remote-senior-data-engineer-zurich-267061",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790508011000
+    },
     {
       "id": "jobicy-151756",
       "title": "Engineering Manager, Notifications",
@@ -385,42 +409,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790493608000
-    },
-    {
-      "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-169377",
-      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-169377",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790454626000
-    },
-    {
-      "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-304395",
-      "title": "Senior Java Backend Developer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-304395",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790454626000
-    },
-    {
-      "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-75190",
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-75190",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790454626000
     },
     {
       "id": "jobicy-151608",
