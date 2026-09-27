@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:08:38.526Z",
+  "generatedAt": "2026-09-27T18:40:40.346Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,18 @@
   },
   "count": 109,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-data-scientist-berlin-388379",
+      "title": "Senior Data Scientist (m/f/x)",
+      "company": "Makersite GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-388379",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790530216000
+    },
     {
       "id": "arbeitnow-remote-product-engineer-85511",
       "title": "Product Engineer",
@@ -71,18 +83,6 @@
       "salaryMax": null,
       "salaryCurrency": "AUD",
       "postedAt": 1790510279000
-    },
-    {
-      "id": "arbeitnow-remote-freelancer-group-fitness-instructor-bachenbulach-389715",
-      "title": "Freelancer - Group Fitness Instructor (m/w/d)",
-      "company": "PureGym AG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-bachenbulach-389715",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790508623000
     },
     {
       "id": "jobicy-151756",
