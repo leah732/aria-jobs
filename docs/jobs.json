@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-27T15:37:43.357Z",
+  "generatedAt": "2026-09-27T16:07:06.421Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
-    "jobicy": 36,
+    "jobicy": 35,
     "arbeitnow": 3
   },
-  "count": 110,
+  "count": 109,
   "jobs": [
     {
       "id": "arbeitnow-remote-product-engineer-85511",
@@ -32,6 +32,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790518803000
+    },
+    {
+      "id": "jobicy-154102",
+      "title": "Manager, Forward Deployed Engineering - CMEG",
+      "company": "Databricks",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154102-manager-forward-deployed-engineering-cmeg",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790510279000
+    },
+    {
+      "id": "jobicy-154099",
+      "title": "Manager, Field Engineering - Strategic Digital Native Business",
+      "company": "Databricks",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154099-manager-field-engineering-strategic-digital-native-business",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790510279000
+    },
+    {
+      "id": "jobicy-154095",
+      "title": "Account Director, Vertical Sales",
+      "company": "StackAdapt",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154095-account-director-vertical-sales",
+      "setup": "wfh",
+      "location": "Australia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "AUD",
+      "postedAt": 1790510279000
     },
     {
       "id": "arbeitnow-remote-freelancer-group-fitness-instructor-bachenbulach-389715",
@@ -423,6 +462,19 @@
       "postedAt": 1790493608000
     },
     {
+      "id": "remoteok-1137434",
+      "title": "Director Payment Integrity",
+      "company": "SIHO Insurance Services ",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1790438426000
+    },
+    {
       "id": "jobicy-151608",
       "title": "ERP System Administrator (Acumatica)",
       "company": "Alimentiv",
@@ -460,58 +512,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790421320000
-    },
-    {
-      "id": "jobicy-147706",
-      "title": "Account Technical Lead (ATL), Enterprise Accounts",
-      "company": "Autodesk",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/147706-account-technical-lead-atl-enterprise-accounts",
-      "setup": "wfh",
-      "location": "Australia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790421314000
-    },
-    {
-      "id": "jobicy-151780",
-      "title": "Director, AI Enablement & Security",
-      "company": "Bloomreach",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151780-director-ai-enablement-security",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790421011000
-    },
-    {
-      "id": "jobicy-151778",
-      "title": "Security Engineer, Infrastructure Security",
-      "company": "OpenAI",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151778-security-engineer-infrastructure-security",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790421010000
-    },
-    {
-      "id": "jobicy-151779",
-      "title": "Staff Backend Engineer",
-      "company": "TeamSnap",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151779-staff-backend-engineer-2",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790421007000
     },
     {
       "id": "remoteok-1137428",
@@ -1433,19 +1433,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785541115000
-    },
-    {
-      "id": "remoteok-1135997",
-      "title": "BMS Service Technician",
-      "company": "Johnson Controls",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785488555000
     }
   ]
 }
