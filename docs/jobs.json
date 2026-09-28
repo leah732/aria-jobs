@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-28T15:40:52.187Z",
+  "generatedAt": "2026-09-28T16:09:07.608Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 45,
+    "jobicy": 46,
     "arbeitnow": 6
   },
-  "count": 121,
+  "count": 122,
   "jobs": [
     {
       "id": "arbeitnow-ai-product-engineer-bielefeld-8892",
@@ -665,6 +665,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790494524000
+    },
+    {
+      "id": "jobicy-151863",
+      "title": "Ads Quality Rater - Bulgarian (Bulgaria)",
+      "company": "Welo Global",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151863-ads-quality-rater-bulgarian-bulgaria",
+      "setup": "wfh",
+      "location": "Bulgaria",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790494523000
     },
     {
       "id": "remoteok-1137434",
