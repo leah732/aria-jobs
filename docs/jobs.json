@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-28T15:10:09.322Z",
+  "generatedAt": "2026-09-28T15:40:52.187Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 45,
-    "arbeitnow": 8
+    "arbeitnow": 6
   },
-  "count": 123,
+  "count": 121,
   "jobs": [
+    {
+      "id": "arbeitnow-ai-product-engineer-bielefeld-8892",
+      "title": "AI Product Engineer",
+      "company": "paddy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-8892",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790604056000
+    },
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-67712",
       "title": "Sales Account Executive - Cybersecurity",
@@ -20,18 +32,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790602215000
-    },
-    {
-      "id": "arbeitnow-head-of-technical-operations-automation-greentech-recycling-teilzeit-32h-remote-moglich-berlin-267477",
-      "title": "Senior Solution Architect / Lead Automation Engineer (m/w/d)  - GreenTech/Recycling (Teilzeit 32h, Remote möglich)",
-      "company": "ecosistant",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecosistant/head-of-technical-operations-automation-greentech-recycling-teilzeit-32h-remote-moglich-berlin-267477",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790601455000
     },
     {
       "id": "arbeitnow-java-entwickler-neues-krankenversicherungssystem-munich-269457",
@@ -56,30 +56,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790596507000
-    },
-    {
-      "id": "arbeitnow-internship-product-management-energy-products-tariffs-berlin-219539",
-      "title": "Internship Product Management Energy Products & Tariffs (m/f/d)",
-      "company": "1KOMMA5˚",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/internship-product-management-energy-products-tariffs-berlin-219539",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790587852000
-    },
-    {
-      "id": "arbeitnow-technical-recruiter-gn-schwerpunkt-softwareentwicklung-berlin-197645",
-      "title": "Technical Recruiter (gn) Schwerpunkt Softwareentwicklung",
-      "company": "New Monday GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/technical-recruiter-gn-schwerpunkt-softwareentwicklung-berlin-197645",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790586037000
     },
     {
       "id": "jobicy-154141",
