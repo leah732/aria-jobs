@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-28T10:08:31.113Z",
+  "generatedAt": "2026-09-28T10:40:06.792Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 45,
-    "arbeitnow": 3
+    "arbeitnow": 4
   },
-  "count": 119,
+  "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-internship-product-management-energy-products-tariffs-berlin-219539",
+      "title": "Internship Product Management Energy Products & Tariffs (m/f/d)",
+      "company": "1KOMMA5˚",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/internship-product-management-energy-products-tariffs-berlin-219539",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790587852000
+    },
+    {
+      "id": "arbeitnow-technical-recruiter-gn-schwerpunkt-softwareentwicklung-berlin-197645",
+      "title": "Technical Recruiter (gn) Schwerpunkt Softwareentwicklung",
+      "company": "New Monday GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/technical-recruiter-gn-schwerpunkt-softwareentwicklung-berlin-197645",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790586037000
+    },
     {
       "id": "jobicy-151929",
       "title": "Staff Design Engineer - UK",
@@ -281,18 +305,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790572643000
-    },
-    {
-      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-386347",
-      "title": "Backend Engineer - Agentic AI (m/w/d)",
-      "company": "Getpress Gmbh",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-386347",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790572193000
     },
     {
       "id": "arbeitnow-remote-full-stack-senior-software-developer-bern-4969",
