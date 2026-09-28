@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-28T13:08:27.756Z",
+  "generatedAt": "2026-09-28T13:42:00.187Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 45,
-    "arbeitnow": 5
+    "arbeitnow": 6
   },
-  "count": 120,
+  "count": 121,
   "jobs": [
+    {
+      "id": "arbeitnow-java-entwickler-neues-krankenversicherungssystem-munich-269457",
+      "title": "Java-Entwickler (m/w/d) neues Krankenversicherungssystem",
+      "company": "citema systems GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/java-entwickler-neues-krankenversicherungssystem-munich-269457",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790598644000
+    },
     {
       "id": "arbeitnow-remote-senior-software-engineer-redapl-graph-engine-47394",
       "title": "Senior Software Engineer - REDAPL Graph Engine",
