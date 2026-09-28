@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-28T22:07:07.585Z",
+  "generatedAt": "2026-09-28T22:37:14.217Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 46,
-    "arbeitnow": 5
+    "arbeitnow": 7
   },
-  "count": 121,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-junior-fullstack-entwickler-fokus-nextjs-berlin-112090",
+      "title": "Junior Fullstack Entwickler Fokus Next.js",
+      "company": "Attek Solutions GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/attek-solutions-gmbh/junior-fullstack-entwickler-fokus-nextjs-berlin-112090",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790631030000
+    },
+    {
+      "id": "arbeitnow-fullstack-entwickler-fokus-nextjs-berlin-156081",
+      "title": "Fullstack Entwickler Fokus Next.js",
+      "company": "Attek Solutions GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/attek-solutions-gmbh/fullstack-entwickler-fokus-nextjs-berlin-156081",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790631030000
+    },
     {
       "id": "arbeitnow-remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
       "title": "Voice Actor: CX Agent Voice Cloning (Swiss German)",
