@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-28T06:09:47.429Z",
+  "generatedAt": "2026-09-28T06:46:52.318Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 36,
-    "arbeitnow": 3
+    "arbeitnow": 4
   },
-  "count": 110,
+  "count": 111,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-386347",
+      "title": "Backend Engineer - Agentic AI (m/w/d)",
+      "company": "Getpress Gmbh",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-386347",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790572193000
+    },
     {
       "id": "arbeitnow-remote-full-stack-senior-software-developer-bern-4969",
       "title": "Full Stack Senior Software Developer",
