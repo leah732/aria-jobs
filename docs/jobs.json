@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-29T15:10:32.209Z",
+  "generatedAt": "2026-09-29T15:41:47.275Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 47,
-    "arbeitnow": 7
+    "arbeitnow": 9
   },
-  "count": 124,
+  "count": 126,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-network-operation-engineer-320363",
+      "title": "Network Operation Engineer",
+      "company": "Share",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/share/remote-network-operation-engineer-320363",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790692803000
+    },
+    {
+      "id": "arbeitnow-senior-consultant-planning-forecasting-gescher-174522",
+      "title": "(Senior) Consultant (m/w/d) Planning & Forecasting",
+      "company": "Windhoff Group",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/senior-consultant-planning-forecasting-gescher-174522",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790692245000
+    },
     {
       "id": "arbeitnow-working-student-full-stack-developer-nextjs-stuttgart-79721",
       "title": "Working Student (m/f/d) Full-Stack Developer - Next.js",
