@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-09-29T12:09:42.135Z",
+  "generatedAt": "2026-09-29T12:45:55.398Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 47,
-    "arbeitnow": 6
+    "arbeitnow": 7
   },
-  "count": 123,
+  "count": 124,
   "jobs": [
     {
-      "id": "arbeitnow-mainframe-engineer-munich-56224",
-      "title": "Mainframe Engineer (w/m/d)",
-      "company": "CPU Consulting & Software GmbH",
+      "id": "arbeitnow-remote-network-developer-269751",
+      "title": "Network Developer",
+      "company": "Share",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/mainframe-engineer-munich-56224",
+      "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-developer-269751",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1790679633000
+      "postedAt": 1790682013000
+    },
+    {
+      "id": "arbeitnow-remote-network-operation-engineer-411432",
+      "title": "Network Operation Engineer",
+      "company": "Share",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790682013000
     },
     {
       "id": "arbeitnow-ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-407254",
