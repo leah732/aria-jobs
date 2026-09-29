@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T07:09:26.586Z",
+  "generatedAt": "2026-09-29T07:40:28.051Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 47,
-    "arbeitnow": 6
+    "arbeitnow": 5
   },
-  "count": 123,
+  "count": 122,
   "jobs": [
     {
       "id": "arbeitnow-remote-project-manager-software-implementation-berlin-77113",
@@ -202,18 +202,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790652610000
-    },
-    {
-      "id": "arbeitnow-remote-staff-software-engineer-security-agent-321424",
-      "title": "Staff Software Engineer - Security Agent",
-      "company": "Datadog",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-staff-software-engineer-security-agent-321424",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790650514000
     },
     {
       "id": "arbeitnow-remote-senior-software-engineer-quality-4113",
