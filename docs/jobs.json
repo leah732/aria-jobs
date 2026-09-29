@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T17:07:31.929Z",
+  "generatedAt": "2026-09-29T17:40:21.042Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 45,
+    "jobicy": 44,
     "arbeitnow": 9
   },
-  "count": 124,
+  "count": 123,
   "jobs": [
     {
       "id": "arbeitnow-remote-network-operation-engineer-320363",
@@ -32,6 +32,58 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790692245000
+    },
+    {
+      "id": "jobicy-154179",
+      "title": "Senior Sales Engineer - Enterprise (West)",
+      "company": "Amplitude",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154179-senior-sales-engineer-enterprise-west",
+      "setup": "wfh",
+      "location": "Canada,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790689159000
+    },
+    {
+      "id": "jobicy-154181",
+      "title": "Staff Software Engineer - DevX",
+      "company": "Amplitude",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154181-staff-software-engineer-devx",
+      "setup": "wfh",
+      "location": "Canada,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790689156000
+    },
+    {
+      "id": "jobicy-154183",
+      "title": "Senior Software Engineer, Fullstack",
+      "company": "Webflow",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154183-senior-software-engineer-fullstack-2",
+      "setup": "wfh",
+      "location": "Argentina",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790689154000
+    },
+    {
+      "id": "jobicy-154177",
+      "title": "IT Support Specialist",
+      "company": "Webflow",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154177-it-support-specialist-2",
+      "setup": "wfh",
+      "location": "Argentina",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790689148000
     },
     {
       "id": "arbeitnow-working-student-full-stack-developer-nextjs-stuttgart-79721",
@@ -636,71 +688,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790572833000
-    },
-    {
-      "id": "jobicy-151950",
-      "title": "QA Engineer",
-      "company": "Workwize",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151950-qa-engineer-4",
-      "setup": "wfh",
-      "location": "Europe",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790572827000
-    },
-    {
-      "id": "jobicy-151946",
-      "title": "Customer Success Engineer with German",
-      "company": "Veeam Software",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151946-customer-success-engineer-with-german",
-      "setup": "wfh",
-      "location": "Poland",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790572824000
-    },
-    {
-      "id": "jobicy-151932",
-      "title": "Sales Engineer | EMEIA",
-      "company": "Jamf",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151932-sales-engineer-emeia",
-      "setup": "wfh",
-      "location": "Germany",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790572818000
-    },
-    {
-      "id": "jobicy-143041",
-      "title": "Platform Engineer",
-      "company": "Defense Unicorns",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/143041-platform-engineer",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790572816000
-    },
-    {
-      "id": "jobicy-142385",
-      "title": "(Senior) Information Security Architect (f/m/d)",
-      "company": "GLS Germany GmbH &#038; Co. OHG",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/142385-senior-information-security-architect-f-m-d",
-      "setup": "wfh",
-      "location": "Germany",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790572812000
     },
     {
       "id": "remoteok-1137434",
