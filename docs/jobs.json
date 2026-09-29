@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T19:08:18.172Z",
+  "generatedAt": "2026-09-29T19:39:26.508Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 52,
+    "jobicy": 53,
     "arbeitnow": 8
   },
-  "count": 130,
+  "count": 131,
   "jobs": [
     {
       "id": "jobicy-154223",
@@ -756,6 +756,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790618929000
+    },
+    {
+      "id": "jobicy-154156",
+      "title": "Public Sector Account Executive, SLED - Boston, MA",
+      "company": "DeleteMe",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154156-public-sector-account-executive-sled-boston-ma",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790618928000
     },
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-67712",
