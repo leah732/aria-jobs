@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T16:41:28.919Z",
+  "generatedAt": "2026-09-29T17:07:31.929Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 46,
+    "jobicy": 45,
     "arbeitnow": 9
   },
-  "count": 125,
+  "count": 124,
   "jobs": [
     {
       "id": "arbeitnow-remote-network-operation-engineer-320363",
@@ -701,19 +701,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790572812000
-    },
-    {
-      "id": "jobicy-151940",
-      "title": "Delivery Solutions Architect",
-      "company": "Databricks",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151940-delivery-solutions-architect",
-      "setup": "wfh",
-      "location": "Denmark,  Finland,  Sweden",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790572811000
     },
     {
       "id": "remoteok-1137434",
