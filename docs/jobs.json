@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T18:09:59.595Z",
+  "generatedAt": "2026-09-29T18:43:14.941Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 48,
-    "arbeitnow": 9
+    "arbeitnow": 8
   },
-  "count": 127,
+  "count": 126,
   "jobs": [
     {
       "id": "jobicy-154199",
@@ -227,18 +227,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790689148000
-    },
-    {
-      "id": "arbeitnow-working-student-full-stack-developer-nextjs-stuttgart-79721",
-      "title": "Working Student (m/f/d) Full-Stack Developer - Next.js",
-      "company": "CBAM Estimator GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/cbam-estimator-gmbh/working-student-full-stack-developer-nextjs-stuttgart-79721",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790685028000
     },
     {
       "id": "jobicy-143732",
@@ -1140,19 +1128,6 @@
       "postedAt": 1789221603000
     },
     {
-      "id": "remoteok-1137380",
-      "title": "Engineering Manager TLM Platform",
-      "company": "Harper",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1789084835000
-    },
-    {
       "id": "remotive-2086540",
       "title": "Inside Sales Contractor",
       "company": "Credit Wellness, LLC",
@@ -1402,19 +1377,6 @@
       "postedAt": 1786752025000
     },
     {
-      "id": "remoteok-1136670",
-      "title": "Engineering Manager Thailand",
-      "company": "Bjak ",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1786694404000
-    },
-    {
       "id": "remoteok-1136878",
       "title": "Engineer Estimator",
       "company": "Crystalia Glass LLC",
@@ -1660,6 +1622,32 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785541115000
+    },
+    {
+      "id": "remoteok-1135997",
+      "title": "BMS Service Technician",
+      "company": "Johnson Controls",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785488555000
+    },
+    {
+      "id": "remoteok-1135745",
+      "title": "Regional General Manager Airports",
+      "company": "WestJet",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785462896000
     }
   ]
 }
