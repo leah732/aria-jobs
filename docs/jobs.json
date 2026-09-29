@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T15:41:47.275Z",
+  "generatedAt": "2026-09-29T16:09:11.865Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 47,
+    "jobicy": 46,
     "arbeitnow": 9
   },
-  "count": 126,
+  "count": 125,
   "jobs": [
     {
       "id": "arbeitnow-remote-network-operation-engineer-320363",
@@ -44,6 +44,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790685028000
+    },
+    {
+      "id": "jobicy-143732",
+      "title": "Senior Partner Solutions Engineer",
+      "company": "Akamai Technologies",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
+      "setup": "wfh",
+      "location": "Sweden",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790684643000
     },
     {
       "id": "arbeitnow-remote-network-developer-269751",
@@ -701,32 +714,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790572811000
-    },
-    {
-      "id": "jobicy-142468",
-      "title": "Senior Software Engineer, Product Engineering, EU",
-      "company": "Ashby",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
-      "setup": "wfh",
-      "location": "Europe",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "EUR",
-      "postedAt": 1790572810000
-    },
-    {
-      "id": "jobicy-142467",
-      "title": "Staff Software Engineer, Product Engineering, EU",
-      "company": "Ashby",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/142467-staff-software-engineer-product-engineering-eu",
-      "setup": "wfh",
-      "location": "Europe",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "EUR",
-      "postedAt": 1790572807000
     },
     {
       "id": "remoteok-1137434",
