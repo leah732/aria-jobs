@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:41:35.147Z",
+  "generatedAt": "2026-09-29T15:10:32.209Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -588,19 +588,6 @@
       "postedAt": 1790573104000
     },
     {
-      "id": "jobicy-151956",
-      "title": "Associate Technical Account Manager",
-      "company": "Keyfactor, Inc.",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151956-associate-technical-account-manager",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790572835000
-    },
-    {
       "id": "jobicy-151953",
       "title": "Senior Account Executive - Public Sector",
       "company": "EDB",
@@ -703,6 +690,19 @@
       "salaryMax": null,
       "salaryCurrency": "EUR",
       "postedAt": 1790572810000
+    },
+    {
+      "id": "jobicy-142467",
+      "title": "Staff Software Engineer, Product Engineering, EU",
+      "company": "Ashby",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/142467-staff-software-engineer-product-engineering-eu",
+      "setup": "wfh",
+      "location": "Europe",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "EUR",
+      "postedAt": 1790572807000
     },
     {
       "id": "remoteok-1137434",
