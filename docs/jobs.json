@@ -1,14 +1,40 @@
 {
-  "generatedAt": "2026-09-29T21:06:52.967Z",
+  "generatedAt": "2026-09-29T21:39:03.126Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 53,
-    "arbeitnow": 8
+    "jobicy": 51,
+    "arbeitnow": 6
   },
-  "count": 131,
+  "count": 127,
   "jobs": [
+    {
+      "id": "jobicy-154239",
+      "title": "Director of People Operations",
+      "company": "Tekmetric",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154239-director-of-people-operations",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790704502000
+    },
+    {
+      "id": "jobicy-154237",
+      "title": "Director, Customer Success Operations",
+      "company": "Tekmetric",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154237-director-customer-success-operations",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790704488000
+    },
     {
       "id": "jobicy-154223",
       "title": "Senior AI Engineer",
@@ -270,18 +296,6 @@
       "postedAt": 1790692907000
     },
     {
-      "id": "arbeitnow-remote-network-operation-engineer-320363",
-      "title": "Network Operation Engineer",
-      "company": "Share",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/share/remote-network-operation-engineer-320363",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790692803000
-    },
-    {
       "id": "jobicy-154193",
       "title": "Advanced Support Payments",
       "company": "Cloudbeds",
@@ -319,18 +333,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790692365000
-    },
-    {
-      "id": "arbeitnow-senior-consultant-planning-forecasting-gescher-174522",
-      "title": "(Senior) Consultant (m/w/d) Planning & Forecasting",
-      "company": "Windhoff Group",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/senior-consultant-planning-forecasting-gescher-174522",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790692245000
     },
     {
       "id": "jobicy-154179",
@@ -717,58 +719,6 @@
       "salaryMax": null,
       "salaryCurrency": "EUR",
       "postedAt": 1790618947000
-    },
-    {
-      "id": "jobicy-154155",
-      "title": "Staff AI Engineer",
-      "company": "Nextiva",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154155-staff-ai-engineer-2",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790618930000
-    },
-    {
-      "id": "jobicy-154150",
-      "title": "Director Demand Generation",
-      "company": "Maze",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154150-director-demand-generation",
-      "setup": "wfh",
-      "location": "Canada,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790618929000
-    },
-    {
-      "id": "jobicy-154148",
-      "title": "Senior Sales Engineer",
-      "company": "Built Technologies",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154148-senior-sales-engineer-7",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790618929000
-    },
-    {
-      "id": "jobicy-154156",
-      "title": "Public Sector Account Executive, SLED - Boston, MA",
-      "company": "DeleteMe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154156-public-sector-account-executive-sled-boston-ma",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790618928000
     },
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-67712",
