@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-30T21:07:09.614Z",
+  "generatedAt": "2026-09-30T21:41:19.391Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 41,
-    "arbeitnow": 13
+    "arbeitnow": 11
   },
-  "count": 124,
+  "count": 122,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-30065",
@@ -68,30 +68,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790780136000
-    },
-    {
-      "id": "arbeitnow-remote-cloud-engineer-cloud-betrieb-von-saas-losungen-berlin-150617",
-      "title": "Cloud Engineer (m/w/x) – Cloud-Betrieb von SaaS-Lösungen",
-      "company": "VertiGIS GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/vertigis-gmbh/remote-cloud-engineer-cloud-betrieb-von-saas-losungen-berlin-150617",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790778629000
-    },
-    {
-      "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-179781",
-      "title": "(Senior) AI Product Engineer (m/w/d)",
-      "company": "Legalhero",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-179781",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790777395000
     },
     {
       "id": "arbeitnow-remote-senior-experience-engineer-217975",
