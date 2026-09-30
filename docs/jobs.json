@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-09-30T08:09:38.962Z",
+  "generatedAt": "2026-09-30T08:42:00.840Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 50,
-    "arbeitnow": 6
+    "arbeitnow": 10
   },
-  "count": 126,
+  "count": 130,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-sales-support-account-operations-specialist-arabic-french-and-english-france-11700",
+      "title": "Sales Support & Account Operations Specialist (Arabic, French and English)",
+      "company": "Brixio",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-sales-support-account-operations-specialist-arabic-french-and-english-france-11700",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790752808000
+    },
+    {
+      "id": "arbeitnow-remote-professional-services-engineer-cloudflare-implementation-france-337081",
+      "title": "Professional Services Engineer - Cloudflare Implementation",
+      "company": "Brixio",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-professional-services-engineer-cloudflare-implementation-france-337081",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790752808000
+    },
+    {
+      "id": "arbeitnow-remote-msp-engineer-network-and-security-rotating-shifts-france-373290",
+      "title": "MSP Engineer, Network and Security - Rotating shifts",
+      "company": "Brixio",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-msp-engineer-network-and-security-rotating-shifts-france-373290",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790752808000
+    },
+    {
+      "id": "arbeitnow-remote-customer-success-manager-managed-services-and-support-france-93431",
+      "title": "Customer Success Manager, Managed Services and Support",
+      "company": "Brixio",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-customer-success-manager-managed-services-and-support-france-93431",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790752808000
+    },
     {
       "id": "jobicy-152074",
       "title": "Blockchain Engineer 区块链开发工程师",
