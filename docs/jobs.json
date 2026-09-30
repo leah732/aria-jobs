@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-30T03:07:48.318Z",
+  "generatedAt": "2026-09-30T03:41:31.880Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 50,
-    "arbeitnow": 5
+    "arbeitnow": 6
   },
-  "count": 125,
+  "count": 126,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-software-engineer-quality-67277",
+      "title": "Senior Software Engineer, Quality",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-quality-67277",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790736013000
+    },
     {
       "id": "jobicy-154239",
       "title": "Director of People Operations",
