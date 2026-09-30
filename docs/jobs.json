@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-30T10:08:50.413Z",
+  "generatedAt": "2026-09-30T10:40:54.752Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 50,
-    "arbeitnow": 10
+    "arbeitnow": 11
   },
-  "count": 130,
+  "count": 131,
   "jobs": [
+    {
+      "id": "arbeitnow-junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
+      "title": "Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschreibung Read Description Before",
+      "company": "uNaice GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790762442000
+    },
     {
       "id": "arbeitnow-werkstudent-full-stack-entwicklung-munich-196366",
       "title": "Werkstudent Full-Stack Entwicklung (m/w/d)",
