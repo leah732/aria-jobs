@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-30T00:46:29.643Z",
+  "generatedAt": "2026-09-30T01:08:46.710Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 50,
+    "jobicy": 51,
     "arbeitnow": 5
   },
-  "count": 125,
+  "count": 126,
   "jobs": [
     {
       "id": "jobicy-154239",
@@ -461,6 +461,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790652914000
+    },
+    {
+      "id": "jobicy-152061",
+      "title": "Director of Product Management - US Remote",
+      "company": "PerfectServe",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152061-director-of-product-management-us-remote",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790652912000
     },
     {
       "id": "jobicy-152057",
