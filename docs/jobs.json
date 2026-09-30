@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-30T16:10:06.534Z",
+  "generatedAt": "2026-09-30T16:40:52.900Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 41,
-    "arbeitnow": 13
+    "arbeitnow": 14
   },
-  "count": 124,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-unpaid-mandatory-internship-software-test-qa-automation-engineer-berlin-320686",
+      "title": "(Unpaid) Mandatory Internship : Software Test (QA) Automation Engineer",
+      "company": "IndieKidz GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-mandatory-internship-software-test-qa-automation-engineer-berlin-320686",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790782270000
+    },
     {
       "id": "arbeitnow-remote-forward-deployed-engineer-emea-407864",
       "title": "Forward Deployed Engineer - EMEA",
