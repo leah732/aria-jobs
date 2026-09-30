@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T09:07:54.268Z",
+  "generatedAt": "2026-09-30T09:42:23.622Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,18 @@
   },
   "count": 130,
   "jobs": [
+    {
+      "id": "arbeitnow-werkstudent-full-stack-entwicklung-munich-196366",
+      "title": "Werkstudent Full-Stack Entwicklung (m/w/d)",
+      "company": "SC Media House",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sc-media-house/werkstudent-full-stack-entwicklung-munich-196366",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790757046000
+    },
     {
       "id": "arbeitnow-remote-sales-support-account-operations-specialist-arabic-french-and-english-france-11700",
       "title": "Sales Support & Account Operations Specialist (Arabic, French and English)",
@@ -381,18 +393,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790740508000
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-engineer-quality-67277",
-      "title": "Senior Software Engineer, Quality",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-quality-67277",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790736013000
     },
     {
       "id": "jobicy-154239",
