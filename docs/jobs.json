@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-09-30T18:09:10.613Z",
+  "generatedAt": "2026-09-30T18:43:38.508Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 41,
-    "arbeitnow": 14
+    "arbeitnow": 17
   },
-  "count": 125,
+  "count": 128,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-30065",
+      "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
+      "company": "Contabo",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-30065",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790788155000
+    },
+    {
+      "id": "arbeitnow-remote-senior-network-engineer-all-genders-456157",
+      "title": "Senior Network Engineer (all genders)",
+      "company": "Contabo",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-456157",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790788155000
+    },
+    {
+      "id": "arbeitnow-remote-director-marketing-all-genders-gportal-ociris-gmbh-186778",
+      "title": "Director Marketing (all genders) - GPORTAL (Ociris GmbH)",
+      "company": "Contabo",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-director-marketing-all-genders-gportal-ociris-gmbh-186778",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790788155000
+    },
     {
       "id": "arbeitnow-unpaid-mandatory-internship-software-test-qa-automation-engineer-berlin-320686",
       "title": "(Unpaid) Mandatory Internship : Software Test (QA) Automation Engineer",
