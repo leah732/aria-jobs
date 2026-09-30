@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-30T14:11:15.584Z",
+  "generatedAt": "2026-09-30T14:43:03.791Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 41,
-    "arbeitnow": 16
+    "arbeitnow": 11
   },
-  "count": 127,
+  "count": 122,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-devops-engineer-bromley-254823",
@@ -80,18 +80,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790762442000
-    },
-    {
-      "id": "arbeitnow-werkstudent-full-stack-entwicklung-munich-196366",
-      "title": "Werkstudent Full-Stack Entwicklung (m/w/d)",
-      "company": "SC Media House",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/sc-media-house/werkstudent-full-stack-entwicklung-munich-196366",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790757046000
     },
     {
       "id": "jobicy-154291",
@@ -287,54 +275,6 @@
       "salaryMax": null,
       "salaryCurrency": "BRL",
       "postedAt": 1790755207000
-    },
-    {
-      "id": "arbeitnow-remote-sales-support-account-operations-specialist-arabic-french-and-english-france-11700",
-      "title": "Sales Support & Account Operations Specialist (Arabic, French and English)",
-      "company": "Brixio",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-sales-support-account-operations-specialist-arabic-french-and-english-france-11700",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790752808000
-    },
-    {
-      "id": "arbeitnow-remote-professional-services-engineer-cloudflare-implementation-france-337081",
-      "title": "Professional Services Engineer - Cloudflare Implementation",
-      "company": "Brixio",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-professional-services-engineer-cloudflare-implementation-france-337081",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790752808000
-    },
-    {
-      "id": "arbeitnow-remote-msp-engineer-network-and-security-rotating-shifts-france-373290",
-      "title": "MSP Engineer, Network and Security - Rotating shifts",
-      "company": "Brixio",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-msp-engineer-network-and-security-rotating-shifts-france-373290",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790752808000
-    },
-    {
-      "id": "arbeitnow-remote-customer-success-manager-managed-services-and-support-france-93431",
-      "title": "Customer Success Manager, Managed Services and Support",
-      "company": "Brixio",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-customer-success-manager-managed-services-and-support-france-93431",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790752808000
     },
     {
       "id": "jobicy-152074",
