@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-09-30T13:10:48.431Z",
+  "generatedAt": "2026-09-30T13:40:26.469Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 41,
-    "arbeitnow": 12
+    "arbeitnow": 16
   },
-  "count": 123,
+  "count": 127,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-devops-engineer-bromley-254823",
+      "title": "Senior DevOps Engineer",
+      "company": "Bromcom Computers Plc",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-senior-devops-engineer-bromley-254823",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790771403000
+    },
+    {
+      "id": "arbeitnow-remote-devops-team-manager-bromley-322927",
+      "title": "DevOps Team Manager",
+      "company": "Bromcom Computers Plc",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-devops-team-manager-bromley-322927",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790771403000
+    },
+    {
+      "id": "arbeitnow-remote-net-full-stack-developer-bromley-144137",
+      "title": ".NET Full-Stack Developer",
+      "company": "Bromcom Computers Plc",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-net-full-stack-developer-bromley-144137",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790771403000
+    },
+    {
+      "id": "arbeitnow-remote-technical-quality-assurance-manager-bromley-324925",
+      "title": "Technical Quality Assurance Manager",
+      "company": "Bromcom Computers Plc",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-technical-quality-assurance-manager-bromley-324925",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790771403000
+    },
     {
       "id": "arbeitnow-remote-senior-experience-engineer-217975",
       "title": "Senior Experience Engineer",
