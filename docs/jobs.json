@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-01T16:08:21.993Z",
+  "generatedAt": "2026-10-01T16:40:17.216Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 44,
-    "arbeitnow": 9
+    "arbeitnow": 10
   },
-  "count": 123,
+  "count": 124,
   "jobs": [
+    {
+      "id": "arbeitnow-digital-marketing-specialist-mwd-wurzburg-304342",
+      "title": "Digital Marketing Specialist (m|w|d)",
+      "company": "Simplifier AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/simplifier-ag/digital-marketing-specialist-mwd-wurzburg-304342",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790868632000
+    },
+    {
+      "id": "arbeitnow-web-developer-full-time-munich-243414",
+      "title": "Web Developer | Full Time (m/w/d)",
+      "company": "CONROO GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/conroo-gmbh/web-developer-full-time-munich-243414",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790866836000
+    },
     {
       "id": "arbeitnow-remote-forward-deployed-engineer-gilching-207001",
       "title": "Forward Deployed Engineer (m/f/d)",
@@ -32,18 +56,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790859636000
-    },
-    {
-      "id": "arbeitnow-lead-engineer-leipzig-1901",
-      "title": "Lead Engineer",
-      "company": "SEDIWORK",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/sediwork/lead-engineer-leipzig-1901",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790850629000
     },
     {
       "id": "jobicy-154346",
