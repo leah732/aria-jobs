@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-01T10:09:28.495Z",
+  "generatedAt": "2026-10-01T10:40:55.409Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 44,
+    "jobicy": 43,
     "arbeitnow": 12
   },
-  "count": 126,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-336691",
+      "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "company": "Auralis Group",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-336691",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790848829000
+    },
     {
       "id": "arbeitnow-werkstudent-it-systemadministration-100-remote-regen-259249",
       "title": "Werkstudent IT-Systemadministration (m/w/d) - 100% remote",
@@ -639,31 +651,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790826624000
-    },
-    {
-      "id": "jobicy-148936",
-      "title": "Customer Engineer - Auckland",
-      "company": "NCR Voyix",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/148936-customer-engineer-auckland",
-      "setup": "wfh",
-      "location": "New Zealand",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "NZD",
-      "postedAt": 1790826622000
-    },
-    {
-      "id": "arbeitnow-remote-forward-deployed-ai-engineer-birmingham-460033",
-      "title": "Forward Deployed AI Engineer",
-      "company": "gravity9",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-460033",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790825418000
     },
     {
       "id": "arbeitnow-remote-senior-experience-engineer-217975",
