@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-01T22:06:36.847Z",
+  "generatedAt": "2026-10-01T22:39:48.757Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 50,
-    "arbeitnow": 12
+    "arbeitnow": 13
   },
-  "count": 132,
+  "count": 133,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-solution-architect-sap-wm-uk-78264",
+      "title": "Solution Architect (SAP WM)",
+      "company": "The Config Team",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-solution-architect-sap-wm-uk-78264",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790890210000
+    },
     {
       "id": "arbeitnow-principal-identity-and-access-management-consultant-london-97896",
       "title": "Principal Identity and Access Management Consultant",
