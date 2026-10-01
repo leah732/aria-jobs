@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-01T23:05:44.776Z",
+  "generatedAt": "2026-10-01T23:38:26.466Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 50,
-    "arbeitnow": 13
+    "arbeitnow": 15
   },
-  "count": 133,
+  "count": 135,
   "jobs": [
+    {
+      "id": "arbeitnow-technical-outsource-manager-munich-267436",
+      "title": "Technical Outsource Manager (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/technical-outsource-manager-munich-267436",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790895638000
+    },
+    {
+      "id": "arbeitnow-fullstack-entwickler-munich-111662",
+      "title": "Fullstack Entwickler (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/fullstack-entwickler-munich-111662",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790893828000
+    },
+    {
+      "id": "arbeitnow-embedded-softwareentwickler-munich-57373",
+      "title": "Embedded Softwareentwickler (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/embedded-softwareentwickler-munich-57373",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790892037000
+    },
     {
       "id": "arbeitnow-remote-solution-architect-sap-wm-uk-78264",
       "title": "Solution Architect (SAP WM)",
@@ -404,18 +440,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790829178000
-    },
-    {
-      "id": "arbeitnow-remote-conversational-ai-application-developer-english-and-french-speaker-france-410860",
-      "title": "Conversational AI Application Developer (English and French Speaker)",
-      "company": "Omilia Natural Language Solutions Ua Ltd",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/omilia-natural-language-solutions-ua-ltd/remote-conversational-ai-application-developer-english-and-french-speaker-france-410860",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790828407000
     },
     {
       "id": "jobicy-152256",
