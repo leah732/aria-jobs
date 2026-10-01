@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-01T13:10:58.405Z",
+  "generatedAt": "2026-10-01T13:42:17.486Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 44,
-    "arbeitnow": 9
+    "arbeitnow": 10
   },
-  "count": 123,
+  "count": 124,
   "jobs": [
+    {
+      "id": "arbeitnow-werkstudentin-digital-learning-fur-die-erstellung-von-digitalen-lernprodukten-heidelberg-473566",
+      "title": "Werkstudent:in Digital Learning (m/w/x) für die Erstellung von digitalen Lernprodukten",
+      "company": "GFN GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/werkstudentin-digital-learning-fur-die-erstellung-von-digitalen-lernprodukten-heidelberg-473566",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790859636000
+    },
     {
       "id": "arbeitnow-lead-engineer-leipzig-1901",
       "title": "Lead Engineer",
