@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-01T11:08:30.929Z",
+  "generatedAt": "2026-10-01T11:40:32.639Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 44,
-    "arbeitnow": 12
+    "arbeitnow": 11
   },
-  "count": 126,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-lead-engineer-leipzig-1901",
+      "title": "Lead Engineer",
+      "company": "SEDIWORK",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sediwork/lead-engineer-leipzig-1901",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790850629000
+    },
     {
       "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-336691",
       "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
@@ -90,30 +102,6 @@
       "company": "virtual7 GmbH",
       "source": "Arbeitnow",
       "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-463082",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790832621000
-    },
-    {
-      "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-267476",
-      "title": "Senior Java Backend Developer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-267476",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790832621000
-    },
-    {
-      "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-117589",
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-117589",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
