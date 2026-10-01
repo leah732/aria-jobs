@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-01T20:07:37.808Z",
+  "generatedAt": "2026-10-01T20:41:48.568Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 50,
-    "arbeitnow": 10
+    "arbeitnow": 11
   },
-  "count": 130,
+  "count": 131,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-safety-officer-helicopter-engineer-ach135-yacht-based-med-caribbean-france-367418",
+      "title": "Safety Officer / Helicopter Engineer - ACH135 | Yacht-Based | Med & Caribbean",
+      "company": "Elesta",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/elesta/remote-safety-officer-helicopter-engineer-ach135-yacht-based-med-caribbean-france-367418",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790882403000
+    },
     {
       "id": "arbeitnow-digital-marketing-specialist-mwd-wurzburg-304342",
       "title": "Digital Marketing Specialist (m|w|d)",
