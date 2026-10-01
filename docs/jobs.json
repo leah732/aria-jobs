@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-01T04:08:24.951Z",
+  "generatedAt": "2026-10-01T04:42:26.457Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 41,
-    "arbeitnow": 7
+    "arbeitnow": 8
   },
-  "count": 118,
+  "count": 119,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-forward-deployed-ai-engineer-birmingham-460033",
+      "title": "Forward Deployed AI Engineer",
+      "company": "gravity9",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-460033",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790825418000
+    },
     {
       "id": "arbeitnow-remote-senior-director-growth-marketing-karlsruhe-185764",
       "title": "Senior Director, Growth Marketing (m/f/d)",
