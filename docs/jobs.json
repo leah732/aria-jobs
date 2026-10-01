@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T09:41:39.699Z",
+  "generatedAt": "2026-10-01T10:09:28.495Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 43,
+    "jobicy": 44,
     "arbeitnow": 12
   },
-  "count": 125,
+  "count": 126,
   "jobs": [
     {
       "id": "arbeitnow-werkstudent-it-systemadministration-100-remote-regen-259249",
@@ -639,6 +639,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790826624000
+    },
+    {
+      "id": "jobicy-148936",
+      "title": "Customer Engineer - Auckland",
+      "company": "NCR Voyix",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/148936-customer-engineer-auckland",
+      "setup": "wfh",
+      "location": "New Zealand",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "NZD",
+      "postedAt": 1790826622000
     },
     {
       "id": "arbeitnow-remote-forward-deployed-ai-engineer-birmingham-460033",
