@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-01T21:06:40.910Z",
+  "generatedAt": "2026-10-01T21:41:31.631Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 50,
-    "arbeitnow": 11
+    "arbeitnow": 12
   },
-  "count": 131,
+  "count": 132,
   "jobs": [
+    {
+      "id": "arbeitnow-principal-identity-and-access-management-consultant-london-97896",
+      "title": "Principal Identity and Access Management Consultant",
+      "company": "Intelance",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/principal-identity-and-access-management-consultant-london-97896",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790886630000
+    },
+    {
+      "id": "arbeitnow-senior-microsoft-identity-engineer-entra-id-and-microsoft-365-london-118133",
+      "title": "Senior Microsoft Identity Engineer (Entra ID and Microsoft 365)",
+      "company": "Intelance",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/senior-microsoft-identity-engineer-entra-id-and-microsoft-365-london-118133",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790886629000
+    },
     {
       "id": "arbeitnow-remote-safety-officer-helicopter-engineer-ach135-yacht-based-med-caribbean-france-367418",
       "title": "Safety Officer / Helicopter Engineer - ACH135 | Yacht-Based | Med & Caribbean",
@@ -56,18 +80,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790865042000
-    },
-    {
-      "id": "arbeitnow-werkstudentin-digital-learning-fur-die-erstellung-von-digitalen-lernprodukten-heidelberg-473566",
-      "title": "Werkstudent:in Digital Learning (m/w/x) für die Erstellung von digitalen Lernprodukten",
-      "company": "GFN GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/werkstudentin-digital-learning-fur-die-erstellung-von-digitalen-lernprodukten-heidelberg-473566",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790859636000
     },
     {
       "id": "jobicy-154346",
