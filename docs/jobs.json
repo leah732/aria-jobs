@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T10:40:55.409Z",
+  "generatedAt": "2026-10-01T11:08:30.929Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 43,
+    "jobicy": 44,
     "arbeitnow": 12
   },
-  "count": 125,
+  "count": 126,
   "jobs": [
     {
       "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-336691",
@@ -651,6 +651,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790826624000
+    },
+    {
+      "id": "jobicy-148936",
+      "title": "Customer Engineer - Auckland",
+      "company": "NCR Voyix",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/148936-customer-engineer-auckland",
+      "setup": "wfh",
+      "location": "New Zealand",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "NZD",
+      "postedAt": 1790826622000
     },
     {
       "id": "arbeitnow-remote-senior-experience-engineer-217975",
