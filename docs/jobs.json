@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-01T09:09:13.931Z",
+  "generatedAt": "2026-10-01T09:41:39.699Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 45,
-    "arbeitnow": 13
+    "jobicy": 43,
+    "arbeitnow": 12
   },
-  "count": 128,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-werkstudent-it-systemadministration-100-remote-regen-259249",
+      "title": "Werkstudent IT-Systemadministration (m/w/d) - 100% remote",
+      "company": "FastRocket GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/werkstudent-it-systemadministration-100-remote-regen-259249",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790845239000
+    },
     {
       "id": "arbeitnow-berater-digitalisierung-public-sector-bayern-100-remote-dusseldorf-360970",
       "title": "Berater Digitalisierung Public Sector Bayern (m/w/d) 100% Remote",
@@ -20,6 +32,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790836232000
+    },
+    {
+      "id": "jobicy-154346",
+      "title": "Software Engineer I, Agentic Platform EMEA (Poland, Remote, B2B)",
+      "company": "Samsara",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154346-software-engineer-i-agentic-platform-emea-poland-remote-b2b",
+      "setup": "wfh",
+      "location": "Poland",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "PLN",
+      "postedAt": 1790832719000
+    },
+    {
+      "id": "jobicy-154340",
+      "title": "Developer Advocate - Service Management EMEA",
+      "company": "Datadog",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154340-developer-advocate-service-management-emea",
+      "setup": "wfh",
+      "location": "France,  Netherlands,  Spain",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790832718000
+    },
+    {
+      "id": "jobicy-154343",
+      "title": "Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B)",
+      "company": "Samsara",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154343-senior-software-engineer-agentic-customer-platform-poland-remote-b2b",
+      "setup": "wfh",
+      "location": "Poland",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790832716000
     },
     {
       "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-463082",
@@ -56,6 +107,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790832621000
+    },
+    {
+      "id": "jobicy-154330",
+      "title": "Senior Software Engineer, Canvas Core",
+      "company": "Mural",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154330-senior-software-engineer-canvas-core-2",
+      "setup": "wfh",
+      "location": "Argentina,  Canada,  UK",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "GBP",
+      "postedAt": 1790832535000
+    },
+    {
+      "id": "jobicy-154331",
+      "title": "Senior Data Analyst (Fully Remote)",
+      "company": "PadSplit",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154331-senior-data-analyst-fully-remote",
+      "setup": "wfh",
+      "location": "LATAM",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790832533000
+    },
+    {
+      "id": "jobicy-154333",
+      "title": "Software Engineer, Platform Engineering",
+      "company": "Mural",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154333-software-engineer-platform-engineering",
+      "setup": "wfh",
+      "location": "Argentina",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790832532000
     },
     {
       "id": "jobicy-154320",
@@ -551,110 +641,6 @@
       "postedAt": 1790826624000
     },
     {
-      "id": "jobicy-148936",
-      "title": "Customer Engineer - Auckland",
-      "company": "NCR Voyix",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/148936-customer-engineer-auckland",
-      "setup": "wfh",
-      "location": "New Zealand",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "NZD",
-      "postedAt": 1790826622000
-    },
-    {
-      "id": "jobicy-152181",
-      "title": "Staff Software Engineer, AI",
-      "company": "YipitData",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152181-staff-software-engineer-ai",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790826617000
-    },
-    {
-      "id": "jobicy-142491",
-      "title": "Telehealth Doctor - Contractor (Tasmania)",
-      "company": "Montu",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/142491-telehealth-doctor-contractor-tasmania",
-      "setup": "wfh",
-      "location": "Australia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790826615000
-    },
-    {
-      "id": "jobicy-152182",
-      "title": "Project Lion - Lead Prompt Engineer - United States (Remote, Part-Time)",
-      "company": "Welo Global",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152182-project-lion-lead-prompt-engineer-united-states-remote-part-time",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790826614000
-    },
-    {
-      "id": "jobicy-144921",
-      "title": "Manager, Solutions Architects - SF Bay area",
-      "company": "GitLab",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/144921-manager-solutions-architects-sf-bay-area",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790826613000
-    },
-    {
-      "id": "jobicy-152185",
-      "title": "Senior Software Engineer (Fullstack)",
-      "company": "Teachable",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152185-senior-software-engineer-fullstack",
-      "setup": "wfh",
-      "location": "Brazil",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790826610000
-    },
-    {
-      "id": "jobicy-144856",
-      "title": "Senior Data Scientist",
-      "company": "Customer.io",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/144856-senior-data-scientist-4",
-      "setup": "wfh",
-      "location": "LATAM,  Canada,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790826609000
-    },
-    {
-      "id": "jobicy-152184",
-      "title": "Director, International Communications - Remote (Mexico)",
-      "company": "Instructure",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152184-director-international-communications-remote-mexico",
-      "setup": "wfh",
-      "location": "Mexico",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790826605000
-    },
-    {
       "id": "arbeitnow-remote-forward-deployed-ai-engineer-birmingham-460033",
       "title": "Forward Deployed AI Engineer",
       "company": "gravity9",
@@ -665,18 +651,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790825418000
-    },
-    {
-      "id": "arbeitnow-remote-senior-director-growth-marketing-karlsruhe-185764",
-      "title": "Senior Director, Growth Marketing (m/f/d)",
-      "company": "Chaos",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/chaos/remote-senior-director-growth-marketing-karlsruhe-185764",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790821806000
     },
     {
       "id": "arbeitnow-remote-senior-experience-engineer-217975",
@@ -737,18 +711,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790626820000
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-engineer-redapl-graph-engine-47394",
-      "title": "Senior Software Engineer - REDAPL Graph Engine",
-      "company": "Datadog",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/datadog/remote-senior-software-engineer-redapl-graph-engine-47394",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790596507000
     },
     {
       "id": "remoteok-1137434",
