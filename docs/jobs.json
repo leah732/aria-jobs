@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T19:07:48.100Z",
+  "generatedAt": "2026-10-01T19:39:33.571Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 44,
+    "jobicy": 50,
     "arbeitnow": 10
   },
-  "count": 124,
+  "count": 130,
   "jobs": [
     {
       "id": "arbeitnow-digital-marketing-specialist-mwd-wurzburg-304342",
@@ -640,6 +640,84 @@
       "salaryMax": null,
       "salaryCurrency": "NZD",
       "postedAt": 1790826622000
+    },
+    {
+      "id": "jobicy-152181",
+      "title": "Staff Software Engineer, AI",
+      "company": "YipitData",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152181-staff-software-engineer-ai",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790826617000
+    },
+    {
+      "id": "jobicy-142491",
+      "title": "Telehealth Doctor - Contractor (Tasmania)",
+      "company": "Montu",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/142491-telehealth-doctor-contractor-tasmania",
+      "setup": "wfh",
+      "location": "Australia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790826615000
+    },
+    {
+      "id": "jobicy-152182",
+      "title": "Project Lion - Lead Prompt Engineer - United States (Remote, Part-Time)",
+      "company": "Welo Global",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152182-project-lion-lead-prompt-engineer-united-states-remote-part-time",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790826614000
+    },
+    {
+      "id": "jobicy-144921",
+      "title": "Manager, Solutions Architects - SF Bay area",
+      "company": "GitLab",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/144921-manager-solutions-architects-sf-bay-area",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790826613000
+    },
+    {
+      "id": "jobicy-152185",
+      "title": "Senior Software Engineer (Fullstack)",
+      "company": "Teachable",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152185-senior-software-engineer-fullstack",
+      "setup": "wfh",
+      "location": "Brazil",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790826610000
+    },
+    {
+      "id": "jobicy-144856",
+      "title": "Senior Data Scientist",
+      "company": "Customer.io",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/144856-senior-data-scientist-4",
+      "setup": "wfh",
+      "location": "LATAM,  Canada,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790826609000
     },
     {
       "id": "arbeitnow-remote-senior-experience-engineer-217975",
