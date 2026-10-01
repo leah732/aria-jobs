@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-01T15:08:37.011Z",
+  "generatedAt": "2026-10-01T15:41:43.213Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 44,
-    "arbeitnow": 10
+    "arbeitnow": 9
   },
-  "count": 124,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-forward-deployed-engineer-gilching-207001",
+      "title": "Forward Deployed Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-forward-deployed-engineer-gilching-207001",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790865042000
+    },
     {
       "id": "arbeitnow-werkstudentin-digital-learning-fur-die-erstellung-von-digitalen-lernprodukten-heidelberg-473566",
       "title": "Werkstudent:in Digital Learning (m/w/x) für die Erstellung von digitalen Lernprodukten",
@@ -32,30 +44,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790850629000
-    },
-    {
-      "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-336691",
-      "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-      "company": "Auralis Group",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-336691",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790848829000
-    },
-    {
-      "id": "arbeitnow-werkstudent-it-systemadministration-100-remote-regen-259249",
-      "title": "Werkstudent IT-Systemadministration (m/w/d) - 100% remote",
-      "company": "FastRocket GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/werkstudent-it-systemadministration-100-remote-regen-259249",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790845239000
     },
     {
       "id": "jobicy-154346",
