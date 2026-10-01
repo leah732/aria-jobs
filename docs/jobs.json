@@ -1,37 +1,25 @@
 {
-  "generatedAt": "2026-10-01T03:07:36.421Z",
+  "generatedAt": "2026-10-01T03:42:02.353Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 41,
-    "arbeitnow": 8
+    "arbeitnow": 7
   },
-  "count": 119,
+  "count": 118,
   "jobs": [
     {
-      "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-30065",
-      "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
-      "company": "Contabo",
+      "id": "arbeitnow-remote-senior-director-growth-marketing-karlsruhe-185764",
+      "title": "Senior Director, Growth Marketing (m/f/d)",
+      "company": "Chaos",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-30065",
+      "url": "https://www.arbeitnow.com/jobs/companies/chaos/remote-senior-director-growth-marketing-karlsruhe-185764",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1790788155000
-    },
-    {
-      "id": "arbeitnow-remote-senior-network-engineer-all-genders-456157",
-      "title": "Senior Network Engineer (all genders)",
-      "company": "Contabo",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-456157",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790788155000
+      "postedAt": 1790821806000
     },
     {
       "id": "arbeitnow-remote-senior-experience-engineer-217975",
