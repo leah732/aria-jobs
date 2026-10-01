@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-01T06:11:13.502Z",
+  "generatedAt": "2026-10-01T06:46:30.597Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 41,
-    "arbeitnow": 9
+    "arbeitnow": 12
   },
-  "count": 120,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-463082",
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-463082",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790832621000
+    },
+    {
+      "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-267476",
+      "title": "Senior Java Backend Developer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-267476",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790832621000
+    },
+    {
+      "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-117589",
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-117589",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790832621000
+    },
     {
       "id": "arbeitnow-remote-conversational-ai-application-developer-english-and-french-speaker-france-410860",
       "title": "Conversational AI Application Developer (English and French Speaker)",
