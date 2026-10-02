@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-02T21:07:11.439Z",
+  "generatedAt": "2026-10-02T21:40:44.793Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 49,
-    "arbeitnow": 7
+    "arbeitnow": 8
   },
-  "count": 127,
+  "count": 128,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-manager-customer-success-engineering-121222",
+      "title": "Senior Manager, Customer Success Engineering",
+      "company": "veeamsoftware",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-manager-customer-success-engineering-121222",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790974509000
+    },
+    {
+      "id": "arbeitnow-remote-java-entwicklerin-java-developer-backend-munster-325044",
+      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-entwicklerin-java-developer-backend-munster-325044",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790973004000
+    },
+    {
+      "id": "arbeitnow-remote-helicopter-engineer-ach135-yacht-based-med-caribbean-switzerland-451770",
+      "title": "Helicopter Engineer - ACH135 | Yacht-Based | Med & Caribbean",
+      "company": "Elesta",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elesta/remote-helicopter-engineer-ach135-yacht-based-med-caribbean-switzerland-451770",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790972416000
+    },
     {
       "id": "arbeitnow-remote-director-of-sales-europe-361404",
       "title": "Director of Sales, Europe",
@@ -68,18 +104,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790960976000
-    },
-    {
-      "id": "arbeitnow-director-business-and-digital-product-development-win-business-and-drive-platform-building-frankfurt-am-main-437435",
-      "title": "Director Business and Digital Product Development (m/w/d): win business and drive platform building",
-      "company": "Vicoland",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/vicoland/director-business-and-digital-product-development-win-business-and-drive-platform-building-frankfurt-am-main-437435",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790956836000
     },
     {
       "id": "jobicy-154432",
@@ -731,18 +755,6 @@
       "salaryText": null,
       "category": "Software Development",
       "postedAt": 1790774126000
-    },
-    {
-      "id": "arbeitnow-remote-senior-experience-engineer-217975",
-      "title": "Senior Experience Engineer",
-      "company": "Parity",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/parity/remote-senior-experience-engineer-217975",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790768403000
     },
     {
       "id": "remoteok-1137434",
