@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-02T14:09:07.526Z",
+  "generatedAt": "2026-10-02T14:42:44.753Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 49,
-    "arbeitnow": 11
+    "arbeitnow": 12
   },
-  "count": 131,
+  "count": 132,
   "jobs": [
+    {
+      "id": "arbeitnow-werkstudent-data-analyst-all-genders-100-home-office-kassel-351691",
+      "title": "Werkstudent Data Analyst (all genders) - 100% Home Office",
+      "company": "fino digital GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/fino-digital-gmbh/werkstudent-data-analyst-all-genders-100-home-office-kassel-351691",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790947874000
+    },
     {
       "id": "arbeitnow-frontend-softwareentwickler-braunschweig-442037",
       "title": "Frontend Softwareentwickler (m/w/d)",
