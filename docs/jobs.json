@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T04:07:36.678Z",
+  "generatedAt": "2026-10-02T04:41:25.875Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 50,
-    "arbeitnow": 9
+    "arbeitnow": 7
   },
-  "count": 129,
+  "count": 127,
   "jobs": [
     {
       "id": "arbeitnow-remote-solution-architect-sap-wm-uk-78264",
@@ -20,30 +20,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790890210000
-    },
-    {
-      "id": "arbeitnow-principal-identity-and-access-management-consultant-london-97896",
-      "title": "Principal Identity and Access Management Consultant",
-      "company": "Intelance",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/principal-identity-and-access-management-consultant-london-97896",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790886630000
-    },
-    {
-      "id": "arbeitnow-senior-microsoft-identity-engineer-entra-id-and-microsoft-365-london-118133",
-      "title": "Senior Microsoft Identity Engineer (Entra ID and Microsoft 365)",
-      "company": "Intelance",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/senior-microsoft-identity-engineer-entra-id-and-microsoft-365-london-118133",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790886629000
     },
     {
       "id": "jobicy-154373",
