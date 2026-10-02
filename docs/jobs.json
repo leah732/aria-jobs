@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T11:41:06.488Z",
+  "generatedAt": "2026-10-02T12:09:09.938Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
-    "jobicy": 47,
+    "jobicy": 49,
     "arbeitnow": 12
   },
-  "count": 130,
+  "count": 132,
   "jobs": [
     {
       "id": "arbeitnow-remote-independent-nominee-director-chalkhouse-green-166204",
@@ -80,6 +80,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790933420000
+    },
+    {
+      "id": "jobicy-154400",
+      "title": "Director of Web Platform & Engineering",
+      "company": "Cision",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154400-director-of-web-platform-engineering",
+      "setup": "wfh",
+      "location": "UK",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790930288000
+    },
+    {
+      "id": "jobicy-154406",
+      "title": "Customer Engineer EMEA",
+      "company": "Nebius",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154406-customer-engineer-emea",
+      "setup": "wfh",
+      "location": "Europe",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790930287000
+    },
+    {
+      "id": "jobicy-154401",
+      "title": "Automation Engineer (Customer Service)",
+      "company": "Nebius",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154401-automation-engineer-customer-service",
+      "setup": "wfh",
+      "location": "Europe",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790930286000
     },
     {
       "id": "arbeitnow-customer-implementation-engineer-nuremberg-263938",
@@ -714,19 +753,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790832716000
-    },
-    {
-      "id": "jobicy-154330",
-      "title": "Senior Software Engineer, Canvas Core",
-      "company": "Mural",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154330-senior-software-engineer-canvas-core-2",
-      "setup": "wfh",
-      "location": "Argentina,  Canada,  UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "GBP",
-      "postedAt": 1790832535000
     },
     {
       "id": "remotive-2091132",
