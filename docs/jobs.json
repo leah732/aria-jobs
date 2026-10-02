@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-02T08:08:51.862Z",
+  "generatedAt": "2026-10-02T08:40:13.466Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 49,
-    "arbeitnow": 5
+    "arbeitnow": 6
   },
-  "count": 124,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-sidebase-open-source-contributor-senior-ts-dev-cologne-365687",
+      "title": "Sidebase Open-Source Contributor & Senior TS Dev (f/m/d)",
+      "company": "Sidestream",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/sidebase-open-source-contributor-senior-ts-dev-cologne-365687",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790926233000
+    },
     {
       "id": "arbeitnow-remote-senior-python-developer-london-36003",
       "title": "Senior Python Developer",
