@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-02T12:09:09.938Z",
+  "generatedAt": "2026-10-02T12:46:12.603Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 49,
-    "arbeitnow": 12
+    "arbeitnow": 11
   },
-  "count": 132,
+  "count": 131,
   "jobs": [
+    {
+      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-313955",
+      "title": "Fullstack Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-313955",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790942437000
+    },
     {
       "id": "arbeitnow-remote-independent-nominee-director-chalkhouse-green-166204",
       "title": "Independent Nominee Director",
@@ -119,30 +131,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790930286000
-    },
-    {
-      "id": "arbeitnow-customer-implementation-engineer-nuremberg-263938",
-      "title": "Customer Implementation Engineer (m/w/d)",
-      "company": "Telepaxx Medical Data GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/telepaxx-medical-data-gmbh/customer-implementation-engineer-nuremberg-263938",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790929854000
-    },
-    {
-      "id": "arbeitnow-sidebase-open-source-contributor-senior-ts-dev-cologne-365687",
-      "title": "Sidebase Open-Source Contributor & Senior TS Dev (f/m/d)",
-      "company": "Sidestream",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/sidebase-open-source-contributor-senior-ts-dev-cologne-365687",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790926233000
     },
     {
       "id": "jobicy-154396",
