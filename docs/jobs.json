@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T06:09:31.709Z",
+  "generatedAt": "2026-10-02T06:46:09.833Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 50,
-    "arbeitnow": 7
+    "arbeitnow": 5
   },
-  "count": 127,
+  "count": 125,
   "jobs": [
     {
       "id": "arbeitnow-remote-solution-architect-sap-wm-uk-78264",
@@ -718,30 +718,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790682013000
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-engineer-quality-4113",
-      "title": "Senior Software Engineer, Quality",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790638808000
-    },
-    {
-      "id": "arbeitnow-remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
-      "title": "Voice Actor: CX Agent Voice Cloning (Swiss German)",
-      "company": "Weekday 1",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790626820000
     },
     {
       "id": "remoteok-1137434",
