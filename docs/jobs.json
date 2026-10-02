@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-02T17:07:34.696Z",
+  "generatedAt": "2026-10-02T17:39:52.430Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 47,
-    "arbeitnow": 8
+    "arbeitnow": 9
   },
-  "count": 126,
+  "count": 127,
   "jobs": [
+    {
+      "id": "arbeitnow-director-business-and-digital-product-development-win-business-and-drive-platform-building-frankfurt-am-main-437435",
+      "title": "Director Business and Digital Product Development (m/w/d): win business and drive platform building",
+      "company": "Vicoland",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/vicoland/director-business-and-digital-product-development-win-business-and-drive-platform-building-frankfurt-am-main-437435",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790956836000
+    },
     {
       "id": "arbeitnow-online-dozentin-fur-it-administration-cyber-security-berlin-443140",
       "title": "(Online) Dozent*in für IT-Administration & Cyber Security",
