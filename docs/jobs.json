@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-02T15:09:15.779Z",
+  "generatedAt": "2026-10-02T15:42:17.496Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 49,
-    "arbeitnow": 12
+    "arbeitnow": 14
   },
-  "count": 132,
+  "count": 134,
   "jobs": [
+    {
+      "id": "arbeitnow-online-dozentin-fur-it-administration-cyber-security-berlin-443140",
+      "title": "(Online) Dozent*in für IT-Administration & Cyber Security",
+      "company": "Syntax Institut",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/syntax-institut/online-dozentin-fur-it-administration-cyber-security-berlin-443140",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790951435000
+    },
+    {
+      "id": "arbeitnow-inhouse-devops-platform-engineer-100-remote-dusseldorf-359425",
+      "title": "Inhouse DevOps / Platform Engineer (m/w/d) - 100% remote",
+      "company": "DWWA Personalberatung GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-devops-platform-engineer-100-remote-dusseldorf-359425",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790949648000
+    },
     {
       "id": "arbeitnow-werkstudent-data-analyst-all-genders-100-home-office-kassel-351691",
       "title": "Werkstudent Data Analyst (all genders) - 100% Home Office",
