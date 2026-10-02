@@ -1,14 +1,74 @@
 {
-  "generatedAt": "2026-10-02T18:09:48.425Z",
+  "generatedAt": "2026-10-02T18:44:03.208Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 47,
-    "arbeitnow": 9
+    "arbeitnow": 7
   },
-  "count": 127,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-director-of-sales-europe-361404",
+      "title": "Director of Sales, Europe",
+      "company": "planetlabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-director-of-sales-europe-361404",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790963710000
+    },
+    {
+      "id": "arbeitnow-remote-strategic-account-executive-public-sector-367401",
+      "title": "Strategic Account Executive - Public Sector",
+      "company": "gitlab",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-public-sector-367401",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790963707000
+    },
+    {
+      "id": "arbeitnow-remote-strategic-account-executive-public-sector-421130",
+      "title": "Strategic Account Executive - Public Sector",
+      "company": "gitlab",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-public-sector-421130",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790963707000
+    },
+    {
+      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-371659",
+      "title": "Backend Engineer - Agentic AI (m/w/d)",
+      "company": "Getpress Gmbh",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790960976000
+    },
+    {
+      "id": "arbeitnow-remote-ai-product-engineer-berlin-20956",
+      "title": "AI Product Engineer (m/w/d)",
+      "company": "Getpress Gmbh",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-20956",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790960976000
+    },
     {
       "id": "arbeitnow-director-business-and-digital-product-development-win-business-and-drive-platform-building-frankfurt-am-main-437435",
       "title": "Director Business and Digital Product Development (m/w/d): win business and drive platform building",
@@ -20,66 +80,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790956836000
-    },
-    {
-      "id": "arbeitnow-online-dozentin-fur-it-administration-cyber-security-berlin-443140",
-      "title": "(Online) Dozent*in für IT-Administration & Cyber Security",
-      "company": "Syntax Institut",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/syntax-institut/online-dozentin-fur-it-administration-cyber-security-berlin-443140",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790951435000
-    },
-    {
-      "id": "arbeitnow-inhouse-devops-platform-engineer-100-remote-dusseldorf-359425",
-      "title": "Inhouse DevOps / Platform Engineer (m/w/d) - 100% remote",
-      "company": "DWWA Personalberatung GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-devops-platform-engineer-100-remote-dusseldorf-359425",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790949648000
-    },
-    {
-      "id": "arbeitnow-werkstudent-data-analyst-all-genders-100-home-office-kassel-351691",
-      "title": "Werkstudent Data Analyst (all genders) - 100% Home Office",
-      "company": "fino digital GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/fino-digital-gmbh/werkstudent-data-analyst-all-genders-100-home-office-kassel-351691",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790947874000
-    },
-    {
-      "id": "arbeitnow-frontend-softwareentwickler-braunschweig-442037",
-      "title": "Frontend Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-442037",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790944253000
-    },
-    {
-      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-313955",
-      "title": "Fullstack Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-313955",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790942437000
     },
     {
       "id": "jobicy-154400",
@@ -717,30 +717,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790768403000
-    },
-    {
-      "id": "arbeitnow-remote-network-developer-269751",
-      "title": "Network Developer",
-      "company": "Share",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-developer-269751",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790682013000
-    },
-    {
-      "id": "arbeitnow-remote-network-operation-engineer-411432",
-      "title": "Network Operation Engineer",
-      "company": "Share",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790682013000
     },
     {
       "id": "remoteok-1137434",
