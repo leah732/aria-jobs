@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T09:41:59.621Z",
+  "generatedAt": "2026-10-02T10:06:53.230Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -32,6 +32,58 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790926233000
+    },
+    {
+      "id": "jobicy-154381",
+      "title": "Engineering Manager - 3P and Catalog",
+      "company": "Gopuff",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154381-engineering-manager-3p-and-catalog",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790924203000
+    },
+    {
+      "id": "jobicy-154382",
+      "title": "Backend Engineer - Music",
+      "company": "Spotify",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154382-backend-engineer-music",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790924202000
+    },
+    {
+      "id": "jobicy-154383",
+      "title": "Principal Data Scientist - Consumer",
+      "company": "Gopuff",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154383-principal-data-scientist-consumer",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790924201000
+    },
+    {
+      "id": "jobicy-154378",
+      "title": "Marketing Technology Engineer",
+      "company": "Hello Alice",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154378-marketing-technology-engineer",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1790924201000
     },
     {
       "id": "arbeitnow-remote-senior-python-developer-london-36003",
@@ -641,58 +693,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790829601000
-    },
-    {
-      "id": "jobicy-154300",
-      "title": "Regional Sales Director - Southern Europe",
-      "company": "Tenable",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154300-regional-sales-director-southern-europe",
-      "setup": "wfh",
-      "location": "Spain",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "EUR",
-      "postedAt": 1790829183000
-    },
-    {
-      "id": "jobicy-154305",
-      "title": "Technical Account Manager",
-      "company": "Rithum",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154305-technical-account-manager-5",
-      "setup": "wfh",
-      "location": "UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790829181000
-    },
-    {
-      "id": "jobicy-154301",
-      "title": "Senior Implementation Consultant",
-      "company": "Rithum",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154301-senior-implementation-consultant",
-      "setup": "wfh",
-      "location": "Spain",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790829178000
-    },
-    {
-      "id": "jobicy-152256",
-      "title": "Staff Product Security Engineer",
-      "company": "Reddit",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152256-staff-product-security-engineer",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1790827518000
     },
     {
       "id": "arbeitnow-remote-senior-experience-engineer-217975",
