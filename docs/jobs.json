@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T16:07:20.871Z",
+  "generatedAt": "2026-10-02T16:42:33.148Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 47,
-    "arbeitnow": 14
+    "arbeitnow": 8
   },
-  "count": 132,
+  "count": 126,
   "jobs": [
     {
       "id": "arbeitnow-online-dozentin-fur-it-administration-cyber-security-berlin-443140",
@@ -68,78 +68,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790942437000
-    },
-    {
-      "id": "arbeitnow-remote-independent-nominee-director-chalkhouse-green-166204",
-      "title": "Independent Nominee Director",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-independent-nominee-director-chalkhouse-green-166204",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790933443000
-    },
-    {
-      "id": "arbeitnow-remote-nominee-company-director-chalkhouse-green-261822",
-      "title": "Nominee Company Director",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-nominee-company-director-chalkhouse-green-261822",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790933443000
-    },
-    {
-      "id": "arbeitnow-remote-nominee-director-uk-company-chalkhouse-green-139440",
-      "title": "Nominee Director (UK Company)",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-nominee-director-uk-company-chalkhouse-green-139440",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790933443000
-    },
-    {
-      "id": "arbeitnow-remote-uk-based-nominee-director-chalkhouse-green-290056",
-      "title": "UK-Based Nominee Director",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-based-nominee-director-chalkhouse-green-290056",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790933443000
-    },
-    {
-      "id": "arbeitnow-remote-company-nominee-director-chalkhouse-green-475549",
-      "title": "Company Nominee Director",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-company-nominee-director-chalkhouse-green-475549",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790933443000
-    },
-    {
-      "id": "arbeitnow-remote-intelligent-automation-engineering-lead-london-128204",
-      "title": "Intelligent Automation Engineering Lead",
-      "company": "Delta Capita",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-intelligent-automation-engineering-lead-london-128204",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790933420000
     },
     {
       "id": "jobicy-154400",
