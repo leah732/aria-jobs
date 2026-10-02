@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-02T23:05:42.580Z",
+  "generatedAt": "2026-10-02T23:37:46.100Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 49,
-    "arbeitnow": 8
+    "arbeitnow": 9
   },
-  "count": 128,
+  "count": 129,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-software-engineer-data-search-remote-europe-paris-389109",
+      "title": "Senior Software Engineer - Data Search (remote, Europe)",
+      "company": "Modash",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/modash/senior-software-engineer-data-search-remote-europe-paris-389109",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790979613000
+    },
     {
       "id": "arbeitnow-remote-senior-manager-customer-success-engineering-121222",
       "title": "Senior Manager, Customer Success Engineering",
