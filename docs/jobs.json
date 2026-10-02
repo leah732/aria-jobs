@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T15:42:17.496Z",
+  "generatedAt": "2026-10-02T16:07:20.871Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
-    "jobicy": 49,
+    "jobicy": 47,
     "arbeitnow": 14
   },
-  "count": 134,
+  "count": 132,
   "jobs": [
     {
       "id": "arbeitnow-online-dozentin-fur-it-administration-cyber-security-berlin-443140",
@@ -179,19 +179,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790930286000
-    },
-    {
-      "id": "jobicy-154396",
-      "title": "Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)",
-      "company": "Samsara",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154396-sr-software-engineer-ii-tech-lead-agentic-platform-poland-remote-b2b",
-      "setup": "wfh",
-      "location": "Poland",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "PLN",
-      "postedAt": 1790924368000
     },
     {
       "id": "jobicy-154394",
@@ -738,19 +725,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1790884229000
-    },
-    {
-      "id": "jobicy-154346",
-      "title": "Software Engineer I, Agentic Platform EMEA (Poland, Remote, B2B)",
-      "company": "Samsara",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154346-software-engineer-i-agentic-platform-emea-poland-remote-b2b",
-      "setup": "wfh",
-      "location": "Poland",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "PLN",
-      "postedAt": 1790832719000
     },
     {
       "id": "jobicy-154340",
