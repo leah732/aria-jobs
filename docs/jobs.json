@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-02T23:37:46.100Z",
+  "generatedAt": "2026-10-03T00:09:32.092Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 49,
-    "arbeitnow": 9
+    "arbeitnow": 8
   },
-  "count": 129,
+  "count": 128,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",
+      "title": "Senior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790983830000
+    },
     {
       "id": "arbeitnow-senior-software-engineer-data-search-remote-europe-paris-389109",
       "title": "Senior Software Engineer - Data Search (remote, Europe)",
@@ -92,30 +104,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790963707000
-    },
-    {
-      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-371659",
-      "title": "Backend Engineer - Agentic AI (m/w/d)",
-      "company": "Getpress Gmbh",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790960976000
-    },
-    {
-      "id": "arbeitnow-remote-ai-product-engineer-berlin-20956",
-      "title": "AI Product Engineer (m/w/d)",
-      "company": "Getpress Gmbh",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-20956",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790960976000
     },
     {
       "id": "jobicy-154432",
