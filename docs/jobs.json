@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-03T03:16:28.294Z",
+  "generatedAt": "2026-10-03T03:52:23.929Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 49,
-    "arbeitnow": 8
+    "arbeitnow": 6
   },
-  "count": 128,
+  "count": 126,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-ai-developer-nurnberg-350342",
+      "title": "AI Developer (m/f/d)",
+      "company": "Partspace",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-350342",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1790993371000
+    },
     {
       "id": "arbeitnow-remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",
       "title": "Senior Cloud Operations Engineer (all genders) CH",
@@ -68,42 +80,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790972416000
-    },
-    {
-      "id": "arbeitnow-remote-director-of-sales-europe-361404",
-      "title": "Director of Sales, Europe",
-      "company": "planetlabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-director-of-sales-europe-361404",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790963710000
-    },
-    {
-      "id": "arbeitnow-remote-strategic-account-executive-public-sector-367401",
-      "title": "Strategic Account Executive - Public Sector",
-      "company": "gitlab",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-public-sector-367401",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790963707000
-    },
-    {
-      "id": "arbeitnow-remote-strategic-account-executive-public-sector-421130",
-      "title": "Strategic Account Executive - Public Sector",
-      "company": "gitlab",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-public-sector-421130",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790963707000
     },
     {
       "id": "jobicy-154432",
