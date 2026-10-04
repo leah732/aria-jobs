@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-04T17:51:44.229Z",
+  "generatedAt": "2026-10-04T21:07:51.614Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 43,
-    "arbeitnow": 9
+    "arbeitnow": 10
   },
-  "count": 123,
+  "count": 124,
   "jobs": [
+    {
+      "id": "arbeitnow-global-vp-food-ingredients-heidelberg-422763",
+      "title": "Global VP Food Ingredients m/f/d",
+      "company": "GFIC",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/gfic/global-vp-food-ingredients-heidelberg-422763",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791144041000
+    },
     {
       "id": "arbeitnow-quality-assurance-rater-german-germany-berlin-112725",
       "title": "Quality Assurance Rater - German (Germany)",
