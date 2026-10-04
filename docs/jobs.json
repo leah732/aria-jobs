@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-04T02:42:51.314Z",
+  "generatedAt": "2026-10-04T04:35:18.691Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 11,
     "jobicy": 50,
-    "arbeitnow": 4
+    "arbeitnow": 5
   },
-  "count": 124,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-web-compatibility-engineer-379161",
+      "title": "Senior Web Compatibility Engineer",
+      "company": "Duck Duck Go",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791081609000
+    },
+    {
+      "id": "arbeitnow-remote-senior-privacy-engineer-111342",
+      "title": "Senior Privacy Engineer",
+      "company": "Duck Duck Go",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791081609000
+    },
     {
       "id": "jobicy-154483",
       "title": "Senior Full Stack Engineer",
@@ -682,18 +706,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1790983830000
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-data-search-remote-europe-paris-389109",
-      "title": "Senior Software Engineer - Data Search (remote, Europe)",
-      "company": "Modash",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/modash/senior-software-engineer-data-search-remote-europe-paris-389109",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790979613000
     },
     {
       "id": "arbeitnow-remote-helicopter-engineer-ach135-yacht-based-med-caribbean-switzerland-451770",
