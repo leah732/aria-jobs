@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T21:07:51.614Z",
+  "generatedAt": "2026-10-04T21:47:01.825Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 43,
-    "arbeitnow": 10
+    "arbeitnow": 7
   },
-  "count": 124,
+  "count": 121,
   "jobs": [
     {
       "id": "arbeitnow-global-vp-food-ingredients-heidelberg-422763",
@@ -44,42 +44,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791113436000
-    },
-    {
-      "id": "arbeitnow-remote-senior-web-compatibility-engineer-426717",
-      "title": "Senior Web Compatibility Engineer",
-      "company": "Duck Duck Go",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-426717",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791103210000
-    },
-    {
-      "id": "arbeitnow-remote-senior-privacy-engineer-115042",
-      "title": "Senior Privacy Engineer",
-      "company": "Duck Duck Go",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-115042",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791103210000
-    },
-    {
-      "id": "arbeitnow-remote-qa-engineer-mobile-berlin-166747",
-      "title": "QA Engineer Mobile",
-      "company": "ScholarshipOwl",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-mobile-berlin-166747",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791102608000
     },
     {
       "id": "jobicy-154514",
