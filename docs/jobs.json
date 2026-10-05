@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T18:46:56.198Z",
+  "generatedAt": "2026-10-05T21:41:41.432Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
-    "jobicy": 48,
+    "jobicy": 47,
     "arbeitnow": 9
   },
-  "count": 129,
+  "count": 128,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-forward-deployed-engineer-na-100694",
@@ -68,6 +68,84 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791217840000
+    },
+    {
+      "id": "jobicy-154629",
+      "title": "Staff Engineer",
+      "company": "Dutchie",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154629-staff-engineer-2",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791214420000
+    },
+    {
+      "id": "jobicy-154622",
+      "title": "Technical Services Engineer III",
+      "company": "impact.com",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154622-technical-services-engineer-iii",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791214417000
+    },
+    {
+      "id": "jobicy-154612",
+      "title": "Customer Success Engineer",
+      "company": "Algolia",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154612-customer-success-engineer-5",
+      "setup": "wfh",
+      "location": "Australia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "AUD",
+      "postedAt": 1791214301000
+    },
+    {
+      "id": "jobicy-154616",
+      "title": "Senior Quality Engineer",
+      "company": "Karbon",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154616-senior-quality-engineer-2",
+      "setup": "wfh",
+      "location": "Australia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791214297000
+    },
+    {
+      "id": "jobicy-154613",
+      "title": "Customer Success Engineer, Sydney",
+      "company": "Cribl",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154613-customer-success-engineer-sydney",
+      "setup": "wfh",
+      "location": "Australia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791214296000
+    },
+    {
+      "id": "jobicy-154611",
+      "title": "GTM Engineer",
+      "company": "UpGuard",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154611-gtm-engineer-3",
+      "setup": "wfh",
+      "location": "Australia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791214295000
     },
     {
       "id": "jobicy-154607",
@@ -603,84 +681,6 @@
       "postedAt": 1791175736000
     },
     {
-      "id": "jobicy-152539",
-      "title": "Senior Software Engineer, Frontend",
-      "company": "Phantom",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
-      "setup": "wfh",
-      "location": "LATAM,  Canada,  Europe,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791175734000
-    },
-    {
-      "id": "jobicy-152529",
-      "title": "Senior Software Engineer (Revenue)",
-      "company": "Zuora",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152529-senior-software-engineer-revenue",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791175732000
-    },
-    {
-      "id": "jobicy-150137",
-      "title": "Senior Hypervisor Engineer",
-      "company": "Nebius",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150137-senior-hypervisor-engineer",
-      "setup": "wfh",
-      "location": "Czechia,  Europe",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791175524000
-    },
-    {
-      "id": "jobicy-150161",
-      "title": "Senior Accident Reconstruction Engineer",
-      "company": "J.S. Held",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150161-senior-accident-reconstruction-engineer",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791175520000
-    },
-    {
-      "id": "jobicy-152512",
-      "title": "Senior Manager/Director, Finance",
-      "company": "Worldly",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152512-senior-manager-director-finance",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791175516000
-    },
-    {
-      "id": "jobicy-152505",
-      "title": "Software Engineer, Security, Stablecoin",
-      "company": "Ramp",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152505-software-engineer-security-stablecoin",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791175511000
-    },
-    {
       "id": "remoteok-1137463",
       "title": "Federal Business Development Director",
       "company": "Fortanix",
@@ -692,19 +692,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1791129603000
-    },
-    {
-      "id": "jobicy-154514",
-      "title": "Solutions Architect for Automotive",
-      "company": "Canonical",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
-      "setup": "wfh",
-      "location": "Anywhere",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791092740000
     },
     {
       "id": "arbeitnow-remote-senior-web-compatibility-engineer-379161",
