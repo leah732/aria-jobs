@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T11:08:45.250Z",
+  "generatedAt": "2026-10-05T11:43:32.825Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
-    "jobicy": 42,
+    "jobicy": 43,
     "arbeitnow": 5
   },
-  "count": 118,
+  "count": 119,
   "jobs": [
     {
       "id": "arbeitnow-senior-software-engineer-fullstack-essen-55743",
@@ -20,6 +20,71 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791192632000
+    },
+    {
+      "id": "jobicy-154571",
+      "title": "Data Scientist III - Temporary",
+      "company": "Veracyte",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154571-data-scientist-iii-temporary",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791188613000
+    },
+    {
+      "id": "jobicy-154567",
+      "title": "Senior Software Engineer, Internal Tooling",
+      "company": "RevenueCat",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154567-senior-software-engineer-internal-tooling",
+      "setup": "wfh",
+      "location": "APAC,  EMEA,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791188612000
+    },
+    {
+      "id": "jobicy-154566",
+      "title": "Senior Fullstack Engineer (ARG based only)",
+      "company": "Double",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154566-senior-fullstack-engineer-arg-based-only",
+      "setup": "wfh",
+      "location": "Argentina",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791188611000
+    },
+    {
+      "id": "jobicy-154563",
+      "title": "Senior SDK Engineer",
+      "company": "RevenueCat",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154563-senior-sdk-engineer",
+      "setup": "wfh",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791188611000
+    },
+    {
+      "id": "jobicy-154552",
+      "title": "Engineering Manager",
+      "company": "Supabase",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154552-engineering-manager-9",
+      "setup": "wfh",
+      "location": "Anywhere",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791187378000
     },
     {
       "id": "jobicy-154544",
@@ -514,58 +579,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791092156000
-    },
-    {
-      "id": "jobicy-152200",
-      "title": "Ads Quality Rater - Spanish (Argentina)",
-      "company": "Welo Global",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152200-ads-quality-rater-spanish-argentina",
-      "setup": "wfh",
-      "location": "Argentina",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791090305000
-    },
-    {
-      "id": "jobicy-154396",
-      "title": "Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)",
-      "company": "Samsara",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154396-sr-software-engineer-ii-tech-lead-agentic-platform-poland-remote-b2b",
-      "setup": "wfh",
-      "location": "Poland",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "PLN",
-      "postedAt": 1791089052000
-    },
-    {
-      "id": "jobicy-154346",
-      "title": "Software Engineer I, Agentic Platform EMEA (Poland, Remote, B2B)",
-      "company": "Samsara",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154346-software-engineer-i-agentic-platform-emea-poland-remote-b2b",
-      "setup": "wfh",
-      "location": "Poland",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "PLN",
-      "postedAt": 1791089051000
-    },
-    {
-      "id": "jobicy-152472",
-      "title": "Marketing Data Scientist",
-      "company": "Vonage",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152472-marketing-data-scientist",
-      "setup": "wfh",
-      "location": "Mexico",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791088525000
     },
     {
       "id": "arbeitnow-remote-senior-web-compatibility-engineer-379161",
