@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T03:08:35.568Z",
+  "generatedAt": "2026-10-05T03:43:46.898Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
@@ -102,19 +102,6 @@
       "url": "https://jobicy.com/jobs/154512-solutions-engineer-latam",
       "setup": "wfh",
       "location": "LATAM",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791092738000
-    },
-    {
-      "id": "jobicy-154511",
-      "title": "Forward Deployed Engineer - Software Engineer - Sweden",
-      "company": "Elevenlabs",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154511-forward-deployed-engineer-software-engineer-sweden",
-      "setup": "wfh",
-      "location": "Sweden",
       "salaryMin": null,
       "salaryMax": null,
       "salaryCurrency": "USD",
@@ -663,6 +650,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791039402000
+    },
+    {
+      "id": "jobicy-154458",
+      "title": "Staff Product Engineer - Americas",
+      "company": "Ashby",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154458-staff-product-engineer-americas",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791039401000
     },
     {
       "id": "arbeitnow-remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",
