@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T06:13:18.869Z",
+  "generatedAt": "2026-10-05T06:51:45.424Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 43,
-    "arbeitnow": 9
+    "arbeitnow": 8
   },
-  "count": 123,
+  "count": 122,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-142731",
@@ -56,18 +56,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791155356000
-    },
-    {
-      "id": "arbeitnow-global-vp-food-ingredients-heidelberg-422763",
-      "title": "Global VP Food Ingredients m/f/d",
-      "company": "GFIC",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/gfic/global-vp-food-ingredients-heidelberg-422763",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791144041000
     },
     {
       "id": "jobicy-154514",
