@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T03:43:46.898Z",
+  "generatedAt": "2026-10-05T04:10:48.745Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 43,
-    "arbeitnow": 10
+    "arbeitnow": 9
   },
-  "count": 124,
+  "count": 123,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-142731",
@@ -68,18 +68,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791144041000
-    },
-    {
-      "id": "arbeitnow-quality-assurance-rater-german-germany-berlin-112725",
-      "title": "Quality Assurance Rater - German (Germany)",
-      "company": "TELUS Digital",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/telus-digital/quality-assurance-rater-german-germany-berlin-112725",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791129627000
     },
     {
       "id": "jobicy-154514",
