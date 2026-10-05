@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T09:43:48.615Z",
+  "generatedAt": "2026-10-05T10:10:43.692Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 42,
-    "arbeitnow": 8
+    "arbeitnow": 4
   },
-  "count": 121,
+  "count": 117,
   "jobs": [
     {
       "id": "jobicy-154544",
@@ -424,54 +424,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791175511000
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-142731",
-      "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
-      "company": "Contabo",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-142731",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791155371000
-    },
-    {
-      "id": "arbeitnow-remote-senior-network-engineer-all-genders-22839",
-      "title": "Senior Network Engineer (all genders)",
-      "company": "Contabo",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-22839",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791155371000
-    },
-    {
-      "id": "arbeitnow-remote-senior-frontend-developer-all-genders-372910",
-      "title": "Senior Frontend Developer (all genders)",
-      "company": "Contabo",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-372910",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791155371000
-    },
-    {
-      "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-260132",
-      "title": "(Senior) AI Product Engineer (m/w/d)",
-      "company": "Legalhero",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-260132",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791155356000
     },
     {
       "id": "jobicy-154514",
