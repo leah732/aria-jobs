@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-05T15:43:40.867Z",
+  "generatedAt": "2026-10-05T16:08:25.485Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 59,
+    "remoteok": 60,
     "remotive": 12,
     "jobicy": 43,
-    "arbeitnow": 6
+    "arbeitnow": 5
   },
   "count": 120,
   "jobs": [
@@ -20,18 +20,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791205233000
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-fullstack-essen-55743",
-      "title": "Senior Software Engineer / Fullstack (m/w/d)",
-      "company": "LogaRec GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/logarec-gmbh/senior-software-engineer-fullstack-essen-55743",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791192632000
     },
     {
       "id": "jobicy-154571",
@@ -513,6 +501,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791175511000
+    },
+    {
+      "id": "remoteok-1137463",
+      "title": "Federal Business Development Director",
+      "company": "Fortanix",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1791129603000
     },
     {
       "id": "jobicy-154514",
