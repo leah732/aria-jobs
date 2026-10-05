@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-10-05T18:10:28.225Z",
+  "generatedAt": "2026-10-05T18:46:56.198Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
     "jobicy": 48,
-    "arbeitnow": 6
+    "arbeitnow": 9
   },
-  "count": 126,
+  "count": 129,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-forward-deployed-engineer-na-100694",
+      "title": "Senior Forward Deployed Engineer - NA",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-forward-deployed-engineer-na-100694",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791222004000
+    },
+    {
+      "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-381606",
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-381606",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791221419000
+    },
+    {
+      "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-341713",
+      "title": "Senior Java Backend Developer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-341713",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791221419000
+    },
+    {
+      "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-366286",
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-366286",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791221419000
+    },
     {
       "id": "arbeitnow-contract-golang-software-engineer-remote-europe-berlin-280012",
       "title": "Contract Golang Software Engineer (Remote Europe)",
@@ -150,18 +198,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791208375000
-    },
-    {
-      "id": "arbeitnow-senior-java-backend-developer-gn-berlin-449621",
-      "title": "Senior Java Backend Developer (gn)",
-      "company": "New Monday GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/senior-java-backend-developer-gn-berlin-449621",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791205233000
     },
     {
       "id": "jobicy-154571",
