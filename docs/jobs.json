@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-06T16:42:35.556Z",
+  "generatedAt": "2026-10-06T17:07:51.000Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 39,
-    "arbeitnow": 5
+    "arbeitnow": 7
   },
-  "count": 117,
+  "count": 119,
   "jobs": [
+    {
+      "id": "arbeitnow-junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
+      "title": "Junior GTM Engineer - Deutsch C1 - 100% remote",
+      "company": "Pipebuilders",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pipebuilders/junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791302471000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-developer-nodejs-ipswich-346396",
+      "title": "Full Stack Developer (node.js)",
+      "company": "Delta Capita",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-full-stack-developer-nodejs-ipswich-346396",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791300603000
+    },
     {
       "id": "arbeitnow-full-stack-softwareentwickler-react-nextjs-oder-angular-nestjs-nodejs-100-remote-regen-7823",
       "title": "Full-Stack Softwareentwickler (m/w/d) React/Next.js oder Angular + Nest.js/Node.js - 100% Remote",
@@ -32,6 +56,58 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791293481000
+    },
+    {
+      "id": "jobicy-154704",
+      "title": "Principal Dark Web Collection Analyst",
+      "company": "Recorded Future, Inc.",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154704-principal-dark-web-collection-analyst",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791292592000
+    },
+    {
+      "id": "jobicy-154703",
+      "title": "Senior Software Engineering Manager, Managed Gateways SREs",
+      "company": "Kong Inc.",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154703-senior-software-engineering-manager-managed-gateways-sres",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791292592000
+    },
+    {
+      "id": "jobicy-154699",
+      "title": "EDR Engineer / Senior EDR Engineer",
+      "company": "Recorded Future, Inc.",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154699-edr-engineer-senior-edr-engineer",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791292592000
+    },
+    {
+      "id": "jobicy-154698",
+      "title": "Director, Talent Acquisition",
+      "company": "Rockbot",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154698-director-talent-acquisition-2",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791292591000
     },
     {
       "id": "arbeitnow-platform-automation-engineer-elasticsearch-ansible-tz-munich-418234",
@@ -499,58 +575,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791226354000
-    },
-    {
-      "id": "jobicy-154629",
-      "title": "Staff Engineer",
-      "company": "Dutchie",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154629-staff-engineer-2",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791214420000
-    },
-    {
-      "id": "jobicy-154622",
-      "title": "Technical Services Engineer III",
-      "company": "impact.com",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154622-technical-services-engineer-iii",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791214417000
-    },
-    {
-      "id": "jobicy-154612",
-      "title": "Customer Success Engineer",
-      "company": "Algolia",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154612-customer-success-engineer-5",
-      "setup": "wfh",
-      "location": "Australia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "AUD",
-      "postedAt": 1791214301000
-    },
-    {
-      "id": "jobicy-154616",
-      "title": "Senior Quality Engineer",
-      "company": "Karbon",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154616-senior-quality-engineer-2",
-      "setup": "wfh",
-      "location": "Australia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791214297000
     },
     {
       "id": "remoteok-1137465",
