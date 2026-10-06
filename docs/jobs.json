@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T18:08:00.753Z",
+  "generatedAt": "2026-10-06T18:45:06.397Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 39,
-    "arbeitnow": 8
+    "arbeitnow": 5
   },
-  "count": 120,
+  "count": 117,
   "jobs": [
     {
       "id": "arbeitnow-senior-oracle-fusion-hcm-security-specialist-freelance-bonn-192936",
@@ -44,30 +44,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791300603000
-    },
-    {
-      "id": "arbeitnow-full-stack-softwareentwickler-react-nextjs-oder-angular-nestjs-nodejs-100-remote-regen-7823",
-      "title": "Full-Stack Softwareentwickler (m/w/d) React/Next.js oder Angular + Nest.js/Node.js - 100% Remote",
-      "company": "FastRocket GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/full-stack-softwareentwickler-react-nextjs-oder-angular-nestjs-nodejs-100-remote-regen-7823",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791295261000
-    },
-    {
-      "id": "arbeitnow-senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-488375",
-      "title": "Senior Java Developer - E-Commerce + Accounting & Marketplaces - remote in EU",
-      "company": "pathway solutions gmbh",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/pathway-solutions-gmbh/senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-488375",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791293481000
     },
     {
       "id": "jobicy-154704",
@@ -120,18 +96,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791292591000
-    },
-    {
-      "id": "arbeitnow-platform-automation-engineer-elasticsearch-ansible-tz-munich-418234",
-      "title": "Platform / Automation Engineer (m/w/d) - Elasticsearch & Ansible // TZ",
-      "company": "citema systems GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/platform-automation-engineer-elasticsearch-ansible-tz-munich-418234",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791291658000
     },
     {
       "id": "jobicy-154690",
