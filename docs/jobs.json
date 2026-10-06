@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T07:09:17.081Z",
+  "generatedAt": "2026-10-06T07:41:30.394Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 60,
+    "remoteok": 59,
     "remotive": 12,
     "jobicy": 38,
     "arbeitnow": 7
   },
-  "count": 117,
+  "count": 116,
   "jobs": [
     {
       "id": "arbeitnow-lead-enterprise-architect-professional-services-london-460241",
@@ -1443,19 +1443,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785827837000
-    },
-    {
-      "id": "remoteok-1136097",
-      "title": "Regional Sales Manager",
-      "company": "Balco, Inc.",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-balco-inc-1136097",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785801600000
     },
     {
       "id": "remoteok-1135903",
