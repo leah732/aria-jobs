@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-06T15:41:13.229Z",
+  "generatedAt": "2026-10-06T16:09:49.772Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
-    "jobicy": 38,
-    "arbeitnow": 6
+    "jobicy": 39,
+    "arbeitnow": 5
   },
   "count": 117,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-softwareentwickler-react-nextjs-oder-angular-nestjs-nodejs-100-remote-regen-7823",
+      "title": "Full-Stack Softwareentwickler (m/w/d) React/Next.js oder Angular + Nest.js/Node.js - 100% Remote",
+      "company": "FastRocket GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/full-stack-softwareentwickler-react-nextjs-oder-angular-nestjs-nodejs-100-remote-regen-7823",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791295261000
+    },
     {
       "id": "arbeitnow-senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-488375",
       "title": "Senior Java Developer - E-Commerce + Accounting & Marketplaces - remote in EU",
@@ -32,6 +44,71 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791291658000
+    },
+    {
+      "id": "jobicy-154690",
+      "title": "Contract Staff Software Engineer-FireFox Layout",
+      "company": "Mozilla",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154690-contract-staff-software-engineer-firefox-layout",
+      "setup": "wfh",
+      "location": "Canada",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CAD",
+      "postedAt": 1791291026000
+    },
+    {
+      "id": "jobicy-154694",
+      "title": "Staff AI Engineer (Data & Intelligence function)",
+      "company": "Acquia, Inc.",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154694-staff-ai-engineer-data-intelligence-function",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791291024000
+    },
+    {
+      "id": "jobicy-154692",
+      "title": "Senior Security Analyst",
+      "company": "Abby Care",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154692-senior-security-analyst",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791291023000
+    },
+    {
+      "id": "jobicy-154693",
+      "title": "Contract Staff Software Engineer - Performance Graphics (C++,Rust, WebGL)",
+      "company": "Mozilla",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154693-contract-staff-software-engineer-performance-graphics-crust-webgl",
+      "setup": "wfh",
+      "location": "Canada",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CAD",
+      "postedAt": 1791291022000
+    },
+    {
+      "id": "jobicy-154687",
+      "title": "Director, Technology Alliance Partnerships",
+      "company": "Acquia, Inc.",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154687-director-technology-alliance-partnerships",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791291022000
     },
     {
       "id": "jobicy-154681",
@@ -476,58 +553,6 @@
       "postedAt": 1791214297000
     },
     {
-      "id": "jobicy-154613",
-      "title": "Customer Success Engineer, Sydney",
-      "company": "Cribl",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154613-customer-success-engineer-sydney",
-      "setup": "wfh",
-      "location": "Australia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791214296000
-    },
-    {
-      "id": "jobicy-154611",
-      "title": "GTM Engineer",
-      "company": "UpGuard",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154611-gtm-engineer-3",
-      "setup": "wfh",
-      "location": "Australia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791214295000
-    },
-    {
-      "id": "jobicy-154607",
-      "title": "Technical Success Engineer",
-      "company": "DataGrail",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154607-technical-success-engineer",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791209158000
-    },
-    {
-      "id": "jobicy-154608",
-      "title": "People Partner (Product & Engineering)",
-      "company": "Veriff",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154608-people-partner-product-engineering",
-      "setup": "wfh",
-      "location": "Estonia,  Spain",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791209157000
-    },
-    {
       "id": "remoteok-1137465",
       "title": "Platform and Integration Engineer Security Telemetry",
       "company": "RedMimicry",
@@ -590,30 +615,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791081609000
-    },
-    {
-      "id": "arbeitnow-remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",
-      "title": "Senior Cloud Operations Engineer (all genders) CH",
-      "company": "BSI Software",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790983830000
-    },
-    {
-      "id": "arbeitnow-remote-helicopter-engineer-ach135-yacht-based-med-caribbean-switzerland-451770",
-      "title": "Helicopter Engineer - ACH135 | Yacht-Based | Med & Caribbean",
-      "company": "Elesta",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elesta/remote-helicopter-engineer-ach135-yacht-based-med-caribbean-switzerland-451770",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1790972416000
     },
     {
       "id": "remotive-2091133",
