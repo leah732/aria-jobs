@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-06T17:40:54.729Z",
+  "generatedAt": "2026-10-06T18:08:00.753Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 39,
-    "arbeitnow": 7
+    "arbeitnow": 8
   },
-  "count": 119,
+  "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-oracle-fusion-hcm-security-specialist-freelance-bonn-192936",
+      "title": "Senior Oracle Fusion HCM Security Specialist (Freelance)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-oracle-fusion-hcm-security-specialist-freelance-bonn-192936",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791304296000
+    },
     {
       "id": "arbeitnow-junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
       "title": "Junior GTM Engineer - Deutsch C1 - 100% remote",
