@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-06T14:41:18.415Z",
+  "generatedAt": "2026-10-06T15:10:29.784Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 38,
-    "arbeitnow": 5
+    "arbeitnow": 6
   },
-  "count": 116,
+  "count": 117,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-488375",
+      "title": "Senior Java Developer - E-Commerce + Accounting & Marketplaces - remote in EU",
+      "company": "pathway solutions gmbh",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pathway-solutions-gmbh/senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-488375",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791293481000
+    },
     {
       "id": "arbeitnow-platform-automation-engineer-elasticsearch-ansible-tz-munich-418234",
       "title": "Platform / Automation Engineer (m/w/d) - Elasticsearch & Ansible // TZ",
