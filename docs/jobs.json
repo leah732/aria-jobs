@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T12:46:09.299Z",
+  "generatedAt": "2026-10-06T13:09:40.818Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 59,
+    "remoteok": 60,
     "remotive": 13,
     "jobicy": 38,
     "arbeitnow": 5
   },
-  "count": 115,
+  "count": 116,
   "jobs": [
     {
       "id": "jobicy-154681",
@@ -514,6 +514,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791209157000
+    },
+    {
+      "id": "remoteok-1137465",
+      "title": "Platform and Integration Engineer Security Telemetry",
+      "company": "RedMimicry",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1791205202000
     },
     {
       "id": "remotive-2091149",
