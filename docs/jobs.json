@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-06T09:41:57.520Z",
+  "generatedAt": "2026-10-06T10:08:18.141Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 38,
-    "arbeitnow": 7
+    "arbeitnow": 8
   },
-  "count": 116,
+  "count": 117,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-fullstack-developer-system-modernization-strategic-delivery-420550",
+      "title": "Fullstack Developer (m/f/d) System Modernization & Strategic Delivery",
+      "company": "primion Technology GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/remote-fullstack-developer-system-modernization-strategic-delivery-420550",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791275419000
+    },
+    {
+      "id": "arbeitnow-remote-senior-sap-is-u-fi-co-abap-application-developer-berlin-420038",
+      "title": "Senior SAP IS-U & FI/CO ABAP Application Developer (m/w/d)",
+      "company": "Natuvion GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-is-u-fi-co-abap-application-developer-berlin-420038",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791275402000
+    },
+    {
+      "id": "arbeitnow-junior-customer-implementation-engineer-nuremberg-266276",
+      "title": "(Junior) Customer Implementation Engineer (m/w/d)",
+      "company": "Telepaxx Medical Data GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/telepaxx-medical-data-gmbh/junior-customer-implementation-engineer-nuremberg-266276",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791273632000
+    },
     {
       "id": "jobicy-154681",
       "title": "Senior Information Security Engineer",
@@ -306,30 +342,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791261025000
-    },
-    {
-      "id": "arbeitnow-remote-data-scientist-product-analytics-431439",
-      "title": "Data Scientist - Product Analytics",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-431439",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791243604000
-    },
-    {
-      "id": "arbeitnow-remote-marketing-data-scientist-186335",
-      "title": "Marketing Data Scientist",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-marketing-data-scientist-186335",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791243604000
     },
     {
       "id": "jobicy-154667",
