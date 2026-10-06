@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T13:41:54.676Z",
+  "generatedAt": "2026-10-06T14:10:39.832Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,18 @@
   },
   "count": 116,
   "jobs": [
+    {
+      "id": "arbeitnow-platform-automation-engineer-elasticsearch-ansible-tz-munich-418234",
+      "title": "Platform / Automation Engineer (m/w/d) - Elasticsearch & Ansible // TZ",
+      "company": "citema systems GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/platform-automation-engineer-elasticsearch-ansible-tz-munich-418234",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791291658000
+    },
     {
       "id": "jobicy-154681",
       "title": "Senior Information Security Engineer",
@@ -294,18 +306,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791261906000
-    },
-    {
-      "id": "arbeitnow-lead-enterprise-architect-professional-services-london-460241",
-      "title": "Lead Enterprise Architect, Professional Services",
-      "company": "Intelance",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/lead-enterprise-architect-professional-services-london-460241",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791261025000
     },
     {
       "id": "jobicy-154667",
