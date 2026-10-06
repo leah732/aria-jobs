@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T19:07:09.241Z",
+  "generatedAt": "2026-10-06T19:40:38.416Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
-    "jobicy": 39,
+    "jobicy": 40,
     "arbeitnow": 5
   },
-  "count": 117,
+  "count": 118,
   "jobs": [
     {
       "id": "arbeitnow-senior-oracle-fusion-hcm-security-specialist-freelance-bonn-192936",
@@ -551,6 +551,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791226354000
+    },
+    {
+      "id": "jobicy-154629",
+      "title": "Staff Engineer",
+      "company": "Dutchie",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154629-staff-engineer-2",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791214420000
     },
     {
       "id": "remoteok-1137465",
