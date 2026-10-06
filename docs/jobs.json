@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T19:40:38.416Z",
+  "generatedAt": "2026-10-06T20:07:02.405Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 40,
-    "arbeitnow": 5
+    "arbeitnow": 4
   },
-  "count": 118,
+  "count": 117,
   "jobs": [
     {
       "id": "arbeitnow-senior-oracle-fusion-hcm-security-specialist-freelance-bonn-192936",
@@ -32,18 +32,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791302471000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-developer-nodejs-ipswich-346396",
-      "title": "Full Stack Developer (node.js)",
-      "company": "Delta Capita",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-full-stack-developer-nodejs-ipswich-346396",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791300603000
     },
     {
       "id": "jobicy-154704",
