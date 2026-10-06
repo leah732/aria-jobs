@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-06T05:41:13.720Z",
+  "generatedAt": "2026-10-06T06:09:29.331Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
     "jobicy": 38,
-    "arbeitnow": 10
+    "arbeitnow": 11
   },
-  "count": 120,
+  "count": 121,
   "jobs": [
+    {
+      "id": "arbeitnow-lead-enterprise-architect-professional-services-london-460241",
+      "title": "Lead Enterprise Architect, Professional Services",
+      "company": "Intelance",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/lead-enterprise-architect-professional-services-london-460241",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791261025000
+    },
     {
       "id": "arbeitnow-remote-data-scientist-product-analytics-431439",
       "title": "Data Scientist - Product Analytics",
