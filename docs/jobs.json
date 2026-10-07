@@ -1,14 +1,74 @@
 {
-  "generatedAt": "2026-10-07T21:41:52.085Z",
+  "generatedAt": "2026-10-07T22:06:59.752Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 45,
-    "arbeitnow": 10
+    "arbeitnow": 13
   },
-  "count": 126,
+  "count": 129,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-applied-ai-engineer-3132",
+      "title": "Applied AI Engineer",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-applied-ai-engineer-3132",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791405603000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-creative-agents-291646",
+      "title": "Full-stack Engineer - Creative Agents",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-291646",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791405603000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-312986",
+      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-312986",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791405603000
+    },
+    {
+      "id": "arbeitnow-remote-self-serve-product-manager-elevencreative-489942",
+      "title": "Self-Serve Product Manager - ElevenCreative",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-self-serve-product-manager-elevencreative-489942",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791405603000
+    },
+    {
+      "id": "arbeitnow-remote-enterprise-product-manager-elevencreative-236702",
+      "title": "Enterprise Product Manager - ElevenCreative",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-236702",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791405603000
+    },
     {
       "id": "arbeitnow-forward-deployed-ai-engineer-energy-lennestadt-469857",
       "title": "Forward Deployed AI Engineer Energy (m/w/d)",
@@ -70,30 +130,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791393354000
-    },
-    {
-      "id": "arbeitnow-remote-manager-engineering-identity-33160",
-      "title": "Manager, Engineering - Identity",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-manager-engineering-identity-33160",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791384002000
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-295117",
-      "title": "Senior Software Engineer, Backend - Distributed Systems",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-295117",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791384002000
     },
     {
       "id": "arbeitnow-senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-100232",
