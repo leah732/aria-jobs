@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-10-07T06:08:49.348Z",
+  "generatedAt": "2026-10-07T06:46:53.192Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 40,
-    "arbeitnow": 7
+    "arbeitnow": 9
   },
-  "count": 119,
+  "count": 121,
   "jobs": [
+    {
+      "id": "arbeitnow-technical-lead-berlin-450039",
+      "title": "Technical Lead (f/m/d)",
+      "company": "Boardwise GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/technical-lead-berlin-450039",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791351066000
+    },
+    {
+      "id": "arbeitnow-product-owner-berlin-72733",
+      "title": "Product Owner (m/w/d)",
+      "company": "Interlead GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/product-owner-berlin-72733",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791351065000
+    },
+    {
+      "id": "arbeitnow-devops-engineer-berlin-317808",
+      "title": "DevOps Engineer (m/w/d)",
+      "company": "Interlead GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/devops-engineer-berlin-317808",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791351060000
+    },
+    {
+      "id": "arbeitnow-devops-engineer-backend-entwicklerin-berlin-116212",
+      "title": "DevOps Engineer/ Backend Entwickler:in (m/w/d)",
+      "company": "Nitrado (marbis GmbH)",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/devops-engineer-backend-entwicklerin-berlin-116212",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791351057000
+    },
     {
       "id": "arbeitnow-french-english-c1-customer-success-manager-remote-montpellier-401361",
       "title": "(French & English C1) Customer Success Manager (remote)",
@@ -628,30 +676,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1791129603000
-    },
-    {
-      "id": "arbeitnow-remote-senior-web-compatibility-engineer-379161",
-      "title": "Senior Web Compatibility Engineer",
-      "company": "Duck Duck Go",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791081609000
-    },
-    {
-      "id": "arbeitnow-remote-senior-privacy-engineer-111342",
-      "title": "Senior Privacy Engineer",
-      "company": "Duck Duck Go",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791081609000
     },
     {
       "id": "remotive-2091133",
