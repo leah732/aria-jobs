@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-07T09:43:02.059Z",
+  "generatedAt": "2026-10-07T10:09:34.012Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 46,
-    "arbeitnow": 10
+    "arbeitnow": 9
   },
-  "count": 128,
+  "count": 127,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-platform-boosters-backend-engineer-berlin-232578",
+      "title": "Platform Boosters - Backend Engineer (m/w/d)",
+      "company": "shopware AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791361829000
+    },
+    {
+      "id": "arbeitnow-remote-java-entwickler-delphi-kenntnisse-saas-product-homeoffice-germany-291051",
+      "title": "Java Entwickler | Delphi-Kenntnisse (m/w/d) | SaaS Product | Homeoffice",
+      "company": "Kooku",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/kooku/remote-java-entwickler-delphi-kenntnisse-saas-product-homeoffice-germany-291051",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791361211000
+    },
     {
       "id": "arbeitnow-principal-of-backend-chelmsford-301649",
       "title": "Principal of backend",
@@ -32,42 +56,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791356513000
-    },
-    {
-      "id": "arbeitnow-technical-lead-berlin-450039",
-      "title": "Technical Lead (f/m/d)",
-      "company": "Boardwise GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/technical-lead-berlin-450039",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791351066000
-    },
-    {
-      "id": "arbeitnow-product-owner-berlin-72733",
-      "title": "Product Owner (m/w/d)",
-      "company": "Interlead GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/product-owner-berlin-72733",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791351065000
-    },
-    {
-      "id": "arbeitnow-devops-engineer-berlin-317808",
-      "title": "DevOps Engineer (m/w/d)",
-      "company": "Interlead GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/devops-engineer-berlin-317808",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791351060000
     },
     {
       "id": "jobicy-152668",
