@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T11:08:36.634Z",
+  "generatedAt": "2026-10-07T11:41:24.109Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
-    "remotive": 13,
+    "remotive": 12,
     "jobicy": 46,
     "arbeitnow": 10
   },
-  "count": 128,
+  "count": 127,
   "jobs": [
     {
       "id": "arbeitnow-senior-computer-vision-photogrammetry-engineer-munster-228754",
@@ -1193,20 +1193,6 @@
       "salaryText": "OTE $25k - $35k",
       "category": "Sales",
       "postedAt": 1788904074000
-    },
-    {
-      "id": "remotive-2091045",
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "setup": "wfh",
-      "location": "Worldwide",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryText": null,
-      "category": "Information Technology",
-      "postedAt": 1788743443000
     },
     {
       "id": "remoteok-1137224",
