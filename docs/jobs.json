@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-07T02:41:59.986Z",
+  "generatedAt": "2026-10-07T03:08:17.315Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 40,
-    "arbeitnow": 6
+    "arbeitnow": 7
   },
-  "count": 119,
+  "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-french-english-c1-customer-success-manager-remote-montpellier-401361",
+      "title": "(French & English C1) Customer Success Manager (remote)",
+      "company": "Supportyourapp",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/supportyourapp/french-english-c1-customer-success-manager-remote-montpellier-401361",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791336017000
+    },
     {
       "id": "arbeitnow-remote-data-scientist-product-analytics-364885",
       "title": "Data Scientist - Product Analytics",
