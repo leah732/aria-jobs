@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-07T11:41:24.109Z",
+  "generatedAt": "2026-10-07T12:11:13.706Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 46,
-    "arbeitnow": 10
+    "arbeitnow": 11
   },
-  "count": 127,
+  "count": 128,
   "jobs": [
+    {
+      "id": "arbeitnow-data-analyst-automation-engineer-100-remote-hamburg-331696",
+      "title": "Data Analyst & Automation Engineer (m/w/d) | 100 % remote",
+      "company": "hey contact heroes GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/data-analyst-automation-engineer-100-remote-hamburg-331696",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791369116000
+    },
     {
       "id": "arbeitnow-senior-computer-vision-photogrammetry-engineer-munster-228754",
       "title": "Senior Computer Vision / Photogrammetry Engineer (m/w/d)",
