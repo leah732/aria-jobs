@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-07T12:11:13.706Z",
+  "generatedAt": "2026-10-07T12:49:23.859Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
-    "jobicy": 46,
-    "arbeitnow": 11
+    "jobicy": 45,
+    "arbeitnow": 9
   },
-  "count": 128,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-werkstudent-data-analyst-automation-engineer-100-remote-hamburg-111403",
+      "title": "Werkstudent Data Analyst & Automation Engineer (m/w/d) | 100 % remote",
+      "company": "hey contact heroes GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/werkstudent-data-analyst-automation-engineer-100-remote-hamburg-111403",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791372656000
+    },
     {
       "id": "arbeitnow-data-analyst-automation-engineer-100-remote-hamburg-331696",
       "title": "Data Analyst & Automation Engineer (m/w/d) | 100 % remote",
@@ -34,28 +46,56 @@
       "postedAt": 1791365482000
     },
     {
-      "id": "arbeitnow-remote-platform-boosters-backend-engineer-berlin-232578",
-      "title": "Platform Boosters - Backend Engineer (m/w/d)",
-      "company": "shopware AG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578",
+      "id": "jobicy-154770",
+      "title": "Senior Software Development Engineer in Test (SDET)",
+      "company": "Flex",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154770-senior-software-development-engineer-in-test-sdet",
       "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
+      "location": "Anywhere",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791361829000
+      "salaryCurrency": "USD",
+      "postedAt": 1791363012000
     },
     {
-      "id": "arbeitnow-remote-java-entwickler-delphi-kenntnisse-saas-product-homeoffice-germany-291051",
-      "title": "Java Entwickler | Delphi-Kenntnisse (m/w/d) | SaaS Product | Homeoffice",
-      "company": "Kooku",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/kooku/remote-java-entwickler-delphi-kenntnisse-saas-product-homeoffice-germany-291051",
+      "id": "jobicy-154765",
+      "title": "Collibra Public Sector Senior Account Executive, Federal Civilian Agencies",
+      "company": "Collibra",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154765-collibra-public-sector-senior-account-executive-federal-civilian-agencies",
       "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
+      "location": "USA",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791361211000
+      "salaryCurrency": "USD",
+      "postedAt": 1791363012000
+    },
+    {
+      "id": "jobicy-154763",
+      "title": "Director, Strategic Partnerships",
+      "company": "Flex",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154763-director-strategic-partnerships",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791363010000
+    },
+    {
+      "id": "jobicy-154764",
+      "title": "Clinical Support Expert",
+      "company": "Dandy",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154764-clinical-support-expert",
+      "setup": "wfh",
+      "location": "Germany",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791363009000
     },
     {
       "id": "arbeitnow-principal-of-backend-chelmsford-301649",
@@ -68,18 +108,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791358285000
-    },
-    {
-      "id": "arbeitnow-initiative-application-berlin-50481",
-      "title": "Initiative application (m/f/x)",
-      "company": "Nitrado (marbis GmbH)",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiative-application-berlin-50481",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791356513000
     },
     {
       "id": "jobicy-152668",
@@ -673,71 +701,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791308206000
-    },
-    {
-      "id": "jobicy-154739",
-      "title": "Commercial Data Scientist",
-      "company": "Doximity",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154739-commercial-data-scientist",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791308206000
-    },
-    {
-      "id": "jobicy-154745",
-      "title": "Senior Software Engineer - Mobile (Android)",
-      "company": "Eight Sleep",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154745-senior-software-engineer-mobile-android",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791308205000
-    },
-    {
-      "id": "jobicy-154733",
-      "title": "Credit Risk Analyst Commercial Underwriter, West Coast",
-      "company": "Stripe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154733-credit-risk-analyst-commercial-underwriter-west-coast",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791307959000
-    },
-    {
-      "id": "jobicy-154725",
-      "title": "ARG Engineering Manager",
-      "company": "Stripe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154725-arg-engineering-manager",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791307959000
-    },
-    {
-      "id": "jobicy-154726",
-      "title": "Backend Engineer, Core Technology",
-      "company": "Stripe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154726-backend-engineer-core-technology",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791307958000
     },
     {
       "id": "remoteok-1137465",
