@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T03:42:50.176Z",
+  "generatedAt": "2026-10-07T04:08:03.607Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 60,
+    "remoteok": 59,
     "remotive": 13,
     "jobicy": 40,
     "arbeitnow": 7
   },
-  "count": 120,
+  "count": 119,
   "jobs": [
     {
       "id": "arbeitnow-french-english-c1-customer-success-manager-remote-montpellier-401361",
@@ -1093,19 +1093,6 @@
       "salaryText": null,
       "category": "Information Technology",
       "postedAt": 1788743443000
-    },
-    {
-      "id": "remoteok-1137309",
-      "title": "AI Response Analyst",
-      "company": "iMerit Technology",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 20000,
-      "salaryMax": 20000,
-      "salaryCurrency": "USD",
-      "postedAt": 1788666444000
     },
     {
       "id": "remoteok-1137224",
