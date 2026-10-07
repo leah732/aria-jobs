@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T00:10:48.196Z",
+  "generatedAt": "2026-10-07T00:50:53.535Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 40,
-    "arbeitnow": 8
+    "arbeitnow": 6
   },
-  "count": 121,
+  "count": 119,
   "jobs": [
     {
       "id": "arbeitnow-remote-data-scientist-product-analytics-364885",
@@ -212,30 +212,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791307942000
-    },
-    {
-      "id": "arbeitnow-senior-oracle-fusion-hcm-security-specialist-freelance-bonn-192936",
-      "title": "Senior Oracle Fusion HCM Security Specialist (Freelance)",
-      "company": "Sidekick Network GmbH & Co. KG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-oracle-fusion-hcm-security-specialist-freelance-bonn-192936",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791304296000
-    },
-    {
-      "id": "arbeitnow-junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
-      "title": "Junior GTM Engineer - Deutsch C1 - 100% remote",
-      "company": "Pipebuilders",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/pipebuilders/junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791302471000
     },
     {
       "id": "jobicy-154704",
