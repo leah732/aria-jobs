@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-07T22:40:46.272Z",
+  "generatedAt": "2026-10-07T23:05:50.109Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 45,
-    "arbeitnow": 13
+    "arbeitnow": 15
   },
-  "count": 129,
+  "count": 131,
   "jobs": [
+    {
+      "id": "arbeitnow-venture-developer-berlin-415611",
+      "title": "Venture Developer (m/f/d)",
+      "company": "EBIT Ventures",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ebit-ventures/venture-developer-berlin-415611",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791408639000
+    },
+    {
+      "id": "arbeitnow-co-founder-cxo-grunder-berlin-295744",
+      "title": "Co-Founder / CXO Gründer (m/f/d)",
+      "company": "EBIT Ventures",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ebit-ventures/co-founder-cxo-grunder-berlin-295744",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791408639000
+    },
     {
       "id": "arbeitnow-remote-applied-ai-engineer-3132",
       "title": "Applied AI Engineer",
