@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T23:05:50.109Z",
+  "generatedAt": "2026-10-07T23:39:29.604Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
-    "jobicy": 45,
+    "jobicy": 46,
     "arbeitnow": 15
   },
-  "count": 131,
+  "count": 132,
   "jobs": [
     {
       "id": "arbeitnow-venture-developer-berlin-415611",
@@ -116,6 +116,58 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791403242000
+    },
+    {
+      "id": "jobicy-154793",
+      "title": "Senior Product Director, Client Engagement Group",
+      "company": "Squarespace",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154793-senior-product-director-client-engagement-group",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791401856000
+    },
+    {
+      "id": "jobicy-154799",
+      "title": "GxP Systems and Support Administrator",
+      "company": "CAI",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154799-gxp-systems-and-support-administrator",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791401853000
+    },
+    {
+      "id": "jobicy-154796",
+      "title": "Acquisitions Director",
+      "company": "Unison Infrastructure",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154796-acquisitions-director",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791401853000
+    },
+    {
+      "id": "jobicy-154794",
+      "title": "Global Director - General Ledger",
+      "company": "CAI",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154794-global-director-general-ledger",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791401852000
     },
     {
       "id": "arbeitnow-remote-junior-cloud-operations-engineer-all-genders-ch-baar-284023",
@@ -686,45 +738,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791346804000
-    },
-    {
-      "id": "jobicy-148667",
-      "title": "Senior ML Engineer (Token Factory)",
-      "company": "Nebius",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/148667-senior-ml-engineer-token-factory",
-      "setup": "wfh",
-      "location": "Czechia,  Europe,  Germany,  Israel,  Netherlands,  UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791346524000
-    },
-    {
-      "id": "jobicy-148357",
-      "title": "PRINCIPAL R&D/PRODUCT DVL ENGINEER",
-      "company": "TE Connectivity",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/148357-principal-rd-product-dvl-engineer",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791346516000
-    },
-    {
-      "id": "jobicy-148660",
-      "title": "Global Director, Mid-Market Onboarding",
-      "company": "Cloudbeds",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/148660-global-director-mid-market-onboarding",
-      "setup": "wfh",
-      "location": "Canada,  Europe,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791346515000
     },
     {
       "id": "arbeitnow-remote-data-scientist-product-analytics-364885",
