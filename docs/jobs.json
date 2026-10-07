@@ -1,37 +1,61 @@
 {
-  "generatedAt": "2026-10-07T15:17:36.649Z",
+  "generatedAt": "2026-10-07T15:47:52.138Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 45,
-    "arbeitnow": 7
+    "arbeitnow": 9
   },
-  "count": 123,
+  "count": 125,
   "jobs": [
     {
-      "id": "arbeitnow-werkstudent-data-analyst-automation-engineer-100-remote-hamburg-111403",
-      "title": "Werkstudent Data Analyst & Automation Engineer (m/w/d) | 100 % remote",
-      "company": "hey contact heroes GmbH",
+      "id": "arbeitnow-remote-manager-engineering-identity-33160",
+      "title": "Manager, Engineering - Identity",
+      "company": "Camunda",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/werkstudent-data-analyst-automation-engineer-100-remote-hamburg-111403",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-manager-engineering-identity-33160",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791372656000
+      "postedAt": 1791384002000
     },
     {
-      "id": "arbeitnow-data-analyst-automation-engineer-100-remote-hamburg-331696",
-      "title": "Data Analyst & Automation Engineer (m/w/d) | 100 % remote",
-      "company": "hey contact heroes GmbH",
+      "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-295117",
+      "title": "Senior Software Engineer, Backend - Distributed Systems",
+      "company": "Camunda",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/data-analyst-automation-engineer-100-remote-hamburg-331696",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-295117",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791369116000
+      "postedAt": 1791384002000
+    },
+    {
+      "id": "arbeitnow-senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-100232",
+      "title": "Senior Backend Developer (Go) — Full Remote, European Timezones Only (UTC−1 to UTC+3)",
+      "company": "Jobtome",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-100232",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791383404000
+    },
+    {
+      "id": "arbeitnow-l1-reports-engineer-berlin-85633",
+      "title": "L1- Reports Engineer (m/w/d)",
+      "company": "Boardwise GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/l1-reports-engineer-berlin-85633",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791381690000
     },
     {
       "id": "jobicy-154770",
@@ -627,19 +651,6 @@
       "postedAt": 1791308306000
     },
     {
-      "id": "jobicy-154752",
-      "title": "Senior Cloud Security Engineer (f/m/d)",
-      "company": "ecosio",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154752-senior-cloud-security-engineer-f-m-d",
-      "setup": "wfh",
-      "location": "Austria",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791308305000
-    },
-    {
       "id": "jobicy-154743",
       "title": "Ads Quality Rater - Filipino (Philippines)",
       "company": "Welo Global",
@@ -673,6 +684,19 @@
       "url": "https://jobicy.com/jobs/154740-senior-backend-engineer-9",
       "setup": "wfh",
       "location": "Canada,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791308206000
+    },
+    {
+      "id": "jobicy-154739",
+      "title": "Commercial Data Scientist",
+      "company": "Doximity",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154739-commercial-data-scientist",
+      "setup": "wfh",
+      "location": "USA",
       "salaryMin": null,
       "salaryMax": null,
       "salaryCurrency": "USD",
