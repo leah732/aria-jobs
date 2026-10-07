@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-07T10:41:36.874Z",
+  "generatedAt": "2026-10-07T11:08:36.634Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 46,
-    "arbeitnow": 9
+    "arbeitnow": 10
   },
-  "count": 127,
+  "count": 128,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-computer-vision-photogrammetry-engineer-munster-228754",
+      "title": "Senior Computer Vision / Photogrammetry Engineer (m/w/d)",
+      "company": "syte GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/syte-gmbh/senior-computer-vision-photogrammetry-engineer-munster-228754",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791365482000
+    },
     {
       "id": "arbeitnow-remote-platform-boosters-backend-engineer-berlin-232578",
       "title": "Platform Boosters - Backend Engineer (m/w/d)",
