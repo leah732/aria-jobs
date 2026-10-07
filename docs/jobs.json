@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T18:09:49.425Z",
+  "generatedAt": "2026-10-07T18:46:15.916Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
@@ -9,6 +9,18 @@
   },
   "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-junior-cloud-operations-engineer-all-genders-ch-baar-284023",
+      "title": "Junior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-284023",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791394255000
+    },
     {
       "id": "arbeitnow-remote-manager-engineering-identity-33160",
       "title": "Manager, Engineering - Identity",
@@ -44,18 +56,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791383404000
-    },
-    {
-      "id": "arbeitnow-l1-reports-engineer-berlin-85633",
-      "title": "L1- Reports Engineer (m/w/d)",
-      "company": "Boardwise GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/l1-reports-engineer-berlin-85633",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791381690000
     },
     {
       "id": "jobicy-154779",
