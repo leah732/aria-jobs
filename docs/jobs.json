@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-07T08:42:51.401Z",
+  "generatedAt": "2026-10-07T09:09:14.334Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
-    "jobicy": 43,
-    "arbeitnow": 9
+    "jobicy": 46,
+    "arbeitnow": 10
   },
-  "count": 124,
+  "count": 128,
   "jobs": [
+    {
+      "id": "arbeitnow-principal-of-backend-chelmsford-301649",
+      "title": "Principal of backend",
+      "company": "SchemeServe Limited",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/schemeserve-limited/principal-of-backend-chelmsford-301649",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791358285000
+    },
     {
       "id": "arbeitnow-initiative-application-berlin-50481",
       "title": "Initiative application (m/f/x)",
@@ -56,6 +68,58 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791351060000
+    },
+    {
+      "id": "jobicy-152668",
+      "title": "Security Sales Engineer - SLED/Public Sector",
+      "company": "Tenable",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152668-security-sales-engineer-sled-public-sector",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791349811000
+    },
+    {
+      "id": "jobicy-152666",
+      "title": "Salesforce Developer (US-Remote)",
+      "company": "Tenable",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152666-salesforce-developer-us-remote",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791349810000
+    },
+    {
+      "id": "jobicy-152664",
+      "title": "Principal Solutions Architect (AWS Technical Alliances)",
+      "company": "Tenable",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152664-principal-solutions-architect-aws-technical-alliances",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791349809000
+    },
+    {
+      "id": "jobicy-152662",
+      "title": "Customer Reliability Engineer",
+      "company": "Tailscale",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152662-customer-reliability-engineer",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791349806000
     },
     {
       "id": "jobicy-152680",
@@ -662,19 +726,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791307958000
-    },
-    {
-      "id": "jobicy-154718",
-      "title": "Sr. Software Engineer",
-      "company": "CentralReach",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154718-sr-software-engineer-4",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791307942000
     },
     {
       "id": "remoteok-1137465",
