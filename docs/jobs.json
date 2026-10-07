@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T15:47:52.138Z",
+  "generatedAt": "2026-10-07T16:11:06.796Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
-    "jobicy": 45,
+    "jobicy": 46,
     "arbeitnow": 9
   },
-  "count": 125,
+  "count": 126,
   "jobs": [
     {
       "id": "arbeitnow-remote-manager-engineering-identity-33160",
@@ -56,6 +56,71 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791381690000
+    },
+    {
+      "id": "jobicy-154779",
+      "title": "Data Scientist II, Infrastructure",
+      "company": "Pinterest",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154779-data-scientist-ii-infrastructure",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791378016000
+    },
+    {
+      "id": "jobicy-154777",
+      "title": "Sr. Embedded Software Engineer, Robotics Platform",
+      "company": "Serve Robotics",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154777-sr-embedded-software-engineer-robotics-platform",
+      "setup": "wfh",
+      "location": "Canada,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791378015000
+    },
+    {
+      "id": "jobicy-154781",
+      "title": "Account Director II",
+      "company": "Cision",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154781-account-director-ii",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791378014000
+    },
+    {
+      "id": "jobicy-154780",
+      "title": "Senior Software Engineer, Fullstack",
+      "company": "CoderPad",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154780-senior-software-engineer-fullstack-4",
+      "setup": "wfh",
+      "location": "LATAM",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791378013000
+    },
+    {
+      "id": "jobicy-154775",
+      "title": "Account Director I",
+      "company": "Cision",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154775-account-director-i",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791378013000
     },
     {
       "id": "jobicy-154770",
@@ -649,58 +714,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791308306000
-    },
-    {
-      "id": "jobicy-154743",
-      "title": "Ads Quality Rater - Filipino (Philippines)",
-      "company": "Welo Global",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154743-ads-quality-rater-filipino-philippines",
-      "setup": "wfh",
-      "location": "Philippines",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791308207000
-    },
-    {
-      "id": "jobicy-154737",
-      "title": "1149 - Senior DevOps Engineer",
-      "company": "GoFasti",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154737-1149-senior-devops-engineer",
-      "setup": "wfh",
-      "location": "LATAM",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791308207000
-    },
-    {
-      "id": "jobicy-154740",
-      "title": "Senior Backend Engineer",
-      "company": "Eight Sleep",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154740-senior-backend-engineer-9",
-      "setup": "wfh",
-      "location": "Canada,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791308206000
-    },
-    {
-      "id": "jobicy-154739",
-      "title": "Commercial Data Scientist",
-      "company": "Doximity",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154739-commercial-data-scientist",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791308206000
     },
     {
       "id": "remoteok-1137465",
