@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-08T16:44:56.581Z",
+  "generatedAt": "2026-10-08T17:08:55.129Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 45,
-    "arbeitnow": 14
+    "arbeitnow": 15
   },
-  "count": 130,
+  "count": 131,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-delivery-architect-sap-wm-uk-174474",
+      "title": "Delivery Architect (SAP WM)",
+      "company": "The Config Team",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-delivery-architect-sap-wm-uk-174474",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791474647000
+    },
     {
       "id": "arbeitnow-remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-355821",
       "title": "Initiativbewerbung IT, Consulting & Softwareentwicklung (w/m/d)",
