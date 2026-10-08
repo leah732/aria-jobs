@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T07:43:36.815Z",
+  "generatedAt": "2026-10-08T08:09:39.428Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
@@ -9,6 +9,18 @@
   },
   "count": 128,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-fullstack-engineer-ai-backend-infrastructure-berlin-456522",
+      "title": "Senior Fullstack Engineer: AI, Backend, Infrastructure",
+      "company": "UseToday ApS",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/usetoday-aps/senior-fullstack-engineer-ai-backend-infrastructure-berlin-456522",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791439253000
+    },
     {
       "id": "arbeitnow-remote-ios-developer-radiotech-406158",
       "title": "iOS Developer (Radiotech)",
@@ -338,18 +350,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791415826000
-    },
-    {
-      "id": "arbeitnow-remote-software-sales-consultant-deutschlandweit-435583",
-      "title": "Software Sales Consultant (m/w/d)",
-      "company": "ANGEHEUERT GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-software-sales-consultant-deutschlandweit-435583",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791415813000
     },
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-389413",
