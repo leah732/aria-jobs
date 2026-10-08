@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T21:08:38.121Z",
+  "generatedAt": "2026-10-08T21:42:02.968Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
-    "jobicy": 41,
+    "jobicy": 42,
     "arbeitnow": 12
   },
-  "count": 124,
+  "count": 125,
   "jobs": [
     {
       "id": "arbeitnow-remote-product-engineer-96085",
@@ -613,6 +613,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791430514000
+    },
+    {
+      "id": "jobicy-145290",
+      "title": "Senior Software Engineer - REDAPL Graph Engine",
+      "company": "Datadog",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/145290-senior-software-engineer-redapl-graph-engine",
+      "setup": "wfh",
+      "location": "France,  Germany,  Italy,  Spain,  Switzerland,  UK",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791430510000
     },
     {
       "id": "arbeitnow-remote-junior-cloud-operations-engineer-all-genders-ch-baar-284023",
