@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-08T14:44:13.381Z",
+  "generatedAt": "2026-10-08T15:09:15.168Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 59,
+    "remoteok": 58,
     "remotive": 13,
     "jobicy": 45,
-    "arbeitnow": 11
+    "arbeitnow": 13
   },
-  "count": 128,
+  "count": 129,
   "jobs": [
+    {
+      "id": "arbeitnow-gmt-engineering-intern-remote-munich-180613",
+      "title": "GMT Engineering Intern (m/f/d) | Remote",
+      "company": "Beglaubigt.de",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/beglaubigtde/gmt-engineering-intern-remote-munich-180613",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791468069000
+    },
+    {
+      "id": "arbeitnow-senior-consultant-cybersecurity-gorlitz-425791",
+      "title": "Senior Consultant Cybersecurity (m/w/d)",
+      "company": "QESTIT",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/qestit/senior-consultant-cybersecurity-gorlitz-425791",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791466288000
+    },
     {
       "id": "arbeitnow-senior-software-engineer-berlin-355454",
       "title": "Senior Software Engineer (m/w/d)",
@@ -859,19 +883,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1790121610000
-    },
-    {
-      "id": "remoteok-1137420",
-      "title": "Frontend Engineer",
-      "company": "Bjak ",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1790121604000
     },
     {
       "id": "remoteok-1137417",
