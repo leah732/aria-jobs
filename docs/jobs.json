@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T22:41:29.710Z",
+  "generatedAt": "2026-10-08T23:07:49.960Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 48,
-    "arbeitnow": 17
+    "arbeitnow": 16
   },
-  "count": 136,
+  "count": 135,
   "jobs": [
     {
       "id": "arbeitnow-remote-applied-ai-engineer-404690",
@@ -337,18 +337,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791478799000
-    },
-    {
-      "id": "arbeitnow-remote-delivery-architect-sap-wm-uk-174474",
-      "title": "Delivery Architect (SAP WM)",
-      "company": "The Config Team",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-delivery-architect-sap-wm-uk-174474",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791474647000
     },
     {
       "id": "jobicy-154832",
