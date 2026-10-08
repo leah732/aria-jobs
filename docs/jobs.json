@@ -1,14 +1,86 @@
 {
-  "generatedAt": "2026-10-08T21:42:02.968Z",
+  "generatedAt": "2026-10-08T22:08:21.334Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 12
+    "arbeitnow": 17
   },
-  "count": 125,
+  "count": 130,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-applied-ai-engineer-404690",
+      "title": "Applied AI Engineer",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-applied-ai-engineer-404690",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791492012000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-creative-agents-292788",
+      "title": "Full-stack Engineer - Creative Agents",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-292788",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791492012000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-323217",
+      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791492012000
+    },
+    {
+      "id": "arbeitnow-remote-self-serve-product-manager-elevencreative-158784",
+      "title": "Self-Serve Product Manager - ElevenCreative",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-self-serve-product-manager-elevencreative-158784",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791492012000
+    },
+    {
+      "id": "arbeitnow-remote-enterprise-product-manager-elevencreative-286182",
+      "title": "Enterprise Product Manager - ElevenCreative",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-286182",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791492012000
+    },
+    {
+      "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-417843",
+      "title": "Senior Software Engineer, Backend - Distributed Systems",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-417843",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791492009000
+    },
     {
       "id": "arbeitnow-remote-product-engineer-96085",
       "title": "Product Engineer",
@@ -160,18 +232,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791474647000
-    },
-    {
-      "id": "arbeitnow-remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-355821",
-      "title": "Initiativbewerbung IT, Consulting & Softwareentwicklung (w/m/d)",
-      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-355821",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791469831000
     },
     {
       "id": "jobicy-154832",
