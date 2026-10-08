@@ -1,14 +1,74 @@
 {
-  "generatedAt": "2026-10-08T04:43:02.317Z",
+  "generatedAt": "2026-10-08T05:09:04.155Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 46,
-    "arbeitnow": 12
+    "arbeitnow": 17
   },
-  "count": 129,
+  "count": 134,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-uk-nominee-director-company-appointment-chalkhouse-green-253667",
+      "title": "UK Nominee Director – Company Appointment",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-nominee-director-company-appointment-chalkhouse-green-253667",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791430240000
+    },
+    {
+      "id": "arbeitnow-remote-professional-nominee-director-chalkhouse-green-273276",
+      "title": "Professional Nominee Director",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-professional-nominee-director-chalkhouse-green-273276",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791430240000
+    },
+    {
+      "id": "arbeitnow-remote-nominee-director-corporate-compliance-chalkhouse-green-226019",
+      "title": "Nominee Director – Corporate Compliance",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-nominee-director-corporate-compliance-chalkhouse-green-226019",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791430240000
+    },
+    {
+      "id": "arbeitnow-remote-nominee-director-uk-representation-chalkhouse-green-396061",
+      "title": "Nominee Director – UK Representation",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-nominee-director-uk-representation-chalkhouse-green-396061",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791430240000
+    },
+    {
+      "id": "arbeitnow-remote-nominee-director-company-support-chalkhouse-green-80754",
+      "title": "Nominee Director – Company Support",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-nominee-director-company-support-chalkhouse-green-80754",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791430240000
+    },
     {
       "id": "arbeitnow-remote-ios-developer-radiotech-377202",
       "title": "iOS Developer (Radiotech)",
