@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-08T15:44:26.379Z",
+  "generatedAt": "2026-10-08T16:10:44.843Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 45,
-    "arbeitnow": 13
+    "arbeitnow": 14
   },
-  "count": 129,
+  "count": 130,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-355821",
+      "title": "Initiativbewerbung IT, Consulting & Softwareentwicklung (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-355821",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791469831000
+    },
+    {
+      "id": "arbeitnow-remote-senior-java-entwicklerin-java-developer-backend-munster-240413",
+      "title": "Senior Java Entwickler:in / Java Developer Backend (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-java-entwicklerin-java-developer-backend-munster-240413",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791469831000
+    },
+    {
+      "id": "arbeitnow-remote-senior-fullstack-entwicklerin-mit-schwerpunkt-frontend-koln-333041",
+      "title": "(Senior) Fullstack Entwickler:in Mit Schwerpunkt Frontend",
+      "company": "Rausgegangen GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/rausgegangen-gmbh/remote-senior-fullstack-entwicklerin-mit-schwerpunkt-frontend-koln-333041",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791468581000
+    },
     {
       "id": "arbeitnow-gmt-engineering-intern-remote-munich-180613",
       "title": "GMT Engineering Intern (m/f/d) | Remote",
@@ -265,30 +301,6 @@
       "salaryMax": null,
       "salaryCurrency": "CAD",
       "postedAt": 1791456019000
-    },
-    {
-      "id": "arbeitnow-business-developerin-defence-land-systems-100-deutschland-munich-476593",
-      "title": "Business Developer:in Defence (Land Systems) (m/w/d) | 100% | Deutschland",
-      "company": "CONCAPE",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/business-developerin-defence-land-systems-100-deutschland-munich-476593",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791455456000
-    },
-    {
-      "id": "arbeitnow-business-developerin-defence-naval-cybersecurity-deutschland-dusseldorf-440817",
-      "title": "Business Developer:in Defence (Naval & Cybersecurity) (m/w/d) | Deutschland",
-      "company": "CONCAPE",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/business-developerin-defence-naval-cybersecurity-deutschland-dusseldorf-440817",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791455455000
     },
     {
       "id": "jobicy-147750",
