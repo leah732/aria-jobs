@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-08T06:10:36.579Z",
+  "generatedAt": "2026-10-08T06:48:50.195Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 46,
-    "arbeitnow": 17
+    "arbeitnow": 16
   },
-  "count": 134,
+  "count": 133,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-ios-developer-radiotech-406158",
+      "title": "iOS Developer (Radiotech)",
+      "company": "Gismart",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-ios-developer-radiotech-406158",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791438006000
+    },
     {
       "id": "arbeitnow-remote-uk-nominee-director-company-appointment-chalkhouse-green-253667",
       "title": "UK Nominee Director – Company Appointment",
@@ -116,30 +128,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791412216000
-    },
-    {
-      "id": "arbeitnow-venture-developer-berlin-415611",
-      "title": "Venture Developer (m/f/d)",
-      "company": "EBIT Ventures",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/ebit-ventures/venture-developer-berlin-415611",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791408639000
-    },
-    {
-      "id": "arbeitnow-co-founder-cxo-grunder-berlin-295744",
-      "title": "Co-Founder / CXO Gründer (m/f/d)",
-      "company": "EBIT Ventures",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/ebit-ventures/co-founder-cxo-grunder-berlin-295744",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791408639000
     },
     {
       "id": "jobicy-154793",
