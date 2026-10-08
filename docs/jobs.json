@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T08:09:39.428Z",
+  "generatedAt": "2026-10-08T08:43:19.901Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
-    "jobicy": 41,
+    "jobicy": 40,
     "arbeitnow": 16
   },
-  "count": 128,
+  "count": 127,
   "jobs": [
     {
       "id": "arbeitnow-senior-fullstack-engineer-ai-backend-infrastructure-berlin-456522",
@@ -32,6 +32,58 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791438006000
+    },
+    {
+      "id": "jobicy-152754",
+      "title": "Senior Backend Engineer",
+      "company": "Gremlin",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152754-senior-backend-engineer-4",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791434709000
+    },
+    {
+      "id": "jobicy-152749",
+      "title": "Pre/Post Sales Solutions Architect",
+      "company": "Gremlin",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152749-pre-post-sales-solutions-architect",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791434705000
+    },
+    {
+      "id": "jobicy-152752",
+      "title": "Senior Backend Engineer (Core Team)",
+      "company": "Playson",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152752-senior-backend-engineer-core-team",
+      "setup": "wfh",
+      "location": "Europe,  Ukraine",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791434704000
+    },
+    {
+      "id": "jobicy-152763",
+      "title": "Member of Technical Staff (Applied AI)",
+      "company": "Reka",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152763-member-of-technical-staff-applied-ai",
+      "setup": "wfh",
+      "location": "UK,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791434406000
     },
     {
       "id": "jobicy-152737",
@@ -620,71 +672,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791349809000
-    },
-    {
-      "id": "jobicy-152662",
-      "title": "Customer Reliability Engineer",
-      "company": "Tailscale",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152662-customer-reliability-engineer",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791349806000
-    },
-    {
-      "id": "jobicy-152680",
-      "title": "Forward Deployed Engineer",
-      "company": "Tailscale",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152680-forward-deployed-engineer-2",
-      "setup": "wfh",
-      "location": "Canada",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CAD",
-      "postedAt": 1791347424000
-    },
-    {
-      "id": "jobicy-152677",
-      "title": "Director, APAC Go-to-Market",
-      "company": "Tailscale",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152677-director-apac-go-to-market",
-      "setup": "wfh",
-      "location": "Singapore",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791347423000
-    },
-    {
-      "id": "jobicy-152688",
-      "title": "VP, Engineering & Facilities",
-      "company": "hims &#038; hers",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152688-vp-engineering-facilities",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791347420000
-    },
-    {
-      "id": "jobicy-152686",
-      "title": "Account CTO",
-      "company": "Lambda",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152686-account-cto",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791347419000
     },
     {
       "id": "arbeitnow-remote-data-scientist-product-analytics-364885",
