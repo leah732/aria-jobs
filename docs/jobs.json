@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-08T18:08:44.923Z",
+  "generatedAt": "2026-10-08T18:46:28.940Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 45,
-    "arbeitnow": 14
+    "arbeitnow": 13
   },
-  "count": 130,
+  "count": 129,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-product-engineer-96085",
+      "title": "Product Engineer",
+      "company": "0G",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-96085",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791481209000
+    },
+    {
+      "id": "arbeitnow-remote-freelancer-group-fitness-instructor-la-chaux-de-fonds-96975",
+      "title": "Freelancer - Group Fitness Instructor (m/w/d)",
+      "company": "PureGym AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-la-chaux-de-fonds-96975",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791480626000
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-php-typescript-in-hamburg-oder-remote-91987",
+      "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
+      "company": "DEMV Systems Gmbh",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-91987",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791480623000
+    },
     {
       "id": "arbeitnow-remote-delivery-architect-sap-wm-uk-174474",
       "title": "Delivery Architect (SAP WM)",
@@ -44,54 +80,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791469831000
-    },
-    {
-      "id": "arbeitnow-remote-senior-fullstack-entwicklerin-mit-schwerpunkt-frontend-koln-333041",
-      "title": "(Senior) Fullstack Entwickler:in Mit Schwerpunkt Frontend",
-      "company": "Rausgegangen GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/rausgegangen-gmbh/remote-senior-fullstack-entwicklerin-mit-schwerpunkt-frontend-koln-333041",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791468581000
-    },
-    {
-      "id": "arbeitnow-gmt-engineering-intern-remote-munich-180613",
-      "title": "GMT Engineering Intern (m/f/d) | Remote",
-      "company": "Beglaubigt.de",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/beglaubigtde/gmt-engineering-intern-remote-munich-180613",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791468069000
-    },
-    {
-      "id": "arbeitnow-senior-consultant-cybersecurity-gorlitz-425791",
-      "title": "Senior Consultant Cybersecurity (m/w/d)",
-      "company": "QESTIT",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/qestit/senior-consultant-cybersecurity-gorlitz-425791",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791466288000
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-berlin-355454",
-      "title": "Senior Software Engineer (m/w/d)",
-      "company": "Pflegia",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/pflegia/senior-software-engineer-berlin-355454",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791462664000
     },
     {
       "id": "jobicy-154832",
