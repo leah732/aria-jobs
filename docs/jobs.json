@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-08T11:41:44.442Z",
+  "generatedAt": "2026-10-08T12:10:53.915Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
-    "jobicy": 41,
-    "arbeitnow": 8
+    "jobicy": 40,
+    "arbeitnow": 10
   },
-  "count": 121,
+  "count": 122,
   "jobs": [
+    {
+      "id": "arbeitnow-business-developerin-defence-land-systems-100-deutschland-munich-476593",
+      "title": "Business Developer:in Defence (Land Systems) (m/w/d) | 100% | Deutschland",
+      "company": "CONCAPE",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/business-developerin-defence-land-systems-100-deutschland-munich-476593",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791455456000
+    },
+    {
+      "id": "arbeitnow-business-developerin-defence-naval-cybersecurity-deutschland-dusseldorf-440817",
+      "title": "Business Developer:in Defence (Naval & Cybersecurity) (m/w/d) | Deutschland",
+      "company": "CONCAPE",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/business-developerin-defence-naval-cybersecurity-deutschland-dusseldorf-440817",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791455455000
+    },
     {
       "id": "jobicy-154018",
       "title": "Full-Stack Engineer (Back-End Leaning)",
@@ -576,19 +600,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791349810000
-    },
-    {
-      "id": "jobicy-152664",
-      "title": "Principal Solutions Architect (AWS Technical Alliances)",
-      "company": "Tenable",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152664-principal-solutions-architect-aws-technical-alliances",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791349809000
     },
     {
       "id": "remotive-2091045",
