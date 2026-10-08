@@ -1,26 +1,14 @@
 {
-  "generatedAt": "2026-10-08T09:42:56.108Z",
+  "generatedAt": "2026-10-08T10:09:55.194Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 40,
-    "arbeitnow": 15
+    "arbeitnow": 13
   },
-  "count": 126,
+  "count": 124,
   "jobs": [
-    {
-      "id": "arbeitnow-senior-fullstack-engineer-ai-backend-infrastructure-berlin-456522",
-      "title": "Senior Fullstack Engineer: AI, Backend, Infrastructure",
-      "company": "UseToday ApS",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/usetoday-aps/senior-fullstack-engineer-ai-backend-infrastructure-berlin-456522",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791439253000
-    },
     {
       "id": "arbeitnow-remote-ios-developer-radiotech-406158",
       "title": "iOS Developer (Radiotech)",
@@ -378,18 +366,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791430209000
-    },
-    {
-      "id": "arbeitnow-remote-ios-developer-radiotech-377202",
-      "title": "iOS Developer (Radiotech)",
-      "company": "Gismart",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-ios-developer-radiotech-377202",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791416412000
     },
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-389413",
