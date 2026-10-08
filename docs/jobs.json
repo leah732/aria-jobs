@@ -1,14 +1,27 @@
 {
-  "generatedAt": "2026-10-08T11:08:41.008Z",
+  "generatedAt": "2026-10-08T11:41:44.442Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
-    "remotive": 12,
-    "jobicy": 40,
+    "remotive": 13,
+    "jobicy": 41,
     "arbeitnow": 8
   },
-  "count": 119,
+  "count": 121,
   "jobs": [
+    {
+      "id": "jobicy-154018",
+      "title": "Full-Stack Engineer (Back-End Leaning)",
+      "company": "Elevenlabs",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning",
+      "setup": "wfh",
+      "location": "Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Portugal,  Spain,  UK,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791448610000
+    },
     {
       "id": "arbeitnow-remote-ios-developer-radiotech-406158",
       "title": "iOS Developer (Radiotech)",
@@ -576,6 +589,20 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791349809000
+    },
+    {
+      "id": "remotive-2091045",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "setup": "wfh",
+      "location": "Worldwide",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryText": null,
+      "category": "Information Technology",
+      "postedAt": 1791335469000
     },
     {
       "id": "arbeitnow-remote-data-scientist-product-analytics-364885",
