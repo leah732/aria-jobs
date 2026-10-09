@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-09T16:43:05.818Z",
+  "generatedAt": "2026-10-09T17:08:19.586Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 12,
-    "jobicy": 45,
-    "arbeitnow": 13
+    "jobicy": 42,
+    "arbeitnow": 14
   },
-  "count": 128,
+  "count": 126,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-devops-engineer-repository-migration-freelance-remote-bonn-293344",
+      "title": "Senior DevOps Engineer - Repository Migration (Freelance, Remote)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-devops-engineer-repository-migration-freelance-remote-bonn-293344",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791559868000
+    },
     {
       "id": "arbeitnow-it-consultant-versicherungsbranche-karlsruhe-120183",
       "title": "IT Consultant Versicherungsbranche (w/m/d)",
@@ -20,6 +32,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791554524000
+    },
+    {
+      "id": "jobicy-154909",
+      "title": "Sr. Staff Machine Learning Systems Engineer",
+      "company": "hims &#038; hers",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154909-sr-staff-machine-learning-systems-engineer",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791552675000
+    },
+    {
+      "id": "jobicy-154907",
+      "title": "Senior Machine Learning Engineer, Ranking - Quora",
+      "company": "Quora",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154907-senior-machine-learning-engineer-ranking-quora",
+      "setup": "wfh",
+      "location": "Canada,  Ireland,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791552673000
+    },
+    {
+      "id": "jobicy-154910",
+      "title": "Engineering Manager - Experimentation",
+      "company": "Spotify",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154910-engineering-manager-experimentation",
+      "setup": "wfh",
+      "location": "Sweden,  UK",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791552669000
     },
     {
       "id": "jobicy-154905",
@@ -635,84 +686,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791478800000
-    },
-    {
-      "id": "jobicy-154842",
-      "title": "Senior Security Engineer, Identity and Access Management",
-      "company": "HackerOne",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154842-senior-security-engineer-identity-and-access-management",
-      "setup": "wfh",
-      "location": "Netherlands,  UK,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791478799000
-    },
-    {
-      "id": "jobicy-154832",
-      "title": "Sales Director, NSW",
-      "company": "StackAdapt",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154832-sales-director-nsw",
-      "setup": "wfh",
-      "location": "Australia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "AUD",
-      "postedAt": 1791456312000
-    },
-    {
-      "id": "jobicy-154836",
-      "title": "Sales Director, Victoria",
-      "company": "StackAdapt",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154836-sales-director-victoria",
-      "setup": "wfh",
-      "location": "Australia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "AUD",
-      "postedAt": 1791456308000
-    },
-    {
-      "id": "jobicy-154835",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "company": "TRM Labs",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154835-senior-staff-threat-intelligence-analyst-hacks",
-      "setup": "wfh",
-      "location": "EMEA,  Singapore,  South Korea,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791456306000
-    },
-    {
-      "id": "jobicy-154834",
-      "title": "Sales Engineer",
-      "company": "Zscaler",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154834-sales-engineer-8",
-      "setup": "wfh",
-      "location": "Thailand",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791456306000
-    },
-    {
-      "id": "jobicy-154827",
-      "title": "Customer Success Engineer (Singapore)",
-      "company": "Deepgram",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154827-customer-success-engineer-singapore",
-      "setup": "wfh",
-      "location": "Singapore",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791456306000
     },
     {
       "id": "arbeitnow-remote-ios-developer-radiotech-406158",
