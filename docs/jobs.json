@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:10:23.350Z",
+  "generatedAt": "2026-10-09T14:45:36.738Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
@@ -10,16 +10,16 @@
   "count": 128,
   "jobs": [
     {
-      "id": "arbeitnow-geschaftsfuhrer-gn-wildschytz-full-remote-40h-woche-heidelberg-179645",
-      "title": "Geschäftsführer (gn): Wildschytz, Full Remote, 40h Woche",
-      "company": "Wildschytz UG",
+      "id": "arbeitnow-it-consultant-versicherungsbranche-karlsruhe-120183",
+      "title": "IT Consultant Versicherungsbranche (w/m/d)",
+      "company": "Cognitivo AG",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/wildschytz-ug/geschaftsfuhrer-gn-wildschytz-full-remote-40h-woche-heidelberg-179645",
+      "url": "https://www.arbeitnow.com/jobs/companies/cognitivo-ag/it-consultant-versicherungsbranche-karlsruhe-120183",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791538264000
+      "postedAt": 1791554524000
     },
     {
       "id": "jobicy-154905",
