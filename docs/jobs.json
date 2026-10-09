@@ -1,26 +1,14 @@
 {
-  "generatedAt": "2026-10-09T18:45:07.510Z",
+  "generatedAt": "2026-10-09T19:07:29.168Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 12,
     "jobicy": 42,
-    "arbeitnow": 13
+    "arbeitnow": 12
   },
-  "count": 125,
+  "count": 124,
   "jobs": [
-    {
-      "id": "arbeitnow-senior-devops-engineer-repository-migration-freelance-remote-bonn-293344",
-      "title": "Senior DevOps Engineer - Repository Migration (Freelance, Remote)",
-      "company": "Sidekick Network GmbH & Co. KG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-devops-engineer-repository-migration-freelance-remote-bonn-293344",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791559868000
-    },
     {
       "id": "jobicy-154909",
       "title": "Sr. Staff Machine Learning Systems Engineer",
