@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-09T07:43:04.492Z",
+  "generatedAt": "2026-10-09T08:09:40.802Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 48,
-    "arbeitnow": 13
+    "arbeitnow": 16
   },
-  "count": 132,
+  "count": 135,
   "jobs": [
+    {
+      "id": "arbeitnow-head-of-sales-vertriebsleitung-fur-individualsoftware-ki-cologne-478259",
+      "title": "Head of Sales / Vertriebsleitung (m/w/d) für Individualsoftware & KI",
+      "company": "Sidestream",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/head-of-sales-vertriebsleitung-fur-individualsoftware-ki-cologne-478259",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791529261000
+    },
+    {
+      "id": "arbeitnow-sidebase-open-source-contributor-senior-ts-dev-cologne-384452",
+      "title": "Sidebase Open-Source Contributor & Senior TS Dev (f/m/d)",
+      "company": "Sidestream",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/sidebase-open-source-contributor-senior-ts-dev-cologne-384452",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791529261000
+    },
+    {
+      "id": "arbeitnow-senior-typescript-developer-cologne-230349",
+      "title": "Senior Typescript Developer (f/m/d)",
+      "company": "Sidestream",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-230349",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791527441000
+    },
     {
       "id": "arbeitnow-remote-technical-customer-support-specialist-54073",
       "title": "Technical Customer Support Specialist",
