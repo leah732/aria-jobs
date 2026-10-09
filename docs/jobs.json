@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T06:49:06.182Z",
+  "generatedAt": "2026-10-09T07:11:03.673Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
-    "jobicy": 49,
+    "jobicy": 48,
     "arbeitnow": 13
   },
-  "count": 133,
+  "count": 132,
   "jobs": [
     {
       "id": "arbeitnow-remote-technical-customer-support-specialist-54073",
@@ -752,19 +752,6 @@
       "salaryMax": null,
       "salaryCurrency": "CAD",
       "postedAt": 1791456019000
-    },
-    {
-      "id": "jobicy-147750",
-      "title": "Security Software Engineer, IAM",
-      "company": "Vercel",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/147750-security-software-engineer-iam",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791450307000
     },
     {
       "id": "arbeitnow-remote-ios-developer-radiotech-406158",
