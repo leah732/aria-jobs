@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-09T06:11:10.778Z",
+  "generatedAt": "2026-10-09T06:49:06.182Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
-    "jobicy": 48,
+    "jobicy": 49,
     "arbeitnow": 13
   },
-  "count": 132,
+  "count": 133,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-technical-customer-support-specialist-54073",
+      "title": "Technical Customer Support Specialist",
+      "company": "Happyrobot.ai",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-54073",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791524403000
+    },
+    {
+      "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-16168",
+      "title": "(Senior) AI Product Engineer (m/w/d)",
+      "company": "Legalhero",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-16168",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791522599000
+    },
     {
       "id": "arbeitnow-remote-software-engineer-clinical-ai-devices-paris-321935",
       "title": "Software Engineer, Clinical AI Devices",
@@ -20,6 +44,32 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791520283000
+    },
+    {
+      "id": "jobicy-152836",
+      "title": "Senior Director of Public Charging",
+      "company": "ChargePoint",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152836-senior-director-of-public-charging",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791517209000
+    },
+    {
+      "id": "jobicy-152832",
+      "title": "Senior Director of Fleet Charging",
+      "company": "ChargePoint",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152832-senior-director-of-fleet-charging",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791517207000
     },
     {
       "id": "jobicy-152820",
@@ -717,19 +767,6 @@
       "postedAt": 1791450307000
     },
     {
-      "id": "jobicy-154018",
-      "title": "Full-Stack Engineer (Back-End Leaning)",
-      "company": "Elevenlabs",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning",
-      "setup": "wfh",
-      "location": "Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Portugal,  Spain,  UK,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791448610000
-    },
-    {
       "id": "arbeitnow-remote-ios-developer-radiotech-406158",
       "title": "iOS Developer (Radiotech)",
       "company": "Gismart",
@@ -778,30 +815,6 @@
       "salaryText": null,
       "category": "Information Technology",
       "postedAt": 1791335469000
-    },
-    {
-      "id": "arbeitnow-remote-data-scientist-product-analytics-364885",
-      "title": "Data Scientist - Product Analytics",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-364885",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791319215000
-    },
-    {
-      "id": "arbeitnow-remote-marketing-data-scientist-133130",
-      "title": "Marketing Data Scientist",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-marketing-data-scientist-133130",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791319215000
     },
     {
       "id": "remoteok-1137465",
