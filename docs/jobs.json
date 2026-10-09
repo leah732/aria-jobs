@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T20:43:07.359Z",
+  "generatedAt": "2026-10-09T21:07:47.810Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 12,
     "jobicy": 42,
-    "arbeitnow": 12
+    "arbeitnow": 11
   },
-  "count": 124,
+  "count": 123,
   "jobs": [
     {
       "id": "jobicy-154909",
@@ -176,18 +176,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791524403000
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-clinical-ai-devices-paris-321935",
-      "title": "Software Engineer, Clinical AI Devices",
-      "company": "DeepHealth",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-321935",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791520283000
     },
     {
       "id": "jobicy-152836",
