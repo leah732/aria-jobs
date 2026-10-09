@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-09T10:42:38.449Z",
+  "generatedAt": "2026-10-09T11:08:32.683Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 45,
-    "arbeitnow": 19
+    "arbeitnow": 16
   },
-  "count": 135,
+  "count": 132,
   "jobs": [
+    {
+      "id": "arbeitnow-geschaftsfuhrer-gn-wildschytz-full-remote-40h-woche-heidelberg-179645",
+      "title": "Geschäftsführer (gn): Wildschytz, Full Remote, 40h Woche",
+      "company": "Wildschytz UG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/wildschytz-ug/geschaftsfuhrer-gn-wildschytz-full-remote-40h-woche-heidelberg-179645",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791538264000
+    },
     {
       "id": "arbeitnow-remote-senior-data-engineer-gilching-277204",
       "title": "Senior Data Engineer (m/w/d)",
@@ -44,54 +56,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791533355000
-    },
-    {
-      "id": "arbeitnow-software-engineer-product-full-stack-angular-kotlin-mongodb-berlin-365981",
-      "title": "Software Engineer, Product (Full-Stack: Angular, Kotlin, MongoDB)",
-      "company": "Vestlane",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/vestlane/software-engineer-product-full-stack-angular-kotlin-mongodb-berlin-365981",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791531075000
-    },
-    {
-      "id": "arbeitnow-head-of-sales-vertriebsleitung-fur-individualsoftware-ki-cologne-478259",
-      "title": "Head of Sales / Vertriebsleitung (m/w/d) für Individualsoftware & KI",
-      "company": "Sidestream",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/head-of-sales-vertriebsleitung-fur-individualsoftware-ki-cologne-478259",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791529261000
-    },
-    {
-      "id": "arbeitnow-sidebase-open-source-contributor-senior-ts-dev-cologne-384452",
-      "title": "Sidebase Open-Source Contributor & Senior TS Dev (f/m/d)",
-      "company": "Sidestream",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/sidebase-open-source-contributor-senior-ts-dev-cologne-384452",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791529261000
-    },
-    {
-      "id": "arbeitnow-senior-typescript-developer-cologne-230349",
-      "title": "Senior Typescript Developer (f/m/d)",
-      "company": "Sidestream",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-230349",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791527441000
     },
     {
       "id": "jobicy-154905",
