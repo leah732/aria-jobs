@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-10-09T21:41:55.277Z",
+  "generatedAt": "2026-10-09T22:08:05.337Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 12,
     "jobicy": 42,
-    "arbeitnow": 11
+    "arbeitnow": 15
   },
-  "count": 123,
+  "count": 127,
   "jobs": [
+    {
+      "id": "arbeitnow-it-solution-architect-it-inhouse-consultant-microsoft-bielefeld-336565",
+      "title": "IT Solution Architect / IT Inhouse Consultant – Microsoft (m/w/d)",
+      "company": "Tech-Recruiting.de",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tech-recruitingde/it-solution-architect-it-inhouse-consultant-microsoft-bielefeld-336565",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791577836000
+    },
+    {
+      "id": "arbeitnow-remote-senior-sales-manager-uk-hamburg-237114",
+      "title": "Senior Sales Manager UK",
+      "company": "Moebel De",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-uk-hamburg-237114",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791576546000
+    },
+    {
+      "id": "arbeitnow-remote-senior-sales-manager-polen-hamburg-439196",
+      "title": "Senior Sales Manager Polen (m/w/d)",
+      "company": "Moebel De",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-polen-hamburg-439196",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791576546000
+    },
+    {
+      "id": "arbeitnow-remote-senior-sales-manager-italien-hamburg-410087",
+      "title": "Senior Sales Manager Italien (m/w/d)",
+      "company": "Moebel De",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-italien-hamburg-410087",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791576546000
+    },
     {
       "id": "jobicy-154946",
       "title": "AI Engineer, GTM",
