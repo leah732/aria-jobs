@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T00:11:46.577Z",
+  "generatedAt": "2026-10-09T00:53:38.111Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 13,
     "jobicy": 48,
-    "arbeitnow": 16
+    "arbeitnow": 14
   },
-  "count": 135,
+  "count": 133,
   "jobs": [
     {
       "id": "arbeitnow-remote-applied-ai-engineer-404690",
@@ -199,18 +199,6 @@
       "postedAt": 1791486478000
     },
     {
-      "id": "arbeitnow-remote-product-engineer-96085",
-      "title": "Product Engineer",
-      "company": "0G",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-96085",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791481209000
-    },
-    {
       "id": "arbeitnow-remote-freelancer-group-fitness-instructor-la-chaux-de-fonds-96975",
       "title": "Freelancer - Group Fitness Instructor (m/w/d)",
       "company": "PureGym AG",
@@ -221,18 +209,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791480626000
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-php-typescript-in-hamburg-oder-remote-91987",
-      "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
-      "company": "DEMV Systems Gmbh",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-91987",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791480623000
     },
     {
       "id": "jobicy-154864",
