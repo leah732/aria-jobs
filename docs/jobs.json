@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T22:08:05.337Z",
+  "generatedAt": "2026-10-09T22:41:40.135Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 12,
-    "jobicy": 42,
+    "jobicy": 35,
     "arbeitnow": 15
   },
-  "count": 127,
+  "count": 120,
   "jobs": [
     {
       "id": "arbeitnow-it-solution-architect-it-inhouse-consultant-microsoft-bielefeld-336565",
@@ -56,6 +56,32 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791576546000
+    },
+    {
+      "id": "jobicy-154951",
+      "title": "Principal Solutions Engineer, Emerging Technologies",
+      "company": "1Password",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154951-principal-solutions-engineer-emerging-technologies",
+      "setup": "wfh",
+      "location": "Canada,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791571368000
+    },
+    {
+      "id": "jobicy-154957",
+      "title": "Principal Engineer, Product Engineering",
+      "company": "1Password",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154957-principal-engineer-product-engineering",
+      "setup": "wfh",
+      "location": "Canada,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791571367000
     },
     {
       "id": "jobicy-154946",
@@ -499,32 +525,6 @@
       "postedAt": 1791514208000
     },
     {
-      "id": "jobicy-152789",
-      "title": "Customer Success Application Engineer (Japan)",
-      "company": "Litmus",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152789-customer-success-application-engineer-japan",
-      "setup": "wfh",
-      "location": "Japan",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791514207000
-    },
-    {
-      "id": "jobicy-152779",
-      "title": "Customer Success Application Engineer (EMEA)",
-      "company": "Litmus",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152779-customer-success-application-engineer-emea",
-      "setup": "wfh",
-      "location": "Germany",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791514205000
-    },
-    {
       "id": "arbeitnow-remote-applied-ai-engineer-404690",
       "title": "Applied AI Engineer",
       "company": "ElevenLabs",
@@ -595,97 +595,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791492009000
-    },
-    {
-      "id": "jobicy-154879",
-      "title": "Senior Design Quality Engineer",
-      "company": "Bayesian Health",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154879-senior-design-quality-engineer",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791486486000
-    },
-    {
-      "id": "jobicy-154875",
-      "title": "Quality Assurance Engineer II",
-      "company": "Bloomreach",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154875-quality-assurance-engineer-ii",
-      "setup": "wfh",
-      "location": "Slovakia",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "EUR",
-      "postedAt": 1791486486000
-    },
-    {
-      "id": "jobicy-154871",
-      "title": "Senior Quality Engineer",
-      "company": "StackAdapt",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154871-senior-quality-engineer-3",
-      "setup": "wfh",
-      "location": "Canada,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791486484000
-    },
-    {
-      "id": "jobicy-154877",
-      "title": "Sr. Engineering Manager, SDET",
-      "company": "Cribl",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154877-sr-engineering-manager-sdet",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791486482000
-    },
-    {
-      "id": "jobicy-154880",
-      "title": "Freelance Software Tester With Smart TVs (Remote in Italy)",
-      "company": "Testlio",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154880-freelance-software-tester-with-smart-tvs-remote-in-italy",
-      "setup": "wfh",
-      "location": "Italy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791486481000
-    },
-    {
-      "id": "jobicy-154874",
-      "title": "QA Engineer (Anywhere in Europe)",
-      "company": "PadSplit",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe",
-      "setup": "wfh",
-      "location": "Europe",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791486481000
-    },
-    {
-      "id": "jobicy-154878",
-      "title": "Junior QA Engineer - US Remote",
-      "company": "PerfectServe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154878-junior-qa-engineer-us-remote",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791486480000
     },
     {
       "id": "arbeitnow-remote-freelancer-group-fitness-instructor-la-chaux-de-fonds-96975",
