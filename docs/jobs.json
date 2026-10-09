@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T17:41:15.808Z",
+  "generatedAt": "2026-10-09T18:08:36.559Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 12,
     "jobicy": 42,
-    "arbeitnow": 14
+    "arbeitnow": 13
   },
-  "count": 126,
+  "count": 125,
   "jobs": [
     {
       "id": "arbeitnow-senior-devops-engineer-repository-migration-freelance-remote-bonn-293344",
@@ -20,18 +20,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791559868000
-    },
-    {
-      "id": "arbeitnow-it-consultant-versicherungsbranche-karlsruhe-120183",
-      "title": "IT Consultant Versicherungsbranche (w/m/d)",
-      "company": "Cognitivo AG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/cognitivo-ag/it-consultant-versicherungsbranche-karlsruhe-120183",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791554524000
     },
     {
       "id": "jobicy-154909",
@@ -572,19 +560,6 @@
       "postedAt": 1791486480000
     },
     {
-      "id": "jobicy-154873",
-      "title": "QA Analyst (Mexico, Remote)",
-      "company": "Varicent",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154873-qa-analyst-mexico-remote",
-      "setup": "wfh",
-      "location": "Mexico",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "MXN",
-      "postedAt": 1791486478000
-    },
-    {
       "id": "arbeitnow-remote-freelancer-group-fitness-instructor-la-chaux-de-fonds-96975",
       "title": "Freelancer - Group Fitness Instructor (m/w/d)",
       "company": "PureGym AG",
@@ -686,6 +661,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791478800000
+    },
+    {
+      "id": "jobicy-154842",
+      "title": "Senior Security Engineer, Identity and Access Management",
+      "company": "HackerOne",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154842-senior-security-engineer-identity-and-access-management",
+      "setup": "wfh",
+      "location": "Netherlands,  UK,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791478799000
     },
     {
       "id": "arbeitnow-remote-ios-developer-radiotech-406158",
