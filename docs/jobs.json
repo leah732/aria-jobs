@@ -1,26 +1,14 @@
 {
-  "generatedAt": "2026-10-10T13:40:15.476Z",
+  "generatedAt": "2026-10-10T14:06:29.532Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 28,
-    "arbeitnow": 15
+    "arbeitnow": 14
   },
-  "count": 116,
+  "count": 115,
   "jobs": [
-    {
-      "id": "arbeitnow-product-engineering-lead-qvac-100-remote-london-457624",
-      "title": "Product Engineering Lead (QVAC) (100% remote)",
-      "company": "Tether Operations Limited",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/product-engineering-lead-qvac-100-remote-london-457624",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791613819000
-    },
     {
       "id": "jobicy-154382",
       "title": "Backend Engineer - Music",
