@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-10T01:41:59.987Z",
+  "generatedAt": "2026-10-10T02:07:49.217Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 12,
     "jobicy": 35,
-    "arbeitnow": 16
+    "arbeitnow": 18
   },
-  "count": 121,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-399408",
+      "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
+      "company": "Bling",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-399408",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791592236000
+    },
+    {
+      "id": "arbeitnow-initiativbewerbung-berlin-16430",
+      "title": "Initiativbewerbung (m/w/d)",
+      "company": "Nitrado (marbis GmbH)",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiativbewerbung-berlin-16430",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791592233000
+    },
     {
       "id": "arbeitnow-remote-senior-data-scientist-180788",
       "title": "Senior Data Scientist",
