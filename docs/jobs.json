@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-10T06:09:02.056Z",
+  "generatedAt": "2026-10-10T06:46:21.831Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 12,
     "jobicy": 35,
-    "arbeitnow": 22
+    "arbeitnow": 19
   },
-  "count": 127,
+  "count": 124,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-software-engineer-java-munchen-garmischer-strasse-455579",
+      "title": "Software Engineer - Java (w/m/d)",
+      "company": "Timetoact Group",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-software-engineer-java-munchen-garmischer-strasse-455579",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791608962000
+    },
     {
       "id": "arbeitnow-remote-senior-data-scientist-340621",
       "title": "Senior Data Scientist",
@@ -104,42 +116,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791577836000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-manager-uk-hamburg-237114",
-      "title": "Senior Sales Manager UK",
-      "company": "Moebel De",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-uk-hamburg-237114",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791576546000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-manager-polen-hamburg-439196",
-      "title": "Senior Sales Manager Polen (m/w/d)",
-      "company": "Moebel De",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-polen-hamburg-439196",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791576546000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-manager-italien-hamburg-410087",
-      "title": "Senior Sales Manager Italien (m/w/d)",
-      "company": "Moebel De",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-italien-hamburg-410087",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791576546000
     },
     {
       "id": "jobicy-154951",
@@ -715,18 +691,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791394255000
-    },
-    {
-      "id": "arbeitnow-senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-100232",
-      "title": "Senior Backend Developer (Go) — Full Remote, European Timezones Only (UTC−1 to UTC+3)",
-      "company": "Jobtome",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-100232",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791383404000
     },
     {
       "id": "remotive-2091045",
