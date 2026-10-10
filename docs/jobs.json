@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-10T12:08:13.668Z",
+  "generatedAt": "2026-10-10T12:46:21.641Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 13,
     "jobicy": 28,
-    "arbeitnow": 18
+    "arbeitnow": 15
   },
-  "count": 118,
+  "count": 115,
   "jobs": [
     {
       "id": "arbeitnow-product-engineering-lead-qvac-100-remote-london-457624",
@@ -314,42 +314,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791599406000
-    },
-    {
-      "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-399408",
-      "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
-      "company": "Bling",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-399408",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791592236000
-    },
-    {
-      "id": "arbeitnow-initiativbewerbung-berlin-16430",
-      "title": "Initiativbewerbung (m/w/d)",
-      "company": "Nitrado (marbis GmbH)",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiativbewerbung-berlin-16430",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791592233000
-    },
-    {
-      "id": "arbeitnow-remote-senior-data-scientist-180788",
-      "title": "Senior Data Scientist",
-      "company": "Duck Duck Go",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-data-scientist-180788",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791589202000
     },
     {
       "id": "jobicy-154951",
