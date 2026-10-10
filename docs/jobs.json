@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-10T13:08:33.442Z",
+  "generatedAt": "2026-10-10T13:40:15.476Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 59,
+    "remoteok": 60,
     "remotive": 13,
     "jobicy": 28,
     "arbeitnow": 15
   },
-  "count": 115,
+  "count": 116,
   "jobs": [
     {
       "id": "arbeitnow-product-engineering-lead-qvac-100-remote-london-457624",
@@ -444,6 +444,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791568617000
+    },
+    {
+      "id": "remoteok-1137475",
+      "title": "Senior React Full stack Developer",
+      "company": "Lemon.io",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 80000,
+      "salaryMax": 200000,
+      "salaryCurrency": "USD",
+      "postedAt": 1791551358000
     },
     {
       "id": "remoteok-1137474",
