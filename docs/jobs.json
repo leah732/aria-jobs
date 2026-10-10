@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-10-10T03:42:58.057Z",
+  "generatedAt": "2026-10-10T04:07:40.344Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 58,
     "remotive": 12,
     "jobicy": 35,
-    "arbeitnow": 18
+    "arbeitnow": 22
   },
-  "count": 123,
+  "count": 127,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-data-scientist-340621",
+      "title": "Senior Data Scientist",
+      "company": "Duck Duck Go",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-data-scientist-340621",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791600005000
+    },
+    {
+      "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791599406000
+    },
+    {
+      "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-355121",
+      "title": "Senior Java Backend Developer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-355121",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791599406000
+    },
+    {
+      "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-419481",
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-419481",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791599406000
+    },
     {
       "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-399408",
       "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
