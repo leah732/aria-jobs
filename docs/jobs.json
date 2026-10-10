@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-10-10T21:40:40.239Z",
+  "generatedAt": "2026-10-10T22:06:06.217Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 28,
-    "arbeitnow": 11
+    "arbeitnow": 14
   },
-  "count": 112,
+  "count": 115,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-sales-engineer-uk-496085",
+      "title": "Senior Sales Engineer - UK",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-uk-496085",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791664807000
+    },
+    {
+      "id": "arbeitnow-remote-senior-sales-engineer-uk-45234",
+      "title": "Senior Sales Engineer - UK",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-uk-45234",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791664807000
+    },
+    {
+      "id": "arbeitnow-remote-senior-qa-engineer-all-genders-berlin-68172",
+      "title": "Senior QA Engineer (All genders)",
+      "company": "Distribusion Technologies",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-qa-engineer-all-genders-berlin-68172",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791664222000
+    },
+    {
+      "id": "arbeitnow-remote-senior-product-engineer-ims-all-genders-berlin-277725",
+      "title": "Senior Product Engineer, IMS (all genders)",
+      "company": "Distribusion Technologies",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ims-all-genders-berlin-277725",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791664222000
+    },
     {
       "id": "jobicy-154974",
       "title": "DevOps Engineer",
@@ -532,18 +580,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791480626000
-    },
-    {
-      "id": "arbeitnow-remote-ios-developer-radiotech-406158",
-      "title": "iOS Developer (Radiotech)",
-      "company": "Gismart",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-ios-developer-radiotech-406158",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791438006000
     },
     {
       "id": "remotive-2091045",
