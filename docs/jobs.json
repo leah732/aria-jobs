@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-10T08:41:51.912Z",
+  "generatedAt": "2026-10-10T09:06:47.036Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
-    "jobicy": 30,
+    "jobicy": 28,
     "arbeitnow": 19
   },
-  "count": 120,
+  "count": 118,
   "jobs": [
     {
       "id": "arbeitnow-product-engineering-lead-qvac-100-remote-london-457624",
@@ -20,6 +20,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791613819000
+    },
+    {
+      "id": "jobicy-154382",
+      "title": "Backend Engineer - Music",
+      "company": "Spotify",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154382-backend-engineer-music",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791611104000
+    },
+    {
+      "id": "jobicy-152955",
+      "title": "Partner Solutions Architect (Pan-EMEA GSI)",
+      "company": "Datadog",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152955-partner-solutions-architect-pan-emea-gsi",
+      "setup": "wfh",
+      "location": "Germany,  Italy,  Netherlands,  Spain,  Sweden,  UK",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791609017000
+    },
+    {
+      "id": "jobicy-152949",
+      "title": "Senior Engineer (Software), Enterprise",
+      "company": "NetBox Labs",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152949-senior-engineer-software-enterprise",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791609006000
     },
     {
       "id": "arbeitnow-remote-software-engineer-java-munchen-garmischer-strasse-455579",
@@ -443,58 +482,6 @@
       "postedAt": 1791568617000
     },
     {
-      "id": "jobicy-154919",
-      "title": "Engineering Manager, Treasury",
-      "company": "Givebutter",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154919-engineering-manager-treasury",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791568615000
-    },
-    {
-      "id": "jobicy-154909",
-      "title": "Sr. Staff Machine Learning Systems Engineer",
-      "company": "hims &#038; hers",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154909-sr-staff-machine-learning-systems-engineer",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791552675000
-    },
-    {
-      "id": "jobicy-154907",
-      "title": "Senior Machine Learning Engineer, Ranking - Quora",
-      "company": "Quora",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154907-senior-machine-learning-engineer-ranking-quora",
-      "setup": "wfh",
-      "location": "Canada,  Ireland,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791552673000
-    },
-    {
-      "id": "jobicy-154910",
-      "title": "Engineering Manager - Experimentation",
-      "company": "Spotify",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154910-engineering-manager-experimentation",
-      "setup": "wfh",
-      "location": "Sweden,  UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791552669000
-    },
-    {
       "id": "remoteok-1137474",
       "title": "Product Design Lead",
       "company": "Fuel50",
@@ -506,19 +493,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1791532804000
-    },
-    {
-      "id": "jobicy-154905",
-      "title": "Accounting Automation Engineer",
-      "company": "Ruby Labs",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
-      "setup": "wfh",
-      "location": "Europe",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791526962000
     },
     {
       "id": "arbeitnow-remote-technical-customer-support-specialist-54073",
