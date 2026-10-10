@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-10T07:40:50.737Z",
+  "generatedAt": "2026-10-10T08:06:58.815Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 58,
+    "remoteok": 59,
     "remotive": 12,
     "jobicy": 30,
     "arbeitnow": 19
   },
-  "count": 119,
+  "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-product-engineering-lead-qvac-100-remote-london-457624",
+      "title": "Product Engineering Lead (QVAC) (100% remote)",
+      "company": "Tether Operations Limited",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/product-engineering-lead-qvac-100-remote-london-457624",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791613819000
+    },
     {
       "id": "arbeitnow-remote-software-engineer-java-munchen-garmischer-strasse-455579",
       "title": "Software Engineer - Java (w/m/d)",
@@ -301,18 +313,6 @@
       "postedAt": 1791589202000
     },
     {
-      "id": "arbeitnow-it-solution-architect-it-inhouse-consultant-microsoft-bielefeld-336565",
-      "title": "IT Solution Architect / IT Inhouse Consultant – Microsoft (m/w/d)",
-      "company": "Tech-Recruiting.de",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tech-recruitingde/it-solution-architect-it-inhouse-consultant-microsoft-bielefeld-336565",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791577836000
-    },
-    {
       "id": "jobicy-154951",
       "title": "Principal Solutions Engineer, Emerging Technologies",
       "company": "1Password",
@@ -493,6 +493,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791552669000
+    },
+    {
+      "id": "remoteok-1137474",
+      "title": "Product Design Lead",
+      "company": "Fuel50",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1791532804000
     },
     {
       "id": "jobicy-154905",
