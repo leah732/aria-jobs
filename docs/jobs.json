@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-10T15:41:02.968Z",
+  "generatedAt": "2026-10-10T16:05:57.391Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 28,
-    "arbeitnow": 14
+    "arbeitnow": 11
   },
-  "count": 115,
+  "count": 112,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-machine-learning-scientist-berlin-216070",
+      "title": "Machine Learning Scientist",
+      "company": "Nucs AI",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-machine-learning-scientist-berlin-216070",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791642627000
+    },
     {
       "id": "jobicy-154382",
       "title": "Backend Engineer - Music",
@@ -47,18 +59,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791609006000
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-java-munchen-garmischer-strasse-455579",
-      "title": "Software Engineer - Java (w/m/d)",
-      "company": "Timetoact Group",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-software-engineer-java-munchen-garmischer-strasse-455579",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791608962000
     },
     {
       "id": "jobicy-152886",
@@ -266,42 +266,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791600005000
-    },
-    {
-      "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
-      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791599406000
-    },
-    {
-      "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-355121",
-      "title": "Senior Java Backend Developer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-355121",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791599406000
-    },
-    {
-      "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-419481",
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-419481",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791599406000
     },
     {
       "id": "jobicy-154951",
