@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-11T09:42:11.795Z",
+  "generatedAt": "2026-10-11T10:07:12.508Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 44,
-    "arbeitnow": 11
+    "arbeitnow": 13
   },
-  "count": 128,
+  "count": 130,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-376827",
+      "title": "Backend Engineer - Agentic AI (m/w/d)",
+      "company": "Getpress Gmbh",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-376827",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791706177000
+    },
+    {
+      "id": "arbeitnow-remote-ai-product-engineer-berlin-488060",
+      "title": "AI Product Engineer (m/w/d)",
+      "company": "Getpress Gmbh",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-488060",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791706177000
+    },
     {
       "id": "jobicy-155044",
       "title": "Senior Software Engineer, Data Product",
