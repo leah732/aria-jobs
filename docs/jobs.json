@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-11T13:40:51.029Z",
+  "generatedAt": "2026-10-11T14:07:04.293Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 6
+    "arbeitnow": 8
   },
-  "count": 121,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-automation-engineer-n8n-und-integrationen-hannover-344526",
+      "title": "Automation Engineer (m/w/d), n8n und Integrationen",
+      "company": "JH Automations",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/automation-engineer-n8n-und-integrationen-hannover-344526",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791723660000
+    },
+    {
+      "id": "arbeitnow-werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
+      "title": "Werde Andockoffizier – als Account Executive Information Security (m/w/d)",
+      "company": "Naviro GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/naviro-gmbh/werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791720073000
+    },
     {
       "id": "jobicy-155056",
       "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
