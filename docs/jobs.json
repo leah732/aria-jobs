@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-11T06:09:23.317Z",
+  "generatedAt": "2026-10-11T06:47:26.074Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 28,
-    "arbeitnow": 12
+    "arbeitnow": 11
   },
-  "count": 113,
+  "count": 112,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-sales-engineer-uk-164264",
+      "title": "Senior Sales Engineer - UK",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-uk-164264",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791697209000
+    },
+    {
+      "id": "arbeitnow-remote-senior-sales-engineer-uk-486826",
+      "title": "Senior Sales Engineer - UK",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-uk-486826",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791697209000
+    },
     {
       "id": "arbeitnow-remote-senior-sales-engineer-uk-496085",
       "title": "Senior Sales Engineer - UK",
@@ -32,30 +56,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791664807000
-    },
-    {
-      "id": "arbeitnow-remote-senior-qa-engineer-all-genders-berlin-68172",
-      "title": "Senior QA Engineer (All genders)",
-      "company": "Distribusion Technologies",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-qa-engineer-all-genders-berlin-68172",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791664222000
-    },
-    {
-      "id": "arbeitnow-remote-senior-product-engineer-ims-all-genders-berlin-277725",
-      "title": "Senior Product Engineer, IMS (all genders)",
-      "company": "Distribusion Technologies",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ims-all-genders-berlin-277725",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791664222000
     },
     {
       "id": "jobicy-154974",
@@ -570,18 +570,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791492012000
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-417843",
-      "title": "Senior Software Engineer, Backend - Distributed Systems",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-417843",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791492009000
     },
     {
       "id": "remotive-2091045",
