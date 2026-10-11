@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T15:41:30.446Z",
+  "generatedAt": "2026-10-11T16:06:47.553Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 8
+    "arbeitnow": 6
   },
-  "count": 123,
+  "count": 121,
   "jobs": [
     {
       "id": "arbeitnow-automation-engineer-n8n-und-integrationen-hannover-344526",
@@ -84,30 +84,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791707988000
-    },
-    {
-      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-376827",
-      "title": "Backend Engineer - Agentic AI (m/w/d)",
-      "company": "Getpress Gmbh",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-376827",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791706177000
-    },
-    {
-      "id": "arbeitnow-remote-ai-product-engineer-berlin-488060",
-      "title": "AI Product Engineer (m/w/d)",
-      "company": "Getpress Gmbh",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-488060",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791706177000
     },
     {
       "id": "jobicy-155044",
