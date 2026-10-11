@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T00:10:29.827Z",
+  "generatedAt": "2026-10-11T00:50:30.537Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 28,
-    "arbeitnow": 14
+    "arbeitnow": 13
   },
-  "count": 115,
+  "count": 114,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-sales-engineer-uk-496085",
@@ -147,18 +147,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791647205000
-    },
-    {
-      "id": "arbeitnow-remote-machine-learning-scientist-berlin-216070",
-      "title": "Machine Learning Scientist",
-      "company": "Nucs AI",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-machine-learning-scientist-berlin-216070",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791642627000
     },
     {
       "id": "jobicy-154382",
