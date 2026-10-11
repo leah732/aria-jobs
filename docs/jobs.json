@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-11T22:41:37.499Z",
+  "generatedAt": "2026-10-11T23:06:28.721Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 6
+    "arbeitnow": 8
   },
-  "count": 121,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-embedded-softwareentwickler-munich-475195",
+      "title": "Embedded Softwareentwickler (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/embedded-softwareentwickler-munich-475195",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791756036000
+    },
+    {
+      "id": "arbeitnow-technical-outsource-manager-munich-234288",
+      "title": "Technical Outsource Manager (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/technical-outsource-manager-munich-234288",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791754235000
+    },
     {
       "id": "arbeitnow-werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
       "title": "Werde Andockoffizier – als Account Executive Information Security (m/w/d)",
