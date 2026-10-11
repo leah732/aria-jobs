@@ -1,26 +1,14 @@
 {
-  "generatedAt": "2026-10-11T12:09:09.783Z",
+  "generatedAt": "2026-10-11T12:47:10.158Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 14
+    "arbeitnow": 6
   },
-  "count": 129,
+  "count": 121,
   "jobs": [
-    {
-      "id": "arbeitnow-ai-automation-engineer-hannover-137973",
-      "title": "AI Automation Engineer",
-      "company": "JH Automations",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/ai-automation-engineer-hannover-137973",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791716456000
-    },
     {
       "id": "jobicy-155056",
       "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
@@ -384,30 +372,6 @@
       "postedAt": 1791698353000
     },
     {
-      "id": "arbeitnow-remote-senior-sales-engineer-uk-164264",
-      "title": "Senior Sales Engineer - UK",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-uk-164264",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791697209000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-engineer-uk-486826",
-      "title": "Senior Sales Engineer - UK",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-uk-486826",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791697209000
-    },
-    {
       "id": "jobicy-154394",
       "title": "Sr. Software Engineer, Cloud Platform",
       "company": "Samsara",
@@ -728,66 +692,6 @@
       "salaryText": "OTE $25k - $35k",
       "category": "Sales",
       "postedAt": 1791496052000
-    },
-    {
-      "id": "arbeitnow-remote-applied-ai-engineer-404690",
-      "title": "Applied AI Engineer",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-applied-ai-engineer-404690",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791492012000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-creative-agents-292788",
-      "title": "Full-stack Engineer - Creative Agents",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-292788",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791492012000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-323217",
-      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791492012000
-    },
-    {
-      "id": "arbeitnow-remote-self-serve-product-manager-elevencreative-158784",
-      "title": "Self-Serve Product Manager - ElevenCreative",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-self-serve-product-manager-elevencreative-158784",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791492012000
-    },
-    {
-      "id": "arbeitnow-remote-enterprise-product-manager-elevencreative-286182",
-      "title": "Enterprise Product Manager - ElevenCreative",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-286182",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791492012000
     },
     {
       "id": "remotive-2091045",
