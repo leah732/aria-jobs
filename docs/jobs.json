@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T01:41:54.998Z",
+  "generatedAt": "2026-10-11T02:07:10.409Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 28,
-    "arbeitnow": 13
+    "arbeitnow": 12
   },
-  "count": 114,
+  "count": 113,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-sales-engineer-uk-496085",
@@ -582,18 +582,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791492009000
-    },
-    {
-      "id": "arbeitnow-remote-freelancer-group-fitness-instructor-la-chaux-de-fonds-96975",
-      "title": "Freelancer - Group Fitness Instructor (m/w/d)",
-      "company": "PureGym AG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-la-chaux-de-fonds-96975",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791480626000
     },
     {
       "id": "remotive-2091045",
