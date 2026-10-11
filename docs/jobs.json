@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T23:39:03.774Z",
+  "generatedAt": "2026-10-11T00:10:29.827Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -405,6 +405,32 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791600005000
+    },
+    {
+      "id": "remoteok-1137479",
+      "title": "Academic Dean for MiaPrep Online Academy of Ohio",
+      "company": "Miaplaza",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 40,
+      "salaryMax": 48,
+      "salaryCurrency": "USD",
+      "postedAt": 1791590411000
+    },
+    {
+      "id": "remoteok-1137478",
+      "title": "Product Engineering Lead",
+      "company": "Tether Operations Limited",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1791590405000
     },
     {
       "id": "jobicy-154951",
@@ -1476,32 +1502,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785541115000
-    },
-    {
-      "id": "remoteok-1135997",
-      "title": "BMS Service Technician",
-      "company": "Johnson Controls",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785488555000
-    },
-    {
-      "id": "remoteok-1135745",
-      "title": "Regional General Manager Airports",
-      "company": "WestJet",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785462896000
     }
   ]
 }
