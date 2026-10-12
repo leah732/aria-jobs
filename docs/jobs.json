@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T03:09:38.119Z",
+  "generatedAt": "2026-10-12T03:47:06.468Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 9
+    "arbeitnow": 8
   },
-  "count": 124,
+  "count": 123,
   "jobs": [
     {
       "id": "arbeitnow-devops-engineer-munich-369656",
@@ -715,18 +715,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1791532804000
-    },
-    {
-      "id": "arbeitnow-remote-technical-customer-support-specialist-54073",
-      "title": "Technical Customer Support Specialist",
-      "company": "Happyrobot.ai",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-54073",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791524403000
     },
     {
       "id": "remotive-2086540",
