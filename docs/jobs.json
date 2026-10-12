@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T15:45:47.635Z",
+  "generatedAt": "2026-10-12T16:10:00.972Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
-    "jobicy": 45,
+    "jobicy": 42,
     "arbeitnow": 4
   },
-  "count": 120,
+  "count": 117,
   "jobs": [
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-440627",
@@ -20,6 +20,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791811833000
+    },
+    {
+      "id": "jobicy-155118",
+      "title": "Partner Sales Director",
+      "company": "Ada",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155118-partner-sales-director-2",
+      "setup": "wfh",
+      "location": "Canada",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791808638000
     },
     {
       "id": "jobicy-155112",
@@ -555,56 +568,17 @@
       "postedAt": 1791772508000
     },
     {
-      "id": "jobicy-155056",
-      "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
-      "company": "Reddit",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations",
+      "id": "remoteok-1137497",
+      "title": "Product Design Director",
+      "company": "Midnite",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497",
       "setup": "wfh",
-      "location": "Netherlands,  UK",
-      "salaryMin": null,
-      "salaryMax": null,
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
       "salaryCurrency": "USD",
-      "postedAt": 1791707990000
-    },
-    {
-      "id": "jobicy-155051",
-      "title": "Software Engineer, AI Enablement",
-      "company": "Tailscale",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155051-software-engineer-ai-enablement",
-      "setup": "wfh",
-      "location": "UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "GBP",
-      "postedAt": 1791707990000
-    },
-    {
-      "id": "jobicy-155050",
-      "title": "Product Engineering",
-      "company": "Polar",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155050-product-engineering",
-      "setup": "wfh",
-      "location": "Europe,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791707988000
-    },
-    {
-      "id": "jobicy-155048",
-      "title": "Platform Engineering",
-      "company": "Polar",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155048-platform-engineering",
-      "setup": "wfh",
-      "location": "Europe,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791707988000
+      "postedAt": 1791734403000
     },
     {
       "id": "remoteok-1137482",
@@ -1563,19 +1537,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785635408000
-    },
-    {
-      "id": "remoteok-1136066",
-      "title": "Customer Support Specialist",
-      "company": "Resource Guru",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-resource-guru-1136066",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785594276000
     }
   ]
 }
