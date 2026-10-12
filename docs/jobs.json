@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T06:13:06.262Z",
+  "generatedAt": "2026-10-12T06:55:26.077Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 8
+    "arbeitnow": 7
   },
-  "count": 123,
+  "count": 122,
   "jobs": [
     {
       "id": "jobicy-154024",
@@ -290,18 +290,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791754235000
-    },
-    {
-      "id": "arbeitnow-werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
-      "title": "Werde Andockoffizier – als Account Executive Information Security (m/w/d)",
-      "company": "Naviro GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/naviro-gmbh/werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791750750000
     },
     {
       "id": "jobicy-155056",
