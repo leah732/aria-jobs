@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T07:47:20.167Z",
+  "generatedAt": "2026-10-12T08:11:22.704Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 60,
+    "remoteok": 59,
     "remotive": 13,
     "jobicy": 48,
     "arbeitnow": 7
   },
-  "count": 128,
+  "count": 127,
   "jobs": [
     {
       "id": "jobicy-155065",
@@ -1665,19 +1665,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785594276000
-    },
-    {
-      "id": "remoteok-1135908",
-      "title": "Managing Director",
-      "company": "Berni and Mick Ireland",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-managing-director-berni-and-mick-ireland-1135908",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785566299000
     }
   ]
 }
