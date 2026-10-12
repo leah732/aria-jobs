@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-12T21:43:00.942Z",
+  "generatedAt": "2026-10-12T22:07:48.112Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 43,
-    "arbeitnow": 7
+    "arbeitnow": 9
   },
-  "count": 121,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-partner-manager-public-sector-partnerships-97295",
+      "title": "Partner Manager - Public Sector Partnerships",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-partner-manager-public-sector-partnerships-97295",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791837605000
+    },
+    {
+      "id": "arbeitnow-remote-senior-fullstack-entwicklerin-mit-schwerpunkt-frontend-koln-454856",
+      "title": "(Senior) Fullstack Entwickler:in Mit Schwerpunkt Frontend",
+      "company": "Rausgegangen GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/rausgegangen-gmbh/remote-senior-fullstack-entwicklerin-mit-schwerpunkt-frontend-koln-454856",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791835765000
+    },
     {
       "id": "arbeitnow-foward-deployed-ai-engineer-ampfing-163379",
       "title": "Foward Deployed AI Engineer (m/d/w)",
