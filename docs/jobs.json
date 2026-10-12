@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-11T23:40:31.609Z",
+  "generatedAt": "2026-10-12T00:11:47.949Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 13,
     "jobicy": 42,
-    "arbeitnow": 8
+    "arbeitnow": 10
   },
-  "count": 123,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-devops-engineer-munich-369656",
+      "title": "DevOps Engineer (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/devops-engineer-munich-369656",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791759635000
+    },
+    {
+      "id": "arbeitnow-fullstack-entwickler-munich-359972",
+      "title": "Fullstack Entwickler (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/fullstack-entwickler-munich-359972",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791757848000
+    },
     {
       "id": "arbeitnow-embedded-softwareentwickler-munich-475195",
       "title": "Embedded Softwareentwickler (m/w/d)",
@@ -602,6 +626,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791690610000
+    },
+    {
+      "id": "remoteok-1137482",
+      "title": "Technical Account Manager",
+      "company": "DEUNA",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1791676805000
     },
     {
       "id": "arbeitnow-remote-senior-sales-engineer-uk-496085",
@@ -1599,19 +1636,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785566299000
-    },
-    {
-      "id": "remoteok-1135901",
-      "title": "Freelance Creative Director",
-      "company": "BMWL",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785541115000
     }
   ]
 }
