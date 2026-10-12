@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-12T17:43:19.407Z",
+  "generatedAt": "2026-10-12T18:08:42.500Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 12,
     "jobicy": 43,
-    "arbeitnow": 6
+    "arbeitnow": 7
   },
-  "count": 120,
+  "count": 121,
   "jobs": [
+    {
+      "id": "arbeitnow-foward-deployed-ai-engineer-ampfing-163379",
+      "title": "Foward Deployed AI Engineer (m/d/w)",
+      "company": "Neurawork GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/foward-deployed-ai-engineer-ampfing-163379",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791824448000
+    },
     {
       "id": "arbeitnow-digital-marketing-specialist-mwd-wurzburg-22343",
       "title": "Digital Marketing Specialist (m|w|d)",
