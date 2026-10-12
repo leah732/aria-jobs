@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-12T10:45:12.821Z",
+  "generatedAt": "2026-10-12T11:10:46.048Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
-    "remotive": 13,
+    "remotive": 12,
     "jobicy": 50,
-    "arbeitnow": 4
+    "arbeitnow": 5
   },
   "count": 126,
   "jobs": [
+    {
+      "id": "arbeitnow-it-consultant-banking-payment-karlsruhe-315464",
+      "title": "IT Consultant Banking & Payment (w/m/d)",
+      "company": "Cognitivo AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/cognitivo-ag/it-consultant-banking-payment-karlsruhe-315464",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791795714000
+    },
     {
       "id": "arbeitnow-remote-project-manager-software-implementation-berlin-211311",
       "title": "Project Manager - Software Implementation (m/f/x)",
@@ -1023,20 +1035,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1789776006000
-    },
-    {
-      "id": "remotive-2091141",
-      "title": "Frontend Web Application Developer",
-      "company": "KoboToolbox",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
-      "setup": "wfh",
-      "location": "USA, Canada, Argentina, Mexico, Peru",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryText": "$90k - $105k",
-      "category": "Design",
-      "postedAt": 1789749802000
     },
     {
       "id": "remotive-2091140",
