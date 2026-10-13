@@ -1,14 +1,90 @@
 {
-  "generatedAt": "2026-10-13T06:12:15.651Z",
+  "generatedAt": "2026-10-13T06:54:19.332Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 12,
-    "jobicy": 37,
-    "arbeitnow": 6
+    "jobicy": 40,
+    "arbeitnow": 8
   },
-  "count": 116,
+  "count": 121,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-partner-manager-public-sector-partnerships-273809",
+      "title": "Partner Manager - Public Sector Partnerships",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-partner-manager-public-sector-partnerships-273809",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791870052000
+    },
+    {
+      "id": "arbeitnow-remote-principal-platform-engineer-schoppingen-317092",
+      "title": "Principal Platform Engineer (m/w/d)",
+      "company": "shopware AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-principal-platform-engineer-schoppingen-317092",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791869413000
+    },
+    {
+      "id": "jobicy-153136",
+      "title": "Compliance Engineer Intern",
+      "company": "CertiK",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153136-compliance-engineer-intern",
+      "setup": "wfh",
+      "location": "APAC,  Europe",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791859713000
+    },
+    {
+      "id": "jobicy-153132",
+      "title": "Compliance Engineer",
+      "company": "CertiK",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153132-compliance-engineer",
+      "setup": "wfh",
+      "location": "APAC,  Europe",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791859711000
+    },
+    {
+      "id": "jobicy-149048",
+      "title": "QA Automation Lead [gn] Data Intelligence",
+      "company": "Actian",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+      "setup": "wfh",
+      "location": "Europe",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791859707000
+    },
+    {
+      "id": "jobicy-153135",
+      "title": "GTM Engineer",
+      "company": "Boulevard",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153135-gtm-engineer-2",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791859706000
+    },
     {
       "id": "arbeitnow-remote-senior-manager-qa-engineering-470969",
       "title": "Senior Manager, QA Engineering",
@@ -512,19 +588,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791805891000
-    },
-    {
-      "id": "jobicy-155099",
-      "title": "Engineering Manager (Subscriptions)",
-      "company": "Paddle",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155099-engineering-manager-subscriptions",
-      "setup": "wfh",
-      "location": "Ireland,  Portugal,  UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791788554000
     },
     {
       "id": "remoteok-1137498",
