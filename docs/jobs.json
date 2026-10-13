@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T16:10:59.995Z",
+  "generatedAt": "2026-10-13T16:46:19.451Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 61,
+    "remoteok": 60,
     "remotive": 12,
     "jobicy": 44,
     "arbeitnow": 7
   },
-  "count": 124,
+  "count": 123,
   "jobs": [
     {
       "id": "arbeitnow-remote-developer-advocate-data-platform-67607",
@@ -1612,19 +1612,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785594276000
-    },
-    {
-      "id": "remoteok-1135908",
-      "title": "Managing Director",
-      "company": "Berni and Mick Ireland",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-managing-director-berni-and-mick-ireland-1135908",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785566299000
     }
   ]
 }
