@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:53:13.787Z",
+  "generatedAt": "2026-10-13T19:22:20.787Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -260,6 +260,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791911376000
+    },
+    {
+      "id": "jobicy-155221",
+      "title": "Senior C++ Engineer",
+      "company": "Findev",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155221-senior-c-engineer",
+      "setup": "wfh",
+      "location": "Cyprus,  Poland,  Portugal,  Spain",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791906544000
     },
     {
       "id": "jobicy-155209",
@@ -819,19 +832,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791857104000
-    },
-    {
-      "id": "jobicy-153093",
-      "title": "Team Lead Software Engineer",
-      "company": "Capital on Tap",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153093-team-lead-software-engineer",
-      "setup": "wfh",
-      "location": "Portugal",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "EUR",
-      "postedAt": 1791857099000
     },
     {
       "id": "remoteok-1137498",
