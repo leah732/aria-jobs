@@ -1,14 +1,74 @@
 {
-  "generatedAt": "2026-10-13T15:46:30.538Z",
+  "generatedAt": "2026-10-13T16:10:59.995Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 12,
     "jobicy": 44,
-    "arbeitnow": 3
+    "arbeitnow": 7
   },
-  "count": 120,
+  "count": 124,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-developer-advocate-data-platform-67607",
+      "title": "Developer Advocate, Data Platform",
+      "company": "Helius",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/helius/remote-developer-advocate-data-platform-67607",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791902458000
+    },
+    {
+      "id": "arbeitnow-remote-forward-deployed-engineer-mx-419021",
+      "title": "Forward Deployed Engineer - MX",
+      "company": "Breakmark",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/breakmark/remote-forward-deployed-engineer-mx-419021",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791902454000
+    },
+    {
+      "id": "arbeitnow-remote-cto-cis-416416",
+      "title": "CTO CIS",
+      "company": "Breakmark",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/breakmark/remote-cto-cis-416416",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791902454000
+    },
+    {
+      "id": "arbeitnow-remote-forward-deployed-engineer-296700",
+      "title": "Forward Deployed Engineer",
+      "company": "Breakmark",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/breakmark/remote-forward-deployed-engineer-296700",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791902454000
+    },
+    {
+      "id": "arbeitnow-ml-engineer-computer-vision-ml-ops-munich-359350",
+      "title": "ML Engineer (Computer Vision & ML Ops)",
+      "company": "StellDirVor GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stelldirvor-gmbh/ml-engineer-computer-vision-ml-ops-munich-359350",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791901879000
+    },
     {
       "id": "arbeitnow-security-engineer-hybrid-or-remote-472938",
       "title": "Security Engineer (Hybrid or Remote)",
@@ -604,18 +664,6 @@
       "salaryMax": null,
       "salaryCurrency": "EUR",
       "postedAt": 1791857099000
-    },
-    {
-      "id": "arbeitnow-remote-partner-manager-public-sector-partnerships-97295",
-      "title": "Partner Manager - Public Sector Partnerships",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-partner-manager-public-sector-partnerships-97295",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791837605000
     },
     {
       "id": "remoteok-1137498",
