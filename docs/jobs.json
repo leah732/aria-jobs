@@ -1,49 +1,85 @@
 {
-  "generatedAt": "2026-10-13T09:44:43.706Z",
+  "generatedAt": "2026-10-13T10:10:23.330Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 12,
     "jobicy": 40,
-    "arbeitnow": 9
+    "arbeitnow": 10
   },
-  "count": 122,
+  "count": 123,
   "jobs": [
     {
-      "id": "arbeitnow-ivalua-integration-consultant-frankfurt-am-main-302835",
-      "title": "Ivalua Integration Consultant (m/f/d)",
-      "company": "parasus GmbH",
+      "id": "arbeitnow-werkstudent-it-systemadministration-100-remote-regen-219689",
+      "title": "Werkstudent IT-Systemadministration (m/w/d) - 100% remote",
+      "company": "FastRocket GmbH",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/parasus-gmbh/ivalua-integration-consultant-frankfurt-am-main-302835",
+      "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/werkstudent-it-systemadministration-100-remote-regen-219689",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791871292000
+      "postedAt": 1791882215000
     },
     {
-      "id": "arbeitnow-remote-partner-manager-public-sector-partnerships-273809",
-      "title": "Partner Manager - Public Sector Partnerships",
-      "company": "ElevenLabs",
+      "id": "arbeitnow-were-hiring-firmware-engineer-at-startup-powered-orthotics-walldorf-300397",
+      "title": "WE´RE HIRING FIRMWARE ENGINEER AT STARTUP POWERED ORTHOTICS",
+      "company": "innoWerft",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-partner-manager-public-sector-partnerships-273809",
+      "url": "https://www.arbeitnow.com/jobs/companies/innowerft/were-hiring-firmware-engineer-at-startup-powered-orthotics-walldorf-300397",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791870052000
+      "postedAt": 1791882211000
     },
     {
-      "id": "arbeitnow-remote-principal-platform-engineer-schoppingen-317092",
-      "title": "Principal Platform Engineer (m/w/d)",
-      "company": "shopware AG",
+      "id": "arbeitnow-senior-product-designer-heartbeat-ai-berlin-440351",
+      "title": "Senior Product Designer - Heartbeat AI (m/f/d)",
+      "company": "1KOMMA5˚",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-principal-platform-engineer-schoppingen-317092",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-product-designer-heartbeat-ai-berlin-440351",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791869413000
+      "postedAt": 1791882211000
+    },
+    {
+      "id": "arbeitnow-remote-security-research-engineer-349307",
+      "title": "Security Research Engineer",
+      "company": "Artemis",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/artemis/remote-security-research-engineer-349307",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791880849000
+    },
+    {
+      "id": "arbeitnow-remote-senior-sales-engineer-450949",
+      "title": "Senior Sales Engineer",
+      "company": "Artemis",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/artemis/remote-senior-sales-engineer-450949",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791880849000
+    },
+    {
+      "id": "arbeitnow-remote-detection-engineer-181816",
+      "title": "Detection Engineer",
+      "company": "Artemis",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/artemis/remote-detection-engineer-181816",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791880849000
     },
     {
       "id": "jobicy-153136",
@@ -96,18 +132,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791859706000
-    },
-    {
-      "id": "arbeitnow-remote-senior-manager-qa-engineering-470969",
-      "title": "Senior Manager, QA Engineering",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-manager-qa-engineering-470969",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791859204000
     },
     {
       "id": "jobicy-153130",
@@ -663,18 +687,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791664807000
-    },
-    {
-      "id": "arbeitnow-remote-senior-data-scientist-340621",
-      "title": "Senior Data Scientist",
-      "company": "Duck Duck Go",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-data-scientist-340621",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791600005000
     },
     {
       "id": "remoteok-1137479",
