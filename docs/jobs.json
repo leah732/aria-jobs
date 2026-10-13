@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-13T07:16:03.467Z",
+  "generatedAt": "2026-10-13T07:47:03.242Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 12,
     "jobicy": 40,
-    "arbeitnow": 8
+    "arbeitnow": 9
   },
-  "count": 121,
+  "count": 122,
   "jobs": [
+    {
+      "id": "arbeitnow-ivalua-integration-consultant-frankfurt-am-main-302835",
+      "title": "Ivalua Integration Consultant (m/f/d)",
+      "company": "parasus GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/parasus-gmbh/ivalua-integration-consultant-frankfurt-am-main-302835",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791871292000
+    },
     {
       "id": "arbeitnow-remote-partner-manager-public-sector-partnerships-273809",
       "title": "Partner Manager - Public Sector Partnerships",
