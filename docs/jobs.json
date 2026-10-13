@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T00:13:04.657Z",
+  "generatedAt": "2026-10-13T00:55:18.342Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
     "jobicy": 43,
-    "arbeitnow": 9
+    "arbeitnow": 7
   },
-  "count": 124,
+  "count": 122,
   "jobs": [
     {
       "id": "arbeitnow-remote-partner-manager-public-sector-partnerships-97295",
@@ -109,30 +109,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791821897000
-    },
-    {
-      "id": "arbeitnow-digital-marketing-specialist-mwd-wurzburg-22343",
-      "title": "Digital Marketing Specialist (m|w|d)",
-      "company": "Simplifier AG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/simplifier-ag/digital-marketing-specialist-mwd-wurzburg-22343",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791817255000
-    },
-    {
-      "id": "arbeitnow-sales-engineer-north-uk-bochum-147788",
-      "title": "Sales Engineer - North UK",
-      "company": "Rain for Rent International",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/rain-for-rent-international/sales-engineer-north-uk-bochum-147788",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791817252000
     },
     {
       "id": "jobicy-155143",
