@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-10-13T12:12:48.238Z",
+  "generatedAt": "2026-10-13T12:54:02.206Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 12,
     "jobicy": 40,
-    "arbeitnow": 8
+    "arbeitnow": 4
   },
-  "count": 121,
+  "count": 117,
   "jobs": [
     {
-      "id": "arbeitnow-ki-experte-digitaler-problemloser-minijob-100-remote-dietramszell-431482",
-      "title": "KI-Experte / Digitaler Problemlöser (m/w/d) – Minijob - 100 % Remote",
-      "company": "steelbag GmbH",
+      "id": "arbeitnow-security-engineer-hybrid-or-remote-472938",
+      "title": "Security Engineer (Hybrid or Remote)",
+      "company": "Vivid",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/steelbag-gmbh/ki-experte-digitaler-problemloser-minijob-100-remote-dietramszell-431482",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vivid/security-engineer-hybrid-or-remote-472938",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791889251000
+      "postedAt": 1791893375000
+    },
+    {
+      "id": "arbeitnow-senior-backend-engineer-platform-reliability-dusseldorf-205995",
+      "title": "Senior Backend Engineer – Platform & Reliability",
+      "company": "Maesn",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/maesn/senior-backend-engineer-platform-reliability-dusseldorf-205995",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791891059000
     },
     {
       "id": "arbeitnow-remote-principal-infrastructure-engineer-393692",
@@ -32,66 +44,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791885302000
-    },
-    {
-      "id": "arbeitnow-sales-engineer-north-uk-bochum-482255",
-      "title": "Sales Engineer - North UK",
-      "company": "Rain for Rent International",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/rain-for-rent-international/sales-engineer-north-uk-bochum-482255",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791883944000
-    },
-    {
-      "id": "arbeitnow-remote-security-research-engineer-349307",
-      "title": "Security Research Engineer",
-      "company": "Artemis",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/artemis/remote-security-research-engineer-349307",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791880849000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-engineer-450949",
-      "title": "Senior Sales Engineer",
-      "company": "Artemis",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/artemis/remote-senior-sales-engineer-450949",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791880849000
-    },
-    {
-      "id": "arbeitnow-remote-detection-engineer-181816",
-      "title": "Detection Engineer",
-      "company": "Artemis",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/artemis/remote-detection-engineer-181816",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791880849000
-    },
-    {
-      "id": "arbeitnow-remote-senior-genai-engineer-berlin-101879",
-      "title": "(Senior) GenAI Engineer (f/m/d)",
-      "company": "Trusted Shops SE (DE)",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-genai-engineer-berlin-101879",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791880230000
     },
     {
       "id": "jobicy-153136",
@@ -1038,10 +990,10 @@
     },
     {
       "id": "remoteok-1137399",
-      "title": "AI agent engineer",
+      "title": "SI agent engineer",
       "company": "Sticker Mule",
       "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+      "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": 150000,
