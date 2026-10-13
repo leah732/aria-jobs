@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T15:12:12.686Z",
+  "generatedAt": "2026-10-13T15:46:30.538Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 12,
-    "jobicy": 47,
+    "jobicy": 44,
     "arbeitnow": 3
   },
-  "count": 123,
+  "count": 120,
   "jobs": [
     {
       "id": "arbeitnow-security-engineer-hybrid-or-remote-472938",
@@ -20,6 +20,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791893375000
+    },
+    {
+      "id": "jobicy-155209",
+      "title": "Cashmere Lab Testing & Quality Leader",
+      "company": "Quince",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155209-cashmere-lab-testing-quality-leader",
+      "setup": "wfh",
+      "location": "Italy",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791892503000
     },
     {
       "id": "arbeitnow-remote-principal-infrastructure-engineer-393692",
@@ -593,19 +606,6 @@
       "postedAt": 1791857099000
     },
     {
-      "id": "jobicy-153088",
-      "title": "Senior Software Engineer",
-      "company": "Capital on Tap",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153088-senior-software-engineer-8",
-      "setup": "wfh",
-      "location": "Portugal",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "EUR",
-      "postedAt": 1791857095000
-    },
-    {
       "id": "arbeitnow-remote-partner-manager-public-sector-partnerships-97295",
       "title": "Partner Manager - Public Sector Partnerships",
       "company": "ElevenLabs",
@@ -616,45 +616,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791837605000
-    },
-    {
-      "id": "jobicy-155159",
-      "title": "Lead BI Developer",
-      "company": "Launch Potato",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155159-lead-bi-developer-2",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791821902000
-    },
-    {
-      "id": "jobicy-155154",
-      "title": "Tier 2 Technical Support Specialist",
-      "company": "Rockbot",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155154-tier-2-technical-support-specialist",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791821900000
-    },
-    {
-      "id": "jobicy-155157",
-      "title": "Compliance Engineer",
-      "company": "Playson",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155157-compliance-engineer-2",
-      "setup": "wfh",
-      "location": "Europe",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791821899000
     },
     {
       "id": "remoteok-1137498",
