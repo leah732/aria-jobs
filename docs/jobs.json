@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T23:15:21.049Z",
+  "generatedAt": "2026-10-13T23:49:13.826Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
-    "jobicy": 44,
+    "jobicy": 47,
     "arbeitnow": 22
   },
-  "count": 138,
+  "count": 141,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-leading-software-engineer-fintech-berlin-481208",
@@ -20,6 +20,84 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791923411000
+    },
+    {
+      "id": "jobicy-155236",
+      "title": "Senior Systems Engineer",
+      "company": "Fueled",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155236-senior-systems-engineer-2",
+      "setup": "wfh",
+      "location": "APAC",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791922105000
+    },
+    {
+      "id": "jobicy-155230",
+      "title": "Senior iOS Engineer (Swift & AWS)",
+      "company": "Oowlish Technology",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155230-senior-ios-engineer-swift-aws",
+      "setup": "wfh",
+      "location": "Argentina,  Brazil,  Mexico",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791922105000
+    },
+    {
+      "id": "jobicy-155229",
+      "title": "Account Director",
+      "company": "AudioEye",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155229-account-director-4",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791922104000
+    },
+    {
+      "id": "jobicy-155233",
+      "title": "Senior Software Engineer (Full Stack | Node.js & React | AI Focus)",
+      "company": "Oowlish Technology",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155233-senior-software-engineer-full-stack-node-js-react-ai-focus",
+      "setup": "wfh",
+      "location": "Brazil",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791922103000
+    },
+    {
+      "id": "jobicy-155231",
+      "title": "Full Stack Web Engineer",
+      "company": "Fueled",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155231-full-stack-web-engineer",
+      "setup": "wfh",
+      "location": "LATAM",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791922103000
+    },
+    {
+      "id": "jobicy-155228",
+      "title": "Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) - 100% Remote within Spain",
+      "company": "Docplanner",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155228-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-spain-2",
+      "setup": "wfh",
+      "location": "Spain",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791922103000
     },
     {
       "id": "arbeitnow-remote-senior-software-engineer-423367",
@@ -805,45 +883,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791857417000
-    },
-    {
-      "id": "jobicy-149101",
-      "title": "Senior Software Engineer, Backend (AI Agent Integrations)",
-      "company": "Cresta",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
-      "setup": "wfh",
-      "location": "Canada",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791857405000
-    },
-    {
-      "id": "jobicy-153105",
-      "title": "Senior Infrastructure Engineer",
-      "company": "Webflow",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153105-senior-infrastructure-engineer-3",
-      "setup": "wfh",
-      "location": "Argentina",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791857107000
-    },
-    {
-      "id": "jobicy-153102",
-      "title": "Security Engineer, Detection & Response",
-      "company": "Liftoff",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153102-security-engineer-detection-response",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791857104000
     },
     {
       "id": "remoteok-1137498",
