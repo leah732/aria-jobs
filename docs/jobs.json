@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T14:48:11.990Z",
+  "generatedAt": "2026-10-13T15:12:12.686Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
@@ -896,19 +896,6 @@
       "postedAt": 1790121610000
     },
     {
-      "id": "remoteok-1137417",
-      "title": "Software Developer Security Analytics",
-      "company": "RedMimicry",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1790067601000
-    },
-    {
       "id": "remoteok-1137415",
       "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
       "company": "Mindrift - Data annotation",
@@ -1616,6 +1603,19 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785594276000
+    },
+    {
+      "id": "remoteok-1135908",
+      "title": "Managing Director",
+      "company": "Berni and Mick Ireland",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-managing-director-berni-and-mick-ireland-1135908",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785566299000
     }
   ]
 }
