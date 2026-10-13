@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-13T16:46:19.451Z",
+  "generatedAt": "2026-10-13T17:09:33.458Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
     "jobicy": 44,
-    "arbeitnow": 7
+    "arbeitnow": 9
   },
-  "count": 123,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-performance-marketer-paid-ads-creative-amsterdam-189041",
+      "title": "Performance Marketer (Paid Ads + Creative)",
+      "company": "Soda Data Nv",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/soda-data-nv/remote-performance-marketer-paid-ads-creative-amsterdam-189041",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791904805000
+    },
+    {
+      "id": "arbeitnow-remote-ai-content-engineer-amsterdam-165006",
+      "title": "AI Content Engineer",
+      "company": "Soda Data Nv",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/soda-data-nv/remote-ai-content-engineer-amsterdam-165006",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791904805000
+    },
     {
       "id": "arbeitnow-remote-developer-advocate-data-platform-67607",
       "title": "Developer Advocate, Data Platform",
