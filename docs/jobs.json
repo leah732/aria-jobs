@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T11:44:31.660Z",
+  "generatedAt": "2026-10-13T12:12:48.238Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
@@ -9,6 +9,18 @@
   },
   "count": 121,
   "jobs": [
+    {
+      "id": "arbeitnow-ki-experte-digitaler-problemloser-minijob-100-remote-dietramszell-431482",
+      "title": "KI-Experte / Digitaler Problemlöser (m/w/d) – Minijob - 100 % Remote",
+      "company": "steelbag GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/steelbag-gmbh/ki-experte-digitaler-problemloser-minijob-100-remote-dietramszell-431482",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791889251000
+    },
     {
       "id": "arbeitnow-remote-principal-infrastructure-engineer-393692",
       "title": "Principal Infrastructure Engineer",
@@ -80,18 +92,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791880230000
-    },
-    {
-      "id": "arbeitnow-software-test-qa-automation-engineer-ai-startup-remote-eu-time-zone-berlin-458991",
-      "title": "Software Test (QA) Automation Engineer - AI Startup (Remote EU time zone)",
-      "company": "IndieKidz GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/software-test-qa-automation-engineer-ai-startup-remote-eu-time-zone-berlin-458991",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791878447000
     },
     {
       "id": "jobicy-153136",
