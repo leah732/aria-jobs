@@ -1,49 +1,37 @@
 {
-  "generatedAt": "2026-10-13T10:45:43.175Z",
+  "generatedAt": "2026-10-13T11:10:35.978Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 12,
     "jobicy": 40,
-    "arbeitnow": 10
+    "arbeitnow": 8
   },
-  "count": 123,
+  "count": 121,
   "jobs": [
     {
-      "id": "arbeitnow-werkstudent-it-systemadministration-100-remote-regen-219689",
-      "title": "Werkstudent IT-Systemadministration (m/w/d) - 100% remote",
-      "company": "FastRocket GmbH",
+      "id": "arbeitnow-remote-principal-infrastructure-engineer-393692",
+      "title": "Principal Infrastructure Engineer",
+      "company": "Sezzle",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/werkstudent-it-systemadministration-100-remote-regen-219689",
+      "url": "https://www.arbeitnow.nl/jobs/companies/sezzle/remote-principal-infrastructure-engineer-393692",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791882215000
+      "postedAt": 1791885302000
     },
     {
-      "id": "arbeitnow-were-hiring-firmware-engineer-at-startup-powered-orthotics-walldorf-300397",
-      "title": "WE´RE HIRING FIRMWARE ENGINEER AT STARTUP POWERED ORTHOTICS",
-      "company": "innoWerft",
+      "id": "arbeitnow-sales-engineer-north-uk-bochum-482255",
+      "title": "Sales Engineer - North UK",
+      "company": "Rain for Rent International",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/innowerft/were-hiring-firmware-engineer-at-startup-powered-orthotics-walldorf-300397",
+      "url": "https://www.arbeitnow.com/jobs/companies/rain-for-rent-international/sales-engineer-north-uk-bochum-482255",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791882211000
-    },
-    {
-      "id": "arbeitnow-senior-product-designer-heartbeat-ai-berlin-440351",
-      "title": "Senior Product Designer - Heartbeat AI (m/f/d)",
-      "company": "1KOMMA5˚",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-product-designer-heartbeat-ai-berlin-440351",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791882211000
+      "postedAt": 1791883944000
     },
     {
       "id": "arbeitnow-remote-security-research-engineer-349307",
@@ -80,6 +68,30 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791880849000
+    },
+    {
+      "id": "arbeitnow-remote-senior-genai-engineer-berlin-101879",
+      "title": "(Senior) GenAI Engineer (f/m/d)",
+      "company": "Trusted Shops SE (DE)",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-genai-engineer-berlin-101879",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791880230000
+    },
+    {
+      "id": "arbeitnow-software-test-qa-automation-engineer-ai-startup-remote-eu-time-zone-berlin-458991",
+      "title": "Software Test (QA) Automation Engineer - AI Startup (Remote EU time zone)",
+      "company": "IndieKidz GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/software-test-qa-automation-engineer-ai-startup-remote-eu-time-zone-berlin-458991",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791878447000
     },
     {
       "id": "jobicy-153136",
@@ -588,18 +600,6 @@
       "postedAt": 1791812241000
     },
     {
-      "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-440627",
-      "title": "Sales Account Executive - Cybersecurity",
-      "company": "Crowdsec",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-440627",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791811833000
-    },
-    {
       "id": "jobicy-155118",
       "title": "Partner Sales Director",
       "company": "Ada",
@@ -663,30 +663,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1791676805000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-engineer-uk-496085",
-      "title": "Senior Sales Engineer - UK",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-uk-496085",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791664807000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-engineer-uk-45234",
-      "title": "Senior Sales Engineer - UK",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-uk-45234",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791664807000
     },
     {
       "id": "remoteok-1137479",
