@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T23:41:24.764Z",
+  "generatedAt": "2026-10-13T00:13:04.657Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 59,
+    "remoteok": 60,
     "remotive": 12,
     "jobicy": 43,
     "arbeitnow": 9
   },
-  "count": 123,
+  "count": 124,
   "jobs": [
     {
       "id": "arbeitnow-remote-partner-manager-public-sector-partnerships-97295",
@@ -639,6 +639,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791772918000
+    },
+    {
+      "id": "remoteok-1137498",
+      "title": "Senior Sales Executive Central Region",
+      "company": "SimSpace Corporation",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 145000,
+      "salaryMax": 220000,
+      "salaryCurrency": "USD",
+      "postedAt": 1791763204000
     },
     {
       "id": "remoteok-1137497",
