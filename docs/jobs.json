@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-13T03:09:33.864Z",
+  "generatedAt": "2026-10-13T03:46:24.850Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 12,
     "jobicy": 43,
-    "arbeitnow": 7
+    "arbeitnow": 6
   },
-  "count": 123,
+  "count": 122,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-manager-qa-engineering-470969",
+      "title": "Senior Manager, QA Engineering",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-manager-qa-engineering-470969",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791859204000
+    },
     {
       "id": "arbeitnow-remote-partner-manager-public-sector-partnerships-97295",
       "title": "Partner Manager - Public Sector Partnerships",
@@ -20,30 +32,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791837605000
-    },
-    {
-      "id": "arbeitnow-remote-senior-fullstack-entwicklerin-mit-schwerpunkt-frontend-koln-454856",
-      "title": "(Senior) Fullstack Entwickler:in Mit Schwerpunkt Frontend",
-      "company": "Rausgegangen GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/rausgegangen-gmbh/remote-senior-fullstack-entwicklerin-mit-schwerpunkt-frontend-koln-454856",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791835765000
-    },
-    {
-      "id": "arbeitnow-foward-deployed-ai-engineer-ampfing-163379",
-      "title": "Foward Deployed AI Engineer (m/d/w)",
-      "company": "Neurawork GmbH & Co. KG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/foward-deployed-ai-engineer-ampfing-163379",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791824448000
     },
     {
       "id": "jobicy-155159",
