@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:29:48.069Z",
+  "generatedAt": "2026-10-14T12:01:09.367Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,18 @@
   },
   "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-software-developer-dortmund-25702",
+      "title": "(Senior) Software Developer (m/w/d)",
+      "company": "Loopario",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/loopario/senior-software-developer-dortmund-25702",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791972083000
+    },
     {
       "id": "arbeitnow-embedded-vision-fpga-engineer-in-aalen-244107",
       "title": "Embedded Vision & FPGA Engineer (m/f/d) in Aalen",
@@ -187,18 +199,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791946111000
-    },
-    {
-      "id": "arbeitnow-remote-mobile-engineer-elevenmusic-186129",
-      "title": "Mobile Engineer - ElevenMusic",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-mobile-engineer-elevenmusic-186129",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791945619000
     },
     {
       "id": "jobicy-153164",
