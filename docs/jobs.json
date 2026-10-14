@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-14T04:28:29.112Z",
+  "generatedAt": "2026-10-14T05:00:30.797Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
     "jobicy": 45,
-    "arbeitnow": 12
+    "arbeitnow": 10
   },
-  "count": 129,
+  "count": 127,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
+      "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+      "company": "AlmavivA de Belgique",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791948622000
+    },
     {
       "id": "arbeitnow-remote-mobile-engineer-elevenmusic-186129",
       "title": "Mobile Engineer - ElevenMusic",
@@ -220,42 +232,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791913268000
-    },
-    {
-      "id": "arbeitnow-remote-director-experience-intelligence-and-quality-306402",
-      "title": "Director, Experience Intelligence and Quality",
-      "company": "Spring Health",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-director-experience-intelligence-and-quality-306402",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791913267000
-    },
-    {
-      "id": "arbeitnow-remote-backend-engineer-400498",
-      "title": "Backend Engineer",
-      "company": "Duna",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-backend-engineer-400498",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791913248000
-    },
-    {
-      "id": "arbeitnow-remote-senior-infrastructure-security-engineer-449441",
-      "title": "(Senior) Infrastructure & Security Engineer",
-      "company": "Duna",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-senior-infrastructure-security-engineer-449441",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791913248000
     },
     {
       "id": "jobicy-155221",
