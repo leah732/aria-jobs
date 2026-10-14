@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-14T10:27:49.436Z",
+  "generatedAt": "2026-10-14T10:59:49.569Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
     "jobicy": 45,
-    "arbeitnow": 9
+    "arbeitnow": 4
   },
-  "count": 126,
+  "count": 121,
   "jobs": [
+    {
+      "id": "arbeitnow-embedded-vision-fpga-engineer-in-aalen-244107",
+      "title": "Embedded Vision & FPGA Engineer (m/f/d) in Aalen",
+      "company": "hema electronic GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hema-electronic-gmbh/embedded-vision-fpga-engineer-in-aalen-244107",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791968450000
+    },
     {
       "id": "arbeitnow-remote-quality-platform-lead-218706",
       "title": "Quality Platform Lead",
@@ -182,78 +194,6 @@
       "company": "ElevenLabs",
       "source": "Arbeitnow",
       "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-mobile-engineer-elevenmusic-186129",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791945619000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-elevenmusic-445764",
-      "title": "Full-Stack Engineer - ElevenMusic",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenmusic-445764",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791945619000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-coremusic-140966",
-      "title": "Full-Stack Engineer (Backend-Leaning) - CoreMusic",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-coremusic-140966",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791945619000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-productions-292727",
-      "title": "Full-Stack Engineer - Productions",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-productions-292727",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791945619000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-frontend-leaning-creativemusic-231100",
-      "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-creativemusic-231100",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791945619000
-    },
-    {
-      "id": "arbeitnow-remote-applied-ai-engineer-67980",
-      "title": "Applied AI Engineer",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-applied-ai-engineer-67980",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791945619000
-    },
-    {
-      "id": "arbeitnow-remote-developer-experience-engineer-338562",
-      "title": "Developer Experience Engineer",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-developer-experience-engineer-338562",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
