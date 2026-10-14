@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-14T18:27:04.529Z",
+  "generatedAt": "2026-10-14T19:06:47.752Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 45,
-    "arbeitnow": 8
+    "arbeitnow": 7
   },
-  "count": 124,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-product-engineer-bielefeld-429098",
+      "title": "(Senior) Product Engineer",
+      "company": "sustaind GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sustaind-gmbh/senior-product-engineer-bielefeld-429098",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791999043000
+    },
     {
       "id": "arbeitnow-ki-engineer-beratung-implementation-ampfing-32627",
       "title": "KI-Engineer- Beratung & Implementation (m/w/d)",
@@ -172,18 +184,6 @@
       "salaryMax": null,
       "salaryCurrency": "AUD",
       "postedAt": 1791986645000
-    },
-    {
-      "id": "arbeitnow-team-lead-security-engineering-check-point-munich-209159",
-      "title": "Team Lead Security Engineering – Check Point (m/w/d)",
-      "company": "c.cure - Geschäftsbereich der Megamaris GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/ccure-geschaftsbereich-der-megamaris-gmbh/team-lead-security-engineering-check-point-munich-209159",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791984662000
     },
     {
       "id": "jobicy-155293",
@@ -353,18 +353,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791983846000
-    },
-    {
-      "id": "arbeitnow-senior-fullstack-engineer-all-identities-berlin-218932",
-      "title": "Senior Fullstack Engineer (all identities)",
-      "company": "Caspar Health",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-fullstack-engineer-all-identities-berlin-218932",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791979276000
     },
     {
       "id": "arbeitnow-remote-quality-platform-lead-218706",
