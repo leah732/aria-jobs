@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T20:24:02.814Z",
+  "generatedAt": "2026-10-14T20:57:00.327Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
-    "jobicy": 40,
+    "jobicy": 41,
     "arbeitnow": 7
   },
-  "count": 118,
+  "count": 119,
   "jobs": [
     {
       "id": "arbeitnow-senior-product-engineer-bielefeld-429098",
@@ -32,6 +32,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791997244000
+    },
+    {
+      "id": "jobicy-155332",
+      "title": "Sr. Director, MaintainX AI",
+      "company": "MaintainX",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155332-sr-director-maintainx-ai",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791997000000
+    },
+    {
+      "id": "jobicy-155336",
+      "title": "Senior Applied Data Scientist, Fleet Intelligence",
+      "company": "Fleetio",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155336-senior-applied-data-scientist-fleet-intelligence",
+      "setup": "wfh",
+      "location": "Canada,  Mexico,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791996999000
+    },
+    {
+      "id": "jobicy-155334",
+      "title": "Director, Enterprise Portfolio Management",
+      "company": "Clover Health",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155334-director-enterprise-portfolio-management",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791996998000
     },
     {
       "id": "jobicy-155323",
@@ -586,32 +625,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791944832000
-    },
-    {
-      "id": "jobicy-155238",
-      "title": "Backend Engineer",
-      "company": "Catawiki",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155238-backend-engineer-4",
-      "setup": "wfh",
-      "location": "Portugal",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791923043000
-    },
-    {
-      "id": "jobicy-155241",
-      "title": "Data Analyst",
-      "company": "RevenueCat",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155241-data-analyst-4",
-      "setup": "wfh",
-      "location": "EMEA,  LATAM,  Canada,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791923041000
     },
     {
       "id": "remoteok-1137510",
