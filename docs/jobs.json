@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T05:00:30.797Z",
+  "generatedAt": "2026-10-14T05:56:27.242Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
-    "jobicy": 45,
-    "arbeitnow": 10
+    "jobicy": 46,
+    "arbeitnow": 8
   },
-  "count": 127,
+  "count": 126,
   "jobs": [
     {
       "id": "arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
@@ -104,18 +104,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791945619000
-    },
-    {
-      "id": "arbeitnow-remote-senior-leading-software-engineer-fintech-berlin-481208",
-      "title": "Senior/Leading Software Engineer (fintech)",
-      "company": "TechBiz Global GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-leading-software-engineer-fintech-berlin-481208",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791923411000
     },
     {
       "id": "jobicy-155238",
@@ -220,18 +208,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791922103000
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-engineer-423367",
-      "title": "Senior Software Engineer",
-      "company": "Nopan",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/nopan/remote-senior-software-engineer-423367",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791913268000
     },
     {
       "id": "jobicy-155221",
@@ -713,6 +689,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791857427000
+    },
+    {
+      "id": "jobicy-153108",
+      "title": "Senior Gen AI Software Engineer",
+      "company": "Liftoff",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153108-senior-gen-ai-software-engineer",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791857424000
     },
     {
       "id": "remoteok-1137508",
