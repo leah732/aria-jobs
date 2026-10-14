@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T01:08:04.851Z",
+  "generatedAt": "2026-10-14T01:54:18.268Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
-    "jobicy": 46,
+    "jobicy": 45,
     "arbeitnow": 18
   },
-  "count": 136,
+  "count": 135,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-leading-software-engineer-fintech-berlin-481208",
@@ -419,19 +419,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791884902000
-    },
-    {
-      "id": "jobicy-155189",
-      "title": "Full Stack Engineer",
-      "company": "infisical",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155189-full-stack-engineer-3",
-      "setup": "wfh",
-      "location": "Brazil,  Canada,  Europe,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791884753000
     },
     {
       "id": "jobicy-155191",
