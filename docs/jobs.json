@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-14T09:01:11.852Z",
+  "generatedAt": "2026-10-14T09:58:30.890Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
     "jobicy": 45,
-    "arbeitnow": 8
+    "arbeitnow": 9
   },
-  "count": 125,
+  "count": 126,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-quality-platform-lead-218706",
+      "title": "Quality Platform Lead",
+      "company": "Vio",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vio/remote-quality-platform-lead-218706",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791967220000
+    },
     {
       "id": "jobicy-155263",
       "title": "Director of Enterprise Sales",
