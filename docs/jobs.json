@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T17:57:12.340Z",
+  "generatedAt": "2026-10-14T18:27:04.529Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
-    "jobicy": 43,
+    "jobicy": 45,
     "arbeitnow": 8
   },
-  "count": 122,
+  "count": 124,
   "jobs": [
     {
       "id": "arbeitnow-ki-engineer-beratung-implementation-ampfing-32627",
@@ -20,6 +20,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791997244000
+    },
+    {
+      "id": "jobicy-155315",
+      "title": "Senior Solutions Engineer (Post-Sales)",
+      "company": "RStudio",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155315-senior-solutions-engineer-post-sales",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791989442000
+    },
+    {
+      "id": "jobicy-155313",
+      "title": "Senior Staff Software Engineer, Partner Integrations",
+      "company": "Flex",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155313-senior-staff-software-engineer-partner-integrations",
+      "setup": "wfh",
+      "location": "Anywhere",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791989441000
+    },
+    {
+      "id": "jobicy-155311",
+      "title": "Senior Software Engineer",
+      "company": "RStudio",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155311-senior-software-engineer-14",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791989440000
     },
     {
       "id": "arbeitnow-remote-senior-c-engineer-298192",
@@ -650,19 +689,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791906544000
-    },
-    {
-      "id": "jobicy-155209",
-      "title": "Cashmere Lab Testing & Quality Leader",
-      "company": "Quince",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155209-cashmere-lab-testing-quality-leader",
-      "setup": "wfh",
-      "location": "Italy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791892503000
     },
     {
       "id": "remoteok-1137510",
