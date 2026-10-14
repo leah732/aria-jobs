@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-14T17:00:29.442Z",
+  "generatedAt": "2026-10-14T17:57:12.340Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 43,
-    "arbeitnow": 7
+    "arbeitnow": 8
   },
-  "count": 121,
+  "count": 122,
   "jobs": [
+    {
+      "id": "arbeitnow-ki-engineer-beratung-implementation-ampfing-32627",
+      "title": "KI-Engineer- Beratung & Implementation (m/w/d)",
+      "company": "Neurawork GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/ki-engineer-beratung-implementation-ampfing-32627",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791997244000
+    },
     {
       "id": "arbeitnow-remote-senior-c-engineer-298192",
       "title": "Senior C++ Engineer",
@@ -56,6 +68,71 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791987612000
+    },
+    {
+      "id": "jobicy-155305",
+      "title": "Senior Staff Engineer - Mobile/Kotlin",
+      "company": "Fanatics",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155305-senior-staff-engineer-mobile-kotlin",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791986649000
+    },
+    {
+      "id": "jobicy-155298",
+      "title": "Client Director",
+      "company": "Nash",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155298-client-director",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791986649000
+    },
+    {
+      "id": "jobicy-155303",
+      "title": "Principal macOS Security Researcher",
+      "company": "Huntress",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155303-principal-macos-security-researcher",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791986647000
+    },
+    {
+      "id": "jobicy-155302",
+      "title": "Senior Software Engineering Manager",
+      "company": "Fanatics",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155302-senior-software-engineering-manager",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791986646000
+    },
+    {
+      "id": "jobicy-155304",
+      "title": "Technical Support Specialist, AU",
+      "company": "Nash",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155304-technical-support-specialist-au",
+      "setup": "wfh",
+      "location": "Australia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "AUD",
+      "postedAt": 1791986645000
     },
     {
       "id": "arbeitnow-team-lead-security-engineering-check-point-munich-209159",
@@ -586,71 +663,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791892503000
-    },
-    {
-      "id": "jobicy-155200",
-      "title": "Senior Backend Engineer",
-      "company": "Solace",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155200-senior-backend-engineer-10",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791884903000
-    },
-    {
-      "id": "jobicy-155199",
-      "title": "Staff Software Engineer",
-      "company": "Solace",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155199-staff-software-engineer-8",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791884903000
-    },
-    {
-      "id": "jobicy-155202",
-      "title": "Senior Platform Engineer",
-      "company": "Solace",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155202-senior-platform-engineer-4",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791884902000
-    },
-    {
-      "id": "jobicy-155201",
-      "title": "Technical Lead (Engineering)",
-      "company": "Solace",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155201-technical-lead-engineering",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791884902000
-    },
-    {
-      "id": "jobicy-155195",
-      "title": "Senior Full Stack Engineer",
-      "company": "Solace",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155195-senior-full-stack-engineer-7",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1791884902000
     },
     {
       "id": "remoteok-1137510",
