@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T23:49:13.826Z",
+  "generatedAt": "2026-10-14T00:18:10.412Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -883,6 +883,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791857417000
+    },
+    {
+      "id": "remoteok-1137508",
+      "title": "Principal Software Engineer",
+      "company": "Vytalize Health",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1791849618000
     },
     {
       "id": "remoteok-1137498",
@@ -1818,19 +1831,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785635408000
-    },
-    {
-      "id": "remoteok-1136066",
-      "title": "Customer Support Specialist",
-      "company": "Resource Guru",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-resource-guru-1136066",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785594276000
     }
   ]
 }
