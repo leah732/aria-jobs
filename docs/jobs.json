@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:30:10.328Z",
+  "generatedAt": "2026-10-14T16:08:24.934Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,54 @@
   },
   "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-c-engineer-298192",
+      "title": "Senior C++ Engineer",
+      "company": "Duck Duck Go",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-c-engineer-298192",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791988823000
+    },
+    {
+      "id": "arbeitnow-systems-engineer-microsoft-365-ampfing-462347",
+      "title": "Systems Engineer Microsoft 365 (m/w/d)",
+      "company": "Neurawork GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/systems-engineer-microsoft-365-ampfing-462347",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791988294000
+    },
+    {
+      "id": "arbeitnow-remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-lausanne-52118",
+      "title": "Palantir Foundry Engineer (Relocation to Abu Dhabi, UAE)",
+      "company": "Unit8",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-lausanne-52118",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791987612000
+    },
+    {
+      "id": "arbeitnow-remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-zurich-350581",
+      "title": "Palantir Foundry Engineer (Relocation to Abu Dhabi, UAE)",
+      "company": "Unit8",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-zurich-350581",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1791987612000
+    },
     {
       "id": "arbeitnow-team-lead-security-engineering-check-point-munich-209159",
       "title": "Team Lead Security Engineering – Check Point (m/w/d)",
@@ -32,42 +80,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791979276000
-    },
-    {
-      "id": "arbeitnow-specialist-incident-response-it-security-munich-285057",
-      "title": "Specialist Incident Response - IT Security (m/w/d)",
-      "company": "c.cure - Geschäftsbereich der Megamaris GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/ccure-geschaftsbereich-der-megamaris-gmbh/specialist-incident-response-it-security-munich-285057",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791975671000
-    },
-    {
-      "id": "arbeitnow-senior-software-developer-dortmund-25702",
-      "title": "(Senior) Software Developer (m/w/d)",
-      "company": "Loopario",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/loopario/senior-software-developer-dortmund-25702",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791972083000
-    },
-    {
-      "id": "arbeitnow-embedded-vision-fpga-engineer-in-aalen-244107",
-      "title": "Embedded Vision & FPGA Engineer (m/f/d) in Aalen",
-      "company": "hema electronic GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/hema-electronic-gmbh/embedded-vision-fpga-engineer-in-aalen-244107",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791968450000
     },
     {
       "id": "arbeitnow-remote-quality-platform-lead-218706",
@@ -171,18 +183,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791953319000
-    },
-    {
-      "id": "arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
-      "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
-      "company": "AlmavivA de Belgique",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791948622000
     },
     {
       "id": "jobicy-153225",
