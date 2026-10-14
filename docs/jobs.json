@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T07:12:27.671Z",
+  "generatedAt": "2026-10-14T08:01:01.896Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 12,
-    "jobicy": 42,
+    "jobicy": 43,
     "arbeitnow": 8
   },
-  "count": 122,
+  "count": 123,
   "jobs": [
     {
       "id": "arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
@@ -20,6 +20,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1791948622000
+    },
+    {
+      "id": "jobicy-153225",
+      "title": "Senior Sales Engineer",
+      "company": "RevenueCat",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153225-senior-sales-engineer-2",
+      "setup": "wfh",
+      "location": "Canada,  Europe,  USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1791948594000
     },
     {
       "id": "jobicy-154248",
@@ -585,6 +598,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1791884298000
+    },
+    {
+      "id": "remoteok-1137510",
+      "title": "Principal Product Manager Strategic Initiatives",
+      "company": "Thyme Care",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1791878411000
     },
     {
       "id": "jobicy-153136",
@@ -1585,19 +1611,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785827837000
-    },
-    {
-      "id": "remoteok-1135903",
-      "title": "Data Entry Administrator",
-      "company": "PulseMediaNL",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-administrator-pulsemedianl-1135903",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785635408000
     }
   ]
 }
