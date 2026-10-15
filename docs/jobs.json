@@ -1,97 +1,49 @@
 {
-  "generatedAt": "2026-10-15T22:19:23.716Z",
+  "generatedAt": "2026-10-15T22:52:21.235Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 40,
-    "arbeitnow": 11
+    "arbeitnow": 7
   },
-  "count": 121,
+  "count": 117,
   "jobs": [
     {
-      "id": "arbeitnow-forward-deployed-ai-engineer-berlin-74468",
-      "title": "Forward Deployed AI Engineer",
-      "company": "CHAPTERS Group AG",
+      "id": "arbeitnow-initiative-application-berlin-76265",
+      "title": "Initiative application (m/f/x)",
+      "company": "Nitrado (marbis GmbH)",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/forward-deployed-ai-engineer-berlin-74468",
+      "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiative-application-berlin-76265",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1792098077000
+      "postedAt": 1792099848000
     },
     {
-      "id": "arbeitnow-remote-engineering-manager-452658",
-      "title": "Engineering Manager",
-      "company": "Parity",
+      "id": "arbeitnow-initiativbewerbung-berlin-491648",
+      "title": "Initiativbewerbung",
+      "company": "Leafworks GmbH",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-engineering-manager-452658",
+      "url": "https://www.arbeitnow.com/jobs/companies/leafworks-gmbh/initiativbewerbung-berlin-491648",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1792096816000
+      "postedAt": 1792099847000
     },
     {
-      "id": "arbeitnow-remote-product-manager-elevencreative-self-serve-178678",
-      "title": "Product Manager (ElevenCreative Self-Serve)",
-      "company": "ElevenLabs",
+      "id": "arbeitnow-it-consultant-berlin-408772",
+      "title": "IT-Consultant (m/w/d)",
+      "company": "Leafworks GmbH",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-product-manager-elevencreative-self-serve-178678",
+      "url": "https://www.arbeitnow.com/jobs/companies/leafworks-gmbh/it-consultant-berlin-408772",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1792096816000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-payments-engineering-49808",
-      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-payments-engineering-49808",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792096816000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-platform-engineering-200264",
-      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-platform-engineering-200264",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792096816000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-frontend-leaning-studio-241094",
-      "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-studio-241094",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792096816000
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-studio-324293",
-      "title": "Full-Stack Engineer (Backend Leaning) - Studio",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-studio-324293",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792096816000
+      "postedAt": 1792099847000
     },
     {
       "id": "jobicy-155398",
