@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T23:13:29.833Z",
+  "generatedAt": "2026-10-15T23:48:16.774Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 40,
-    "arbeitnow": 7
+    "arbeitnow": 6
   },
-  "count": 117,
+  "count": 116,
   "jobs": [
     {
       "id": "arbeitnow-initiative-application-berlin-76265",
@@ -588,18 +588,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792016419000
-    },
-    {
-      "id": "arbeitnow-remote-staff-site-reliability-engineer-paris-357394",
-      "title": "Staff Site Reliability Engineer",
-      "company": "Adikteev",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/adikteev/remote-staff-site-reliability-engineer-paris-357394",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792009947000
     },
     {
       "id": "arbeitnow-remote-software-test-engineer-bern-277047",
