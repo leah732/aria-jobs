@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-15T13:14:36.358Z",
+  "generatedAt": "2026-10-15T14:05:48.273Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 10,
     "jobicy": 35,
-    "arbeitnow": 5
+    "arbeitnow": 6
   },
-  "count": 111,
+  "count": 112,
   "jobs": [
+    {
+      "id": "arbeitnow-co-founder-head-of-sales-agentur-skalierung-weg-zu-75-anteilen-berlin-423006",
+      "title": "Co-Founder / Head of Sales (m/w/d) – Agentur-Skalierung & Weg zu 75% Anteilen",
+      "company": "Cerberus Sales GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/cerberus-sales-gmbh/co-founder-head-of-sales-agentur-skalierung-weg-zu-75-anteilen-berlin-423006",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792067471000
+    },
     {
       "id": "arbeitnow-remote-ingenieur-terrain-field-engineer-france-307115",
       "title": "Ingénieur Terrain / Field Engineer F/H/X",
