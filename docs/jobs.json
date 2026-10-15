@@ -1,14 +1,98 @@
 {
-  "generatedAt": "2026-10-15T21:24:07.332Z",
+  "generatedAt": "2026-10-15T21:55:32.265Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 40,
-    "arbeitnow": 8
+    "arbeitnow": 11
   },
-  "count": 118,
+  "count": 121,
   "jobs": [
+    {
+      "id": "arbeitnow-forward-deployed-ai-engineer-berlin-74468",
+      "title": "Forward Deployed AI Engineer",
+      "company": "CHAPTERS Group AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/forward-deployed-ai-engineer-berlin-74468",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792098077000
+    },
+    {
+      "id": "arbeitnow-remote-engineering-manager-452658",
+      "title": "Engineering Manager",
+      "company": "Parity",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-engineering-manager-452658",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792096816000
+    },
+    {
+      "id": "arbeitnow-remote-product-manager-elevencreative-self-serve-178678",
+      "title": "Product Manager (ElevenCreative Self-Serve)",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-product-manager-elevencreative-self-serve-178678",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792096816000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-payments-engineering-49808",
+      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-payments-engineering-49808",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792096816000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-platform-engineering-200264",
+      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-platform-engineering-200264",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792096816000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-frontend-leaning-studio-241094",
+      "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-studio-241094",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792096816000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-studio-324293",
+      "title": "Full-Stack Engineer (Backend Leaning) - Studio",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-studio-324293",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792096816000
+    },
     {
       "id": "jobicy-155398",
       "title": "Senior Product Security Engineer (USA Only, 100% Remote)",
@@ -60,30 +144,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792082741000
-    },
-    {
-      "id": "arbeitnow-remote-senior-scientific-data-engineer-germany-163831",
-      "title": "Senior Scientific Data Engineer",
-      "company": "Tetrascience",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-germany-163831",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792074008000
-    },
-    {
-      "id": "arbeitnow-embedded-fw-engineer-qualcomm-soc-london-140302",
-      "title": "Embedded FW Engineer - Qualcomm SoC",
-      "company": "Bragi",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bragi/embedded-fw-engineer-qualcomm-soc-london-140302",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792072871000
     },
     {
       "id": "jobicy-155391",
@@ -162,30 +222,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792071231000
-    },
-    {
-      "id": "arbeitnow-senior-fullstack-engineer-berlin-242271",
-      "title": "Senior Fullstack Engineer (w/m/d)",
-      "company": "Protofy GmbH & Co. KG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/protofy-gmbh-co-kg/senior-fullstack-engineer-berlin-242271",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792071072000
-    },
-    {
-      "id": "arbeitnow-platform-engineer-gitlab-automation-berlin-178094",
-      "title": "Platform Engineer - GitLab & Automation (m/w/d)",
-      "company": "CPU Consulting & Software GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792071071000
     },
     {
       "id": "jobicy-155381",
