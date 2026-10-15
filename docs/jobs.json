@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:18:36.188Z",
+  "generatedAt": "2026-10-15T20:56:58.718Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,58 @@
   },
   "count": 118,
   "jobs": [
+    {
+      "id": "jobicy-155398",
+      "title": "Senior Product Security Engineer (USA Only, 100% Remote)",
+      "company": "Close",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155398-senior-product-security-engineer-usa-only-100-remote",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792082745000
+    },
+    {
+      "id": "jobicy-155396",
+      "title": "Enterprise Account Director, New Business (API/CPaaS)",
+      "company": "Vonage",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155396-enterprise-account-director-new-business-api-cpaas",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792082744000
+    },
+    {
+      "id": "jobicy-155395",
+      "title": "Technical Account Manager (TAM)- US",
+      "company": "Nivoda",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155395-technical-account-manager-tam-us",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792082743000
+    },
+    {
+      "id": "jobicy-155397",
+      "title": "Senior Analytics Engineer",
+      "company": "Paddle",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155397-senior-analytics-engineer-3",
+      "setup": "wfh",
+      "location": "Ireland,  Portugal,  UK",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792082741000
+    },
     {
       "id": "arbeitnow-remote-senior-scientific-data-engineer-germany-163831",
       "title": "Senior Scientific Data Engineer",
@@ -536,58 +588,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792032605000
-    },
-    {
-      "id": "jobicy-145994",
-      "title": "Dedicated Linux Desktop & Devices Support Engineer, Singapore",
-      "company": "Canonical",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/145994-dedicated-linux-desktop-devices-support-engineer-singapore",
-      "setup": "wfh",
-      "location": "APAC",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792032321000
-    },
-    {
-      "id": "jobicy-145995",
-      "title": "Ubuntu Linux Kernel Test Engineer",
-      "company": "Canonical",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer",
-      "setup": "wfh",
-      "location": "APAC,  China",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792032316000
-    },
-    {
-      "id": "jobicy-153199",
-      "title": "Mid/Sr. Product Engineer, Intelligence",
-      "company": "Help Scout",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153199-mid-sr-product-engineer-intelligence",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792032312000
-    },
-    {
-      "id": "jobicy-146058",
-      "title": "Senior Software Engineer (Game Engine)",
-      "company": "Playson",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
-      "setup": "wfh",
-      "location": "Europe",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792032311000
     },
     {
       "id": "arbeitnow-remote-director-luxury-market-intelligence-insights-france-407041",
