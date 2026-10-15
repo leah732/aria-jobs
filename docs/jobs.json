@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-15T15:34:39.696Z",
+  "generatedAt": "2026-10-15T16:21:00.033Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 35,
-    "arbeitnow": 8
+    "arbeitnow": 10
   },
-  "count": 113,
+  "count": 115,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-scientific-data-engineer-germany-163831",
+      "title": "Senior Scientific Data Engineer",
+      "company": "Tetrascience",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-germany-163831",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792074008000
+    },
+    {
+      "id": "arbeitnow-founding-engineer-tech-lead-full-stack-ai-native-berlin-106809",
+      "title": "Founding Engineer (Tech Lead) · Full-Stack, AI-native (m/w/d)",
+      "company": "Infinos GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/founding-engineer-tech-lead-full-stack-ai-native-berlin-106809",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792073861000
+    },
+    {
+      "id": "arbeitnow-embedded-fw-engineer-qualcomm-soc-london-140302",
+      "title": "Embedded FW Engineer - Qualcomm SoC",
+      "company": "Bragi",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bragi/embedded-fw-engineer-qualcomm-soc-london-140302",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792072871000
+    },
     {
       "id": "arbeitnow-senior-fullstack-engineer-berlin-242271",
       "title": "Senior Fullstack Engineer (w/m/d)",
@@ -56,18 +92,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792059622000
-    },
-    {
-      "id": "arbeitnow-founding-engineer-tech-lead-full-stack-ai-native-berlin-106809",
-      "title": "Founding Engineer (Tech Lead) · Full-Stack, AI-native (m/w/d)",
-      "company": "Infinos GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/founding-engineer-tech-lead-full-stack-ai-native-berlin-106809",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792058493000
     },
     {
       "id": "jobicy-152419",
