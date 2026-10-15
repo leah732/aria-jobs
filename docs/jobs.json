@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T09:01:41.535Z",
+  "generatedAt": "2026-10-15T09:58:54.409Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 11,
     "jobicy": 34,
-    "arbeitnow": 6
+    "arbeitnow": 5
   },
-  "count": 112,
+  "count": 111,
   "jobs": [
     {
       "id": "jobicy-152419",
@@ -421,18 +421,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792009947000
-    },
-    {
-      "id": "arbeitnow-remote-senior-engineering-manager-infrastructure-all-genders-berlin-479471",
-      "title": "Senior Engineering Manager, Infrastructure (all genders)",
-      "company": "Distribusion Technologies",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-engineering-manager-infrastructure-all-genders-berlin-479471",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792009944000
     },
     {
       "id": "jobicy-155332",
