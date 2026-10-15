@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-15T14:05:48.273Z",
+  "generatedAt": "2026-10-15T15:00:12.442Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 61,
+    "remoteok": 60,
     "remotive": 10,
     "jobicy": 35,
-    "arbeitnow": 6
+    "arbeitnow": 8
   },
-  "count": 112,
+  "count": 113,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-fullstack-engineer-berlin-242271",
+      "title": "Senior Fullstack Engineer (w/m/d)",
+      "company": "Protofy GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/protofy-gmbh-co-kg/senior-fullstack-engineer-berlin-242271",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792071072000
+    },
+    {
+      "id": "arbeitnow-platform-engineer-gitlab-automation-berlin-178094",
+      "title": "Platform Engineer - GitLab & Automation (m/w/d)",
+      "company": "CPU Consulting & Software GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792071071000
+    },
     {
       "id": "arbeitnow-co-founder-head-of-sales-agentur-skalierung-weg-zu-75-anteilen-berlin-423006",
       "title": "Co-Founder / Head of Sales (m/w/d) – Agentur-Skalierung & Weg zu 75% Anteilen",
@@ -1455,19 +1479,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785827837000
-    },
-    {
-      "id": "remoteok-1135903",
-      "title": "Data Entry Administrator",
-      "company": "PulseMediaNL",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-administrator-pulsemedianl-1135903",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785635408000
     }
   ]
 }
