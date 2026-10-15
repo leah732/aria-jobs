@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T03:22:42.449Z",
+  "generatedAt": "2026-10-15T03:58:40.678Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 11,
     "jobicy": 41,
-    "arbeitnow": 10
+    "arbeitnow": 8
   },
-  "count": 123,
+  "count": 121,
   "jobs": [
     {
       "id": "arbeitnow-remote-director-luxury-market-intelligence-insights-france-407041",
@@ -32,30 +32,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792014452000
-    },
-    {
-      "id": "arbeitnow-remote-senior-infrastructure-cybersecurity-engineer-uk-portishead-285835",
-      "title": "Senior Infrastructure & Cybersecurity Engineer (UK)",
-      "company": "A-Gas",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/a-gas/remote-senior-infrastructure-cybersecurity-engineer-uk-portishead-285835",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792009952000
-    },
-    {
-      "id": "arbeitnow-remote-lead-java-developer-solution-architect-6-month-contract-london-346117",
-      "title": "Lead Java Developer/Solution Architect (6-month contract)",
-      "company": "gravity9",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-lead-java-developer-solution-architect-6-month-contract-london-346117",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792009947000
     },
     {
       "id": "arbeitnow-remote-staff-site-reliability-engineer-paris-357394",
