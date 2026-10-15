@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T12:28:14.622Z",
+  "generatedAt": "2026-10-15T13:14:36.358Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 10,
-    "jobicy": 34,
-    "arbeitnow": 7
+    "jobicy": 35,
+    "arbeitnow": 5
   },
-  "count": 112,
+  "count": 111,
   "jobs": [
     {
       "id": "arbeitnow-remote-ingenieur-terrain-field-engineer-france-307115",
@@ -512,28 +512,17 @@
       "postedAt": 1791992550000
     },
     {
-      "id": "arbeitnow-remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-lausanne-52118",
-      "title": "Palantir Foundry Engineer (Relocation to Abu Dhabi, UAE)",
-      "company": "Unit8",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-lausanne-52118",
+      "id": "jobicy-155315",
+      "title": "Senior Solutions Engineer (Post-Sales)",
+      "company": "RStudio",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155315-senior-solutions-engineer-post-sales",
       "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
+      "location": "USA",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1791987612000
-    },
-    {
-      "id": "arbeitnow-remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-zurich-350581",
-      "title": "Palantir Foundry Engineer (Relocation to Abu Dhabi, UAE)",
-      "company": "Unit8",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-zurich-350581",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1791987612000
+      "salaryCurrency": "USD",
+      "postedAt": 1791989442000
     },
     {
       "id": "remoteok-1137510",
