@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T23:48:04.321Z",
+  "generatedAt": "2026-10-15T00:17:03.650Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 60,
+    "remoteok": 61,
     "remotive": 11,
     "jobicy": 41,
     "arbeitnow": 12
   },
-  "count": 124,
+  "count": 125,
   "jobs": [
     {
       "id": "arbeitnow-remote-director-luxury-market-intelligence-insights-france-407041",
@@ -1619,6 +1619,19 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785827837000
+    },
+    {
+      "id": "remoteok-1135903",
+      "title": "Data Entry Administrator",
+      "company": "PulseMediaNL",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-administrator-pulsemedianl-1135903",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785635408000
     }
   ]
 }
