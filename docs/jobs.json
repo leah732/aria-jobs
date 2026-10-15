@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-15T11:00:12.384Z",
+  "generatedAt": "2026-10-15T11:57:09.686Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
-    "remotive": 11,
+    "remotive": 10,
     "jobicy": 34,
-    "arbeitnow": 5
+    "arbeitnow": 7
   },
-  "count": 111,
+  "count": 112,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-ingenieur-terrain-field-engineer-france-307115",
+      "title": "Ingénieur Terrain / Field Engineer F/H/X",
+      "company": "Genetec Inc",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/remote-ingenieur-terrain-field-engineer-france-307115",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792059622000
+    },
+    {
+      "id": "arbeitnow-founding-engineer-tech-lead-full-stack-ai-native-berlin-106809",
+      "title": "Founding Engineer (Tech Lead) · Full-Stack, AI-native (m/w/d)",
+      "company": "Infinos GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/founding-engineer-tech-lead-full-stack-ai-native-berlin-106809",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792058493000
+    },
     {
       "id": "jobicy-152419",
       "title": "Software Engineer, AI/ML Infrastructure",
@@ -1014,20 +1038,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1789430426000
-    },
-    {
-      "id": "remotive-2069746",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "setup": "wfh",
-      "location": "USA, Canada, USA timezones",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryText": "$170k - $200k",
-      "category": "Software Development",
-      "postedAt": 1789418007000
     },
     {
       "id": "remoteok-1137388",
