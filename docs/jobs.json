@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-10-16T23:14:47.231Z",
+  "generatedAt": "2026-10-16T23:46:44.402Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 31,
-    "arbeitnow": 5
+    "arbeitnow": 9
   },
-  "count": 107,
+  "count": 111,
   "jobs": [
+    {
+      "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
+      "title": "Working Student — AI Engineering & Document Intelligence",
+      "company": "Tracium GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-357203",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792191634000
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-ai-authoring-platform-hamburg-483900",
+      "title": "Full-Stack Engineer — AI Authoring Platform",
+      "company": "Tracium GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-hamburg-483900",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792191634000
+    },
+    {
+      "id": "arbeitnow-senior-data-engineer-document-ai-pipelines-berlin-415387",
+      "title": "Senior Data Engineer — Document & AI Pipelines",
+      "company": "Tracium GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-data-engineer-document-ai-pipelines-berlin-415387",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792191634000
+    },
+    {
+      "id": "arbeitnow-senior-ai-engineer-document-intelligence-berlin-350144",
+      "title": "Senior AI Engineer — Document Intelligence",
+      "company": "Tracium GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-ai-engineer-document-intelligence-berlin-350144",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792191634000
+    },
     {
       "id": "jobicy-155538",
       "title": "Director, Revenue Systems",
