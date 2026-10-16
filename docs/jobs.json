@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T15:58:24.418Z",
+  "generatedAt": "2026-10-16T16:25:45.031Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 61,
+    "remoteok": 60,
     "remotive": 11,
     "jobicy": 47,
     "arbeitnow": 7
   },
-  "count": 126,
+  "count": 125,
   "jobs": [
     {
       "id": "arbeitnow-remote-founding-platform-engineer-germany-308426",
@@ -470,6 +470,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792082741000
+    },
+    {
+      "id": "remoteok-1137527",
+      "title": "Senior Software Engineer II Applied AI",
+      "company": "Wrapbook",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792080003000
     },
     {
       "id": "jobicy-155391",
@@ -1624,32 +1637,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785851970000
-    },
-    {
-      "id": "remoteok-1136217",
-      "title": "Data Analyst Assistant",
-      "company": "Arabian Private Holdings",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785848789000
-    },
-    {
-      "id": "remoteok-1136221",
-      "title": "Business Development",
-      "company": "GROW10X",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-grow10x-1136221",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785827837000
     }
   ]
 }
