@@ -1,14 +1,27 @@
 {
-  "generatedAt": "2026-10-16T05:26:36.930Z",
+  "generatedAt": "2026-10-16T05:56:46.068Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
-    "jobicy": 40,
+    "jobicy": 37,
     "arbeitnow": 3
   },
-  "count": 113,
+  "count": 110,
   "jobs": [
+    {
+      "id": "jobicy-150709",
+      "title": "Customer Growth, Director",
+      "company": "Archive",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/150709-customer-growth-director",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792118410000
+    },
     {
       "id": "arbeitnow-initiative-application-berlin-76265",
       "title": "Initiative application (m/f/x)",
@@ -500,58 +513,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792032615000
-    },
-    {
-      "id": "jobicy-153195",
-      "title": "Senior+ Backend Software Engineer - Asia",
-      "company": "Palmstreet",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153195-senior-backend-software-engineer-asia",
-      "setup": "wfh",
-      "location": "China",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "postedAt": 1792032610000
-    },
-    {
-      "id": "jobicy-150590",
-      "title": "Senior System Engineer (Virtual Private Cloud Team)",
-      "company": "Nebius",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150590-senior-system-engineer-virtual-private-cloud-team",
-      "setup": "wfh",
-      "location": "Europe,  Netherlands",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792032608000
-    },
-    {
-      "id": "jobicy-150588",
-      "title": "Head of Engineering",
-      "company": "saas.group",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150588-head-of-engineering",
-      "setup": "wfh",
-      "location": "Europe",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792032606000
-    },
-    {
-      "id": "jobicy-153197",
-      "title": "Delivery Solutions Architect - Digital Native Business",
-      "company": "Databricks",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153197-delivery-solutions-architect-digital-native-business",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792032605000
     },
     {
       "id": "remoteok-1137523",
