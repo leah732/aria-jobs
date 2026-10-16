@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:48:16.774Z",
+  "generatedAt": "2026-10-16T00:15:31.608Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -578,6 +578,19 @@
       "postedAt": 1792032605000
     },
     {
+      "id": "remoteok-1137523",
+      "title": "Sr REACT NATIVE",
+      "company": "Somnio Software",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792022419000
+    },
+    {
       "id": "arbeitnow-remote-director-luxury-market-intelligence-insights-france-407041",
       "title": "Director, Luxury Market Intelligence & Insights",
       "company": "Cxg",
@@ -1010,19 +1023,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1789585202000
-    },
-    {
-      "id": "remoteok-1137399",
-      "title": "SI agent engineer",
-      "company": "Sticker Mule",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 150000,
-      "salaryMax": 250000,
-      "salaryCurrency": "USD",
-      "postedAt": 1789562667000
     },
     {
       "id": "remotive-2091129",
