@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T15:25:59.317Z",
+  "generatedAt": "2026-10-16T15:58:24.418Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
@@ -9,6 +9,18 @@
   },
   "count": 126,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-founding-platform-engineer-germany-308426",
+      "title": "Founding Platform Engineer",
+      "company": "Mlabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-founding-platform-engineer-germany-308426",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792160404000
+    },
     {
       "id": "arbeitnow-frontend-softwareentwickler-berlin-250708",
       "title": "Frontend Softwareentwickler (m/w/d)",
@@ -56,18 +68,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792148456000
-    },
-    {
-      "id": "arbeitnow-system-engineer-im-service-desk-heilbronn-remote-stuttgart-254512",
-      "title": "System Engineer im Service Desk (w/m/d) | Heilbronn & Remote",
-      "company": "perinova IT-Management GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/perinova-it-management-gmbh/system-engineer-im-service-desk-heilbronn-remote-stuttgart-254512",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792141254000
     },
     {
       "id": "arbeitnow-remote-senior-lead-security-engineer-detection-response-france-104833",
