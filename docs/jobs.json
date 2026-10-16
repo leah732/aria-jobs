@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T03:22:39.059Z",
+  "generatedAt": "2026-10-16T03:58:28.186Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 10,
     "jobicy": 40,
-    "arbeitnow": 6
+    "arbeitnow": 3
   },
-  "count": 116,
+  "count": 113,
   "jobs": [
     {
       "id": "arbeitnow-initiative-application-berlin-76265",
@@ -20,30 +20,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792099848000
-    },
-    {
-      "id": "arbeitnow-initiativbewerbung-berlin-491648",
-      "title": "Initiativbewerbung",
-      "company": "Leafworks GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/leafworks-gmbh/initiativbewerbung-berlin-491648",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792099847000
-    },
-    {
-      "id": "arbeitnow-it-consultant-berlin-408772",
-      "title": "IT-Consultant (m/w/d)",
-      "company": "Leafworks GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/leafworks-gmbh/it-consultant-berlin-408772",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792099847000
     },
     {
       "id": "jobicy-155398",
@@ -589,18 +565,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1792022419000
-    },
-    {
-      "id": "arbeitnow-remote-director-luxury-market-intelligence-insights-france-407041",
-      "title": "Director, Luxury Market Intelligence & Insights",
-      "company": "Cxg",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/cxg/remote-director-luxury-market-intelligence-insights-france-407041",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792016419000
     },
     {
       "id": "arbeitnow-remote-software-test-engineer-bern-277047",
