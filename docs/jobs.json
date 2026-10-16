@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-16T10:21:20.411Z",
+  "generatedAt": "2026-10-16T10:57:54.661Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
-    "remotive": 10,
+    "remotive": 11,
     "jobicy": 47,
-    "arbeitnow": 3
+    "arbeitnow": 4
   },
-  "count": 121,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-system-engineer-im-service-desk-heilbronn-remote-stuttgart-254512",
+      "title": "System Engineer im Service Desk (w/m/d) | Heilbronn & Remote",
+      "company": "perinova IT-Management GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/perinova-it-management-gmbh/system-engineer-im-service-desk-heilbronn-remote-stuttgart-254512",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792141254000
+    },
     {
       "id": "arbeitnow-ml-engineer-computer-vision-ml-ops-berlin-240466",
       "title": "ML Engineer (Computer Vision & ML Ops)",
@@ -669,6 +681,20 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1792022419000
+    },
+    {
+      "id": "remotive-2069746",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "setup": "wfh",
+      "location": "USA, Canada, USA timezones",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryText": "$170k - $200k",
+      "category": "Software Development",
+      "postedAt": 1792010024000
     },
     {
       "id": "arbeitnow-remote-software-test-engineer-bern-277047",
