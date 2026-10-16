@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-16T13:11:34.943Z",
+  "generatedAt": "2026-10-16T14:03:02.913Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 11,
     "jobicy": 47,
-    "arbeitnow": 6
+    "arbeitnow": 8
   },
-  "count": 125,
+  "count": 127,
   "jobs": [
+    {
+      "id": "arbeitnow-frontend-softwareentwickler-berlin-250708",
+      "title": "Frontend Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-berlin-250708",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792155681000
+    },
+    {
+      "id": "arbeitnow-fullstack-softwareentwickler-berlin-149961",
+      "title": "Fullstack Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-berlin-149961",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792153866000
+    },
     {
       "id": "arbeitnow-remote-senior-scientific-data-engineer-switzerland-5487",
       "title": "Senior Scientific Data Engineer",
