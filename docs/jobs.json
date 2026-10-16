@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:18:42.649Z",
+  "generatedAt": "2026-10-16T19:01:23.888Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,18 @@
   },
   "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-engineering-operations-manager-128137",
+      "title": "Senior Engineering Operations Manager",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-engineering-operations-manager-128137",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792172417000
+    },
     {
       "id": "arbeitnow-legal-product-manager-legal-engineer-jurist-in-berlin-124081",
       "title": "Legal Product Manager | Legal Engineer (Jurist/in) (x/w/m)",
@@ -20,18 +32,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792170051000
-    },
-    {
-      "id": "arbeitnow-remote-founding-platform-engineer-germany-308426",
-      "title": "Founding Platform Engineer",
-      "company": "Mlabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-founding-platform-engineer-germany-308426",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792160404000
     },
     {
       "id": "jobicy-155450",
