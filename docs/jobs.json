@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:50:39.591Z",
+  "generatedAt": "2026-10-17T16:14:19.610Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -557,6 +557,32 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792203608000
+    },
+    {
+      "id": "remoteok-1137536",
+      "title": "Director of Product Management and IT Operations",
+      "company": "Self Bill Pro",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 130000,
+      "salaryMax": 160000,
+      "salaryCurrency": "USD",
+      "postedAt": 1792166439000
+    },
+    {
+      "id": "remoteok-1137534",
+      "title": "APAC Python",
+      "company": "Kodland",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792166426000
     },
     {
       "id": "arbeitnow-remote-senior-scientific-data-engineer-switzerland-5487",
@@ -1449,32 +1475,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785895062000
-    },
-    {
-      "id": "remoteok-1136778",
-      "title": "Operations Engineer II",
-      "company": "AWeber",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785884549000
-    },
-    {
-      "id": "remoteok-1136222",
-      "title": "Data Analyst",
-      "company": "SEAhub Asia",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785853229000
     }
   ]
 }
