@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-17T13:27:05.488Z",
+  "generatedAt": "2026-10-17T13:53:45.753Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 9,
     "jobicy": 33,
-    "arbeitnow": 10
+    "arbeitnow": 11
   },
-  "count": 112,
+  "count": 113,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-founding-platform-engineer-netherlands-152205",
+      "title": "Founding Platform Engineer",
+      "company": "Mlabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-founding-platform-engineer-netherlands-152205",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792239605000
+    },
     {
       "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
       "title": "Working Student — AI Engineering & Document Intelligence",
