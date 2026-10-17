@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-17T01:06:30.653Z",
+  "generatedAt": "2026-10-17T01:54:54.832Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 61,
+    "remoteok": 60,
     "remotive": 11,
     "jobicy": 31,
     "arbeitnow": 8
   },
-  "count": 111,
+  "count": 110,
   "jobs": [
     {
       "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
@@ -1064,19 +1064,6 @@
       "salaryMax": 40000,
       "salaryCurrency": "USD",
       "postedAt": 1789541747000
-    },
-    {
-      "id": "remoteok-1137396",
-      "title": "Principal Product Manager",
-      "company": "DomainTools",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1789516813000
     },
     {
       "id": "remoteok-1137394",
