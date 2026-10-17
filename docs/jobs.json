@@ -1,14 +1,102 @@
 {
-  "generatedAt": "2026-10-17T11:14:24.954Z",
+  "generatedAt": "2026-10-17T11:48:57.698Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 9,
-    "jobicy": 30,
-    "arbeitnow": 8
+    "jobicy": 29,
+    "arbeitnow": 10
   },
-  "count": 107,
+  "count": 108,
   "jobs": [
+    {
+      "id": "arbeitnow-cloud-engineer-mit-karriereambitionen-berlin-312024",
+      "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
+      "company": "Auralis Group",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-berlin-312024",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792233060000
+    },
+    {
+      "id": "arbeitnow-software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
+      "title": "Software Testautomatisierer (m/w/d) mit Karriereambitionen",
+      "company": "Auralis Group",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792231250000
+    },
+    {
+      "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
+      "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "company": "Auralis Group",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792231250000
+    },
+    {
+      "id": "jobicy-155571",
+      "title": "GTM Systems Administrator",
+      "company": "dscout",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155571-gtm-systems-administrator",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792223311000
+    },
+    {
+      "id": "jobicy-155574",
+      "title": "Senior DevOps Engineer",
+      "company": "dscout",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155574-senior-devops-engineer-10",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792223309000
+    },
+    {
+      "id": "jobicy-155575",
+      "title": "Power Platform Developer",
+      "company": "Oddball",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155575-power-platform-developer",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792223308000
+    },
+    {
+      "id": "jobicy-155572",
+      "title": "Full Stack Engineer",
+      "company": "Oddball",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155572-full-stack-engineer-6",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792223308000
+    },
     {
       "id": "arbeitnow-remote-lead-solutions-engineer-france-354209",
       "title": "Lead Solutions Engineer",
@@ -347,45 +435,6 @@
       "postedAt": 1792205873000
     },
     {
-      "id": "jobicy-150846",
-      "title": "Software engineer",
-      "company": "Sticker Mule",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150846-software-engineer-3",
-      "setup": "wfh",
-      "location": "Anywhere",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792205632000
-    },
-    {
-      "id": "jobicy-150844",
-      "title": "Mid Level Front End Engineer",
-      "company": "Cedar",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150844-mid-level-front-end-engineer",
-      "setup": "wfh",
-      "location": "Canada,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792205630000
-    },
-    {
-      "id": "jobicy-149301",
-      "title": "Garment Manufacturing QC Specialist - Freelance AI Trainer Project",
-      "company": "Invisible Technologies",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149301-garment-manufacturing-qc-specialist-freelance-ai-trainer-project",
-      "setup": "wfh",
-      "location": "LATAM",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792205625000
-    },
-    {
       "id": "arbeitnow-remote-interim-senior-bi-analyst-all-genders-germany-169194",
       "title": "Interim Senior BI Analyst (All Genders)",
       "company": "Shiftmove",
@@ -444,44 +493,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792191634000
-    },
-    {
-      "id": "jobicy-155538",
-      "title": "Director, Revenue Systems",
-      "company": "Wpromote",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155538-director-revenue-systems",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792175551000
-    },
-    {
-      "id": "jobicy-155535",
-      "title": "Director, Programmatic B2B",
-      "company": "Wpromote",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155535-director-programmatic-b2b",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792175551000
-    },
-    {
-      "id": "arbeitnow-remote-senior-engineering-operations-manager-128137",
-      "title": "Senior Engineering Operations Manager",
-      "company": "Camunda",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-engineering-operations-manager-128137",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792172417000
     },
     {
       "id": "arbeitnow-remote-senior-scientific-data-engineer-switzerland-5487",
