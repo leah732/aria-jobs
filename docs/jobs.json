@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-10-17T12:14:59.756Z",
+  "generatedAt": "2026-10-17T12:59:31.643Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 9,
-    "jobicy": 29,
+    "jobicy": 33,
     "arbeitnow": 10
   },
-  "count": 108,
+  "count": 112,
   "jobs": [
+    {
+      "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
+      "title": "Working Student — AI Engineering & Document Intelligence",
+      "company": "Tracium GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-357203",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792237641000
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-ai-authoring-platform-hamburg-483900",
+      "title": "Full-Stack Engineer — AI Authoring Platform",
+      "company": "Tracium GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-hamburg-483900",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792237640000
+    },
+    {
+      "id": "arbeitnow-senior-data-engineer-document-ai-pipelines-berlin-415387",
+      "title": "Senior Data Engineer — Document & AI Pipelines",
+      "company": "Tracium GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-data-engineer-document-ai-pipelines-berlin-415387",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792237639000
+    },
+    {
+      "id": "arbeitnow-senior-ai-engineer-document-intelligence-berlin-350144",
+      "title": "Senior AI Engineer — Document Intelligence",
+      "company": "Tracium GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-ai-engineer-document-intelligence-berlin-350144",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792237638000
+    },
     {
       "id": "arbeitnow-cloud-engineer-mit-karriereambitionen-berlin-312024",
       "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
@@ -44,6 +92,71 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792231250000
+    },
+    {
+      "id": "jobicy-155586",
+      "title": "Director of Product Design",
+      "company": "Monzo",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155586-director-of-product-design-2",
+      "setup": "wfh",
+      "location": "UK",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "GBP",
+      "postedAt": 1792225988000
+    },
+    {
+      "id": "jobicy-155587",
+      "title": "Engineering Director, EU",
+      "company": "Monzo",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155587-engineering-director-eu",
+      "setup": "wfh",
+      "location": "UK",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "GBP",
+      "postedAt": 1792225987000
+    },
+    {
+      "id": "jobicy-155581",
+      "title": "Data Director, EU",
+      "company": "Monzo",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155581-data-director-eu",
+      "setup": "wfh",
+      "location": "Spain,  UK",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792225987000
+    },
+    {
+      "id": "jobicy-155579",
+      "title": "AI Engineer - 4 Day Week + Remote",
+      "company": "Laminar Projects",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155579-ai-engineer-4-day-week-remote",
+      "setup": "wfh",
+      "location": "Poland,  Portugal",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792225987000
+    },
+    {
+      "id": "jobicy-155583",
+      "title": "Data Director, Payments",
+      "company": "Monzo",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155583-data-director-payments",
+      "setup": "wfh",
+      "location": "UK",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "GBP",
+      "postedAt": 1792225986000
     },
     {
       "id": "jobicy-155571",
@@ -422,19 +535,6 @@
       "postedAt": 1792205885000
     },
     {
-      "id": "jobicy-146099",
-      "title": "Director, Enterprise Product Marketing",
-      "company": "Instacart",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/146099-director-enterprise-product-marketing",
-      "setup": "wfh",
-      "location": "Canada",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CAD",
-      "postedAt": 1792205873000
-    },
-    {
       "id": "arbeitnow-remote-interim-senior-bi-analyst-all-genders-germany-169194",
       "title": "Interim Senior BI Analyst (All Genders)",
       "company": "Shiftmove",
@@ -445,54 +545,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792203608000
-    },
-    {
-      "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
-      "title": "Working Student — AI Engineering & Document Intelligence",
-      "company": "Tracium GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-357203",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792191634000
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-ai-authoring-platform-hamburg-483900",
-      "title": "Full-Stack Engineer — AI Authoring Platform",
-      "company": "Tracium GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-hamburg-483900",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792191634000
-    },
-    {
-      "id": "arbeitnow-senior-data-engineer-document-ai-pipelines-berlin-415387",
-      "title": "Senior Data Engineer — Document & AI Pipelines",
-      "company": "Tracium GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-data-engineer-document-ai-pipelines-berlin-415387",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792191634000
-    },
-    {
-      "id": "arbeitnow-senior-ai-engineer-document-intelligence-berlin-350144",
-      "title": "Senior AI Engineer — Document Intelligence",
-      "company": "Tracium GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-ai-engineer-document-intelligence-berlin-350144",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792191634000
     },
     {
       "id": "arbeitnow-remote-senior-scientific-data-engineer-switzerland-5487",
