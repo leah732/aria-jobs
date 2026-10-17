@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-17T03:18:39.619Z",
+  "generatedAt": "2026-10-17T03:56:25.622Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 11,
     "jobicy": 31,
-    "arbeitnow": 8
+    "arbeitnow": 9
   },
-  "count": 110,
+  "count": 111,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-interim-senior-bi-analyst-all-genders-germany-169194",
+      "title": "Interim Senior BI Analyst (All Genders)",
+      "company": "Shiftmove",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/shiftmove/remote-interim-senior-bi-analyst-all-genders-germany-169194",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792203608000
+    },
     {
       "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
       "title": "Working Student — AI Engineering & Document Intelligence",
