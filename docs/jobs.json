@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:14:00.884Z",
+  "generatedAt": "2026-10-17T15:50:39.591Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,18 @@
   },
   "count": 113,
   "jobs": [
+    {
+      "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
+      "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "company": "Auralis Group",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792247538000
+    },
     {
       "id": "arbeitnow-remote-founding-platform-engineer-netherlands-152205",
       "title": "Founding Platform Engineer",
@@ -87,18 +99,6 @@
       "company": "Auralis Group",
       "source": "Arbeitnow",
       "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792231250000
-    },
-    {
-      "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
-      "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-      "company": "Auralis Group",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
