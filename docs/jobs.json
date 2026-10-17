@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T23:46:44.402Z",
+  "generatedAt": "2026-10-17T00:16:30.834Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 60,
+    "remoteok": 61,
     "remotive": 11,
     "jobicy": 31,
     "arbeitnow": 9
   },
-  "count": 111,
+  "count": 112,
   "jobs": [
     {
       "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
@@ -507,6 +507,45 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792119028000
+    },
+    {
+      "id": "remoteok-1137531",
+      "title": "Associate Data Scientist",
+      "company": "AlgaeCal",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792108856000
+    },
+    {
+      "id": "remoteok-1137530",
+      "title": "Director of IT and Workplace",
+      "company": "Hippocratic AI",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792108850000
+    },
+    {
+      "id": "remoteok-1137529",
+      "title": "Customer Success Associate",
+      "company": "Voltus",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792108843000
     },
     {
       "id": "remoteok-1137527",
@@ -1427,32 +1466,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785884549000
-    },
-    {
-      "id": "remoteok-1136222",
-      "title": "Data Analyst",
-      "company": "SEAhub Asia",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785853229000
-    },
-    {
-      "id": "remoteok-1136096",
-      "title": "Clinical Coordination Manager",
-      "company": "Enable Dental",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785851970000
     }
   ]
 }
