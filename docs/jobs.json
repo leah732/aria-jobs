@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-17T09:15:52.637Z",
+  "generatedAt": "2026-10-17T09:51:46.251Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 9,
     "jobicy": 32,
-    "arbeitnow": 9
+    "arbeitnow": 8
   },
-  "count": 110,
+  "count": 109,
   "jobs": [
     {
       "id": "arbeitnow-remote-lead-solutions-engineer-france-354209",
@@ -508,18 +508,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792172417000
-    },
-    {
-      "id": "arbeitnow-legal-product-manager-legal-engineer-jurist-in-berlin-124081",
-      "title": "Legal Product Manager | Legal Engineer (Jurist/in) (x/w/m)",
-      "company": "Hopkins Rechtsanwaltsgesellschaft mbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/legal-product-manager-legal-engineer-jurist-in-berlin-124081",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792170051000
     },
     {
       "id": "arbeitnow-remote-senior-scientific-data-engineer-switzerland-5487",
