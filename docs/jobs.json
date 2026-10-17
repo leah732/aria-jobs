@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-17T00:16:30.834Z",
+  "generatedAt": "2026-10-17T01:06:30.653Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 11,
     "jobicy": 31,
-    "arbeitnow": 9
+    "arbeitnow": 8
   },
-  "count": 112,
+  "count": 111,
   "jobs": [
     {
       "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
@@ -599,18 +599,6 @@
       "salaryText": "$170k - $200k",
       "category": "Software Development",
       "postedAt": 1792010024000
-    },
-    {
-      "id": "arbeitnow-remote-software-test-engineer-bern-277047",
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-277047",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792009947000
     },
     {
       "id": "remoteok-1137510",
