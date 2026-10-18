@@ -1,14 +1,158 @@
 {
-  "generatedAt": "2026-10-18T00:15:33.721Z",
+  "generatedAt": "2026-10-18T01:06:52.494Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 9,
     "jobicy": 32,
-    "arbeitnow": 7
+    "arbeitnow": 18
   },
-  "count": 108,
+  "count": 119,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-director-data-science-440507",
+      "title": "Director, Data Science",
+      "company": "Duck Duck Go",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-director-data-science-440507",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792280414000
+    },
+    {
+      "id": "arbeitnow-uk-nominee-director-remote-compliance-support-role-chalkhouse-green-90516",
+      "title": "UK Nominee Director (Remote, Compliance Support Role)",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/uk-nominee-director-remote-compliance-support-role-chalkhouse-green-90516",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279907000
+    },
+    {
+      "id": "arbeitnow-uk-nominee-director-part-time-remote-chalkhouse-green-432426",
+      "title": "UK Nominee Director (Part-Time, Remote)",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/uk-nominee-director-part-time-remote-chalkhouse-green-432426",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279907000
+    },
+    {
+      "id": "arbeitnow-remote-uk-nominee-director-easy-part-time-opportunity-chalkhouse-green-314873",
+      "title": "Remote UK Nominee Director | Easy Part-Time Opportunity",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-nominee-director-easy-part-time-opportunity-chalkhouse-green-314873",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279907000
+    },
+    {
+      "id": "arbeitnow-remote-uk-resident-required-for-nominee-director-position-chalkhouse-green-246726",
+      "title": "UK Resident Required for Nominee Director Position",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-resident-required-for-nominee-director-position-chalkhouse-green-246726",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279907000
+    },
+    {
+      "id": "arbeitnow-remote-uk-nominee-director-chalkhouse-green-20287",
+      "title": "UK Nominee Director",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-nominee-director-chalkhouse-green-20287",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279907000
+    },
+    {
+      "id": "arbeitnow-remote-part-time-uk-nominee-director-needed-chalkhouse-green-158697",
+      "title": "Part-Time UK Nominee Director Needed",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-part-time-uk-nominee-director-needed-chalkhouse-green-158697",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279907000
+    },
+    {
+      "id": "arbeitnow-flexible-remote-opportunity-uk-nominee-director-chalkhouse-green-217912",
+      "title": "Flexible Remote Opportunity: UK Nominee Director",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/flexible-remote-opportunity-uk-nominee-director-chalkhouse-green-217912",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279907000
+    },
+    {
+      "id": "arbeitnow-remote-non-operational-nominee-director-chalkhouse-green-166749",
+      "title": "Remote Non-Operational Nominee Director",
+      "company": "Emplyfy",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-non-operational-nominee-director-chalkhouse-green-166749",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279907000
+    },
+    {
+      "id": "arbeitnow-remote-senior-quality-engineer-checkout-payments-schoppingen-296821",
+      "title": "Senior Quality Engineer - Checkout & Payments (m/w/d)",
+      "company": "shopware AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-senior-quality-engineer-checkout-payments-schoppingen-296821",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279903000
+    },
+    {
+      "id": "arbeitnow-remote-security-engineer-schoppingen-412728",
+      "title": "Security Engineer (m/w/d)",
+      "company": "shopware AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-security-engineer-schoppingen-412728",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279903000
+    },
+    {
+      "id": "arbeitnow-remote-security-engineering-lead-schoppingen-351655",
+      "title": "Security Engineering Lead (m/w/d)",
+      "company": "shopware AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-security-engineering-lead-schoppingen-351655",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792279903000
+    },
     {
       "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
       "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
@@ -484,18 +628,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792206330000
-    },
-    {
-      "id": "arbeitnow-remote-interim-senior-bi-analyst-all-genders-germany-169194",
-      "title": "Interim Senior BI Analyst (All Genders)",
-      "company": "Shiftmove",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/shiftmove/remote-interim-senior-bi-analyst-all-genders-germany-169194",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792203608000
     },
     {
       "id": "remoteok-1137537",
