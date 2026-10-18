@@ -1,37 +1,61 @@
 {
-  "generatedAt": "2026-10-18T20:10:15.421Z",
+  "generatedAt": "2026-10-18T20:49:57.742Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 8,
     "jobicy": 42,
-    "arbeitnow": 10
+    "arbeitnow": 12
   },
-  "count": 120,
+  "count": 122,
   "jobs": [
     {
-      "id": "arbeitnow-digital-workplace-engineer-lausanne-380509",
-      "title": "Digital Workplace Engineer",
+      "id": "arbeitnow-azure-devops-engineer-zurich-45145",
+      "title": "Azure DevOps Engineer",
       "company": "Coopers Group AG",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/digital-workplace-engineer-lausanne-380509",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/azure-devops-engineer-zurich-45145",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1792350060000
+      "postedAt": 1792353649000
     },
     {
-      "id": "arbeitnow-entra-id-active-directory-engineer-zurich-281717",
-      "title": "Entra ID & Active Directory Engineer",
-      "company": "Coopers Group AG",
+      "id": "arbeitnow-full-stack-mobile-engineer-berlin-182046",
+      "title": "Full-Stack & Mobile Engineer",
+      "company": "NAIRON",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/entra-id-active-directory-engineer-zurich-281717",
+      "url": "https://www.arbeitnow.com/jobs/companies/nairon/full-stack-mobile-engineer-berlin-182046",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1792350055000
+      "postedAt": 1792351858000
+    },
+    {
+      "id": "arbeitnow-voice-ai-engineer-berlin-373637",
+      "title": "Voice AI Engineer",
+      "company": "NAIRON",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/nairon/voice-ai-engineer-berlin-373637",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792351858000
+    },
+    {
+      "id": "arbeitnow-forward-deployed-engineer-berlin-454478",
+      "title": "Forward Deployed Engineer",
+      "company": "NAIRON",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/nairon/forward-deployed-engineer-berlin-454478",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792351858000
     },
     {
       "id": "jobicy-155773",
