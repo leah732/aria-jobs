@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-10-18T09:16:21.534Z",
+  "generatedAt": "2026-10-18T09:52:19.384Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 8,
     "jobicy": 41,
-    "arbeitnow": 22
+    "arbeitnow": 14
   },
-  "count": 131,
+  "count": 123,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-cyber-security-consultant-dionach-by-nomios-oxford-9623",
+      "title": "Cyber Security Consultant - Dionach by Nomios",
+      "company": "Nomios",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-cyber-security-consultant-dionach-by-nomios-oxford-9623",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792312294000
+    },
+    {
+      "id": "arbeitnow-remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-scotland-171627",
+      "title": "Lead Cyber Security Consultant (CHECK) (UK) - Dionach by Nomios",
+      "company": "Nomios",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-scotland-171627",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792312294000
+    },
+    {
+      "id": "arbeitnow-panel-manager-freelancer-contractor-100-remote-possible-berlin-465438",
+      "title": "Panel Manager (f/m/d) - Freelancer / Contractor; 100% remote possible",
+      "company": "PlaytestCloud GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/playtestcloud-gmbh/panel-manager-freelancer-contractor-100-remote-possible-berlin-465438",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792312289000
+    },
+    {
+      "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-160519",
+      "title": "Sales Account Executive - Cybersecurity",
+      "company": "Crowdsec",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-160519",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792312289000
+    },
     {
       "id": "arbeitnow-remote-senior-sales-manager-uk-hamburg-191665",
       "title": "Senior Sales Manager UK",
@@ -449,30 +497,6 @@
       "postedAt": 1792294510000
     },
     {
-      "id": "arbeitnow-senior-frontend-web-developer-all-genders-full-remote-offenbach-am-main-167081",
-      "title": "Senior Frontend Web Developer (all genders) Full Remote",
-      "company": "Holzland Becker",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/senior-frontend-web-developer-all-genders-full-remote-offenbach-am-main-167081",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792290737000
-    },
-    {
-      "id": "arbeitnow-remote-fullstack-softwareentwickler-dusseldorf-237759",
-      "title": "Fullstack-Softwareentwickler (m/w/d)",
-      "company": "Lippe Personal GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/lippe-personal-gmbh/remote-fullstack-softwareentwickler-dusseldorf-237759",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792290737000
-    },
-    {
       "id": "arbeitnow-remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
       "title": "Senior Quality Engineer - Tellent Intelligence (AI)",
       "company": "Tellent",
@@ -519,126 +543,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792290731000
-    },
-    {
-      "id": "arbeitnow-remote-head-of-engineering-kassel-421863",
-      "title": "Head of Engineering (m/w/d)",
-      "company": "Hypertrics GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-head-of-engineering-kassel-421863",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792290730000
-    },
-    {
-      "id": "arbeitnow-remote-senior-devops-engineer-ratingen-155414",
-      "title": "(Senior) DevOps Engineer (m/w/d)",
-      "company": "HyPlus Technology GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-devops-engineer-ratingen-155414",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792290730000
-    },
-    {
-      "id": "arbeitnow-uk-nominee-director-remote-compliance-support-role-chalkhouse-green-90516",
-      "title": "UK Nominee Director (Remote, Compliance Support Role)",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/uk-nominee-director-remote-compliance-support-role-chalkhouse-green-90516",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792279907000
-    },
-    {
-      "id": "arbeitnow-uk-nominee-director-part-time-remote-chalkhouse-green-432426",
-      "title": "UK Nominee Director (Part-Time, Remote)",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/uk-nominee-director-part-time-remote-chalkhouse-green-432426",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792279907000
-    },
-    {
-      "id": "arbeitnow-remote-uk-nominee-director-easy-part-time-opportunity-chalkhouse-green-314873",
-      "title": "Remote UK Nominee Director | Easy Part-Time Opportunity",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-nominee-director-easy-part-time-opportunity-chalkhouse-green-314873",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792279907000
-    },
-    {
-      "id": "arbeitnow-remote-uk-resident-required-for-nominee-director-position-chalkhouse-green-246726",
-      "title": "UK Resident Required for Nominee Director Position",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-resident-required-for-nominee-director-position-chalkhouse-green-246726",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792279907000
-    },
-    {
-      "id": "arbeitnow-remote-uk-nominee-director-chalkhouse-green-20287",
-      "title": "UK Nominee Director",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-nominee-director-chalkhouse-green-20287",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792279907000
-    },
-    {
-      "id": "arbeitnow-remote-part-time-uk-nominee-director-needed-chalkhouse-green-158697",
-      "title": "Part-Time UK Nominee Director Needed",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-part-time-uk-nominee-director-needed-chalkhouse-green-158697",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792279907000
-    },
-    {
-      "id": "arbeitnow-flexible-remote-opportunity-uk-nominee-director-chalkhouse-green-217912",
-      "title": "Flexible Remote Opportunity: UK Nominee Director",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/flexible-remote-opportunity-uk-nominee-director-chalkhouse-green-217912",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792279907000
-    },
-    {
-      "id": "arbeitnow-remote-non-operational-nominee-director-chalkhouse-green-166749",
-      "title": "Remote Non-Operational Nominee Director",
-      "company": "Emplyfy",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-non-operational-nominee-director-chalkhouse-green-166749",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792279907000
     },
     {
       "id": "jobicy-155613",
