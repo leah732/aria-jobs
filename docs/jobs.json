@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-18T12:14:52.729Z",
+  "generatedAt": "2026-10-18T12:59:58.517Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 8,
-    "jobicy": 45,
-    "arbeitnow": 14
+    "jobicy": 43,
+    "arbeitnow": 9
   },
-  "count": 127,
+  "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-456239",
+      "title": "Staff Solutions Architect, AI Subject Matter Expert",
+      "company": "gitlab",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-456239",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792324527000
+    },
+    {
+      "id": "arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-67927",
+      "title": "Staff Solutions Architect, AI Subject Matter Expert",
+      "company": "gitlab",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-67927",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792324525000
+    },
+    {
+      "id": "arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
+      "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+      "company": "AlmavivA de Belgique",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792323076000
+    },
     {
       "id": "arbeitnow-remote-cyber-security-consultant-dionach-by-nomios-oxford-9623",
       "title": "Cyber Security Consultant - Dionach by Nomios",
@@ -318,42 +354,6 @@
       "postedAt": 1792306303000
     },
     {
-      "id": "arbeitnow-remote-senior-sales-manager-uk-hamburg-191665",
-      "title": "Senior Sales Manager UK",
-      "company": "Moebel De",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-uk-hamburg-191665",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792300391000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-manager-polen-hamburg-56008",
-      "title": "Senior Sales Manager Polen (m/w/d)",
-      "company": "Moebel De",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-polen-hamburg-56008",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792300391000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-manager-italien-hamburg-468848",
-      "title": "Senior Sales Manager Italien (m/w/d)",
-      "company": "Moebel De",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-senior-sales-manager-italien-hamburg-468848",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792300391000
-    },
-    {
       "id": "jobicy-155651",
       "title": "Senior C++/iOS Engineer - User Platform",
       "company": "Spotify",
@@ -653,32 +653,6 @@
       "postedAt": 1792295414000
     },
     {
-      "id": "jobicy-146434",
-      "title": "AI Vendor Market Expert (Senior Director, Analyst – Fully Remote United States)",
-      "company": "Gartner",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/146434-ai-vendor-market-expert-senior-director-analyst-fully-remote-united-states",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792295411000
-    },
-    {
-      "id": "jobicy-153528",
-      "title": "Field Service Technician (Mexico)",
-      "company": "AssetWatch",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153528-field-service-technician-mexico",
-      "setup": "wfh",
-      "location": "Mexico",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792295410000
-    },
-    {
       "id": "arbeitnow-remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
       "title": "Senior Quality Engineer - Tellent Intelligence (AI)",
       "company": "Tellent",
@@ -689,54 +663,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792290737000
-    },
-    {
-      "id": "arbeitnow-remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
-      "title": "SQL Developer – AI Prompting & Context Engineering",
-      "company": "Bromcom Computers Plc",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792290733000
-    },
-    {
-      "id": "arbeitnow-mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659",
-      "title": "Mobile Engineer - React Native (100% Remote) - Worldwide",
-      "company": "Tether Operations Limited",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792290731000
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-agenticops-100-remote-united-kindom-441724",
-      "title": "Fullstack Engineer - AgenticOps (100% Remote)",
-      "company": "Tether Operations Limited",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/fullstack-engineer-agenticops-100-remote-united-kindom-441724",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792290731000
-    },
-    {
-      "id": "arbeitnow-remote-founding-platform-engineer-netherlands-152205",
-      "title": "Founding Platform Engineer",
-      "company": "Mlabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-founding-platform-engineer-netherlands-152205",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792239605000
     },
     {
       "id": "remoteok-1137542",
@@ -763,18 +689,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1792224032000
-    },
-    {
-      "id": "arbeitnow-remote-lead-solutions-engineer-france-354209",
-      "title": "Lead Solutions Engineer",
-      "company": "Exotec",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-lead-solutions-engineer-france-354209",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792221614000
     },
     {
       "id": "remoteok-1137538",
