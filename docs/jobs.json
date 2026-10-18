@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-18T16:52:22.777Z",
+  "generatedAt": "2026-10-18T17:15:15.335Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 8,
-    "jobicy": 43,
+    "jobicy": 44,
     "arbeitnow": 9
   },
-  "count": 120,
+  "count": 121,
   "jobs": [
     {
       "id": "arbeitnow-independent-recruitment-manager-partner-wollerau-394034",
@@ -68,6 +68,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792333897000
+    },
+    {
+      "id": "jobicy-155742",
+      "title": "Director of Security Operations and Engineering",
+      "company": "EDB",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155742-director-of-security-operations-and-engineering",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792331323000
+    },
+    {
+      "id": "jobicy-155746",
+      "title": "Machine Learning Engineer (Governance ML Platform)",
+      "company": "EDB",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform",
+      "setup": "wfh",
+      "location": "EMEA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792331322000
+    },
+    {
+      "id": "jobicy-155744",
+      "title": "Full Stack Software Engineer",
+      "company": "BetterHelp",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155744-full-stack-software-engineer-2",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792331320000
     },
     {
       "id": "jobicy-155730",
@@ -637,32 +676,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792297843000
-    },
-    {
-      "id": "jobicy-155619",
-      "title": "Global Director - Accounts Payable",
-      "company": "CAI",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155619-global-director-accounts-payable",
-      "setup": "wfh",
-      "location": "Ireland",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792297759000
-    },
-    {
-      "id": "jobicy-155618",
-      "title": "Senior Software Engineer, Growth",
-      "company": "Apollo.io",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155618-senior-software-engineer-growth-2",
-      "setup": "wfh",
-      "location": "Poland",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792297759000
     },
     {
       "id": "arbeitnow-remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
