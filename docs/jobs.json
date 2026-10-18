@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T07:53:34.163Z",
+  "generatedAt": "2026-10-18T08:15:44.837Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -625,6 +625,32 @@
       "salaryMax": null,
       "salaryCurrency": "GBP",
       "postedAt": 1792225986000
+    },
+    {
+      "id": "remoteok-1137542",
+      "title": "Graduate Transport Planner",
+      "company": "Curtins",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792224050000
+    },
+    {
+      "id": "remoteok-1137540",
+      "title": "Technical Account Manager",
+      "company": "Yuno",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792224032000
     },
     {
       "id": "jobicy-155571",
@@ -1580,32 +1606,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1786492823000
-    },
-    {
-      "id": "remoteok-1136188",
-      "title": "Java Developer",
-      "company": "Clera",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785945623000
-    },
-    {
-      "id": "remoteok-1136770",
-      "title": "Future Shaprs",
-      "company": "Shapr3D",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-future-shaprs-shapr3d-1136770",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785938096000
     }
   ]
 }
