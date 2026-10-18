@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T15:14:26.765Z",
+  "generatedAt": "2026-10-18T15:50:03.518Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,66 @@
   },
   "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-veeam-kasten-director-se-emea-apj-476768",
+      "title": "Veeam Kasten, Director SE – EMEA & APJ",
+      "company": "veeamsoftware",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-veeam-kasten-director-se-emea-apj-476768",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792335321000
+    },
+    {
+      "id": "arbeitnow-remote-senior-integrity-engineer-tricht-72924",
+      "title": "Senior Integrity Engineer",
+      "company": "Intero Integrity Services",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/intero-integrity-services/remote-senior-integrity-engineer-tricht-72924",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792333901000
+    },
+    {
+      "id": "arbeitnow-remote-project-manager-software-implementation-berlin-117239",
+      "title": "Project Manager - Software Implementation (m/f/x)",
+      "company": "Makersite GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-117239",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792333897000
+    },
+    {
+      "id": "arbeitnow-remote-senior-frontend-engineer-berlin-338888",
+      "title": "Senior Frontend Engineer (m/f/x)",
+      "company": "Makersite GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-frontend-engineer-berlin-338888",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792333897000
+    },
+    {
+      "id": "arbeitnow-wordpress-developer-frontend-design-freelancer-zurich-431423",
+      "title": "Wordpress Developer - Frontend Design - Freelancer",
+      "company": "S. Med",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/s-med/wordpress-developer-frontend-design-freelancer-zurich-431423",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792333860000
+    },
     {
       "id": "arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-456239",
       "title": "Staff Solutions Architect, AI Subject Matter Expert",
@@ -44,54 +104,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792323076000
-    },
-    {
-      "id": "arbeitnow-remote-cyber-security-consultant-dionach-by-nomios-oxford-9623",
-      "title": "Cyber Security Consultant - Dionach by Nomios",
-      "company": "Nomios",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-cyber-security-consultant-dionach-by-nomios-oxford-9623",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792312294000
-    },
-    {
-      "id": "arbeitnow-remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-scotland-171627",
-      "title": "Lead Cyber Security Consultant (CHECK) (UK) - Dionach by Nomios",
-      "company": "Nomios",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-scotland-171627",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792312294000
-    },
-    {
-      "id": "arbeitnow-panel-manager-freelancer-contractor-100-remote-possible-berlin-465438",
-      "title": "Panel Manager (f/m/d) - Freelancer / Contractor; 100% remote possible",
-      "company": "PlaytestCloud GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/playtestcloud-gmbh/panel-manager-freelancer-contractor-100-remote-possible-berlin-465438",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792312289000
-    },
-    {
-      "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-160519",
-      "title": "Sales Account Executive - Cybersecurity",
-      "company": "Crowdsec",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-160519",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792312289000
     },
     {
       "id": "jobicy-155705",
@@ -741,18 +753,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1792166426000
-    },
-    {
-      "id": "arbeitnow-remote-senior-scientific-data-engineer-switzerland-5487",
-      "title": "Senior Scientific Data Engineer",
-      "company": "Tetrascience",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-switzerland-5487",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792149605000
     },
     {
       "id": "remoteok-1137531",
