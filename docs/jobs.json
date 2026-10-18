@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:06:52.494Z",
+  "generatedAt": "2026-10-18T01:55:00.762Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -628,6 +628,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792206330000
+    },
+    {
+      "id": "remoteok-1137538",
+      "title": "Software Engineer AI Coding Tasks",
+      "company": "Askable",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 10000,
+      "salaryMax": 10000,
+      "salaryCurrency": "USD",
+      "postedAt": 1792199360000
     },
     {
       "id": "remoteok-1137537",
@@ -1533,19 +1546,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785938096000
-    },
-    {
-      "id": "remoteok-1136213",
-      "title": "Freelance Designer",
-      "company": "Control Shift Video",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785917780000
     }
   ]
 }
