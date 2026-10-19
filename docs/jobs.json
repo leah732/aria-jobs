@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T17:54:49.947Z",
+  "generatedAt": "2026-10-19T18:21:13.105Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 59,
+    "remoteok": 60,
     "remotive": 8,
     "jobicy": 46,
     "arbeitnow": 11
   },
-  "count": 124,
+  "count": 125,
   "jobs": [
     {
       "id": "arbeitnow-full-stack-developer-paris-258791",
@@ -714,6 +714,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792353649000
+    },
+    {
+      "id": "remoteok-1137544",
+      "title": "Senior Backend Engineer",
+      "company": "Rain",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792346401000
     },
     {
       "id": "arbeitnow-remote-senior-integrity-engineer-tricht-72924",
