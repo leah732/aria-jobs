@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T21:25:41.918Z",
+  "generatedAt": "2026-10-19T21:55:57.171Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,18 @@
   },
   "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-cloud-engineer-cologne-307668",
+      "title": "Cloud Engineer (f/m/d)",
+      "company": "Trusted Shops SE (DE)",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-cloud-engineer-cologne-307668",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792443089000
+    },
     {
       "id": "arbeitnow-remote-software-test-engineer-bern-226881",
       "title": "Software Test Engineer",
@@ -626,18 +638,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792414901000
-    },
-    {
-      "id": "arbeitnow-ai-tech-lead-remote-based-in-europe-berlin-165178",
-      "title": "AI Tech Lead, Remote (based in Europe)",
-      "company": "Virtusan",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtusan/ai-tech-lead-remote-based-in-europe-berlin-165178",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792407674000
     },
     {
       "id": "arbeitnow-softwaretester-in-fur-webapplikation-im-energiehandelskontext-bern-356631",
