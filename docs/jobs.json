@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-19T17:02:49.662Z",
+  "generatedAt": "2026-10-19T17:54:49.947Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 8,
     "jobicy": 46,
-    "arbeitnow": 10
+    "arbeitnow": 11
   },
-  "count": 123,
+  "count": 124,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-developer-paris-258791",
+      "title": "Full-stack Developer",
+      "company": "ADOMIK",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/adomik/full-stack-developer-paris-258791",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792429257000
+    },
     {
       "id": "arbeitnow-senior-fullstack-engineer-all-identities-berlin-295064",
       "title": "Senior Fullstack Engineer (all identities)",
