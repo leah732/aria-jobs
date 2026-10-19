@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-19T10:03:26.890Z",
+  "generatedAt": "2026-10-19T10:59:09.668Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 8,
     "jobicy": 50,
-    "arbeitnow": 8
+    "arbeitnow": 7
   },
-  "count": 126,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-ai-specialist-berlin-46778",
+      "title": "(Senior) AI Specialist (m/w/d)",
+      "company": "Loopario",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/loopario/senior-ai-specialist-berlin-46778",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792402298000
+    },
+    {
+      "id": "arbeitnow-solutions-consultant-berlin-369871",
+      "title": "Solutions Consultant (m/w/d)",
+      "company": "NetFlows",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/netflows/solutions-consultant-berlin-369871",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792400443000
+    },
     {
       "id": "arbeitnow-senior-java-developer-in-tax-accounting-industry-100-remote-in-eu-berlin-186069",
       "title": "Senior Java Developer in Tax & Accounting Industry - 100% remote in EU",
@@ -525,42 +549,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792353649000
-    },
-    {
-      "id": "arbeitnow-full-stack-mobile-engineer-berlin-182046",
-      "title": "Full-Stack & Mobile Engineer",
-      "company": "NAIRON",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/nairon/full-stack-mobile-engineer-berlin-182046",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792351858000
-    },
-    {
-      "id": "arbeitnow-voice-ai-engineer-berlin-373637",
-      "title": "Voice AI Engineer",
-      "company": "NAIRON",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/nairon/voice-ai-engineer-berlin-373637",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792351858000
-    },
-    {
-      "id": "arbeitnow-forward-deployed-engineer-berlin-454478",
-      "title": "Forward Deployed Engineer",
-      "company": "NAIRON",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/nairon/forward-deployed-engineer-berlin-454478",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792351858000
     },
     {
       "id": "jobicy-155773",
