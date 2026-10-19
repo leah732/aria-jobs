@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T06:36:01.532Z",
+  "generatedAt": "2026-10-19T07:39:33.989Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 8,
     "jobicy": 50,
-    "arbeitnow": 9
+    "arbeitnow": 7
   },
-  "count": 127,
+  "count": 125,
   "jobs": [
     {
       "id": "jobicy-153608",
@@ -641,30 +641,6 @@
       "postedAt": 1792333901000
     },
     {
-      "id": "arbeitnow-remote-project-manager-software-implementation-berlin-117239",
-      "title": "Project Manager - Software Implementation (m/f/x)",
-      "company": "Makersite GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-117239",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792333897000
-    },
-    {
-      "id": "arbeitnow-remote-senior-frontend-engineer-berlin-338888",
-      "title": "Senior Frontend Engineer (m/f/x)",
-      "company": "Makersite GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-frontend-engineer-berlin-338888",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792333897000
-    },
-    {
       "id": "jobicy-155742",
       "title": "Director of Security Operations and Engineering",
       "company": "EDB",
@@ -766,6 +742,20 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792324525000
+    },
+    {
+      "id": "remotive-2091158",
+      "title": "Software Engineer, AI Coding Tasks",
+      "company": "Askable",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "setup": "wfh",
+      "location": "Worldwide",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryText": "$1000 per task",
+      "category": "Software Development",
+      "postedAt": 1792253069000
     },
     {
       "id": "remoteok-1137542",
@@ -1319,20 +1309,6 @@
       "salaryText": null,
       "category": "Artificial Intelligence",
       "postedAt": 1789734236000
-    },
-    {
-      "id": "remotive-2091130",
-      "title": "Senior .NET Full-stack Developer",
-      "company": "Lemon.io",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
-      "setup": "wfh",
-      "location": "Northern America, LATAM, Europe, APAC",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryText": null,
-      "category": "Software Development",
-      "postedAt": 1789651325000
     },
     {
       "id": "remoteok-1137400",
