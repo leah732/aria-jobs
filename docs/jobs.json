@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T13:12:57.863Z",
+  "generatedAt": "2026-10-19T14:07:56.989Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 60,
+    "remoteok": 59,
     "remotive": 8,
     "jobicy": 50,
     "arbeitnow": 8
   },
-  "count": 126,
+  "count": 125,
   "jobs": [
     {
       "id": "arbeitnow-ai-tech-lead-remote-based-in-europe-berlin-165178",
@@ -1294,19 +1294,6 @@
       "salaryText": "$80k - $150k",
       "category": "Software Development",
       "postedAt": 1789744228000
-    },
-    {
-      "id": "remoteok-1137405",
-      "title": "Senior Shopify Developer",
-      "company": "Sanctuary Computer",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 80000,
-      "salaryMax": 250000,
-      "salaryCurrency": "USD",
-      "postedAt": 1789738193000
     },
     {
       "id": "remotive-2091131",
