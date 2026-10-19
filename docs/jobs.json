@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-19T15:05:02.239Z",
+  "generatedAt": "2026-10-19T15:58:10.423Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 8,
-    "jobicy": 49,
-    "arbeitnow": 9
+    "jobicy": 48,
+    "arbeitnow": 10
   },
   "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-fullstack-engineer-all-identities-berlin-295064",
+      "title": "Senior Fullstack Engineer (all identities)",
+      "company": "Caspar Health",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-fullstack-engineer-all-identities-berlin-295064",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792422086000
+    },
+    {
+      "id": "arbeitnow-remote-senior-product-security-engineer-all-genders-berlin-249335",
+      "title": "Senior Product Security Engineer (all genders)",
+      "company": "Distribusion Technologies",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-security-engineer-all-genders-berlin-249335",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792420272000
+    },
     {
       "id": "arbeitnow-lead-consultant-cyber-security-berlin-402652",
       "title": "Lead Consultant Cyber Security (m/w/d)",
@@ -32,6 +56,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792414901000
+    },
+    {
+      "id": "jobicy-155824",
+      "title": "Software Engineering Manager",
+      "company": "Fanatics",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155824-software-engineering-manager",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792411790000
+    },
+    {
+      "id": "jobicy-155822",
+      "title": "Business Intelligence Analyst (Contractor)",
+      "company": "Doximity",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155822-business-intelligence-analyst-contractor",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792411790000
+    },
+    {
+      "id": "jobicy-155815",
+      "title": "Paytient Interest Application: Technical Roles",
+      "company": "Paytient",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155815-paytient-interest-application-technical-roles",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792410591000
     },
     {
       "id": "jobicy-155809",
@@ -160,18 +223,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792402298000
-    },
-    {
-      "id": "arbeitnow-solutions-consultant-berlin-369871",
-      "title": "Solutions Consultant (m/w/d)",
-      "company": "NetFlows",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/netflows/solutions-consultant-berlin-369871",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792400443000
     },
     {
       "id": "arbeitnow-softwaretester-in-fur-webapplikation-im-energiehandelskontext-bern-356631",
@@ -677,58 +728,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792353649000
-    },
-    {
-      "id": "jobicy-155773",
-      "title": "Senior IT & Corporate Engineering",
-      "company": "Flex",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155773-senior-it-corporate-engineering",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792340330000
-    },
-    {
-      "id": "jobicy-155772",
-      "title": "Risk Analyst",
-      "company": "Flex",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155772-risk-analyst",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792340328000
-    },
-    {
-      "id": "jobicy-155766",
-      "title": "Senior QA Engineer",
-      "company": "Airtm",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155766-senior-qa-engineer-3",
-      "setup": "wfh",
-      "location": "LATAM,  Canada,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792340328000
-    },
-    {
-      "id": "jobicy-155765",
-      "title": "Director, Legal",
-      "company": "Submittable",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155765-director-legal",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792340328000
     },
     {
       "id": "arbeitnow-remote-senior-integrity-engineer-tricht-72924",
