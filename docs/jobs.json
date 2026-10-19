@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-19T11:29:09.405Z",
+  "generatedAt": "2026-10-19T12:04:49.102Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 8,
     "jobicy": 50,
-    "arbeitnow": 7
+    "arbeitnow": 8
   },
-  "count": 125,
+  "count": 126,
   "jobs": [
+    {
+      "id": "arbeitnow-ai-tech-lead-remote-based-in-europe-berlin-165178",
+      "title": "AI Tech Lead, Remote (based in Europe)",
+      "company": "Virtusan",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtusan/ai-tech-lead-remote-based-in-europe-berlin-165178",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792407674000
+    },
     {
       "id": "arbeitnow-senior-ai-specialist-berlin-46778",
       "title": "(Senior) AI Specialist (m/w/d)",
