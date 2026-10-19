@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T08:29:37.992Z",
+  "generatedAt": "2026-10-19T09:11:43.202Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
@@ -9,6 +9,18 @@
   },
   "count": 126,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-java-developer-in-tax-accounting-industry-100-remote-in-eu-berlin-186069",
+      "title": "Senior Java Developer in Tax & Accounting Industry - 100% remote in EU",
+      "company": "pathway solutions gmbh",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pathway-solutions-gmbh/senior-java-developer-in-tax-accounting-industry-100-remote-in-eu-berlin-186069",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792396848000
+    },
     {
       "id": "arbeitnow-softwaretester-in-fur-webapplikation-im-energiehandelskontext-bern-356631",
       "title": "Softwaretester/-in für Webapplikation im Energiehandelskontext",
@@ -627,18 +639,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792339839000
-    },
-    {
-      "id": "arbeitnow-remote-veeam-kasten-director-se-emea-apj-476768",
-      "title": "Veeam Kasten, Director SE – EMEA & APJ",
-      "company": "veeamsoftware",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-veeam-kasten-director-se-emea-apj-476768",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792335321000
     },
     {
       "id": "arbeitnow-remote-senior-integrity-engineer-tricht-72924",
