@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-19T18:21:13.105Z",
+  "generatedAt": "2026-10-19T19:08:18.273Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 8,
     "jobicy": 46,
-    "arbeitnow": 11
+    "arbeitnow": 10
   },
-  "count": 125,
+  "count": 124,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-software-test-engineer-bern-226881",
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-226881",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792431088000
+    },
     {
       "id": "arbeitnow-full-stack-developer-paris-258791",
       "title": "Full-stack Developer",
@@ -288,18 +300,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792407674000
-    },
-    {
-      "id": "arbeitnow-senior-ai-specialist-berlin-46778",
-      "title": "(Senior) AI Specialist (m/w/d)",
-      "company": "Loopario",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/loopario/senior-ai-specialist-berlin-46778",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792402298000
     },
     {
       "id": "arbeitnow-softwaretester-in-fur-webapplikation-im-energiehandelskontext-bern-356631",
@@ -704,16 +704,17 @@
       "postedAt": 1792377327000
     },
     {
-      "id": "arbeitnow-azure-devops-engineer-zurich-45145",
-      "title": "Azure DevOps Engineer",
-      "company": "Coopers Group AG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/azure-devops-engineer-zurich-45145",
+      "id": "remoteok-1137545",
+      "title": "Senior Software Engineer",
+      "company": "Sothebyâs",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792353649000
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792350002000
     },
     {
       "id": "remoteok-1137544",
@@ -1617,19 +1618,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1786550412000
-    },
-    {
-      "id": "remoteok-1136447",
-      "title": "Staff Software Engineer",
-      "company": "Evolve",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1786492823000
     }
   ]
 }
