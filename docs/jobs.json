@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T00:16:42.746Z",
+  "generatedAt": "2026-10-19T01:08:55.504Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 8,
     "jobicy": 42,
-    "arbeitnow": 12
+    "arbeitnow": 9
   },
-  "count": 122,
+  "count": 119,
   "jobs": [
     {
       "id": "arbeitnow-azure-devops-engineer-zurich-45145",
@@ -327,18 +327,6 @@
       "postedAt": 1792327801000
     },
     {
-      "id": "arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-456239",
-      "title": "Staff Solutions Architect, AI Subject Matter Expert",
-      "company": "gitlab",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-456239",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792324527000
-    },
-    {
       "id": "arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-67927",
       "title": "Staff Solutions Architect, AI Subject Matter Expert",
       "company": "gitlab",
@@ -349,18 +337,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792324525000
-    },
-    {
-      "id": "arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
-      "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
-      "company": "AlmavivA de Belgique",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792323076000
     },
     {
       "id": "jobicy-155705",
@@ -686,18 +662,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792298101000
-    },
-    {
-      "id": "arbeitnow-remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
-      "title": "Senior Quality Engineer - Tellent Intelligence (AI)",
-      "company": "Tellent",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/tellent/remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792290737000
     },
     {
       "id": "remoteok-1137542",
