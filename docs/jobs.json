@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T01:10:52.656Z",
+  "generatedAt": "2026-10-20T01:58:26.396Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
@@ -200,19 +200,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792429795000
-    },
-    {
-      "id": "jobicy-155924",
-      "title": "QA Analyst (Mexico, Remote)",
-      "company": "Varicent",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155924-qa-analyst-mexico-remote-2",
-      "setup": "wfh",
-      "location": "Mexico",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "MXN",
-      "postedAt": 1792429793000
     },
     {
       "id": "arbeitnow-full-stack-developer-paris-258791",
@@ -650,6 +637,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792414901000
+    },
+    {
+      "id": "jobicy-155824",
+      "title": "Software Engineering Manager",
+      "company": "Fanatics",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155824-software-engineering-manager",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792411790000
     },
     {
       "id": "arbeitnow-softwaretester-in-fur-webapplikation-im-energiehandelskontext-bern-356631",
