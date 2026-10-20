@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-20T00:20:44.603Z",
+  "generatedAt": "2026-10-20T01:10:52.656Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 60,
+    "remoteok": 59,
     "remotive": 8,
     "jobicy": 42,
     "arbeitnow": 11
   },
-  "count": 121,
+  "count": 120,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-analytics-engineer-emea-france-234875",
@@ -1201,19 +1201,6 @@
       "postedAt": 1789862425000
     },
     {
-      "id": "remoteok-1137408",
-      "title": "Software Deployment Engineer",
-      "company": "KPI Solutions",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-deployment-engineer-kpi-solutions-1137408",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1789804834000
-    },
-    {
       "id": "remoteok-1137407",
       "title": "VP Pricing & Packaging",
       "company": "Delinea",
@@ -1225,19 +1212,6 @@
       "salaryMax": 340000,
       "salaryCurrency": "USD",
       "postedAt": 1789776016000
-    },
-    {
-      "id": "remoteok-1137406",
-      "title": "Customer Success Manager Mexico",
-      "company": "JumpCloud",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1789776006000
     },
     {
       "id": "remotive-2091140",
@@ -1578,6 +1552,19 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1786550412000
+    },
+    {
+      "id": "remoteok-1136447",
+      "title": "Staff Software Engineer",
+      "company": "Evolve",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1786492823000
     }
   ]
 }
