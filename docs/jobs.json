@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-20T03:26:05.784Z",
+  "generatedAt": "2026-10-20T04:00:15.189Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 8,
     "jobicy": 42,
-    "arbeitnow": 11
+    "arbeitnow": 8
   },
-  "count": 120,
+  "count": 117,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-engineering-manager-search-engine-all-genders-berlin-201029",
+      "title": "Engineering Manager, Search Engine (all genders)",
+      "company": "Distribusion Technologies",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-engineering-manager-search-engine-all-genders-berlin-201029",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792463504000
+    },
     {
       "id": "arbeitnow-remote-senior-analytics-engineer-emea-france-234875",
       "title": "Senior Analytics Engineer - EMEA",
@@ -615,30 +627,6 @@
       "postedAt": 1792416123000
     },
     {
-      "id": "arbeitnow-lead-consultant-cyber-security-berlin-402652",
-      "title": "Lead Consultant Cyber Security (m/w/d)",
-      "company": "Jamorie Consulting GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/jamorie-consulting-gmbh/lead-consultant-cyber-security-berlin-402652",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792414902000
-    },
-    {
-      "id": "arbeitnow-business-development-manager-cyber-security-aufbau-neukundengeschaft-berlin-332205",
-      "title": "Business Development Manager Cyber Security (m/w/d) – Aufbau Neukundengeschäft",
-      "company": "Jamorie Consulting GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/jamorie-consulting-gmbh/business-development-manager-cyber-security-aufbau-neukundengeschaft-berlin-332205",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792414901000
-    },
-    {
       "id": "jobicy-155824",
       "title": "Software Engineering Manager",
       "company": "Fanatics",
@@ -688,30 +676,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1792346401000
-    },
-    {
-      "id": "arbeitnow-remote-senior-integrity-engineer-tricht-72924",
-      "title": "Senior Integrity Engineer",
-      "company": "Intero Integrity Services",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/intero-integrity-services/remote-senior-integrity-engineer-tricht-72924",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792333901000
-    },
-    {
-      "id": "arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-67927",
-      "title": "Staff Solutions Architect, AI Subject Matter Expert",
-      "company": "gitlab",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-67927",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792324525000
     },
     {
       "id": "remotive-2091158",
