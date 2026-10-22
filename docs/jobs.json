@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-21T23:52:07.329Z",
+  "generatedAt": "2026-10-22T02:54:42.913Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 60,
+    "remoteok": 61,
     "remotive": 6,
     "jobicy": 37,
     "arbeitnow": 8
   },
-  "count": 111,
+  "count": 112,
   "jobs": [
     {
       "id": "arbeitnow-technical-outsource-manager-munich-193500",
@@ -585,6 +585,19 @@
       "salaryMax": null,
       "salaryCurrency": "AUD",
       "postedAt": 1792572511000
+    },
+    {
+      "id": "remoteok-1137550",
+      "title": "Clinical Data Manager",
+      "company": "Penumbra",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1792540806000
     },
     {
       "id": "remoteok-1137548",
