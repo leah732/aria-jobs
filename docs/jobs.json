@@ -1,14 +1,53 @@
 {
-  "generatedAt": "2026-10-22T21:49:31.879Z",
+  "generatedAt": "2026-10-23T00:21:11.352Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 61,
     "remotive": 6,
-    "jobicy": 40,
+    "jobicy": 42,
     "arbeitnow": 4
   },
-  "count": 111,
+  "count": 113,
   "jobs": [
+    {
+      "id": "jobicy-156465",
+      "title": "Senior Backend Engineer",
+      "company": "Tala",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156465-senior-backend-engineer-11",
+      "setup": "wfh",
+      "location": "APAC",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792701494000
+    },
+    {
+      "id": "jobicy-156467",
+      "title": "Senior IT Operations Engineer",
+      "company": "BigID",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156467-senior-it-operations-engineer-2",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792701489000
+    },
+    {
+      "id": "jobicy-156466",
+      "title": "Manager Software Test Automation",
+      "company": "Veracyte",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156466-manager-software-test-automation",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792701489000
+    },
     {
       "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-89280",
       "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
@@ -32,6 +71,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792701097000
+    },
+    {
+      "id": "jobicy-156457",
+      "title": "Software Development Manager",
+      "company": "Lightspeed Commerce",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156457-software-development-manager",
+      "setup": "wfh",
+      "location": "Canada",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CAD",
+      "postedAt": 1792695435000
+    },
+    {
+      "id": "jobicy-156456",
+      "title": "Senior Software Engineer (PHP)",
+      "company": "NFQ",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156456-senior-software-engineer-php",
+      "setup": "wfh",
+      "location": "Poland",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "PLN",
+      "postedAt": 1792695435000
+    },
+    {
+      "id": "jobicy-156460",
+      "title": "Senior Director, Agentic Engineering",
+      "company": "Lightspeed Commerce",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156460-senior-director-agentic-engineering",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792695434000
     },
     {
       "id": "jobicy-156445",
@@ -514,56 +592,30 @@
       "postedAt": 1792661408000
     },
     {
-      "id": "jobicy-156331",
-      "title": "Senior Solutions Architect",
-      "company": "Ada",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156331-senior-solutions-architect",
+      "id": "remoteok-1137555",
+      "title": "Accounting & Finance Manager",
+      "company": "Political Asylum Lawyers",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
       "setup": "wfh",
-      "location": "Canada",
-      "salaryMin": null,
-      "salaryMax": null,
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
       "salaryCurrency": "USD",
-      "postedAt": 1792661394000
+      "postedAt": 1792627221000
     },
     {
-      "id": "jobicy-156337",
-      "title": "Technical Support Specialist",
-      "company": "Vultr",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156337-technical-support-specialist",
+      "id": "remoteok-1137553",
+      "title": "lkjlkjxcv",
+      "company": "scvsdv",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-lkjlkjxcv-scvsdv-1137553",
       "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 60000,
+      "salaryMax": 210000,
       "salaryCurrency": "USD",
-      "postedAt": 1792661393000
-    },
-    {
-      "id": "jobicy-156329",
-      "title": "Technical Support Engineer",
-      "company": "Vultr",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156329-technical-support-engineer-2",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792661380000
-    },
-    {
-      "id": "jobicy-156326",
-      "title": "Senior Linux System Administrator",
-      "company": "Vultr",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156326-senior-linux-system-administrator",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792661380000
+      "postedAt": 1792625587000
     },
     {
       "id": "arbeitnow-python-amp-cloud-native-software-engineer-76078-winterthur-74030",
@@ -1427,32 +1479,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1786550482000
-    },
-    {
-      "id": "remoteok-1136569",
-      "title": "Software Engineer II Golang",
-      "company": "Stone",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-golang-stone-1136569",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1786550464000
-    },
-    {
-      "id": "remoteok-1136592",
-      "title": "Surveyor I",
-      "company": "American Bureau of Shipping (ABS)",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1786550412000
     }
   ]
 }
