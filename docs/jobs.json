@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-24T00:57:47.225Z",
+  "generatedAt": "2026-10-24T05:28:23.399Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 6,
     "jobicy": 37,
-    "arbeitnow": 6
+    "arbeitnow": 8
   },
-  "count": 108,
+  "count": 110,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-ios-engineer-creative-app-247930",
+      "title": "iOS Engineer - Creative App",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-ios-engineer-creative-app-247930",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792809624000
+    },
+    {
+      "id": "arbeitnow-remote-android-engineer-creative-app-68934",
+      "title": "Android Engineer - Creative App",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-android-engineer-creative-app-68934",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792809624000
+    },
     {
       "id": "arbeitnow-blockchain-engineer-zug-291866",
       "title": "Blockchain Engineer",
