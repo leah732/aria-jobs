@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-25T00:26:03.475Z",
+  "generatedAt": "2026-10-25T05:04:01.630Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 6,
     "jobicy": 41,
-    "arbeitnow": 10
+    "arbeitnow": 5
   },
-  "count": 116,
+  "count": 111,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-software-test-engineer-bern-487044",
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-487044",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1792899069000
+    },
     {
       "id": "jobicy-156858",
       "title": "Senior Software Engineer (Fundraising) — Remote",
@@ -591,30 +603,6 @@
       "postedAt": 1792840627000
     },
     {
-      "id": "arbeitnow-remote-senior-systems-engineer-494924",
-      "title": "Senior Systems Engineer",
-      "company": "veeamsoftware",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-systems-engineer-494924",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792821320000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-engineer-275042",
-      "title": "Senior Sales Engineer",
-      "company": "veeamsoftware",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-sales-engineer-275042",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792821320000
-    },
-    {
       "id": "remoteok-1137568",
       "title": "Solutions Engineer",
       "company": "Onebrief",
@@ -628,30 +616,6 @@
       "postedAt": 1792800002000
     },
     {
-      "id": "arbeitnow-blockchain-engineer-zug-291866",
-      "title": "Blockchain Engineer",
-      "company": "Blockvora",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792782048000
-    },
-    {
-      "id": "arbeitnow-backend-engineer-zug-145470",
-      "title": "Backend Engineer",
-      "company": "Blockvora",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792778451000
-    },
-    {
       "id": "remoteok-1137562",
       "title": "Senior Frontend Engineer",
       "company": "B2spin",
@@ -663,30 +627,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1792771212000
-    },
-    {
-      "id": "arbeitnow-remote-senior-agentic-ai-ci-cd-software-engineer-zurich-60907",
-      "title": "Remote Senior Agentic AI / CI/CD Software Engineer",
-      "company": "PROSTAFF Schweiz GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/remote-senior-agentic-ai-ci-cd-software-engineer-zurich-60907",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792762256000
-    },
-    {
-      "id": "arbeitnow-remote-systems-engineer-zurich-94036",
-      "title": "Systems Engineer",
-      "company": "Exeon Analytics",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-systems-engineer-zurich-94036",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792756292000
     },
     {
       "id": "remoteok-1137557",
