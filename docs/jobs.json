@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-25T14:11:14.203Z",
+  "generatedAt": "2026-10-25T17:44:26.637Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 6,
-    "jobicy": 46,
+    "jobicy": 44,
     "arbeitnow": 4
   },
-  "count": 115,
+  "count": 113,
   "jobs": [
     {
       "id": "arbeitnow-remote-platform-engineer-paris-409658",
@@ -20,6 +20,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1792932682000
+    },
+    {
+      "id": "jobicy-156990",
+      "title": "Senior Solutions Engineer | Tokyo, Japan | Remote",
+      "company": "Grafana Labs",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156990-senior-solutions-engineer-tokyo-japan-remote",
+      "setup": "wfh",
+      "location": "Japan",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "JPY",
+      "postedAt": 1792926921000
+    },
+    {
+      "id": "jobicy-156997",
+      "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
+      "company": "Canonical",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels",
+      "setup": "wfh",
+      "location": "Anywhere",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792926920000
+    },
+    {
+      "id": "jobicy-156996",
+      "title": "IoT Field Engineer - China & Region",
+      "company": "Canonical",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156996-iot-field-engineer-china-region",
+      "setup": "wfh",
+      "location": "China",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1792926918000
     },
     {
       "id": "jobicy-156958",
@@ -577,71 +616,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792915646000
-    },
-    {
-      "id": "jobicy-156869",
-      "title": "Senior Software Engineer, Internally Deployed Products",
-      "company": "ClickUp",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156869-senior-software-engineer-internally-deployed-products",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792915646000
-    },
-    {
-      "id": "jobicy-154015",
-      "title": "Support Engineer I - UK",
-      "company": "ExtraHop",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154015-support-engineer-i-uk",
-      "setup": "wfh",
-      "location": "UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "GBP",
-      "postedAt": 1792902315000
-    },
-    {
-      "id": "jobicy-154017",
-      "title": "Director - Specialty Fibers",
-      "company": "Quince",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154017-director-specialty-fibers",
-      "setup": "wfh",
-      "location": "Italy,  UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792902310000
-    },
-    {
-      "id": "jobicy-154059",
-      "title": "Enterprise Solutions Architect",
-      "company": "TripActions",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154059-enterprise-solutions-architect",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792902308000
-    },
-    {
-      "id": "jobicy-154051",
-      "title": "Staff Software Engineer - Curated Data",
-      "company": "Dune",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154051-staff-software-engineer-curated-data",
-      "setup": "wfh",
-      "location": "Europe,  USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1792902307000
     },
     {
       "id": "arbeitnow-remote-software-test-engineer-bern-487044",
