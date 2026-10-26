@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-26T00:56:07.139Z",
+  "generatedAt": "2026-10-26T05:44:56.684Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 6,
     "jobicy": 39,
-    "arbeitnow": 4
+    "arbeitnow": 3
   },
-  "count": 108,
+  "count": 107,
   "jobs": [
     {
       "id": "jobicy-157024",
@@ -125,18 +125,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1792950291000
-    },
-    {
-      "id": "arbeitnow-remote-platform-engineer-paris-409658",
-      "title": "Platform Engineer",
-      "company": "ITQ",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/itq/remote-platform-engineer-paris-409658",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792932682000
     },
     {
       "id": "jobicy-156990",
