@@ -1,14 +1,99 @@
 {
-  "generatedAt": "2026-10-27T18:51:04.501Z",
+  "generatedAt": "2026-10-27T22:49:17.076Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 6,
-    "jobicy": 41,
-    "arbeitnow": 13
+    "jobicy": 39,
+    "arbeitnow": 12
   },
-  "count": 120,
+  "count": 117,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-sales-director-8457",
+      "title": "Sales Director",
+      "company": "Fivetran",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-sales-director-8457",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793127324000
+    },
+    {
+      "id": "arbeitnow-remote-project-manager-software-implementation-berlin-237977",
+      "title": "Project Manager - Software Implementation (m/f/x)",
+      "company": "Makersite GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-237977",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793125885000
+    },
+    {
+      "id": "arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-347745",
+      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+      "company": "Makersite GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-347745",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793125885000
+    },
+    {
+      "id": "jobicy-157443",
+      "title": "Sr. Security Engineer (Penetration Testing)",
+      "company": "CertiK",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/157443-sr-security-engineer-penetration-testing",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1793125533000
+    },
+    {
+      "id": "arbeitnow-senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
+      "title": "Senior Cloud / DevOps Engineer – AWS, Kubernetes/OpenShift (m/w/d)",
+      "company": "Rockstardevelopers GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793125055000
+    },
+    {
+      "id": "arbeitnow-senior-fullstack-entwickler-java-angular-stuttgart-430479",
+      "title": "Senior Fullstack Entwickler Java / Angular (m/w/d)",
+      "company": "Rockstardevelopers GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-entwickler-java-angular-stuttgart-430479",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793125054000
+    },
+    {
+      "id": "arbeitnow-fullstack-entwickler-java-angular-mid-level-stuttgart-350219",
+      "title": "Fullstack Entwickler Java / Angular (m/w/d) – Mid-Level",
+      "company": "Rockstardevelopers GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-java-angular-mid-level-stuttgart-350219",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793125054000
+    },
     {
       "id": "arbeitnow-freelancer-senior-mobile-engineer-react-native-expo-typescript-berlin-359332",
       "title": "Freelancer Senior Mobile Engineer (React Native, Expo, TypeScript) m/w/d",
@@ -265,42 +350,6 @@
       "postedAt": 1793110082000
     },
     {
-      "id": "arbeitnow-senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
-      "title": "Senior Cloud / DevOps Engineer – AWS, Kubernetes/OpenShift (m/w/d)",
-      "company": "Rockstardevelopers GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793109671000
-    },
-    {
-      "id": "arbeitnow-senior-fullstack-entwickler-java-angular-stuttgart-430479",
-      "title": "Senior Fullstack Entwickler Java / Angular (m/w/d)",
-      "company": "Rockstardevelopers GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-entwickler-java-angular-stuttgart-430479",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793109671000
-    },
-    {
-      "id": "arbeitnow-fullstack-entwickler-java-angular-mid-level-stuttgart-350219",
-      "title": "Fullstack Entwickler Java / Angular (m/w/d) – Mid-Level",
-      "company": "Rockstardevelopers GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-java-angular-mid-level-stuttgart-350219",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793109671000
-    },
-    {
       "id": "jobicy-157396",
       "title": "Director, Project Management",
       "company": "Precision Medicine Group",
@@ -483,42 +532,6 @@
       "postedAt": 1793107871000
     },
     {
-      "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-26886",
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-26886",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793105495000
-    },
-    {
-      "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-23147",
-      "title": "Sales Account Executive - Cybersecurity",
-      "company": "Crowdsec",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-23147",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793105494000
-    },
-    {
-      "id": "arbeitnow-remote-senior-devops-engineer-314207",
-      "title": "Senior DevOps Engineer",
-      "company": "0G",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-senior-devops-engineer-314207",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793104816000
-    },
-    {
       "id": "jobicy-157348",
       "title": "Technical Account Manager",
       "company": "Ping Identity",
@@ -636,45 +649,6 @@
       "postedAt": 1793094684000
     },
     {
-      "id": "jobicy-157325",
-      "title": "Partner Sales Engineer - UK",
-      "company": "Chainguard",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157325-partner-sales-engineer-uk-2",
-      "setup": "wfh",
-      "location": "UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1793094681000
-    },
-    {
-      "id": "jobicy-157324",
-      "title": "Contract Senior Data Analyst (SQL,Telemetry,Browser Engine)",
-      "company": "Mozilla",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157324-contract-senior-data-analyst-sqltelemetrybrowser-engine",
-      "setup": "wfh",
-      "location": "UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "GBP",
-      "postedAt": 1793094679000
-    },
-    {
-      "id": "jobicy-157321",
-      "title": "Senior Director, Product Management – Unified Communications",
-      "company": "Vonage",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157321-senior-director-product-management-unified-communications",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1793094566000
-    },
-    {
       "id": "arbeitnow-remote-analyst-investor-relations-marketing-switzerland-434020",
       "title": "Analyst, Investor Relations & Marketing",
       "company": "Re7 Capital",
@@ -711,18 +685,6 @@
       "salaryMax": 100000,
       "salaryCurrency": "USD",
       "postedAt": 1792931661000
-    },
-    {
-      "id": "arbeitnow-remote-software-test-engineer-bern-487044",
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-487044",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1792899069000
     },
     {
       "id": "remoteok-1137568",
