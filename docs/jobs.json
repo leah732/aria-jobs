@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-10-27T22:49:17.076Z",
+  "generatedAt": "2026-10-28T01:58:48.334Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 6,
     "jobicy": 39,
-    "arbeitnow": 12
+    "arbeitnow": 13
   },
-  "count": 117,
+  "count": 118,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-director-of-sales-europe-185522",
+      "title": "Director of Sales, Europe",
+      "company": "planetlabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-director-of-sales-europe-185522",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793148918000
+    },
     {
       "id": "arbeitnow-remote-sales-director-8457",
       "title": "Sales Director",
@@ -1356,19 +1368,6 @@
       "postedAt": 1787821202000
     },
     {
-      "id": "remoteok-1137156",
-      "title": "Senior Level Designer",
-      "company": "Blackbird Interactive",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1787788823000
-    },
-    {
       "id": "remoteok-1137155",
       "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
       "company": "Tessera Labs",
@@ -1523,6 +1522,19 @@
       "salaryMax": 220000,
       "salaryCurrency": "USD",
       "postedAt": 1786838403000
+    },
+    {
+      "id": "remoteok-1136701",
+      "title": "QA Tester Entry Level",
+      "company": "Ace IT Careers",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1786752025000
     }
   ]
 }
