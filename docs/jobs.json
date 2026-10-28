@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-10-28T08:04:10.528Z",
+  "generatedAt": "2026-10-28T15:16:33.881Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 7,
     "jobicy": 41,
-    "arbeitnow": 5
+    "arbeitnow": 3
   },
-  "count": 113,
+  "count": 111,
   "jobs": [
+    {
+      "id": "arbeitnow-freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-stuttgart-200558",
+      "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%",
+      "company": "hurra.com",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-stuttgart-200558",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793192701000
+    },
+    {
+      "id": "arbeitnow-it-support-analyst-application-operations-zurich-267340",
+      "title": "IT Support Analyst – Application Operations",
+      "company": "Coopers Group AG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-267340",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793192698000
+    },
     {
       "id": "jobicy-154108",
       "title": "Engineering Manager - Feegow (100% Remote within Brazil)",
@@ -255,42 +279,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1793157309000
-    },
-    {
-      "id": "arbeitnow-remote-director-of-sales-europe-185522",
-      "title": "Director of Sales, Europe",
-      "company": "planetlabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-director-of-sales-europe-185522",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793148918000
-    },
-    {
-      "id": "arbeitnow-remote-director-of-sales-europe-34402",
-      "title": "Director of Sales, Europe",
-      "company": "planetlabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/planetlabs/remote-director-of-sales-europe-34402",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793148918000
-    },
-    {
-      "id": "arbeitnow-remote-sales-director-8457",
-      "title": "Sales Director",
-      "company": "Fivetran",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-sales-director-8457",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793127324000
     },
     {
       "id": "jobicy-157443",
@@ -589,18 +577,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1793107934000
-    },
-    {
-      "id": "arbeitnow-remote-analyst-investor-relations-marketing-switzerland-434020",
-      "title": "Analyst, Investor Relations & Marketing",
-      "company": "Re7 Capital",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-switzerland-434020",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793017211000
     },
     {
       "id": "remotive-2091134",
