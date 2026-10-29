@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T20:25:59.073Z",
+  "generatedAt": "2026-10-29T00:10:08.095Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 7,
     "jobicy": 37,
-    "arbeitnow": 8
+    "arbeitnow": 6
   },
-  "count": 112,
+  "count": 110,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-software-engineer-ai-data-92284",
@@ -225,18 +225,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1793201494000
-    },
-    {
-      "id": "arbeitnow-remote-software-functional-consultant-sap-wm-uk-173485",
-      "title": "Software Functional Consultant (SAP WM)",
-      "company": "The Config Team",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-software-functional-consultant-sap-wm-uk-173485",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793201487000
     },
     {
       "id": "jobicy-157644",
@@ -561,18 +549,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1793194189000
-    },
-    {
-      "id": "arbeitnow-freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-stuttgart-200558",
-      "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%",
-      "company": "hurra.com",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-stuttgart-200558",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793192701000
     },
     {
       "id": "arbeitnow-it-support-analyst-application-operations-zurich-267340",
