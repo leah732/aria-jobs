@@ -1,37 +1,25 @@
 {
-  "generatedAt": "2026-10-29T00:10:08.095Z",
+  "generatedAt": "2026-10-29T06:08:49.162Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 60,
     "remotive": 7,
     "jobicy": 37,
-    "arbeitnow": 6
+    "arbeitnow": 4
   },
-  "count": 110,
+  "count": 108,
   "jobs": [
     {
-      "id": "arbeitnow-remote-senior-software-engineer-ai-data-92284",
-      "title": "Senior Software Engineer (AI/Data)",
-      "company": "Codat",
+      "id": "arbeitnow-remote-senior-director-functional-planning-oneplan-transformation-paris-377439",
+      "title": "Senior Director Functional Planning & OnePlan Transformation",
+      "company": "Excelya",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/codat/remote-senior-software-engineer-ai-data-92284",
+      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-director-functional-planning-oneplan-transformation-paris-377439",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1793212813000
-    },
-    {
-      "id": "arbeitnow-devops-engineer-berlin-362354",
-      "title": "DevOps Engineer (m/w/d)",
-      "company": "Interlead GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/devops-engineer-berlin-362354",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793210437000
+      "postedAt": 1793240410000
     },
     {
       "id": "jobicy-157684",
@@ -368,18 +356,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1793200373000
-    },
-    {
-      "id": "arbeitnow-backend-engineer-nodejs-typescript-berlin-291955",
-      "title": "Backend Engineer (Node.js / TypeScript)",
-      "company": "Nexoya",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/nexoya/backend-engineer-nodejs-typescript-berlin-291955",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793199698000
     },
     {
       "id": "jobicy-157627",
