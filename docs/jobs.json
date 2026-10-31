@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-31T00:26:19.855Z",
+  "generatedAt": "2026-10-31T06:05:39.665Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 59,
     "remotive": 8,
     "jobicy": 44,
-    "arbeitnow": 17
+    "arbeitnow": 7
   },
-  "count": 128,
+  "count": 118,
   "jobs": [
     {
       "id": "arbeitnow-software-engineer-edge-cloud-berlin-16107",
@@ -32,30 +32,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1793392252000
-    },
-    {
-      "id": "arbeitnow-remote-senior-director-functional-planning-transformation-paris-37933",
-      "title": "Senior Director Functional Planning & Transformation",
-      "company": "Excelya",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-director-functional-planning-transformation-paris-37933",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793391610000
-    },
-    {
-      "id": "arbeitnow-remote-data-scientist-fraud-62682",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/moniepoint/remote-data-scientist-fraud-62682",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793386525000
     },
     {
       "id": "arbeitnow-remote-senior-sap-is-u-abap-application-developer-produktentwicklung-berlin-395668",
@@ -458,66 +434,6 @@
       "postedAt": 1793381814000
     },
     {
-      "id": "arbeitnow-ai-agent-developer-ki-agentenentwickler-berlin-420317",
-      "title": "AI Agent Developer / KI-Agentenentwickler (m/w/d)",
-      "company": "WAITS Software- und Prozessberatungsgesellschaft mbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/waits-software-und-prozessberatungsgesellschaft-mbh/ai-agent-developer-ki-agentenentwickler-berlin-420317",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793381453000
-    },
-    {
-      "id": "arbeitnow-working-student-data-engineer-python-sql-cloud-platforms-berlin-407856",
-      "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
-      "company": "AgentixLake GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-407856",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793379643000
-    },
-    {
-      "id": "arbeitnow-working-student-ai-engineer-llms-rag-ai-agents-berlin-364158",
-      "title": "Working Student AI Engineer – LLMs, RAG & AI Agents",
-      "company": "AgentixLake GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-364158",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793379643000
-    },
-    {
-      "id": "arbeitnow-senior-projektleiter-softwaredevelopment-remote-berlin-454942",
-      "title": "Senior Projektleiter (m/w/d) Softwaredevelopment // REMOTE",
-      "company": "Pont Connects e.K.",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/senior-projektleiter-softwaredevelopment-remote-berlin-454942",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793379642000
-    },
-    {
-      "id": "arbeitnow-working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-283450",
-      "title": "Working Student AI Solutions Architect – Generative AI & Data Platforms",
-      "company": "AgentixLake GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-283450",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793379642000
-    },
-    {
       "id": "jobicy-158063",
       "title": "Senior Backend Engineer, Core DevOps: Container Registry",
       "company": "GitLab",
@@ -594,18 +510,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1793377921000
-    },
-    {
-      "id": "arbeitnow-working-student-ai-engineering-wurzburg-474175",
-      "title": "Working Student (m/f/d) - AI Engineering",
-      "company": "Pentadoc Gruppe",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/working-student-ai-engineering-wurzburg-474175",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793377905000
     },
     {
       "id": "jobicy-158050",
@@ -738,18 +642,6 @@
       "postedAt": 1793377613000
     },
     {
-      "id": "arbeitnow-ai-engeneer-berlin-21174",
-      "title": "AI Engeneer",
-      "company": "JETPLAN",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetplan/ai-engeneer-berlin-21174",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793376073000
-    },
-    {
       "id": "arbeitnow-remote-informationssicherheitsberater-aarau-351039",
       "title": "Informationssicherheitsberater",
       "company": "Callista Group AG",
@@ -772,18 +664,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1793321717000
-    },
-    {
-      "id": "arbeitnow-remote-software-test-engineer-bern-463546",
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-463546",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793320284000
     },
     {
       "id": "remoteok-1137600",
