@@ -1,14 +1,62 @@
 {
-  "generatedAt": "2026-11-02T23:58:01.629Z",
+  "generatedAt": "2026-11-03T05:44:47.649Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 59,
+    "remoteok": 60,
     "remotive": 8,
     "jobicy": 48,
-    "arbeitnow": 9
+    "arbeitnow": 12
   },
-  "count": 124,
+  "count": 128,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-devops-engineer-cimar-london-341410",
+      "title": "DevOps Engineer - CIMAR",
+      "company": "DeepHealth",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deephealth/remote-devops-engineer-cimar-london-341410",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793677887000
+    },
+    {
+      "id": "arbeitnow-remote-security-engineer-platforms-zurich-143558",
+      "title": "Security Engineer - Platforms",
+      "company": "Exeon Analytics",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-security-engineer-platforms-zurich-143558",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793677885000
+    },
+    {
+      "id": "arbeitnow-remote-senior-frontend-developer-zurich-193922",
+      "title": "Senior Frontend Developer",
+      "company": "Exeon Analytics",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-senior-frontend-developer-zurich-193922",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793677885000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-studio-284608",
+      "title": "Full-Stack Engineer (Backend Leaning) - Studio",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-studio-284608",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1793666412000
+    },
     {
       "id": "arbeitnow-it-support-manager-bonn-178882",
       "title": "IT Support Manager",
@@ -32,18 +80,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1793646036000
-    },
-    {
-      "id": "arbeitnow-remote-principal-engineer-duo-agent-platform-157881",
-      "title": "Principal Engineer, Duo Agent Platform",
-      "company": "gitlab",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-engineer-duo-agent-platform-157881",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793645718000
     },
     {
       "id": "arbeitnow-remote-senior-backend-engineer-go-berlin-189894",
@@ -728,6 +764,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1793620290000
+    },
+    {
+      "id": "remoteok-1137614",
+      "title": "Software Engineer Infrastructure",
+      "company": "Sodalis, Inc.",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 185000,
+      "salaryMax": 215000,
+      "salaryCurrency": "USD",
+      "postedAt": 1793577613000
     },
     {
       "id": "arbeitnow-remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
