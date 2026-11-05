@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-11-04T21:40:19.269Z",
+  "generatedAt": "2026-11-05T01:56:46.184Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 59,
+    "remoteok": 64,
     "remotive": 7,
     "jobicy": 29,
-    "arbeitnow": 7
+    "arbeitnow": 4
   },
-  "count": 102,
+  "count": 104,
   "jobs": [
     {
-      "id": "arbeitnow-python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
-      "title": "Python / Django Entwickler (m/w/d) – Fullstack, REST, CI/CD",
-      "company": "Rockstardevelopers GmbH",
+      "id": "arbeitnow-sales-manager-ch-ki-software-fur-psychotherapeutinnen-zurich-223149",
+      "title": "Sales Manager CH, KI-Software für Psychotherapeut:innen",
+      "company": "VIA HealthTech",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
+      "url": "https://www.arbeitnow.ch/jobs/companies/via-healthtech/sales-manager-ch-ki-software-fur-psychotherapeutinnen-zurich-223149",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1793821666000
+      "postedAt": 1793831452000
     },
     {
       "id": "arbeitnow-remote-senior-solutions-engineer-commercial-482484",
@@ -175,30 +175,6 @@
       "salaryMax": null,
       "salaryCurrency": "EUR",
       "postedAt": 1793809469000
-    },
-    {
-      "id": "arbeitnow-remote-people-partner-engineering-product-414791",
-      "title": "People Partner Engineering & Product",
-      "company": "ElevenLabs",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-people-partner-engineering-product-414791",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793806813000
-    },
-    {
-      "id": "arbeitnow-software-developer-net-c-all-genders-berlin-300964",
-      "title": "Software Developer .NET C# (all genders)",
-      "company": "Vexcash AG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/software-developer-net-c-all-genders-berlin-300964",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793800856000
     },
     {
       "id": "jobicy-158982",
@@ -459,18 +435,6 @@
       "postedAt": 1793763088000
     },
     {
-      "id": "arbeitnow-remote-software-test-engineer-bern-122043",
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-122043",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793741469000
-    },
-    {
       "id": "remoteok-1137673",
       "title": "Tech lead",
       "company": "Ringbook Limited",
@@ -682,19 +646,6 @@
       "postedAt": 1792673908000
     },
     {
-      "id": "remoteok-1137555",
-      "title": "Accounting & Finance Manager",
-      "company": "Political Asylum Lawyers",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1792627221000
-    },
-    {
       "id": "remoteok-1137551",
       "title": "Senior Backend Engineer",
       "company": "DuckDuckGo",
@@ -719,19 +670,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1792540806000
-    },
-    {
-      "id": "remoteok-1137548",
-      "title": "Risk Analyst",
-      "company": "Pavago",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1792483205000
     },
     {
       "id": "remoteok-1137545",
@@ -852,19 +790,6 @@
       "postedAt": 1792166426000
     },
     {
-      "id": "remoteok-1137531",
-      "title": "Associate Data Scientist",
-      "company": "AlgaeCal",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1792108856000
-    },
-    {
       "id": "remoteok-1137530",
       "title": "Director of IT and Workplace",
       "company": "Hippocratic AI",
@@ -902,19 +827,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1792080003000
-    },
-    {
-      "id": "remoteok-1137523",
-      "title": "Sr REACT NATIVE",
-      "company": "Somnio Software",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1792022419000
     },
     {
       "id": "remotive-2069746",
@@ -1007,19 +919,6 @@
       "salaryMax": 200000,
       "salaryCurrency": "USD",
       "postedAt": 1791551358000
-    },
-    {
-      "id": "remoteok-1137474",
-      "title": "Product Design Lead",
-      "company": "Fuel50",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1791532804000
     },
     {
       "id": "remotive-2086540",
@@ -1334,6 +1233,136 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785938096000
+    },
+    {
+      "id": "remoteok-1136213",
+      "title": "Freelance Designer",
+      "company": "Control Shift Video",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785917780000
+    },
+    {
+      "id": "remoteok-1136210",
+      "title": "Head of Security",
+      "company": "Tremendous",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785895062000
+    },
+    {
+      "id": "remoteok-1136778",
+      "title": "Operations Engineer II",
+      "company": "AWeber",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785884549000
+    },
+    {
+      "id": "remoteok-1136222",
+      "title": "Data Analyst",
+      "company": "SEAhub Asia",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785853229000
+    },
+    {
+      "id": "remoteok-1136096",
+      "title": "Clinical Coordination Manager",
+      "company": "Enable Dental",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785851970000
+    },
+    {
+      "id": "remoteok-1136217",
+      "title": "Data Analyst Assistant",
+      "company": "Arabian Private Holdings",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785848789000
+    },
+    {
+      "id": "remoteok-1136221",
+      "title": "Business Development",
+      "company": "GROW10X",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-grow10x-1136221",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785827837000
+    },
+    {
+      "id": "remoteok-1136066",
+      "title": "Customer Support Specialist",
+      "company": "Resource Guru",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-resource-guru-1136066",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785594276000
+    },
+    {
+      "id": "remoteok-1135908",
+      "title": "Managing Director",
+      "company": "Berni and Mick Ireland",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-managing-director-berni-and-mick-ireland-1135908",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785566299000
+    },
+    {
+      "id": "remoteok-1135901",
+      "title": "Freelance Creative Director",
+      "company": "BMWL",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785541115000
     }
   ]
 }
