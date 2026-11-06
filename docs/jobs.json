@@ -1,14 +1,79 @@
 {
-  "generatedAt": "2026-11-05T22:44:44.143Z",
+  "generatedAt": "2026-11-06T03:02:20.170Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 63,
     "remotive": 7,
-    "jobicy": 36,
-    "arbeitnow": 9
+    "jobicy": 39,
+    "arbeitnow": 8
   },
-  "count": 115,
+  "count": 117,
   "jobs": [
+    {
+      "id": "jobicy-159220",
+      "title": "English to Estonian Review Lead for UI, Marketing & Product Content",
+      "company": "Welo Global",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159220-english-to-estonian-review-lead-for-ui-marketing-product-content",
+      "setup": "wfh",
+      "location": "Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1793909175000
+    },
+    {
+      "id": "jobicy-159217",
+      "title": "English to Bosnian (Cyrillic) Review Lead for UI, Marketing & Product Content",
+      "company": "Welo Global",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159217-english-to-bosnian-cyrillic-review-lead-for-ui-marketing-product-content",
+      "setup": "wfh",
+      "location": "Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1793909150000
+    },
+    {
+      "id": "jobicy-159216",
+      "title": "Python Developer - MyDr (100% Remote within Poland)",
+      "company": "Docplanner",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159216-python-developer-mydr-100-remote-within-poland-2",
+      "setup": "wfh",
+      "location": "Poland",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1793909149000
+    },
+    {
+      "id": "jobicy-159215",
+      "title": "English to Armenian Review Lead for UI, Marketing & Product Content",
+      "company": "Welo Global",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159215-english-to-armenian-review-lead-for-ui-marketing-product-content",
+      "setup": "wfh",
+      "location": "Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1793909147000
+    },
+    {
+      "id": "jobicy-159211",
+      "title": "Czech AI Ads Reviewer",
+      "company": "Welo Global",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159211-czech-ai-ads-reviewer",
+      "setup": "wfh",
+      "location": "Czechia",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1793909143000
+    },
     {
       "id": "jobicy-159207",
       "title": "Senior Developer Experience Engineer, Integrations",
@@ -472,18 +537,6 @@
       "postedAt": 1793876085000
     },
     {
-      "id": "arbeitnow-remote-freelance-french-seo-content-writer-france-106511",
-      "title": "Freelance French SEO Content Writer",
-      "company": "Azeus Convene",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/azeus-convene/remote-freelance-french-seo-content-writer-france-106511",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1793866817000
-    },
-    {
       "id": "jobicy-159104",
       "title": "Developer Support Engineer",
       "company": "Algolia",
@@ -536,30 +589,17 @@
       "postedAt": 1793854460000
     },
     {
-      "id": "jobicy-159098",
-      "title": "British Sign Language- Video Quality Specialist Remote (UK)",
-      "company": "Welo Global",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159098-british-sign-language-video-quality-specialist-remote-uk",
+      "id": "remoteok-1137687",
+      "title": "Senior Staff Infrastructure & Security Engineer",
+      "company": "CivilGrid",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
       "setup": "wfh",
-      "location": "UK",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "EUR",
-      "postedAt": 1793854446000
-    },
-    {
-      "id": "jobicy-159096",
-      "title": "iOS Software Engineer",
-      "company": "Mozilla",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159096-ios-software-engineer",
-      "setup": "wfh",
-      "location": "Germany",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "EUR",
-      "postedAt": 1793854443000
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 137318,
+      "salaryMax": 192960,
+      "salaryCurrency": "USD",
+      "postedAt": 1793836804000
     },
     {
       "id": "arbeitnow-sales-manager-ch-ki-software-fur-psychotherapeutinnen-zurich-223149",
@@ -1488,19 +1528,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785827837000
-    },
-    {
-      "id": "remoteok-1136066",
-      "title": "Customer Support Specialist",
-      "company": "Resource Guru",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-resource-guru-1136066",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785594276000
     }
   ]
 }
