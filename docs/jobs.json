@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-06T23:21:56.369Z",
+  "generatedAt": "2026-11-07T02:59:06.186Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 66,
+    "remoteok": 65,
     "remotive": 7,
     "jobicy": 40,
     "arbeitnow": 5
   },
-  "count": 118,
+  "count": 117,
   "jobs": [
     {
       "id": "arbeitnow-remote-senior-network-engineer-bonn-109175",
@@ -588,6 +588,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1793977686000
+    },
+    {
+      "id": "remoteok-1137693",
+      "title": "Senior Full Stack Engineer People Products",
+      "company": "Thumbtack",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1793923205000
     },
     {
       "id": "remoteok-1137691",
@@ -1518,32 +1531,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785853229000
-    },
-    {
-      "id": "remoteok-1136096",
-      "title": "Clinical Coordination Manager",
-      "company": "Enable Dental",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785851970000
-    },
-    {
-      "id": "remoteok-1136217",
-      "title": "Data Analyst Assistant",
-      "company": "Arabian Private Holdings",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785848789000
     }
   ]
 }
