@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T20:23:16.720Z",
+  "generatedAt": "2026-11-07T23:45:49.043Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 64,
@@ -9,6 +9,18 @@
   },
   "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-chief-information-security-officer-amsterdam-193201",
+      "title": "Chief Information Security Officer",
+      "company": "Decentralized Masters",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/decentralized-masters/remote-chief-information-security-officer-amsterdam-193201",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794090005000
+    },
     {
       "id": "arbeitnow-remote-senior-consultant-sap-successfactors-employee-central-munchen-59655",
       "title": "(Senior) Consultant SAP SuccessFactors – Employee Central (m/w/d)",
@@ -668,18 +680,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1794061517000
-    },
-    {
-      "id": "arbeitnow-principal-field-engineer-us-remote-124433",
-      "title": "Principal Field Engineer, US Remote",
-      "company": "Exa",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/exa/principal-field-engineer-us-remote-124433",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794055215000
     },
     {
       "id": "jobicy-159539",
