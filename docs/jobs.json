@@ -1,14 +1,182 @@
 {
-  "generatedAt": "2026-11-07T23:45:49.043Z",
+  "generatedAt": "2026-11-08T03:54:38.840Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 64,
     "remotive": 6,
     "jobicy": 49,
-    "arbeitnow": 6
+    "arbeitnow": 18
   },
-  "count": 125,
+  "count": 137,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-ios-engineer-creative-app-27267",
+      "title": "iOS Engineer - Creative App",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-ios-engineer-creative-app-27267",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-android-engineer-creative-app-434278",
+      "title": "Android Engineer - Creative App",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-android-engineer-creative-app-434278",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-mobile-engineer-elevenmusic-25044",
+      "title": "Mobile Engineer - ElevenMusic",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-mobile-engineer-elevenmusic-25044",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-productions-417254",
+      "title": "Full-Stack Engineer - Productions",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-productions-417254",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-elevencreative-enterprise-233049",
+      "title": "Full-Stack Engineer - ElevenCreative Enterprise",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevencreative-enterprise-233049",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-ads-engine-93467",
+      "title": "Full-Stack Engineer - Ads Engine",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-ads-engine-93467",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-223892",
+      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-223892",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-product-manager-elevencreative-self-serve-87326",
+      "title": "Product Manager (ElevenCreative Self-Serve)",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-product-manager-elevencreative-self-serve-87326",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-payments-engineering-222551",
+      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-payments-engineering-222551",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-platform-engineering-280315",
+      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-platform-engineering-280315",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-developer-experience-engineer-333360",
+      "title": "Developer Experience Engineer",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-developer-experience-engineer-333360",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-frontend-leaning-studio-486011",
+      "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-studio-486011",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-people-partner-engineering-product-114970",
+      "title": "People Partner Engineering & Product",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-people-partner-engineering-product-114970",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
+    {
+      "id": "arbeitnow-remote-it-engineer-248150",
+      "title": "IT Engineer",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-it-engineer-248150",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794098411000
+    },
     {
       "id": "arbeitnow-remote-chief-information-security-officer-amsterdam-193201",
       "title": "Chief Information Security Officer",
@@ -32,30 +200,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1794076269000
-    },
-    {
-      "id": "arbeitnow-remote-senior-sap-successfactors-consultant-onboarding-heidelberg-493027",
-      "title": "(Senior) SAP SuccessFactors Consultant – Onboarding (m/w/d)",
-      "company": "cbs Corporate Business Solutions GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/remote-senior-sap-successfactors-consultant-onboarding-heidelberg-493027",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794076269000
-    },
-    {
-      "id": "arbeitnow-remote-chief-information-security-officer-berlin-162086",
-      "title": "Chief Information Security Officer",
-      "company": "Decentralized Masters",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/decentralized-masters/remote-chief-information-security-officer-berlin-162086",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794075614000
     },
     {
       "id": "jobicy-159648",
@@ -705,6 +849,19 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1794033631000
+    },
+    {
+      "id": "remoteok-1137701",
+      "title": "AI Developer",
+      "company": "Salvo Software",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1794009602000
     },
     {
       "id": "arbeitnow-remote-software-engineer-ai-assisted-development-basel-371528",
@@ -1620,19 +1777,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1785884549000
-    },
-    {
-      "id": "remoteok-1136222",
-      "title": "Data Analyst",
-      "company": "SEAhub Asia",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785853229000
     }
   ]
 }
