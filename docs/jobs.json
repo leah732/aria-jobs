@@ -1,37 +1,25 @@
 {
-  "generatedAt": "2026-11-10T22:26:56.392Z",
+  "generatedAt": "2026-11-11T02:04:54.515Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 65,
+    "remoteok": 67,
     "remotive": 7,
     "jobicy": 38,
-    "arbeitnow": 9
+    "arbeitnow": 6
   },
-  "count": 119,
+  "count": 118,
   "jobs": [
     {
-      "id": "arbeitnow-remote-technical-quality-assurance-manager-bromley-326507",
-      "title": "Technical Quality Assurance Manager",
-      "company": "Bromcom Computers Plc",
+      "id": "arbeitnow-remote-1207-content-writer-seo-copywriter-part-time-germany-224077",
+      "title": "1207 Content Writer / SEO Copywriter (Part-Time)",
+      "company": "Intetics 2",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-technical-quality-assurance-manager-bromley-326507",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1207-content-writer-seo-copywriter-part-time-germany-224077",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1794346279000
-    },
-    {
-      "id": "arbeitnow-ukcsc-chartered-or-principal-enterprise-advisor-security-architecture-london-143699",
-      "title": "UKCSC Chartered or Principal Enterprise Advisor - Security Architecture",
-      "company": "Intelance",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/ukcsc-chartered-or-principal-enterprise-advisor-security-architecture-london-143699",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794339045000
+      "postedAt": 1794356416000
     },
     {
       "id": "jobicy-161192",
@@ -96,30 +84,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1794335484000
-    },
-    {
-      "id": "arbeitnow-google-workspace-security-engineer-dlp-and-device-management-london-349090",
-      "title": "Google Workspace Security Engineer (DLP and Device Management)",
-      "company": "Intelance",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/google-workspace-security-engineer-dlp-and-device-management-london-349090",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794333643000
-    },
-    {
-      "id": "arbeitnow-data-protection-information-security-consultant-landau-an-der-isar-213551",
-      "title": "Data Protection & Information Security Consultant (m/w/d)",
-      "company": "actago GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/data-protection-information-security-consultant-landau-an-der-isar-213551",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794331861000
     },
     {
       "id": "arbeitnow-senior-business-analyst-requirements-engineer-76080-winterthur-352055",
@@ -1553,6 +1517,32 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1786752025000
+    },
+    {
+      "id": "remoteok-1136770",
+      "title": "Future Shaprs",
+      "company": "Shapr3D",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-future-shaprs-shapr3d-1136770",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785938096000
+    },
+    {
+      "id": "remoteok-1136213",
+      "title": "Freelance Designer",
+      "company": "Control Shift Video",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1785917780000
     }
   ]
 }
