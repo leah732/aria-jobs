@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-11-11T23:56:30.456Z",
+  "generatedAt": "2026-11-12T05:46:14.290Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 67,
+    "remoteok": 65,
     "remotive": 7,
     "jobicy": 43,
-    "arbeitnow": 12
+    "arbeitnow": 6
   },
-  "count": 129,
+  "count": 121,
   "jobs": [
     {
-      "id": "arbeitnow-remote-senior-sales-engineer-enterprise-german-speaking-210619",
-      "title": "Senior Sales Engineer, Enterprise - German Speaking",
-      "company": "Fivetran",
+      "id": "arbeitnow-remote-director-business-development-defence-government-france-448522",
+      "title": "Director, Business Development - Defence & Government (France)",
+      "company": "Loftorbital",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-german-speaking-210619",
+      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/remote-director-business-development-defence-government-france-448522",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1794434131000
+      "postedAt": 1794452882000
     },
     {
       "id": "arbeitnow-remote-senior-network-engineer-bonn-247245",
@@ -421,66 +421,6 @@
       "postedAt": 1794421885000
     },
     {
-      "id": "arbeitnow-remote-data-engineer-frankfurt-am-main-258614",
-      "title": "Data Engineer (m/f/d)",
-      "company": "ANGEHEUERT GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-data-engineer-frankfurt-am-main-258614",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794421880000
-    },
-    {
-      "id": "arbeitnow-remote-lead-architect-platform-engineer-frankfurt-am-main-365204",
-      "title": "Lead Architect & Platform Engineer (m/f/d)",
-      "company": "ANGEHEUERT GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-lead-architect-platform-engineer-frankfurt-am-main-365204",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794421880000
-    },
-    {
-      "id": "arbeitnow-remote-lead-architekt-platform-engineer-frankfurt-am-main-4203",
-      "title": "Lead Architekt & Platform Engineer (m/w/d)",
-      "company": "ANGEHEUERT GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-lead-architekt-platform-engineer-frankfurt-am-main-4203",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794421880000
-    },
-    {
-      "id": "arbeitnow-remote-senior-account-manager-existing-customers-all-genders-germany-241302",
-      "title": "(Senior) Account Manager - Existing Customers (all genders)",
-      "company": "Shiftmove",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/shiftmove/remote-senior-account-manager-existing-customers-all-genders-germany-241302",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794421223000
-    },
-    {
-      "id": "arbeitnow-remote-mission-freelance-expert-devops-cloudflare-one-france-236688",
-      "title": "Mission Freelance - Expert DevOps Cloudflare One",
-      "company": "Brixio",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-mission-freelance-expert-devops-cloudflare-one-france-236688",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794417619000
-    },
-    {
       "id": "jobicy-161371",
       "title": "Senior Frontend Engineer - Remote Europe",
       "company": "Reedsy",
@@ -661,18 +601,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1794413726000
-    },
-    {
-      "id": "arbeitnow-sustainability-consultant-pcf-lca-climate-tech-berlin-12238",
-      "title": "Sustainability Consultant – PCF/LCA / Climate Tech (w/m/d)",
-      "company": "Right Search",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/right-search/sustainability-consultant-pcf-lca-climate-tech-berlin-12238",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794412867000
     },
     {
       "id": "arbeitnow-remote-app-testers-wanted-in-switzerland-switzerland-anywhere-115014",
@@ -1654,32 +1582,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1786752025000
-    },
-    {
-      "id": "remoteok-1136770",
-      "title": "Future Shaprs",
-      "company": "Shapr3D",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-future-shaprs-shapr3d-1136770",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785938096000
-    },
-    {
-      "id": "remoteok-1136213",
-      "title": "Freelance Designer",
-      "company": "Control Shift Video",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1785917780000
     }
   ]
 }
