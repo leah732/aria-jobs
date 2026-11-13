@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:32:55.791Z",
+  "generatedAt": "2026-11-13T02:19:44.163Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 65,
@@ -9,6 +9,18 @@
   },
   "count": 131,
   "jobs": [
+    {
+      "id": "arbeitnow-senior-qa-manager-automation-ai-fully-remote-berlin-71172",
+      "title": "Senior QA Manager Automation & AI - Fully Remote",
+      "company": "SOFTGAMES",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-automation-ai-fully-remote-berlin-71172",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794519100000
+    },
     {
       "id": "arbeitnow-remote-ui-engineer-based-in-ca-or-nc-only-47794",
       "title": "UI Engineer (Based in CA or NC only)",
@@ -655,18 +667,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1794488551000
-    },
-    {
-      "id": "arbeitnow-software-developer-mainframe-berlin-305231",
-      "title": "Software-Developer Mainframe (m/w/d)",
-      "company": "H. Wagner + Partner",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/h-wagner-partner/software-developer-mainframe-berlin-305231",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794488470000
     },
     {
       "id": "jobicy-161588",
