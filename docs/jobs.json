@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-11-13T22:45:55.422Z",
+  "generatedAt": "2026-11-14T02:51:46.664Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 65,
     "remotive": 9,
     "jobicy": 43,
-    "arbeitnow": 7
+    "arbeitnow": 8
   },
-  "count": 124,
+  "count": 125,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-software-engineer-75803",
+      "title": "Senior Software Engineer",
+      "company": "Hexa",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-senior-software-engineer-75803",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794616817000
+    },
+    {
+      "id": "arbeitnow-remote-senior-growth-product-manager-paris-473086",
+      "title": "Senior Growth Product Manager",
+      "company": "Soda Data Nv",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-growth-product-manager-paris-473086",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794612009000
+    },
     {
       "id": "arbeitnow-remote-data-engineer-289887",
       "title": "Data Engineer",
@@ -83,18 +107,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1794596059000
-    },
-    {
-      "id": "arbeitnow-remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-60089",
-      "title": "Initiativbewerbung Werkstudent:in Softwareentwicklung (m/w/d) - Karlsruhe",
-      "company": "Knuddels GmbH & Co. KG",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-60089",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794594678000
     },
     {
       "id": "jobicy-162053",
@@ -651,6 +663,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1794560678000
+    },
+    {
+      "id": "remoteok-1137793",
+      "title": "Software Engineer AI Tooling",
+      "company": "Supabase",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1794528015000
     },
     {
       "id": "remoteok-1137792",
@@ -1609,19 +1634,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1786838416000
-    },
-    {
-      "id": "remoteok-1136795",
-      "title": "Senior Software Engineer Case Execution",
-      "company": "Pivotal Health",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 190000,
-      "salaryMax": 220000,
-      "salaryCurrency": "USD",
-      "postedAt": 1786838403000
     }
   ]
 }
