@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-11-14T20:51:06.605Z",
+  "generatedAt": "2026-11-15T00:37:36.588Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 64,
     "remotive": 9,
     "jobicy": 40,
-    "arbeitnow": 9
+    "arbeitnow": 7
   },
-  "count": 122,
+  "count": 120,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-312709",
+      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+      "company": "Makersite GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-312709",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794691891000
+    },
+    {
+      "id": "arbeitnow-remote-ai-integration-automation-engineer-ger-128389",
+      "title": "AI Integration & Automation Engineer (m/w/d) GER",
+      "company": "Customs Support Group",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794691886000
+    },
+    {
+      "id": "arbeitnow-product-engineer-remote-oder-karlsruhe-193000",
+      "title": "Product Engineer (m/w/d) - remote oder Karlsruhe",
+      "company": "Knuddels GmbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/product-engineer-remote-oder-karlsruhe-193000",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794691886000
+    },
     {
       "id": "jobicy-162244",
       "title": "Navy Account Executive - Public Sector",
@@ -216,18 +252,6 @@
       "salaryMax": null,
       "salaryCurrency": "GBP",
       "postedAt": 1794660941000
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-all-levels-united-kingdom-213631",
-      "title": "Software Engineer (All Levels), United Kingdom",
-      "company": "Koboldmetals",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/koboldmetals/remote-software-engineer-all-levels-united-kingdom-213631",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794660923000
     },
     {
       "id": "jobicy-162192",
@@ -554,54 +578,6 @@
       "postedAt": 1794647388000
     },
     {
-      "id": "arbeitnow-remote-software-engineer-computer-use-integrations-berlin-434731",
-      "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
-      "company": "Recare Deutschland GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-434731",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794637890000
-    },
-    {
-      "id": "arbeitnow-remote-lead-security-engineer-berlin-229517",
-      "title": "Lead Security Engineer (m/w/d)",
-      "company": "Recare Deutschland GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-lead-security-engineer-berlin-229517",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794637890000
-    },
-    {
-      "id": "arbeitnow-remote-tech-lead-medical-coding-agents-berlin-279658",
-      "title": "Tech Lead (Medical Coding Agents) (m/w/d)",
-      "company": "Recare Deutschland GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-tech-lead-medical-coding-agents-berlin-279658",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794637889000
-    },
-    {
-      "id": "arbeitnow-remote-staff-forward-deployed-engineer-emea-244241",
-      "title": "Staff Forward Deployed Engineer, EMEA",
-      "company": "gitlab",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-244241",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1794628522000
-    },
-    {
       "id": "arbeitnow-remote-staff-forward-deployed-engineer-emea-238197",
       "title": "Staff Forward Deployed Engineer, EMEA",
       "company": "gitlab",
@@ -822,19 +798,6 @@
       "salaryText": null,
       "category": "Information Technology",
       "postedAt": 1794013855000
-    },
-    {
-      "id": "remoteok-1137701",
-      "title": "AI Developer",
-      "company": "Salvo Software",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1794009602000
     },
     {
       "id": "remoteok-1137691",
@@ -1594,6 +1557,19 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1786953603000
+    },
+    {
+      "id": "remoteok-1136797",
+      "title": "Strategic Account Executive Lodging",
+      "company": "FreedomPay",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1786838416000
     }
   ]
 }
