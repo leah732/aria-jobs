@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-11-15T20:05:21.577Z",
+  "generatedAt": "2026-11-16T00:08:06.281Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 64,
     "remotive": 8,
     "jobicy": 35,
-    "arbeitnow": 5
+    "arbeitnow": 7
   },
-  "count": 112,
+  "count": 114,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-senior-infrastructure-solutions-engineer-316487",
+      "title": "Senior Infrastructure Solutions Engineer",
+      "company": "planetlabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-316487",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794779728000
+    },
+    {
+      "id": "arbeitnow-developer-community-lead-berlin-444293",
+      "title": "Developer Community Lead",
+      "company": "RhymeQ Technologies GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/rhymeq-technologies-gmbh/developer-community-lead-berlin-444293",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1794772829000
+    },
     {
       "id": "jobicy-162481",
       "title": "Staff Developer Advocate, Enterprise - EMEA",
