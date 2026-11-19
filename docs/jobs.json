@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-11-18T23:47:36.656Z",
+  "generatedAt": "2026-11-19T05:31:59.857Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 63,
+    "remoteok": 64,
     "remotive": 8,
     "jobicy": 47,
-    "arbeitnow": 13
+    "arbeitnow": 9
   },
-  "count": 131,
+  "count": 128,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-forward-deployed-engineer-385303",
+      "title": "Forward Deployed Engineer",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-forward-deployed-engineer-385303",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795059806000
+    },
+    {
+      "id": "arbeitnow-remote-senior-sales-engineer-benelux-359528",
+      "title": "Senior Sales Engineer - Benelux",
+      "company": "Camunda",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-benelux-359528",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795059806000
+    },
+    {
+      "id": "arbeitnow-karrierestart-in-data-ai-ihk-data-analyst-100-online-berlin-397897",
+      "title": "Karrierestart in Data & AI - IHK Data Analyst (m/w/d) - 100 % Online",
+      "company": "DataSmart Point GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/karrierestart-in-data-ai-ihk-data-analyst-100-online-berlin-397897",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795050035000
+    },
     {
       "id": "arbeitnow-remote-cloud-infrastructure-engineer-aws-schoppingen-150808",
       "title": "Cloud Infrastructure Engineer - AWS (m/w/d)",
@@ -22,18 +58,6 @@
       "postedAt": 1795038695000
     },
     {
-      "id": "arbeitnow-remote-business-development-representative-cybersecurity-germany-259748",
-      "title": "Business Development Representative - Cybersecurity",
-      "company": "Huzzle",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-business-development-representative-cybersecurity-germany-259748",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795036806000
-    },
-    {
       "id": "arbeitnow-remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
       "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
       "company": "Exotec",
@@ -44,18 +68,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1795033217000
-    },
-    {
-      "id": "arbeitnow-senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767",
-      "title": "Senior Fullstack Developer Angular / Kotlin – Spring Boot, AWS (m/w/d)",
-      "company": "Rockstardevelopers GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795033050000
     },
     {
       "id": "jobicy-163205",
@@ -160,66 +172,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1795031070000
-    },
-    {
-      "id": "arbeitnow-working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
-      "title": "Working Student AI Engineer – LLMs, RAG & AI Agents",
-      "company": "AgentixLake GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795021246000
-    },
-    {
-      "id": "arbeitnow-working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
-      "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
-      "company": "AgentixLake GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795021245000
-    },
-    {
-      "id": "arbeitnow-working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
-      "title": "Working Student AI Solutions Architect – Generative AI & Data Platforms",
-      "company": "AgentixLake GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795021245000
-    },
-    {
-      "id": "arbeitnow-senior-infrastructure-engineer-azure-active-directory-hybrid-infrastructure-berlin-498065",
-      "title": "Senior Infrastructure Engineer – Azure, Active Directory & Hybrid Infrastructure (m/f/d)",
-      "company": "KD Pharma",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/kd-pharma/senior-infrastructure-engineer-azure-active-directory-hybrid-infrastructure-berlin-498065",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795019480000
-    },
-    {
-      "id": "arbeitnow-senior-java-backend-developer-spring-boot-postgresql-kubernetes-festanstellung-berlin-198423",
-      "title": "Senior Java Backend Developer – Spring Boot, PostgreSQL, Kubernetes (m/w/d) – Festanstellung",
-      "company": "Rockstardevelopers GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-java-backend-developer-spring-boot-postgresql-kubernetes-festanstellung-berlin-198423",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795017657000
     },
     {
       "id": "jobicy-163179",
@@ -1706,6 +1658,19 @@
       "salaryMax": 220000,
       "salaryCurrency": "USD",
       "postedAt": 1786838403000
+    },
+    {
+      "id": "remoteok-1136701",
+      "title": "QA Tester Entry Level",
+      "company": "Ace IT Careers",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1786752025000
     }
   ]
 }
