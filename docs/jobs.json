@@ -1,25 +1,49 @@
 {
-  "generatedAt": "2026-11-19T22:43:10.493Z",
+  "generatedAt": "2026-11-20T03:49:37.756Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 64,
     "remotive": 7,
     "jobicy": 45,
-    "arbeitnow": 2
+    "arbeitnow": 4
   },
-  "count": 118,
+  "count": 120,
   "jobs": [
     {
-      "id": "arbeitnow-qa-testers-needed-zurich-313813",
-      "title": "QA Tester (Remote): Test Real Apps, Flexible Hours",
-      "company": "Global App Testing",
+      "id": "arbeitnow-remote-engineering-manager-berlin-423839",
+      "title": "Engineering Manager (m/f/x)",
+      "company": "Makersite GmbH",
       "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/global-app-testing/qa-testers-needed-zurich-313813",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-berlin-423839",
       "setup": "wfh",
       "location": "Remote — check the listing for PH eligibility",
       "salaryMin": null,
       "salaryMax": null,
-      "postedAt": 1795105953000
+      "postedAt": 1795135900000
+    },
+    {
+      "id": "arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-317887",
+      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+      "company": "Makersite GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-317887",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795135900000
+    },
+    {
+      "id": "arbeitnow-remote-partner-manager-public-sector-partnerships-252530",
+      "title": "Partner Manager - Public Sector Partnerships",
+      "company": "ElevenLabs",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-partner-manager-public-sector-partnerships-252530",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795135217000
     },
     {
       "id": "jobicy-163373",
@@ -72,19 +96,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1795102617000
-    },
-    {
-      "id": "jobicy-163354",
-      "title": "Founding Product Engineer - Listen Labs",
-      "company": "Pear VC",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163354-founding-product-engineer-listen-labs",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1795102612000
     },
     {
       "id": "jobicy-163353",
@@ -617,6 +628,19 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1795079073000
+    },
+    {
+      "id": "jobicy-163215",
+      "title": "Enterprise Solution Engineer - Mid-Atlantic",
+      "company": "Sigma Computing",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/163215-enterprise-solution-engineer-mid-atlantic",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1795077664000
     },
     {
       "id": "remoteok-1137805",
