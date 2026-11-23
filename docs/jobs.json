@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-11-22T22:39:32.145Z",
+  "generatedAt": "2026-11-23T03:26:49.930Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 43,
+    "remoteok": 42,
     "remotive": 7,
     "jobicy": 47,
-    "arbeitnow": 12
+    "arbeitnow": 11
   },
-  "count": 109,
+  "count": 107,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-java-entwicklerin-java-developer-backend-munster-85293",
+      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-entwicklerin-java-developer-backend-munster-85293",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795393879000
+    },
     {
       "id": "jobicy-163890",
       "title": "Senior Software Engineer (Platform Engineer), Cloud Governance",
@@ -262,30 +274,6 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1795361463000
-    },
-    {
-      "id": "arbeitnow-senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
-      "title": "Senior Full Stack Engineer (F# / ASP.NET Core / ReactJS) – Remote (Europe) (f/m/d)",
-      "company": "Boardwise GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795361460000
-    },
-    {
-      "id": "arbeitnow-area-sales-manager-gebietsverkaufsleiter-berlin-383273",
-      "title": "Area Sales Manager / Gebietsverkaufsleiter (m/w/d)",
-      "company": "NARR Isoliersysteme GmbH",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/narr-isoliersysteme-gmbh/area-sales-manager-gebietsverkaufsleiter-berlin-383273",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795361457000
     },
     {
       "id": "arbeitnow-remote-client-director-mice-france-445910",
@@ -739,6 +727,71 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1795321625000
+    },
+    {
+      "id": "remoteok-1137977",
+      "title": "Product Manager, Developer Ecosystem",
+      "company": "Reddit",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1795312805000
+    },
+    {
+      "id": "remoteok-1137975",
+      "title": "Senior SRE, Site Experience",
+      "company": "Reddit",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1795311606000
+    },
+    {
+      "id": "remoteok-1137974",
+      "title": "Senior Staff SRE, Site Experience",
+      "company": "Reddit",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-sre-site-experience-reddit-1137974",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1795311605000
+    },
+    {
+      "id": "remoteok-1137970",
+      "title": "Sr. Forward Deployed Data Engineer",
+      "company": "Natera",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1795309207000
+    },
+    {
+      "id": "remoteok-1137964",
+      "title": "Regional Sales Director, Canada",
+      "company": "GitLab",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-director-canada-gitlab-1137964",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1795305608000
     },
     {
       "id": "arbeitnow-remote-principal-enterprise-architect-ai-cloud-integrations-162065",
@@ -1244,84 +1297,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1795139113000
-    },
-    {
-      "id": "remoteok-1137871",
-      "title": "Senior Software Engineer",
-      "company": "Clover Health",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1795138214000
-    },
-    {
-      "id": "remoteok-1137867",
-      "title": "Customer Success Engineer",
-      "company": "GitLab",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-gitlab-1137867",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1795134612000
-    },
-    {
-      "id": "remoteok-1137865",
-      "title": "Senior Product Engineer",
-      "company": "Arbor Education",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 70000,
-      "salaryMax": 80000,
-      "salaryCurrency": "USD",
-      "postedAt": 1795132847000
-    },
-    {
-      "id": "remoteok-1137864",
-      "title": "IT Manager",
-      "company": "1mind",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-it-manager-1mind-1137864",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 140000,
-      "salaryMax": 170000,
-      "salaryCurrency": "USD",
-      "postedAt": 1795132841000
-    },
-    {
-      "id": "remoteok-1137860",
-      "title": "Senior Atlassian Cloud Admininstrator",
-      "company": "Dropbox",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1795122914000
-    },
-    {
-      "id": "remoteok-1137858",
-      "title": "Principal DevSecOps Engineer",
-      "company": "Upgrade",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-upgrade-1137858",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1795121140000
     },
     {
       "id": "remotive-2069746",
