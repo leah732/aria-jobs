@@ -1,14 +1,114 @@
 {
-  "generatedAt": "2026-11-24T21:26:16.391Z",
+  "generatedAt": "2026-11-25T04:27:22.099Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
-    "remoteok": 48,
+    "remoteok": 49,
     "remotive": 7,
     "jobicy": 38,
-    "arbeitnow": 8
+    "arbeitnow": 11
   },
-  "count": 101,
+  "count": 105,
   "jobs": [
+    {
+      "id": "arbeitnow-ai-data-engineer-united-kingdom-492838",
+      "title": "AI & Data Engineer",
+      "company": "Reactive Markets",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/ai-data-engineer-united-kingdom-492838",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795567211000
+    },
+    {
+      "id": "arbeitnow-remote-frontend-software-engineer-120939",
+      "title": "Frontend Software Engineer",
+      "company": "Newsweek",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795557317000
+    },
+    {
+      "id": "arbeitnow-remote-backend-software-engineer-206351",
+      "title": "Backend Software Engineer",
+      "company": "Newsweek",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-backend-software-engineer-206351",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795557317000
+    },
+    {
+      "id": "arbeitnow-mitarbeiterin-fur-digitales-qualitatsmanagement-berlin-39452",
+      "title": "Mitarbeiter*in (m/w/d) für digitales Qualitätsmanagement",
+      "company": "Jupiter IT Service UG",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/jupiter-it-service-ug/mitarbeiterin-fur-digitales-qualitatsmanagement-berlin-39452",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795554054000
+    },
+    {
+      "id": "jobicy-164189",
+      "title": "Senior Architect, Platform Security",
+      "company": "AppOmni",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/164189-senior-architect-platform-security",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1795546391000
+    },
+    {
+      "id": "jobicy-164187",
+      "title": "Director, Sales (Nordics & Eastern Europe)",
+      "company": "Ping Identity",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/164187-director-sales-nordics-eastern-europe-2",
+      "setup": "wfh",
+      "location": "Netherlands,  Norway",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1795546388000
+    },
+    {
+      "id": "jobicy-164183",
+      "title": "Billing Engineer",
+      "company": "Tailscale",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/164183-billing-engineer-2",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1795546382000
+    },
+    {
+      "id": "jobicy-164182",
+      "title": "Cloud Security Lead",
+      "company": "AppOmni",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/164182-cloud-security-lead",
+      "setup": "wfh",
+      "location": "USA",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "USD",
+      "postedAt": 1795546380000
+    },
     {
       "id": "arbeitnow-no-code-developer-bubbleio-100-remote-berlin-260267",
       "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
@@ -307,18 +407,6 @@
       "postedAt": 1795525093000
     },
     {
-      "id": "arbeitnow-remote-software-engineer-core-180673",
-      "title": "Software Engineer: Core",
-      "company": "Constructor",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-software-engineer-core-180673",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795524017000
-    },
-    {
       "id": "jobicy-164092",
       "title": "Tech Lead - Video Templates",
       "company": "Envato",
@@ -488,58 +576,6 @@
       "postedAt": 1795519527000
     },
     {
-      "id": "jobicy-164061",
-      "title": "Director of Innovation, New Ventures",
-      "company": "Bobbie",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/164061-director-of-innovation-new-ventures",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1795512933000
-    },
-    {
-      "id": "jobicy-164059",
-      "title": "Developer Outreach Lead - Bay Area",
-      "company": "Chainguard",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/164059-developer-outreach-lead-bay-area",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1795512911000
-    },
-    {
-      "id": "jobicy-164055",
-      "title": "Engineering Manager, Experimentation",
-      "company": "LaunchDarkly",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/164055-engineering-manager-experimentation-2",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1795512902000
-    },
-    {
-      "id": "jobicy-164054",
-      "title": "Commercial Sales Engineer- West",
-      "company": "Chainguard",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/164054-commercial-sales-engineer-west",
-      "setup": "wfh",
-      "location": "USA",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "postedAt": 1795512900000
-    },
-    {
       "id": "arbeitnow-remote-freelancer-group-fitness-instructor-cornavin-462282",
       "title": "Freelancer - Group Fitness Instructor (m/w/d)",
       "company": "PureGym AG",
@@ -598,6 +634,45 @@
       "salaryMin": null,
       "salaryMax": null,
       "postedAt": 1795480277000
+    },
+    {
+      "id": "remoteok-1138079",
+      "title": "Senior Manager, Enterprise Application Development Engineering",
+      "company": "GitLab",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-enterprise-application-development-engineering-gitlab-1138079",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1795479607000
+    },
+    {
+      "id": "remoteok-1138078",
+      "title": "Real Estate Executive Assistant 21370",
+      "company": "Wing Assistant",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1795478420000
+    },
+    {
+      "id": "remoteok-1138075",
+      "title": "Senior CX Platform Engineer",
+      "company": "GitLab",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1795478407000
     },
     {
       "id": "remoteok-1138074",
@@ -1196,32 +1271,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1795138214000
-    },
-    {
-      "id": "remoteok-1137867",
-      "title": "Customer Success Engineer",
-      "company": "GitLab",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-gitlab-1137867",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1795134612000
-    },
-    {
-      "id": "remoteok-1137865",
-      "title": "Senior Product Engineer",
-      "company": "Arbor Education",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 70000,
-      "salaryMax": 80000,
-      "salaryCurrency": "USD",
-      "postedAt": 1795132847000
     },
     {
       "id": "remotive-2069746",
