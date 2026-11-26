@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:26:46.496Z",
+  "generatedAt": "2026-11-26T05:17:43.251Z",
   "scope": "IT/tech roles only, filtered by title+tags keyword match",
   "sources": {
     "remoteok": 47,
@@ -9,6 +9,30 @@
   },
   "count": 107,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-software-sales-consultant-deutschlandweit-416323",
+      "title": "Software Sales Consultant (m/w/d)",
+      "company": "ANGEHEUERT GmbH",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-software-sales-consultant-deutschlandweit-416323",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795665108000
+    },
+    {
+      "id": "arbeitnow-geschaftsfuhrung-e-sport-gaming-berlin-8190",
+      "title": "Geschäftsführung (m/w/d) | E-Sport & Gaming",
+      "company": "InkuPlay UG (haftungsbeschränkt)",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/inkuplay-ug-haftungsbeschrankt/geschaftsfuhrung-e-sport-gaming-berlin-8190",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": null,
+      "salaryMax": null,
+      "postedAt": 1795660238000
+    },
     {
       "id": "arbeitnow-remote-senior-frontend-developer-switzerland-292678",
       "title": "Senior Frontend Developer",
@@ -59,30 +83,6 @@
       "salaryMax": null,
       "salaryCurrency": "USD",
       "postedAt": 1795622132000
-    },
-    {
-      "id": "arbeitnow-remote-sr-data-platform-engineer-377566",
-      "title": "Sr Data Platform Engineer",
-      "company": "dataiku",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-sr-data-platform-engineer-377566",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795622124000
-    },
-    {
-      "id": "arbeitnow-remote-fullstack-software-engineer-core-engineering-188174",
-      "title": "Fullstack Software Engineer - Core Engineering",
-      "company": "dataiku",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": null,
-      "salaryMax": null,
-      "postedAt": 1795622124000
     },
     {
       "id": "jobicy-164303",
@@ -677,6 +677,19 @@
       "postedAt": 1795577439000
     },
     {
+      "id": "remoteok-1138104",
+      "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+      "company": "GitLab",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104",
+      "setup": "wfh",
+      "location": "Remote — check the listing for PH eligibility",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryCurrency": "USD",
+      "postedAt": 1795566028000
+    },
+    {
       "id": "remoteok-1138096",
       "title": "Security Engineer, Offensive Security",
       "company": "Dropbox",
@@ -1001,19 +1014,6 @@
       "salaryMax": 0,
       "salaryCurrency": "USD",
       "postedAt": 1795254004000
-    },
-    {
-      "id": "remoteok-1137949",
-      "title": "VP, Customer Experience Operations",
-      "company": "Ping Identity",
-      "source": "RemoteOK",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-customer-experience-operations-ping-identity-1137949",
-      "setup": "wfh",
-      "location": "Remote — check the listing for PH eligibility",
-      "salaryMin": 0,
-      "salaryMax": 0,
-      "salaryCurrency": "USD",
-      "postedAt": 1795238406000
     },
     {
       "id": "remoteok-1137948",
